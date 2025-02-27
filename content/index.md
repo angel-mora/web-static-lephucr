@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: LEPHUCR
 ---
+# This is how you can access easily to [wikilinks](my-first-wikilink) 
 
-testing checkout branch
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[@templeton2024scaling]

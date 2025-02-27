@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "LEPHUCR",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -56,6 +56,11 @@ const config: QuartzConfig = {
   },
   plugins: {
     transformers: [
+      Plugin.Citations({
+        bibliographyFile: "./content/bibliographies/bibliography.bib",
+        suppressBibliography: false,
+        csl: "apa",
+      }),
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"],
