@@ -30,7 +30,7 @@ por la dominación mercantil .
 
 # Lee esto para hacer un cambio real
 
-## *Wiki* = Rápido {#cha:wiki}
+# *Wiki* = Rápido
 
 Esta reflexión escrita nació de notas, discusiones y lecturas entre
 fundadoras e integrantes de la organización. Aquí sistematizamos
@@ -56,8 +56,12 @@ código, cultura y espacios abiertos. El mayor acierto desde nuestro
 punto de vista fue considerar la tecnología como un componente central
 de la construcción contemporánea de lo político.
 
-![Logo del Wikipartido en Jalisco](wikipartido.png){#fig:wikilogo
-width="\\textwidth"}
+<!-- TODO: CHOOSE HOW TO RENDER IMAGES -->
+<!-- ![Logo del Wikipartido en Jalisco](./images/wikipartido.png) -->
+
+<img src="./images/wikipartido.png" 
+        alt="Logo del Wikipartido en Jalisco" 
+        style="display: block; margin: 0 auto" />
 
 Fuimos influenciadas por las metodologías de diseño y negocios, como el
 *Design thinking*, *Scrum* o *Agile*, y modelos de gobernanza
@@ -114,8 +118,9 @@ muy pronto de la organización, aunque el Wikipartido, antecedente de la
 Wikipolítica, era un proyecto político un poco distinto a la grilla
 burda, era un proyecto de naturaleza radicalmente pirata.
 
-![¡Vamos a reemplazarles!](reemplazarles.jpg){#fig:reemplazo
-width="\\textwidth"}
+<img src="./images/reemplazarles.jpg" 
+        alt="¡Vamos a reemplazarles!" 
+        style="display: block; margin: 0 auto" />
 
 Para muchas de nosotras era inconcebible que un protopartido pirata se
 convirtiera en otro partido electorero, aunque las personas que lo
@@ -212,9 +217,9 @@ concretas en el territorio y fuera de él, partiendo del reconocimiento
 de las circunstancias de cualquier persona que actúa, de cómo en ella se
 entrecruzan múltiples fuerzas de captura a distintas velocidades.
 
-## ¡Estos son los problemas reales! {#sec:probreals}
+## ¡Estos son los problemas reales!
 
-### El estado actual de las cosas {#sec:stateart}
+### El estado actual de las cosas
 
 Aunque no lo creas, no vivimos por, sino a pesar del capitalismo. Se
 calcula que el ritmo de producción de la economía mundial necesita de
@@ -253,7 +258,10 @@ para encontrar una alternativa al presente. Por el otro, somos presas de
 la economía de la atención, personas adictas a interacciones virtuales y
 a códigos publicitarios cada vez más seductores.
 
-![Semáforo de licencias de Creative Commons.](creative-commons.png){#fig:CCsignal width="80%"}
+<!-- ![Semáforo de licencias de Creative Commons.](creative-commons.png){#fig:CCsignal width="80%"} -->
+<img src="./images/creative-commons.png" 
+        alt="Semáforo de licencias de Creative Commons." 
+        style="display: block; margin: 0 auto" />
 
 Aunado a ello, las formas de violencia a las que son sometidas las
 personas son múltiples y complejas. Una apuesta política transformadora
@@ -274,7 +282,7 @@ un sinfín de tecnologías, es técnicamente posible hacerlo. Se trata de
 permitir que todas las personas seamos co-creadoras de la realidad, que
 seamos potentes.
 
-### Wikipolítica, ¿partido? {#sec:wikipartido}
+### Wikipolítica, ¿partido?
 
 En 2018, Wikipolítica apostó todo por ocupar el Poder Legislativo en
 diversos estados de la República mexicana. Si bien no negamos que este
@@ -312,7 +320,7 @@ oponga a los reptiles que pagan a las corporaciones armadas para velar
 por sus intereses.
 
 <figure id="fig:reptilianos">
-<img src="reptilianos.png" />
+<img src="/images/reptilianos.png" />
 <figcaption>Reptilianos conspirando. Mira “Lo malo del capitalismo” en
 ContraPoints de YouTube.</figcaption>
 </figure>
@@ -365,9 +373,11 @@ fáciles o que, si existen, sean conocidas por la gente que quieres que
 lo conozca, es decir, en crear una práctica de *mainstreaming politics*
 (políticas sobre canales masivos).[^2]
 
-### ¿Qué tan efectivo es el activismo? {#sec:activismo}
+### ¿Qué tan efectivo es el activismo?
 
-![Asambleítis.](132.jpg){#fig:132 width=".9\\linewidth"}
+<img src="./images/132.jpg" 
+        alt="Asambleítis." 
+        style="display: block; margin: 0 auto" />
 
 Los análisis de muchos activistas intelectuales de izquierda presuponen
 conspiraciones globales elaboradas, como si la estupidez global
@@ -438,9 +448,11 @@ ecológico y la violencia interseccional (cuyo punto de culminación es la
 muerte) sobre las formas de vida, además del perfeccionamiento incesante
 y los procesos interactivos del parásito capitalista.
 
-![](xf.jpg){#fig:xf width="90%"}
+<img src="./images/xf.jpg" 
+        alt="xf." 
+        style="display: block; margin: 0 auto" />
 
-### El cinismo es otra estrategia {#sec:cinismo}
+### El cinismo es otra estrategia
 
 Hemos visto con tristeza que muchos movimientos políticos cargan con la
 melancolía de los vencidos, un estado de ánimo muy común a las
@@ -480,7 +492,9 @@ plantee un horizonte hacia la libertad a través de diferentes visiones
 religiosas, traduciendo ideas a través de significantes equivalentes.
 
 <figure id="fig:century">
-<img src="century.jpg" />
+<img src="images/century.jpg" 
+        alt="century." 
+        style="display: block; margin: 0 auto" />
 <figcaption>El documental <em>The Century of the Self</em> de Adam
 Curtis trata sobre cómo nació esa religión del yo.</figcaption>
 </figure>
@@ -497,7 +511,7 @@ y no de los vínculos afectivos entre personas. Accionar hoy requiere ser
 consciente de la lógica de la dominación contemporánea y no solo de las
 instancias tradicionales de incidencia.
 
-#### *La verdad* es un instrumento {#sub:verdadinstrumental}
+#### *La verdad* es un instrumento
 
 > Hoy parece más fácil imaginar el fin del mundo que el fin del
 > capitalismo.\
@@ -609,7 +623,7 @@ disputas. Pero, sobre todo, reconocer que el *trabajo* y la forma en que
 *deseamos* son cuestiones clave para encontrar una alternativa a la
 crisis.
 
-### Un trabajo político efectivo {#sec:org0d34f13}
+### Un trabajo político efectivo
 
 En términos concretos, necesitamos aprender a trabajar en calidad de
 iguales, a escucharnos y a delegar. La tarea es compleja y requiere
@@ -682,7 +696,7 @@ como liderazgo, comunicación, gestión del trabajo o programación, para
 poder crear equipos realmente transdiciplinarios ajenos a la necesidad
 de tener la razón, de tener *la verdad*.
 
-### ¿Cómo crear una alternativa? {#sec:alternativa}
+### ¿Cómo crear una alternativa?
 
 El deseo de Estado es realmente el problema que más nos preocupa, por
 eso pensamos que la crisis de nuestro tiempo es una crisis de la imagen.
@@ -730,7 +744,7 @@ significa desarrollar una base social a través de una plataforma que
 permita que la gente se organice, un imaginario común del futuro y un
 repositorio de tecnologías que permitan a la gente *saber hacer*.
 
-## Lee esto antes de *hacer* algo {#cha:antesalgo}
+## Lee esto antes de *hacer* algo
 
 El nuestro es un mundo de redes, navegable a través de teorías de la
 complejidad y del caos. Muchos procesos automáticos alimentan
@@ -743,7 +757,12 @@ información diversa y que demandan u ofertan certificados, *requests*.
 La idea de la cibernética es dispersar para crear un caos gestionable,
 incluso automatizable.
 
-![¿Cyborg o zombi?](zombie.jpg){#fig:cyberzombie width="\\linewidth"}
+<!-- ![¿Cyborg o zombi?](images/zombie.jpg) -->
+<img src="images/zombie.jpg"
+        width="500"
+        height="500"
+        alt="¿Cyborg o zombi?" 
+        style="display: block; margin: 0 auto" />
 
 Al mismo tiempo, tenemos lo necesario para implementar una economía
 *postescasez*,[^6] sólo se trata de intervenir estratégicamente en esas
@@ -759,14 +778,14 @@ donde quepan todos los mundos, sostenido por una infraestructura
 tecnológica común, y el exterminio, que es prácticamente lo mismo, pero
 solo para el 1 % de la población global.[^7]
 
-[]{#tab:Aristas label="tab:Aristas"}
+<div style="display: flex; justify-content: center;">
 
-::: {#tab:Aristas}
-                  **Abundancia**   **Escasez**
-  --------------- ---------------- --------------
-  **Igualdad**    Comunismo        Socialismo
-  **Jerarquía**   Rentismo         Exterminismo
-:::
+|             |**Abundancia**|**Escasez** |
+|-------------|--------------|------------|
+|**Igualdad** |Comunismo     |Socialismo  |
+|**Jerarquía**|Rentismo      |Exterminismo|
+
+</div>
 
 Según Natalie Wynn[^8], la derecha de internet pinta una caricatura de
 la izquierda, con el marxismo posmoderno como la supuesta ideología.
@@ -787,7 +806,7 @@ paradas.
 
 Como reza el lema del xenofeminismo:
 
-> [**Si la naturaleza es injusta, ¡cambiémosla!**]{.sans-serif}
+> Si la naturaleza es injusta, ¡cambiémosla!
 
 Podemos hablar desde el arte, generando consensos en torno a acciones
 comunes en distintos grupos. A veces parece más fácil actuar desde los
@@ -811,7 +830,7 @@ realmente poderoso pues el Estado dispone de manera muy particular de
 las armas que reproducen el modo de producción capitalista, las orienta
 siempre a la eficiencia y optimización que produce valor intercambiable.
 
-### ¿El enemigo es el capitalismo, el Estado o los mercados? {#sec:enemigos}
+### ¿El enemigo es el capitalismo, el Estado o los mercados?
 
 Ahora vamos a profundizar en algunas distinciones que sirvan para hacer
 cosas que generen cambios reales. Sabemos que en este análisis hemos
@@ -882,8 +901,9 @@ necesidad de sistemas de recaudación en red que partan de una
 reconfiguración de las subjetividades y, por tanto, de la comprensión de
 lo público, lo privado y lo común.
 
-![Taxonomía de bienes o recursos.](taxonomy-of-goods.png){#fig:taxres
-width=".9\\linewidth"}
+<img src="images/taxonomy-of-goods.png"
+        alt="Taxonomía de bienes o recursos." 
+        style="display: block; margin: 0 auto" />
 
 Volvamos a los factores de producción (tierra, capital y trabajo). El
 capitalismo necesita disponer de cada uno de ellos de forma que permitan
@@ -931,7 +951,7 @@ ciclos económicos donde el parásito es más fuerte pero también donde
 toca fonda antes de volver a mutar.
 
 <figure id="fig:algoritmo">
-<img src="algorithm-capitalism.png" />
+<img src="/images/algorithm-capitalism.png" />
 <figcaption>El algoritmo virulento del capitalismo y sus conspiradores
 humanos.</figcaption>
 </figure>
@@ -972,67 +992,25 @@ vida que resisten a la subordinación del Espíritu que la sociedad
 moderna produce.[^14] He ahí la complejidad de la práctica del cambio
 real.
 
-### Más allá del Estado moderno: el Imperio {#sec:imperio}
+## Más allá del Estado moderno: el Imperio
 
-Desde un punto de vista estratégico, la transformación del Estado
-moderno, tras la consolidación del proyecto imperialista, es el Imperio.
-Esta forma se caracteriza por una pulverización del poder y un cambio en
-los modos de producción, donde se privilegian los procesos industriales
-pulverizados, sin fábricas ni obreros reunidos en un mismo espacio. El
-Imperio se caracteriza por el auge de entidades más allá de los Estados
-nación, como las empresas trasnacionales, que compran representantes
-políticos para legislar en favor de sus intereses. Aunado a lo anterior,
-la policía y la publicidad, mecanismos del Estado moderno, se
-transforman en el Biopoder y el Espectáculo.
+Desde un punto de vista estratégico, la transformación del Estado moderno tras la consolidación del proyecto imperialista, es el Imperio. Esta forma se caracteriza por una pulverización del poder y un cambio en los modos de producción, donde se privilegian los procesos industriales pulverizados, sin fábricas ni obreros reunidos en un mismo espacio. El Imperio se caracteriza por el auge de entidades más allá de los Estados nación, como las empresas trasnacionales, que compran representantes políticos para legislar en favor de sus intereses. Aunado a lo anterior, la policía y la publicidad, mecanismos del Estado moderno, se transforman en el Biopoder y el Espectáculo.
 
-El Biopoder consiste en el traslado del orden de La Ley a la regulación
-a través de normas sin sujeto, interiorizadas. Mientras, el Espectáculo
-consiste en la apropiación capitalista de la imagen para mercantilizar
-el deseo. Estos procesos maquínicos, que definen al Imperio como fase
-posterior al desarrollo e implosión de los Estados-nación, tiene
-distintos modos de regulación, que constituyen y dan forma a su aparato
-de captura:
+El Biopoder consiste en el traslado del orden de La Ley a la regulación a través de normas sin sujeto, interiorizadas. Mientras, el Espectáculo consiste en la apropiación capitalista de la imagen para mercantilizar el deseo. Estos procesos maquínicos, que definen al Imperio como fase posterior al desarrollo e implosión de los Estados-nación, tiene distintos modos de regulación, que constituyen y dan forma a su aparato de captura:
 
-Aparato socio-ideológico:
+-   Aparato socio-ideológico: familia, tradición, religión, nacionalidad, etc. Codifica el deseo y la colonización psicológica del sujeto, establece hegemonía además de producir y mantener el estado actual de las cosas.
 
-:   familia, tradición, religión, nacionalidad, etc. Codifica el deseo y
-    la colonización psicológica del sujeto, establece hegemonía, además
-    de producir y mantener el estado actual de las cosas.
+-   Aparato productivo-comercial: finanzas, bancos, empresas corporativas, propietarios, etc. Comercialización de la producción, mercantilización del deseo para ligarlo al proceso de producción, monopolización del mercado, el valor de los desvíos que regresa a los ricos a través de la parasitación de la mano de obra.
 
-Aparato productivo-comercial:
+-   Aparato marcial-carcelario: los militares, la policía, la inteligencia, el sistema de prisiones. Mantiene el estado actual de las cosas con la fuerza, la disciplina y el control de los sujetos; protege los intereses de los propietarios capitalistas y del Estado (sus fronteras), extrae recursos de otras regiones a través de la fuerza, redirige la riqueza para expandir el brazo militar del Estado e incentiva su investigación y desarrollo.
 
-:   finanzas, bancos, empresas corporativas, propietarios, etc.
-    Comercialización de la producción, mercantilización del deseo para
-    ligarlo al proceso de producción, monopolización del mercado, el
-    valor de los desvíos que vuelve a los ricos a través de la
-    parasitación de la mano de obra.
+-   Aparato subversivo-periférico: subjetividades colonizadas, grupos minoritarios, organizaciones criminales, la banda en sombra (*shadow banking*), los mercados negros, etc. Muerte social y *necropolítica*. Establece la identidad de los ciudadanos mediante la otredad como diferenciación de subjetividades marginales, da un camino al lucro más allá del aparato comercial productivo.
 
-Aparato marcial-carcelario:
+-   Aparato legal de la soberanía: el Estado, el sistema de justicia, los gobiernos, etc. Colonización el espacio geofísico, establecimiento del territorio y determinación de estratos y jerarquías sociales.
 
-:   los militares, la policía, la inteligencia, el sistema de prisiones.
-    Mantiene el estado actual de las cosas a la fuerza, la disciplina y
-    el control de los sujetos, protege los intereses de los propietarios
-    capitalistas y del Estado, sus fronteras, extrae recursos de otras
-    regiones a través de la fuerza, redirige la riqueza para expandir el
-    brazo militar del Estado e incentiva su investigación y desarrollo.
-
-Aparato subversivo-periférico:
-
-:   subjetividades colonizadas, grupos minoritarios, organizaciones
-    criminales, la banda en sombra (*shadow banking*), los mercados
-    negros, etc. Muerte social y necropolítica. Establece la identidad
-    de los ciudadanos mediante la otredad como diferenciación de
-    subjetividades marginales, da un camino al lucro más allá del
-    aparato comercial productivo.
-
-Aparato legal de la soberanía:
-
-:   el Estado, el sistema de justicia, los gobiernos, etc. Colonización,
-    el espacio geofísico, establecimiento del territorio y determinación
-    de estratos y jerarquías sociales.
-
-![Taxonomía de bienes o recursos.](hierarchy-piramid.png){#fig:piramide
-width=".9\\linewidth"}
+<img src="images/hierarchy-piramid.png"
+        alt="Taxonomía de bienes o recursos." 
+        style="display: block; margin: 0 auto" />
 
 Si le damos una pensada más profunda y concreta, descubriremos que
 detrás de cada uno de estos dispositivos existen entidades económicas
@@ -1065,11 +1043,9 @@ síntoma de este nuevo rostro de la economía. La excitación, la erección,
 la eyaculación, el placer y el sentimiento de autocomplacencia y control
 omnipotente se vuelven materias primas del proceso productivo.
 
-<figure id="fig:noFap">
-<img src="nofap.png" />
-<figcaption>Movimiento noFap para hombres adictos a la pornografía y a
-la masturbación.</figcaption>
-</figure>
+<img src="/images/nofap.png"
+        alt="noFap."
+        style="display: block; margin: 0 auto" />
 
 Por esta razón, P. Preciado señala que la pornografía es el rostro
 desenmascarado de la industria de la cultura y propone el concepto de
@@ -1083,10 +1059,9 @@ orgasmos,[^17] lo que contrasta con la industria farmacéutica, donde el
 desarrollo de un medicamento cuesta muchísimo, pero es fácilmente
 reproducible una vez que se obtiene y patenta una fórmula.
 
-![Anuncio de la píldora
-anticonceptiva.](pillAd1.png){#fig:anticonceptiva width="\\linewidth"}
-
-![Anuncio del viagra.](pillAd2.jpg){#fig:viagra width="\\linewidth"}
+<img src="images/pillAd2.jpg"
+        alt="Anuncio del viagra." 
+        style="display: block; margin: 0 auto" />
 
 Así, las grandes entidades económicas capitalizan problemas clásicos de
 la economía como las asimetrías de información, el problema de agencia o
@@ -1106,10 +1081,11 @@ sociales. Disney como el dispositivo que reproduce el imaginario de la
 jerarquía social a través de sus mitos de princesas, reyes y monstruos;
 MacDonalds y Coca Cola para reproducir la *Resaltar en cursivas.*.[^18]
 
-![¡América ama las hamburguesas!.](burguers.jpg){#fig:burger
-width="\\linewidth"}
+<img src="images/burguers.jpg"
+        alt="¡América ama las hamburguesas!." 
+        style="display: block; margin: 0 auto" />
 
-### La vida como trabajo y la producción de subjetividad {#sec:subjetividad}
+### La vida como trabajo y la producción de subjetividad
 
 Un punto importante para comprender la transformación del Estado-nación
 al Imperio se encuentra en el papel del trabajo. Por ello, en este
@@ -1140,10 +1116,9 @@ Para profundizar sobre estos puntos conviene revisar los documentales de
 Adam Curtis, particularmente recomendamos *The Century of the Self* y
 *Hypernormalisation*.
 
-<figure id="fig:hypernormalisation">
-<img src="complicated.jpg" />
-<figcaption>Toma de <em>Hypernormalisation</em>.</figcaption>
-</figure>
+<img src="images/complicated.jpg"
+        alt="¡América ama las hamburguesas!." 
+        style="display: block; margin: 0 auto" />
 
 Nosotras hemos intentado perfilar a la subjetividad ideal del Estado
 moderno como algo parecido al *ciudadano-soldado-consumidor-espectador.*
@@ -1167,7 +1142,7 @@ durante el resto de nuestras vidas. El ciudadano *debe* pagar sus
 impuestos, el soldado *debe* honrar a la Patria, el consumidor *debe*
 comprar y el espectador *debe* mirar.
 
-### Hoy en día, el capitalismo se comporta como un virus {#sec:viruscapitalista}
+### Hoy en día, el capitalismo se comporta como un virus
 
 El algoritmo del virus capitalista y el condicionamiento de desarrollo
 de las tecnologías mediáticas para el excedente configuran lo que se
@@ -1226,7 +1201,7 @@ preguntas referentes a la cuestión de los medios como:
 ### Alternativas económicas para el futuro {#sec:altfutur}
 
 <figure id="fig:hypernormalisation2">
-<img src="roads.jpg" />
+<img src="/images/roads.jpg" />
 <figcaption>Toma de <em>Hypernormalisation</em>.</figcaption>
 </figure>
 
@@ -1289,8 +1264,7 @@ que se ocupa por comprender, visibilizar y transformar las relaciones de
 poder y sus condiciones de posibilidad\[^20^\] en este momento histórico
 bien puede ser nombrada *tecnocrítica*.
 
-![Economía solidaria.](solidarity-economy.jpg){#fig:solidarieco
-width=".9\\linewidth"}
+![Economía solidaria.](images/solidarity-economy.jpg)
 
 Una economía tecnocrítica debería basarse en cadenas de producción que
 sean cíclicas y ecológicas, además de proponer trabajos orientados a la
@@ -1402,7 +1376,7 @@ la explotación en sus distintas formas, por ejemplo, cómo se intersectan
 las violencias de género, racistas y de clase.
 
 <figure id="fig:dimensiones">
-<img src="self-dimensions.png" />
+<img src="images/self-dimensions.png" />
 <figcaption>Dimensiones de la personalidad y factores de
 influencia.</figcaption>
 </figure>
@@ -1524,7 +1498,7 @@ posible vincular la experiencia de usuario o UX (*user experience*) para
 hacer interfaces más accesibles e incluso más comunitarias.
 
 <figure id="fig:potlatch">
-<img src="potlatch.jpg" />
+<img src="images/potlatch.jpg" />
 <figcaption>El <em>potlatch</em>, concepto clave en la economía del don
 de Marcell Mauss, es un ritual de los pueblos aborígenes de la costa del
 Pacífico en el noroeste de Norteamérica, tanto en los Estados Unidos
@@ -1684,8 +1658,7 @@ esfuerzos en hacer que la agenda sea un conjunto de compromisos a largo
 plazo ---junto con nuestras líneas de acción--- mientras conformamos un
 proyecto político bien organizado y con plataformas tecnológicas chidas.
 
-![Interacción entre prácticas electorales, teóricas, mediáticas y de
-calle.](spheres-practices.png){#fig:interacciones width=".9\\linewidth"}
+![Interacción entre prácticas electorales, teóricas, mediáticas y decalle.](images/spheres-practices.png)
 
 Una vez que logremos consolidar una infraestructura común y dinámicas
 para comunicarnos, es necesario que abramos canales de comunicación.
