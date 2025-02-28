@@ -57,7 +57,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.Citations({
-        bibliographyFile: "./content/bibliographies/bibliography.bib",
+        bibliographyFile: "./content/Main.bib",
         suppressBibliography: false,
         csl: "apa",
       }),
