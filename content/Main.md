@@ -4,7 +4,7 @@ author:
 bibliography: Main.bib
 title: LEE ESTO PARA HACER UN CAMBIO REAL
 ---
-
+# This file contains all the attached chapters previously translated by pandoc, where the references work correctly
 No vivimos por, sino a pesar del capitalismo , toda relación social está
 mediada por las mercancías . Y el capitalismo ganó hace mucho .
 
