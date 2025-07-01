@@ -3,8 +3,6 @@ title: Notas al pie
 order: 8
 ---
 
-# Notas al pie
-
 [^1]:
     El manifiesto de estos dos proyectos se puede consultar en\
     custodians.online /spanish.html.
