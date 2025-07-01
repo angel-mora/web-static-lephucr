@@ -13,7 +13,7 @@ _More chapters coming soon_
 - [¡Estos son los problemas reales!](02-cap1#estos-son-los-problemas-reales)
 - [Lee esto antes de hacer algo](03-cap2#lee-esto-antes-de-hacer-algo)
 - [Principios para la acción efectiva](04-cap3#principios-para-la-acción-efectiva)
-- [LA ORGANIZACIÓN QUE CONSTRUIMOS](05-cap4#la-organización-que-construimos)
+- [La organización que construimos](05-cap4#la-organización-que-construimos)
 - [Accionemos](06-cap5#accionemos)
 
 ## Sobre la Acción Crítica
