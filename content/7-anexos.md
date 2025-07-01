@@ -1,9 +1,7 @@
 ---
-title: ANEXOS
+title: Anexos
 order: 7
 ---
-
-# ANEXOS
 
 ## Territorios de prácticas participativas [^27]
 
@@ -92,3 +90,4 @@ En 2009, Elinor Ostrom recibió el Premio Nobel de Economía por su análisis de
 - https://framasoft.org
 - http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html
 - http://unenumerated.blogspot.com/2006/11/wet-code-and-dry.html
+[^27]: Traducido con deepl.com/translator desde github.com/ParticipatoryOrgs/Participatory-Organizations-Overview-and-Taxonomy

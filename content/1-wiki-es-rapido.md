@@ -1,13 +1,11 @@
 ---
-title: WIKI=RÁPIDO
+title: Wiki significa rápido
 order: 1
 ---
 
-# _WIKI_=RÁPIDO
-
 Esta reflexión escrita nació de notas, discusiones y lecturas entre fundadoras e integrantes de la organización. Aquí sistematizamos alrededor de cinco años de investigación de nuestro compromiso por transformar la forma de hacer política. En el texto se integran visiones desde y sobre [[Wikipolítica]] pero también sobre otros movimientos autónomos de vanguardia política, en diferentes latitudes y temporalidades.
 
-Antes de comenzar, es preciso explicar qué es lo [[wiki]] y qué significa la [[Wikipolítica]]. [[Wiki]] viene del hawaiano *wiki wiki* que significa rápido. Es un concepto popular entre la comunidad del [[software libre]] para referirse a una visión colaborativa de la tecnología. Se popularizó gracias a [[Wikipedia]], la enciclopedia libre. Fue usada por el programador [[Ward Cunningham]] a mediados del siglo pasado. Esta filosofía también está inspirada en actores como [[Aaron Schwartz]], [[Richard Stallmann]] y de ella derivan proyectos de corte político pirata, como [[Library Genesis]] y [[Science Hub]].[^1] [[Wikipolítica]] tuvo como precendente el [[Wikipartido]]. Surgió como algo parecido a un Partido pirata. Herederas del [[#yosoy132]], nos desarrollamos en una cultura de la colaboración, de la inteligencia colectiva y de visiones como el movimiento OPEN, que busca fuentes o código, cultura y espacios abiertos. El mayor acierto desde nuestro punto de vistas fue considerar la tecnología como un componente central de la construcción contemporánea de lo político.
+Antes de comenzar, es preciso explicar qué es lo [[wiki]] y qué significa la [[Wikipolítica]]. [[Wiki]] viene del hawaiano *wiki wiki* que significa rápido. Es un concepto popular entre la comunidad del [[software libre]] para referirse a una visión colaborativa de la tecnología. Se popularizó gracias a [[Wikipedia]], la enciclopedia libre. Fue usada por el programador [[Ward Cunningham]] a mediados del siglo pasado. Esta filosofía también está inspirada en actores como [[Aaron Schwartz]], [[Richard Stallmann]] y de ella derivan proyectos de corte político pirata, como [[Library Genesis]] y [[Science Hub]] [@SolidarityLibraryGenesis] [[Wikipolítica]] tuvo como precendente el [[Wikipartido]]. Surgió como algo parecido a un Partido pirata. Herederas del [[#yosoy132]], nos desarrollamos en una cultura de la colaboración, de la inteligencia colectiva y de visiones como el movimiento OPEN, que busca fuentes o código, cultura y espacios abiertos. El mayor acierto desde nuestro punto de vistas fue considerar la tecnología como un componente central de la construcción contemporánea de lo político.
 
 ![Logo del Wikipartido en Jalisco](../images/wikipartido.png)
 

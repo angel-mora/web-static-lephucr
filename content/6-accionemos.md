@@ -1,9 +1,7 @@
 ---
-title: ¡ACCIONEMOS!
+title: Accionemos
 order: 6
 ---
-
-# ¡ACCIONEMOS!
 
 ¿Qué podemos hacer? Nuestra posición es una práctica pragmática y eficaz desde el [[xenofeminismo]] como filosofía de inspiración de La Partida. Más allá de la coherencia moral, nos interesa agruparnos con formas de vida que nos hagan potentes, es decir, en las formas de vida que procuran el cuidado, el bien común. Por ahora, con nuestra agencia limitada por la poca credibilidad de la juventud, nos toca infiltrarnos e incidir en diferentes medios, en partidos políticos, organizaciones internacionales, medios de comunicación masiva y segmentada, entre otras estructuras.
 
@@ -34,3 +32,5 @@ Finalmente, lo más importante es encontrar la forma de compartir recursos que n
 Económicamente, problemas como el hambre o la vivienda pueden resolverse con técnicas avanzadas de planificación y coordinación que no podían realizarse en el socialismo de hace casi un siglo por la sencilla razón de que no contaban con las herramientas computacionales necesarias para poder pensar con seriedad en una economía planificada que publique precios y soluciones conflictos de asimetrías de información en el mercado.
 
 Hoy tenemos la capacidad de no solo permitir la proliferación organizada en plataformas comunes de productoras descentralizadas que surtan en función de necesidades y no de plusvalía financiarizable, también podemos implementar sistemas de votación para que estas organizaciones no sean, como lo fueron durante la revolución mexicana, la base de un corporativismo de corte charro. Podemos crear plataformas de economía solidaria capaces de gestionarse autónomamente a través de recursos iterativos de código FLOS. En ese sentido, una etiqueta de franquicia cooperativa sería una buena forma de crear documentación y procesos comunes en un proyecto de riesgo compartido con un contrato claro e incluso inteligente y encriptado.
+
+[^26]: Un ejemplo del crecimiento rizomático de una organización es la nevería mexicana La Michoacana.

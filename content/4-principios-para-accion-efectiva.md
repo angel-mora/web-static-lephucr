@@ -1,9 +1,7 @@
 ---
-title: PRINCIPIOS PARA LA ACCIÓN EFECTIVA
+title: Principios para la acción efectiva
 order: 4
 ---
-
-# PRINCIPIOS PARA LA ACCIÓN EFECTIVA
 
 Por ahora, frente a la acelerada decadencia de nuestros vínculos políticos, creemos que es necesario crear un ecosistema de tecnologías cívicas para hacer efectivas las garantías jurídicas a las personas ciudadanas que, por sus condiciones particulares, no pueden tener acceso a la justicia o al gobierno. Este movimiento tiene que luchar por una cultura pirata, es decir, concentrada en hacer libres, abiertos y accesibles todos los recursos de los que dispone. De la misma manera, necesitamos desarrollar principios de política pública, de economía y de gobierno, que se vuelvan el sentido común de tanto de las planificadoras como de las estudiantes de las escuelas de negocios y de administración. En cierto sentido, se trata de desarrollar un nuevo pensamiento económico que haga frente a la visión neoclásica de entidades racionales y maximizadoras de utilidades. En cuanto a nuestra estrategia, nos reconocemos en una tensión entre la transparencia y la opacidad[^21]. Sabemos que el humor juega un papel fundamental en la conformación de un nuevo imaginario político. Hasta ahora, hemos pensado en algunos principios como parte de una visión efectiva de la táctica política progresista:
 
@@ -62,3 +60,9 @@ Nuestro discurso debería ser interseccional e incluir en su agenda un conjunto 
 Se nos ocurre que incluso sería buena idea hacer campamentos de inteligencia colectiva. Estos deberán operar a través de la escucha y plantear preguntas de empatía: ¿cómo se sienten hoy? ¿Cuál fue tu logro más importante de esta semana? ¿Qué problemas hay en la organización? ¿Qué respuestas podemos crear desde nuestra posición para solucionar el problema? ¿Cómo se sintieron con esta dinámica? Nos imaginamos talleres diversos, como educación popular, herramientas de mapeo, el buen trato como estrategia de lucha, participación ciudadana, herramientas filosóficas, lluvia de ideas y dinámicas de inteligencia colectiva para una cartografía de controversias.
 
 Hoy en día es posible desarrollar la [[economía social]] para tratar de enlazar distintos proyectos de resistencia, basados en estructuras de micro mecenazgo. El horizonte educativo podría ser una cruzada contra el analfabetismo digital, con la intención de que todas las personas puedan navegar en la complejidad de la era de la información.
+
+[^21]: Desarrollar*
+
+[^22]: Definir disonancia cognitiva
+
+[^23]: Entendemos, sin embargo, que hay problemas importantes cuando pensamos en proyectos que son intensivos en capital, como grandes obras de infraestructura o complejas investigaciones médicas. También se trata de acelerar los procesos de democratización y de FLOS dentro de la estructura de las corporaciones, que hoy en día, son reinos con el todopoderoso CEO (Chief Executive Officer o director general) gobierna sobre todos sus súbditos a través del salario.
