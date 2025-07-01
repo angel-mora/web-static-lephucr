@@ -48,7 +48,7 @@ gracias a Wikipedia, la enciclopedia libre. Fue usada por el programador
 Ward Cunningham a mediados del siglo pasado. Esta filosofía también está
 inspirada en actores como Aaron Swartz, Richard Stallman y de ella
 derivan proyectos de corte político pirata, como Library Genesis y
-Science Hub.[^1] Wikipolítica tuvo como precedente el Wikipartido.
+Science Hub.[@SolidarityLibraryGenesis] Wikipolítica tuvo como precedente el Wikipartido.
 Surgió como algo parecido a un Partido pirata. Herederas del #YoSoy132,
 nos desarrollamos en una cultura de la colaboración, de la inteligencia
 colectiva y de visiones como el movimiento OPEN, que busca fuentes o
@@ -545,7 +545,7 @@ Pervert’s Guide to Ideology”</figcaption>
 
 La noción de "conocimiento" proviene de una tradición de pensamiento que
 ignora otro tipo de *saberes*, como la sensibilidad artística, la
-salud[^3] o la relación con la tierra, la memoria y la conciencia sobre
+salud [@Balch2013] o la relación con la tierra, la memoria y la conciencia sobre
 el territorio. Una militancia crítica, efectiva y consciente requiere la
 capacidad de comprender cómo se configuran los procesos históricos,
 testimonios y experiencias, de personas que hablan desde el lugar que
@@ -765,7 +765,7 @@ incluso automatizable.
         style="display: block; margin: 0 auto" />
 
 Al mismo tiempo, tenemos lo necesario para implementar una economía
-*postescasez*,[^6] sólo se trata de intervenir estratégicamente en esas
+*postescasez*,[@WikipediaPostEscasez] sólo se trata de intervenir estratégicamente en esas
 redes de información, que también son flujos de sentido, producciones de
 deseo. La utopía robótica es una de las aristas de distintos escenarios
 posibles planteados por el texto de Peter Frese titulado *Four Futures*,
@@ -787,11 +787,11 @@ solo para el 1 % de la población global.[^7]
 
 </div>
 
-Según Natalie Wynn[^8], la derecha de internet pinta una caricatura de
+Según Natalie Wynn[@WynnContraPoints], la derecha de internet pinta una caricatura de
 la izquierda, con el marxismo posmoderno como la supuesta ideología.
 Esto es muestra de que una de las operaciones más efectivas del parásito
 capitalista es poner a pelear a las resistencias en torno a cosas
-pequeñas y concretas,[^9] cuando es más aquello en lo que estamos de
+pequeñas y concretas,[@Freud1921] cuando es más aquello en lo que estamos de
 acuerdo pero tenemos la necesidad de encontrar coherencia teórica en
 modelos ideales y no en especulaciones sobre la realidad. Esta posición
 que renuncia a la necesidad de certidumbre intelectual ---es decir, que
@@ -806,7 +806,7 @@ paradas.
 
 Como reza el lema del xenofeminismo:
 
-> Si la naturaleza es injusta, ¡cambiémosla!
+> Si la naturaleza es injusta, ¡cambiémosla! [@cuboniksXenofeminismoPoliticaPor]
 
 Podemos hablar desde el arte, generando consensos en torno a acciones
 comunes en distintos grupos. A veces parece más fácil actuar desde los
@@ -864,7 +864,7 @@ las revoluciones tecnológicas pasadas.
 
 El mercado es un conjunto de transacciones. Es la infraestructura del
 intercambio mercantil y su acontecer capitalista tiene más que ver más
-con el cobro del impuesto, origen de la financiarización del valor,[^10]
+con el cobro del impuesto, origen de la financiarización del valor,[@QueEsFinanciarizacion]
 que con el comercio. El capitalismo es un parásito cultural que paraliza
 el trabajo y subsume los recursos y hábitats del planeta mientras
 mercantiliza bienes primarios (*raw materials*) en abstracciones
@@ -1032,11 +1032,11 @@ de empresa neoliberal, un paradigma del negocio pos-industrial. La
 pornografía es un régimen estético que produce significados y un modo de
 presentación de las cosas que resulta adictivo, que permite obtener
 satisfacción del placer masturbatorio sobre la representación de
-cualquier fantasía posible materializada en videos.[^15] En los foros de
+cualquier fantasía posible materializada en videos.[@NoFapDonLie] En los foros de
 internet para varones adictos a la pornografía existe un nombre para el
 circuito pornográfico que tiene atados a tantos hombres a una forma
 particular de desear. Se conoce como: *Porn, Masturbation, Orgasm
-(PMO)*.[^16] El malestar de estos hombres cada vez más incapaces de
+(PMO)*.[@StatsArchivesPornhub] El malestar de estos hombres cada vez más incapaces de
 vivir y en simbiosis con las comodidades del capitalismo que extienden
 el poder de sus formas tristes de vivir a otras esferas sociales, son el
 síntoma de este nuevo rostro de la economía. La excitación, la erección,
@@ -2011,13 +2011,11 @@ cooperativa sería una buena forma de crear documentación y procesos
 comunes en un proyecto de riesgo compartido con un contrato claro e
 incluso inteligente y encriptado.
 
-[^1]: El manifiesto de estos dos proyectos se puede consultar en
     [custodians.online/spanish.html](custodians.online/spanish.html){.uri}.
 
 [^2]: Hemos pensado en estas prácticas como transversalización, basado
     en el criterio de la ONU sobre *gender mainstream*.
 
-[^3]: Salud como buen vivir, por encima de la concepción que define la
     salud en sentido negativo, como ausencia de enfermedad, como lo
     mínimo necesario para que las personas estén aptas para producir.
     <https://www.theguardian.com/sustainable-business/blog/buen-vivir-philosophy-south-america-eduardo-gudynas>
@@ -2025,23 +2023,17 @@ incluso inteligente y encriptado.
 [^4]: El proyecto [decidim.org](decidim.org){.uri} es un buen ejemplo de
     plataformas de organización colectiva.
 
-[^5]: El resentimiento de clase es, por ejemplo, la envidia que te
     produce tener que usar transporte público todos los días y estar
     expuesta a asaltos mientras que la persona de al lado, o de la otra
     colonia, viaja con chofer privado en un automóvil particular.
 
-[^6]: [es.wikipedia.org/wiki/Economía_post-escasez](es.wikipedia.org/wiki/Economía_post-escasez){.uri}
 
-[^7]: A ello habría que sumar el problema del deseo, pensar en los
     desarrollos cibernéticos de las economías libidinales o economías
     del deseo.
 
-[^8]: Famosa por ContraPoints, su vlog en YouTube.
 
-[^9]: Freud se refiere a esto como el narcisismo de las pequeñas
     diferencias.
 
-[^10]: Garzon Espinosa, Alberto. "¿Qué es la financiarización?" en
     *Economía Crítica y Crítica de la Economía*. Disponible
     en: [www.economiacritica.net/?p=144](www.economiacritica.net/?p=144){.uri}.
 
@@ -2067,14 +2059,12 @@ incluso inteligente y encriptado.
     se posiciona por la resignificación de estos conceptos en el
     "sentido común".
 
-[^15]: De cierto modo, que el capitalismo se presente actualmente en su
     mayor apogeo a través de la industria farmacopornográfica (régimen
     toxicológico y semiótico-técnico), reproduce una concepción de la
     subjetividad como no castrable, cuyo horizonte parece ser el de
     autómatas dependientes del *soma* de Huxley, personas
     discapacitadas, incapaces de habitar, de subsistir autónomamente.
 
-[^16]: Reddit. *Don't lie to yourself...P-M-O (PORN...masturbation and
     orgasm) IS THE PROBLEM. Masturbation is just the symptom.*
     Disponible en [bit.ly/2HuEoem](bit.ly/2HuEoem){.uri}.
 
