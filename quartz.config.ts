@@ -13,11 +13,9 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: 'google', tagId: 'G-DHQR981DTZ' },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "lephucr.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
