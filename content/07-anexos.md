@@ -1,9 +1,7 @@
 ---
-title: ANEXOS
+title: Anexos
 order: 7
 ---
-
-# ANEXOS
 
 ## Territorios de prácticas participativas [^27]
 
