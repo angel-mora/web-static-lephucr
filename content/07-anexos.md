@@ -1,8 +1,7 @@
 ---
-title: ANEXOS
+title: Anexos
+order: 7
 ---
-
-# ANEXOS
 
 ## Territorios de prácticas participativas [^27]
 
@@ -68,7 +67,7 @@ En 2009, Elinor Ostrom recibió el Premio Nobel de Economía por su análisis de
 
 4B. Monitoreo efectivo
 
-5 . Responsabilizar (*hold accountable*)
+5 . Responsabilizar (_hold accountable_)
 
 6 . Resolver rápidamente los conflictos
 
