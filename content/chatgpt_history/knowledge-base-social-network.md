@@ -3,22 +3,22 @@ title: Knowledge Base Social Network
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What kind of articles Y Combinator staff would like
+  to read about the business I’m starting?"
 draft: false
 ---
 
 # Knowledge Base Social Network
 
-## ✅ TODOs
-
-
-## 📌 Summary
-What kind of articles Y Combinator staff would like to read about the business I’m starting?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What kind of articles Y Combinator staff would like to read about the business I’m starting?
+
+---
+
+🤖 **Assistant:**
 
 Y Combinator (YC) is known for its emphasis on startups that can scale and make a significant impact. When it comes to articles or blog posts about a business you're starting, YC staff, mentors, and alumni would likely appreciate the following types of content:
 
@@ -48,7 +48,15 @@ Y Combinator (YC) is known for its emphasis on startups that can scale and make 
 
 When writing articles with YC staff or any influential audience in mind, focus on clarity, authenticity, and provide valuable insights or lessons. Remember that these audiences read countless pitches and stories, so make yours stand out by being genuine and demonstrating a deep understanding of the problem you're tackling.
 
+---
+
+🙋 **You:**
+
 3 article titles for my blog that they will see, tell me also what answers I should provide in each article
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Without knowing the exact nature of your startup, I'll provide general titles and content outlines that could capture the interest of Y Combinator staff:
 
@@ -78,7 +86,15 @@ Certainly! Without knowing the exact nature of your startup, I'll provide genera
 
 When crafting these articles, it's essential to be concise, data-driven, and transparent. Showcasing your journey, understanding of the market, and technical prowess can make a compelling case for the potential success of your startup.
 
-It is about a knowledge base social network. Like you can push to it from obsidian or logseq 
+---
+
+🙋 **You:**
+
+It is about a knowledge base social network. Like you can push to it from obsidian or logseq
+
+---
+
+🤖 **Assistant:**
 
 Got it. Here are three article titles tailored for a knowledge base social network that integrates with tools like Obsidian and Logseq:
 

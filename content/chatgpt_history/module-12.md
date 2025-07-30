@@ -3,20 +3,15 @@ title: Module 12
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Conversation Title: Module 12"
 draft: false
 ---
 
 # Module 12
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Conversation Title: Module 12
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Conversation Title: Module 12
 # Module 12 Challenge Submission File
@@ -320,6 +315,10 @@ X-XSS-Protection: 1; mode=block
 ```
 [Enter answer here]
 ```
+
+---
+
+🤖 **Assistant:**
 
 ### HTTP Requests and Responses
 

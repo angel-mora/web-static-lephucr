@@ -3,7 +3,15 @@ title: Splitting Data Between Phones.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I have an android and an iphone. I want to low the
+  risk of being scammed if got my phone lost or stolen. I have multiple banking apps
+  and my password manager. I am scared about iphone face id since looks pretty hackeable.
+  I have two phone numbers, one for a banking account and another for a different
+  banking account. I have telegram but I have whatsapp using a different number since
+  I dont want to get that number lost and cut access to whatsapp for a few days after
+  remotely deactivating my account. Please tell me the best strategy to split my data
+  in the phones so I have everything as safe as possible. Forgot to mention I have
+  two different mail accounts as well."
 draft: false
 ---
 
@@ -12,15 +20,15 @@ draft: false
 ## ✅ TODOs
 - [ ] this, go to Settings > Face ID & Passcode and turn off the toggle for Face ID.
 
-## 📌 Summary
-I have an android and an iphone. I want to low the risk of being scammed if got my phone lost or stolen. I have multiple banking apps and my password manager. I am scared about iphone face id since looks pretty hackeable. I have two phone numbers, one for a banking account and another for a different banking account. I have telegram but I have whatsapp using a different number since I dont want to get that number lost and cut access to whatsapp for a few days after remotely deactivating my account. Please tell me the best strategy to split my data in the phones so I have everything as safe as possible. Forgot to mention I have two different mail accounts as well.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I have an android and an iphone. I want to low the risk of being scammed if got my phone lost or stolen. I have multiple banking apps and my password manager. I am scared about iphone face id since looks pretty hackeable. I have two phone numbers, one for a banking account and another for a different banking account. I have telegram but I have whatsapp using a different number since I dont want to get that number lost and cut access to whatsapp for a few days after remotely deactivating my account. Please tell me the best strategy to split my data in the phones so I have everything as safe as possible. Forgot to mention I have two different mail accounts as well.
 
+---
 
+🤖 **Assistant:**
 
 It's important to take steps to protect your personal data in case your phone is lost or stolen. Here are some strategies you can use to split your data between your Android and iPhone:
 
@@ -38,7 +46,15 @@ It's important to take steps to protect your personal data in case your phone is
 
 By implementing these strategies, you can reduce the risk of being scammed if your phone is lost or stolen. Remember to regularly back up your data and keep your software up to date to ensure maximum security.
 
+---
+
+🙋 **You:**
+
 Obsidian.md: save desktop obsidian template config to mobile
+
+---
+
+🤖 **Assistant:**
 
 To save your Obsidian template configuration from your desktop to your mobile device, you can follow these steps:
 

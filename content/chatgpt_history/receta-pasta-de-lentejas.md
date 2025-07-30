@@ -3,24 +3,22 @@ title: Receta pasta de lentejas
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Recetas high fiber and high protein for pasta de lentejas
+  con atún"
 draft: false
 ---
 
 # Receta pasta de lentejas
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Recetas high fiber and high protein for pasta de lentejas con atún
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Recetas high fiber and high protein for pasta de lentejas con atún 
+Recetas high fiber and high protein for pasta de lentejas con atún
 
+---
 
+🤖 **Assistant:**
 
 Here’s a high-fiber and high-protein recipe using lentil pasta and tuna:
 
@@ -64,7 +62,15 @@ Here’s a high-fiber and high-protein recipe using lentil pasta and tuna:
 
 Let me know if you’d like additional variations!
 
+---
+
+🙋 **You:**
+
 Highest protein I can buy at Rappi?
+
+---
+
+🤖 **Assistant:**
 
 To maximize your protein intake through Rappi in Mexico City, consider the following high-protein food options:
 

@@ -3,22 +3,22 @@ title: Expressions vs Statements Programming
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What is the difference between expression and statement
+  in programming?"
 draft: false
 ---
 
 # Expressions vs Statements Programming
 
-## ✅ TODOs
-
-
-## 📌 Summary
-What is the difference between expression and statement in programming?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What is the difference between expression and statement in programming?
+
+---
+
+🤖 **Assistant:**
 
 In programming, the terms "expression" and "statement" refer to different types of constructs that can be used in the code.
 
@@ -30,7 +30,15 @@ Some programming languages make a clear distinction between expressions and stat
 
 An important difference is that statements do nothing more than perform an action, they do not have a value themselves, and cannot be part of larger expressions. On the other hand, expressions always have a value and can be used as parts of larger expressions.
 
+---
+
+🙋 **You:**
+
 What is an interface in the context of Linux and what is an interface in the context of programming languages? Is there any other interface contextual concept I should be aware of?
+
+---
+
+🤖 **Assistant:**
 
 1. **Interface in the context of Linux**:
 In Linux, an interface typically refers to a network interface. A network interface is a point of interaction between a computer and a network. It can be physical, like an Ethernet port, or virtual, like a loopback interface. Each network interface is associated with a unique identifier called the Interface Identifier (e.g., eth0, wlan0, lo). Network interfaces are used to send and receive data over the network. They have configurations, such as IP address, subnet mask, and other networking parameters, that allow the Linux system to communicate with other devices on the network.

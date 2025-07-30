@@ -3,22 +3,22 @@ title: Buffer Killing in NVChad
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  In nvchad in mac I press space + f + b to list all
+  buffers. Can I kill some of them directly from that menu?"
 draft: false
 ---
 
 # Buffer Killing in NVChad
 
-## ✅ TODOs
-
-
-## 📌 Summary
-In nvchad in mac I press space + f + b to list all buffers. Can I kill some of them directly from that menu?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 In nvchad in mac I press space + f + b to list all buffers. Can I kill some of them directly from that menu?
+
+---
+
+🤖 **Assistant:**
 
 In NVChad, a Neovim configuration framework designed for a more efficient and visually appealing Vim experience, you can indeed manage buffers in a variety of ways. When you press `Space + f + b` in NVChad on a Mac (or any other OS where NVChad is installed), it invokes the buffers list through which you can navigate among your open buffers.
 

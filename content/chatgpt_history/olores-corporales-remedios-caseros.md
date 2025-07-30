@@ -3,22 +3,24 @@ title: 'Olores Corporales: Remedios Caseros'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Bicarbonato y vinagre de manzana son buenos para quitar
+  el mal olor del culo? También de las axilas? Que reacción química producen?? Es
+  dañina para la piel? Esa reacción es segura para diferentes remedios caseros de
+  limpieza?"
 draft: false
 ---
 
 # Olores Corporales: Remedios Caseros
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Bicarbonato y vinagre de manzana son buenos para quitar el mal olor del culo? También de las axilas? Que reacción química producen?? Es dañina para la piel? Esa reacción es segura para diferentes remedios caseros de limpieza?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Bicarbonato y vinagre de manzana son buenos para quitar el mal olor del culo? También de las axilas? Que reacción química producen?? Es dañina para la piel? Esa reacción es segura para diferentes remedios caseros de limpieza? 
+Bicarbonato y vinagre de manzana son buenos para quitar el mal olor del culo? También de las axilas? Que reacción química producen?? Es dañina para la piel? Esa reacción es segura para diferentes remedios caseros de limpieza?
+
+---
+
+🤖 **Assistant:**
 
 El bicarbonato de sodio y el vinagre de manzana son dos productos comunes en los remedios caseros para eliminar olores. Aquí te explico sus efectos y reacciones:
 
@@ -37,7 +39,15 @@ El bicarbonato de sodio y el vinagre de manzana son dos productos comunes en los
 
 En resumen, mientras que bicarbonato y vinagre de manzana pueden ser útiles para eliminar olores y tienen usos en limpieza del hogar, es importante considerar la sensibilidad de la piel y las posibles irritaciones. Es aconsejable probar la mezcla en una pequeña área de la piel antes de aplicarla ampliamente, especialmente en áreas sensibles como cerca del ano o las axilas.
 
-En que proporción? 
+---
+
+🙋 **You:**
+
+En que proporción?
+
+---
+
+🤖 **Assistant:**
 
 Para usar bicarbonato de sodio y vinagre de manzana de manera efectiva y segura, tanto para la piel como para la limpieza doméstica, es importante seguir proporciones adecuadas:
 

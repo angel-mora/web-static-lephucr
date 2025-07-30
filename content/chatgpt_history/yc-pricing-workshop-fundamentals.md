@@ -3,7 +3,15 @@ title: YC Pricing Workshop Fundamentals
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  This was a highly requested talk from last year where
+  lots of people have questions about pricing are really confused. It's actually was
+  well requested both at YC itself. That's a very, very popular workshop that we run.
+  And so we're gonna go over a lot of basic fundamentals for pricing that hopefully
+  will just help you understand how to approach your pricing and monetization from
+  first principles and then you help you help yourselves, same thing with the landing
+  page. So we're gonna go over first principles for pricing. We're gonna go over why
+  is pricing particularly hard for startups, for people making innovative products
+  and new markets? Like, why is it extra difficult?"
 draft: false
 ---
 
@@ -14,11 +22,9 @@ draft: false
 - [ ] fundamentally is require users to change their pattern, to stop doing it the old, shitty, spreadsheet way and do it in the new, better, your way. And getting someone to change their pattern is actually difficult, right? Especially if they're a mature person, partly because the average user lacks information needed and the trust in you or whatever it is that you're making to make that change, to take that risk. You are entrepreneurs, you're comfortable taking risks. Your customers are not entrepreneurs for the most part. They're probably less comfortable taking risks.
 - [ ] it so that you can feel comfortable with it. And you wanna keep raising prices until you're losing 20% of your customers. That's about a good balance to have in terms of understanding that like I have a good price here. I'm losing 20% of my deals. It's not too high. It's not too low.
 
-## 📌 Summary
-This was a highly requested talk from last year where lots of people have questions about pricing are really confused. It's actually was well requested both at YC itself. That's a very, very popular workshop that we run. And so we're gonna go over a lot of basic fundamentals for pricing that hopefully will just help you understand how to approach your pricing and monetization from first principles and then you help you help yourselves, same thing with the landing page. So we're gonna go over first principles for pricing. We're gonna go over why is pricing particularly hard for startups, for people making innovative products and new markets? Like, why is it extra difficult?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 This was a highly requested talk from last year where lots of people have questions about pricing are really confused. It's actually was well requested both at YC itself. That's a very, very popular workshop that we run. And so we're gonna go over a lot of basic fundamentals for pricing that hopefully will just help you understand how to approach your pricing and monetization from first principles and then you help you help yourselves, same thing with the landing page. So we're gonna go over first principles for pricing. We're gonna go over why is pricing particularly hard for startups, for people making innovative products and new markets? Like, why is it extra difficult?
 
@@ -72,7 +78,9 @@ Get organized. When you're doing price optimization, it's really, really easy. D
 
 SUMMARIZE
 
+---
 
+🤖 **Assistant:**
 
 ### Summary: YC Pricing Workshop
 

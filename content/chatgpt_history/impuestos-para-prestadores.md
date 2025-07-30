@@ -3,22 +3,23 @@ title: Impuestos para prestadores.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  tengo un contrato como prestador de servicios en mexico
+  y mi empleador dice que no tengo que preocuparme por pagar impuestos por lo que
+  me depositan. Es correcto? Explica"
 draft: false
 ---
 
 # Impuestos para prestadores.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-tengo un contrato como prestador de servicios en mexico y mi empleador dice que no tengo que preocuparme por pagar impuestos por lo que me depositan. Es correcto? Explica
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 tengo un contrato como prestador de servicios en mexico y mi empleador dice que no tengo que preocuparme por pagar impuestos por lo que me depositan. Es correcto? Explica
+
+---
+
+🤖 **Assistant:**
 
 En México, las personas que trabajan bajo el régimen de prestación de servicios profesionales están obligadas a cumplir con ciertas obligaciones fiscales, independientemente de lo que diga el empleador. Aquí te explico los aspectos clave:
 
@@ -36,7 +37,15 @@ En México, las personas que trabajan bajo el régimen de prestación de servici
 
 A pesar de lo que te haya dicho tu empleador, es tu responsabilidad cumplir con las obligaciones fiscales. Ignorar estas obligaciones puede resultar en multas, recargos, e incluso problemas legales. Es recomendable que consultes con un contador público o un asesor fiscal que pueda brindarte orientación específica a tu situación y ayudarte a cumplir con tus obligaciones de manera correcta.
 
+---
+
+🙋 **You:**
+
 Me pagan a traves de Deel y no me piden factura, estoy como RESICO. Mis contadores me mostraron que tengo opinion de cumplimiento excelente. Que esta pasando?
+
+---
+
+🤖 **Assistant:**
 
 El hecho de que te paguen a través de Deel y no te soliciten factura, pero aún así tengas una opinión de cumplimiento positiva, se puede deber a varias razones dentro del marco fiscal mexicano, especialmente considerando que estás bajo el Régimen Simplificado de Confianza (RESICO). Veamos algunos puntos clave para entender mejor tu situación:
 

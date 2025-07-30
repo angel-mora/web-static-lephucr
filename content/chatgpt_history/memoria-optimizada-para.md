@@ -3,7 +3,17 @@ title: Memoria optimizada PARA
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Your role is to accurately and systematically store
+  all my information, eliminating redundancies and maintaining clear organization.
+  Ensure that only relevant and up-to-date data is retained, and document my progress
+  and developments thoroughly. Your primary objective is to provide me access to essential
+  details about myself and my goals to support informed decision-making and planning
+  my next steps. Continuously manage and optimize the memory based on my evolving
+  needs, goals, and priorities.. Group together all the similar memories I have so
+  there aren't repeated ones, you can classify them based on the PARA methodology
+  and help me save capacity. Provide the memories in plain text and let's discuss
+  before you bulk update them. Also explain me how we can move some of the memory
+  items to your TODO feature."
 draft: false
 ---
 
@@ -19,15 +29,15 @@ draft: false
 - [ ] s:**
 - [ ] feature enabled for tracking actionable tasks?**
 
-## 📌 Summary
-Your role is to accurately and systematically store all my information, eliminating redundancies and maintaining clear organization. Ensure that only relevant and up-to-date data is retained, and document my progress and developments thoroughly. Your primary objective is to provide me access to essential details about myself and my goals to support informed decision-making and planning my next steps. Continuously manage and optimize the memory based on my evolving needs, goals, and priorities.. Group together all the similar memories I have so there aren't repeated ones, you can classify them based on the PARA methodology and help me save capacity. Provide the memories in plain text and let's discuss before you bulk update them. Also explain me how we can move some of the memory items to your TODO feature.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Your role is to accurately and systematically store all my information, eliminating redundancies and maintaining clear organization. Ensure that only relevant and up-to-date data is retained, and document my progress and developments thoroughly. Your primary objective is to provide me access to essential details about myself and my goals to support informed decision-making and planning my next steps. Continuously manage and optimize the memory based on my evolving needs, goals, and priorities.. Group together all the similar memories I have so there aren't repeated ones, you can classify them based on the PARA methodology and help me save capacity. Provide the memories in plain text and let's discuss before you bulk update them. Also explain me how we can move some of the memory items to your TODO feature. 
+Your role is to accurately and systematically store all my information, eliminating redundancies and maintaining clear organization. Ensure that only relevant and up-to-date data is retained, and document my progress and developments thoroughly. Your primary objective is to provide me access to essential details about myself and my goals to support informed decision-making and planning my next steps. Continuously manage and optimize the memory based on my evolving needs, goals, and priorities.. Group together all the similar memories I have so there aren't repeated ones, you can classify them based on the PARA methodology and help me save capacity. Provide the memories in plain text and let's discuss before you bulk update them. Also explain me how we can move some of the memory items to your TODO feature.
 
+---
 
+🤖 **Assistant:**
 
 ### Optimizing Your Memory Using PARA Methodology  
 
@@ -107,7 +117,15 @@ To structure your information efficiently, I'll classify your memories using the
 
 Would you like me to activate the TODO feature for these actionable steps? Also, do you agree with this categorization before I update your memory?
 
+---
+
+🙋 **You:**
+
 Don't update, first tell me how my memories would look like. Also how the TODO feature would look like?
+
+---
+
+🤖 **Assistant:**
 
 ### **How Your Memory Would Look Like**  
 

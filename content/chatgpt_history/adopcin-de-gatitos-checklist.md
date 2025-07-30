@@ -3,7 +3,8 @@ title: Adopción de gatitos checklist
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Voy a adoptar un gatito y ya tengo una gata. Checklist
+  de cosas que hacer"
 draft: false
 ---
 
@@ -12,15 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s para estimular el apetito**
 
-## 📌 Summary
-Voy a adoptar un gatito y ya tengo una gata. Checklist de cosas que hacer
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Voy a adoptar un gatito y ya tengo una gata. Checklist de cosas que hacer
 
+---
 
+🤖 **Assistant:**
 
 ¡Qué emoción! Aquí tienes un **checklist** para que la adaptación entre tu nueva gatita y la que ya tienes sea lo más armoniosa posible:  
 
@@ -51,9 +52,15 @@ Voy a adoptar un gatito y ya tengo una gata. Checklist de cosas que hacer
 
 Lo más importante es la paciencia. La adaptación puede tardar desde días hasta varias semanas. ¡Mucha suerte con tu nuevo michi!
 
+---
+
+🙋 **You:**
+
 Qué hago si mi bebé no quiere comer?
 
+---
 
+🤖 **Assistant:**
 
 Si tu bebé gato no quiere comer, aquí hay algunas cosas que puedes hacer según la causa:  
 
@@ -79,7 +86,15 @@ Si tu bebé gato no quiere comer, aquí hay algunas cosas que puedes hacer segú
 
 Si pasan más de **24 horas sin comer**, **acude al veterinario**. Los gatitos pueden enfermarse rápidamente si no comen lo suficiente.
 
+---
+
+🙋 **You:**
+
 Se me cayo como de un metro de distancia y chocó con una puerta y le sangró su naricita. Qué puedo hacer_
+
+---
+
+🤖 **Assistant:**
 
 Lamento mucho lo que pasó. Aquí hay algunos pasos a seguir para ayudar a tu gatito:  
 

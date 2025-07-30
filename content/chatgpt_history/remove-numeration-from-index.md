@@ -5,7 +5,8 @@ tags:
 - '2'
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to remove numeration to index sections in the following
+  tex file?"
 draft: false
 ---
 
@@ -26,11 +27,9 @@ draft: false
 - [ ] grado de interioridad en la vida psíquica de las personas pues la Ley ha pasado a ser la norma, a estar completamente internalizada. Nuestras relaciones son espectáculares porque están mediadas a través de la representación cibernética y nuestro deseo bajo el Biopoder porque la industria farmacopornográfica se encarga de generar dinero de la enfermedad y de la frustración sexual. La cibernética es el arte del control, la disciplina propia de tiempos donde la información se vuelve la mercancía que más valor produce.
 - [ ] s
 
-## 📌 Summary
-How to remove numeration to index sections in the following tex file?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to remove numeration to index sections in the following tex file?
 % Old changes from thesis (main.tex)
@@ -321,8 +320,9 @@ Impreso y hecho en México $\bullet$ \emph{Printed in Mexico}
 %\layout
 \end{document}
 
+---
 
-
+🤖 **Assistant:**
 
 To remove numeration to index sections, add the following line to the preamble of the LaTeX document:
 

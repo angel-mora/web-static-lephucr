@@ -3,20 +3,16 @@ title: Public Key Missing Fix
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hit:14 https://esm.ubuntu.com/infra/ubuntu jammy-infra-updates
+  InRelease"
 draft: false
 ---
 
 # Public Key Missing Fix
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Hit:14 https://esm.ubuntu.com/infra/ubuntu jammy-infra-updates InRelease
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Hit:14 https://esm.ubuntu.com/infra/ubuntu jammy-infra-updates InRelease
 Err:6 http://apt.postgresql.org/pub/repos/apt jammy-pgdg InRelease
@@ -26,6 +22,10 @@ W: GPG error: http://apt.postgresql.org/pub/repos/apt jammy-pgdg InRelease: The 
 E: The repository 'http://apt.postgresql.org/pub/repos/apt jammy-pgdg InRelease' is not signed.
 N: Updating from such a repository can't be done securely, and is therefore disabled by default.
 N: See apt-secure(8) manpage for repository creation and user configuration details.
+
+---
+
+🤖 **Assistant:**
 
 The error you're encountering indicates that the APT package manager is unable to verify the signature of the PostgreSQL repository because it lacks the appropriate public key. The key with the ID `7FCC7D46ACCC4CF8` is missing, which is required for APT to ensure the integrity and authenticity of the packages being downloaded from the repository.
 
@@ -49,6 +49,10 @@ sudo apt update
 ```
 
 If you encounter any issues or errors after attempting this fix, please let me know for further assistance.
+
+---
+
+🙋 **You:**
 
 gem install mysql2 -v '0.5.6'                                                                                                         
 Building native extensions. This could take a while...
@@ -117,6 +121,10 @@ extconf failed, exit code 1
 
 Gem files will remain installed in /home/amora/.rbenv/versions/3.0.6/lib/ruby/gems/3.0.0/gems/mysql2-0.5.6 for inspection.
 Results logged to /home/amora/.rbenv/versions/3.0.6/lib/ruby/gems/3.0.0/extensions/x86_64-linux/3.0.0/mysql2-0.5.6/gem_make.out
+
+---
+
+🤖 **Assistant:**
 
 The error message you're encountering when trying to install the `mysql2` gem indicates a failure to build native extensions. This issue typically arises due to missing development libraries or headers for MySQL on your system. The `mysql2` gem requires MySQL client libraries to be installed to build these extensions.
 

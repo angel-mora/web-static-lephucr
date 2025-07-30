@@ -3,22 +3,21 @@ title: Count Hash Values Ruby
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Count values of all keys across a hash in ruby"
 draft: false
 ---
 
 # Count Hash Values Ruby
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Count values of all keys across a hash in ruby
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Count values of all keys across a hash in ruby 
+Count values of all keys across a hash in ruby
+
+---
+
+🤖 **Assistant:**
 
 To count the values of all keys across a hash in Ruby, you have multiple approaches depending on what exactly you need to achieve. Here are two common scenarios and solutions:
 

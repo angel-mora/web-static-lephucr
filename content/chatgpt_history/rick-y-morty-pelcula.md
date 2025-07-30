@@ -3,24 +3,22 @@ title: Rick y Morty Película
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  El capítulo de Rick y Morty de cause me pleasure cause
+  it cause me pain está basado en qué peli"
 draft: false
 ---
 
 # Rick y Morty Película
 
-## ✅ TODOs
-
-
-## 📌 Summary
-El capítulo de Rick y Morty de cause me pleasure cause it cause me pain está basado en qué peli
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-El capítulo de Rick y Morty de cause me pleasure cause it cause me pain está basado en qué peli 
+El capítulo de Rick y Morty de cause me pleasure cause it cause me pain está basado en qué peli
 
+---
 
+🤖 **Assistant:**
 
 El capítulo de *Rick and Morty* donde aparece la frase *"Cause me pleasure, cause me pain"* es **"The Old Man and the Seat"** (temporada 4, episodio 2). Aunque no está basado en una sola película en particular, tiene claras influencias de *Her* (2013), dirigida por Spike Jonze.  
 
@@ -28,7 +26,15 @@ En este episodio, Jerry se enamora de una inteligencia artificial llamada Kiara,
 
 Además, la historia principal, donde Rick defiende su baño personal contra un visitante inesperado, tiene toques de western y películas de venganza, pero sin una referencia directa a una sola obra.
 
-Nooo, no es ese! Es en el que bajan al infierno porque hay unos sadicos que se ríen de Jerry 
+---
+
+🙋 **You:**
+
+Nooo, no es ese! Es en el que bajan al infierno porque hay unos sadicos que se ríen de Jerry
+
+---
+
+🤖 **Assistant:**
 
 El capítulo que buscas es **"Full Meta Jackrick"** (temporada 6, episodio 7).  
 

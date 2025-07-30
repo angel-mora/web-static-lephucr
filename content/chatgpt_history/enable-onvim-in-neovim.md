@@ -3,22 +3,21 @@ title: Enable o.nvim in Neovim
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to enable o to.nvim? Installed but didn't work"
 draft: false
 ---
 
 # Enable o.nvim in Neovim
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How to enable o to.nvim? Installed but didn't work
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to enable o to.nvim? Installed but didn't work
+
+---
+
+🤖 **Assistant:**
 
 To enable and use `o.nvim`, a plugin for Neovim, you should follow these steps:
 
@@ -28,7 +27,15 @@ To enable and use `o.nvim`, a plugin for Neovim, you should follow these steps:
    use 'ojroques/nvim-osc52'
    ``
 
+---
+
+🙋 **You:**
+
 How to enable octo.nvim? Installed but didn't work
+
+---
+
+🤖 **Assistant:**
 
 To enable `octo.nvim`, a plugin for Neovim that integrates with GitHub, follow these steps:
 

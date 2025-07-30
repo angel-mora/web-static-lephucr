@@ -3,7 +3,8 @@ title: Vim GitHub Code Reviews
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to do code reviews in vim like with vscode github
+  extension"
 draft: false
 ---
 
@@ -13,13 +14,15 @@ draft: false
 - [ ] code reviews in vim like with vscode github extension
 - [ ] code reviews in Vim similar to the GitHub extension in VS Code, you'd need to make use of plugins and manual configurations. There isn't a one-size-fits-all solution in Vim for GitHub pull requests, but you can achieve similar functionality by combining various tools.
 
-## 📌 Summary
-How to do code reviews in vim like with vscode github extension
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to do code reviews in vim like with vscode github extension
+
+---
+
+🤖 **Assistant:**
 
 To do code reviews in Vim similar to the GitHub extension in VS Code, you'd need to make use of plugins and manual configurations. There isn't a one-size-fits-all solution in Vim for GitHub pull requests, but you can achieve similar functionality by combining various tools.
 

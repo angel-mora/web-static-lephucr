@@ -3,22 +3,22 @@ title: Expose Raspberry Pi Safely
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I expose my local raspberry ip if my router
+  uses dynamic ip?"
 draft: false
 ---
 
 # Expose Raspberry Pi Safely
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I expose my local raspberry ip if my router uses dynamic ip?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-How can I expose my local raspberry ip if my router uses dynamic ip? 
+How can I expose my local raspberry ip if my router uses dynamic ip?
+
+---
+
+🤖 **Assistant:**
 
 Exposing a local Raspberry Pi to the internet when your home network has a dynamic IP address involves several steps. Here's a general outline of how you can do it:
 
@@ -36,7 +36,15 @@ Exposing a local Raspberry Pi to the internet when your home network has a dynam
 
 Remember, exposing a device to the internet can make it vulnerable to attacks, so it's important to keep your Raspberry Pi and your router's firmware up to date with the latest security patches.
 
-Can I use opendns? 
+---
+
+🙋 **You:**
+
+Can I use opendns?
+
+---
+
+🤖 **Assistant:**
 
 Yes, you can use OpenDNS as part of your strategy to expose your local Raspberry Pi on a network with a dynamic IP. OpenDNS itself is primarily a DNS service provider that offers features like content filtering, phishing protection, and enhanced security. While OpenDNS does not directly provide Dynamic DNS (DDNS) services to handle dynamic IP addresses, you can combine it with other tools and services that do offer DDNS to achieve your goal. Here's how you might incorporate OpenDNS into your setup:
 

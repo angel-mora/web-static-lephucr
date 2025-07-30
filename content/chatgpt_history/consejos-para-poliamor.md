@@ -3,7 +3,8 @@ title: Consejos para poliamor
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuáles son las cosas de las que debo estar consciente
+  como hombre poliamoroso?"
 draft: false
 ---
 
@@ -29,15 +30,15 @@ draft: false
 - [ ] el tiempo** con la otra persona, frena un poco y haz algo por tu cuenta. **El amor se nutre también en la ausencia.**
 - [ ] nde el apoyo sea algo que disfrutes dar, no una fuente de resentimiento o control.
 
-## 📌 Summary
-Cuáles son las cosas de las que debo estar consciente como hombre poliamoroso?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cuáles son las cosas de las que debo estar consciente como hombre poliamoroso?
 
+---
 
+🤖 **Assistant:**
 
 Como hombre poliamoroso, hay varias cosas clave que debes tener en cuenta para que tus relaciones sean sanas, éticas y satisfactorias para todas las partes involucradas:  
 
@@ -67,8 +68,16 @@ Como hombre poliamoroso, hay varias cosas clave que debes tener en cuenta para q
 
 El poliamor puede ser profundamente satisfactorio, pero requiere autoconciencia, madurez emocional y un compromiso con la transparencia. ¿Tienes alguna situación específica en la que necesites consejo?
 
+---
+
+🙋 **You:**
+
 Del punto 4. me conflictua que yo tengo ingresos mucho mayores que uno de mis vínculos 
 Dame referencias sobre cómo entender mejor el cuidado emocional de mis parejas mujeres y de mis parejas hombres. Btw soy ASA en recuperación también, estuve en una relación de 6 años y me estoy enculando con una amiga que me gusta mucho. Hemos estado juntos en la cama ya desde noviembre y pues yo fui bastante ambiguo
+
+---
+
+🤖 **Assistant:**
 
 Dado que estás en recuperación de ASA (adicción al sexo y al amor), que tienes una diferencia de ingresos significativa con uno de tus vínculos, y que además hay ambigüedad en tu relación con tu amiga, hay varios niveles en los que puedes explorar el cuidado emocional en tus relaciones.  
 
@@ -123,7 +132,15 @@ Para trabajar la ambigüedad con tu amiga:
 
 Parece que estás en un punto de mucha exploración emocional y relacional. ¿Te sirve este enfoque? ¿Quieres profundizar en alguna parte?
 
+---
+
+🙋 **You:**
+
 Otra amiga con la que estuve me dijo que le sacó de pedo que estuviera con Vale luego luego en una relación cuando me acabo de separar. Eso me ondea porque Vale me gusta mucho pero pues también quiero putear siendo sincero y no se como gestionarlo. Ya le hice daño al decirle que solo quería estar con ella y que no nos cuidáramos, para después estar con otra persona. Se lo dije antes de llegar a un festival y pues se puso muy triste por eso. Siento justo la ambivalencia de no quiero ser codependiente otra vez pero tampoco quiero negarme a poder putear…
+
+---
+
+🤖 **Assistant:**
 
 Parece que estás en un punto donde dos necesidades están en tensión:  
 1. **Tu deseo de explorar libremente tu sexualidad y estar con varias personas.**  
@@ -185,7 +202,15 @@ Dependiendo de cómo te sientas después de reflexionar, puedes:
 
 ¿Qué sientes que resuena más contigo?
 
-Me da mucha culpa estar con Vale sin exclusividad. Me da mucha vergüenza haber actuado de esa forma, haberla lastimado por no haber sido claro aunque me doy cuenta que sí quiero sentir esa libertad, me cuesta imaginar que lo podré hacer de nuevo sin ser un pendejo. También me da mucha pena haberla hecho bajar la guardia y no entiendo muy bien de qué forma yo tengo que cuidar mi guardia y cómo relacionarme con ella sin manipularla con love bombing o algo así 
+---
+
+🙋 **You:**
+
+Me da mucha culpa estar con Vale sin exclusividad. Me da mucha vergüenza haber actuado de esa forma, haberla lastimado por no haber sido claro aunque me doy cuenta que sí quiero sentir esa libertad, me cuesta imaginar que lo podré hacer de nuevo sin ser un pendejo. También me da mucha pena haberla hecho bajar la guardia y no entiendo muy bien de qué forma yo tengo que cuidar mi guardia y cómo relacionarme con ella sin manipularla con love bombing o algo así
+
+---
+
+🤖 **Assistant:**
 
 Suena como que estás en un punto donde reconoces el daño que hiciste, pero también ves que necesitas esa libertad. La culpa y la vergüenza pueden ser útiles si te ayudan a crecer, pero no si te paralizan o te llevan a castigarte sin realmente cambiar nada.  
 
@@ -250,7 +275,15 @@ Si decides tomar distancia:
 ### **5. ¿Cómo te suena esto?**  
 Siento que estás en un proceso de mucha autoconciencia y que quieres hacer las cosas mejor, pero todavía te da miedo confiar en que puedes tener la libertad que deseas sin lastimar a la gente. ¿Cómo te hace sentir esta perspectiva?
 
+---
+
+🙋 **You:**
+
 Estuve con otra chava en un one night stand. Cómo puedo acercarme a ella con responsabilidad emocional y decirle que la quiero pero que no puedo ofrecerle mucho. Esto me causa mucho dolor
+
+---
+
+🤖 **Assistant:**
 
 Si sientes dolor al acercarte a ella con esta verdad, probablemente sea porque una parte de ti quisiera poder ofrecerle más, pero otra parte sabe que no puedes o no quieres comprometerte a un nivel más profundo.  
 
@@ -300,7 +333,15 @@ Es probable que se sienta triste o que te cuestione. Lo mejor es:
 ### **5. ¿Cómo te sientes con esto?**  
 Si el dolor que sientes viene de querer darle más y no poder, está bien reconocerlo. Pero el mayor acto de respeto es no confundirla con mensajes mezclados. ¿Cómo te suena este enfoque?
 
+---
+
+🙋 **You:**
+
 Buenos. Refina tus recomendaciones de literatura. Incluye DOI si puedes
+
+---
+
+🤖 **Assistant:**
 
 Entiendo que buscas recomendaciones literarias que aborden temas como el poliamor, la masculinidad y la adicción al sexo y al amor, con un enfoque en el cuidado emocional hacia tus parejas, sean mujeres u hombres. A continuación, te presento algunas obras que podrían ser de tu interés:
 
@@ -336,9 +377,17 @@ Autora: Mónica Pérez Sobrino. Esta novela narra una historia de amor fallida y
 
 Lamentablemente, no dispongo de los DOI específicos para estas obras, ya que muchos libros no cuentan con un DOI asignado. Sin embargo, puedes encontrarlos en librerías en línea o bibliotecas especializadas.
 
-Espero que estas recomendaciones te sean útiles en tu camino hacia una comprensión más profunda y un cuidado emocional más efectivo en tus relaciones. 
+Espero que estas recomendaciones te sean útiles en tu camino hacia una comprensión más profunda y un cuidado emocional más efectivo en tus relaciones.
+
+---
+
+🙋 **You:**
 
 En inglés?
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes una selección de libros en inglés que abordan poliamor, masculinidad, y adicción al sexo/amor con un enfoque en el cuidado emocional:  
 
@@ -383,7 +432,15 @@ Aquí tienes una selección de libros en inglés que abordan poliamor, masculini
 
 Si te interesa algún tema en particular con más profundidad, dime y te busco recursos más específicos.
 
-Yo le quisiera ofrecer a Vale apoyo para que cumpla sus metas profesionales, aunque eso implique un poco verla menos. En general preferiría poder construir proyectos económicos con mis amores que simplemente dejarlo en algo carnal, sobre todo por la desigualdad económica 
+---
+
+🙋 **You:**
+
+Yo le quisiera ofrecer a Vale apoyo para que cumpla sus metas profesionales, aunque eso implique un poco verla menos. En general preferiría poder construir proyectos económicos con mis amores que simplemente dejarlo en algo carnal, sobre todo por la desigualdad económica
+
+---
+
+🤖 **Assistant:**
 
 Eso suena como una visión de relaciones que va más allá de lo tradicional y busca generar algo más sólido y equitativo. Si quieres apoyar a Vale en sus metas profesionales, pero al mismo tiempo equilibrarlo con la relación y la libertad que buscas, hay varias cosas que podrías hacer:  
 
@@ -408,7 +465,15 @@ Eso suena como una visión de relaciones que va más allá de lo tradicional y b
 
 ¿Crees que Vale está abierta a este tipo de dinámica más colaborativa o crees que aún están en un punto en el que necesitan resolver otras tensiones antes?
 
+---
+
+🙋 **You:**
+
 Platícame sobre el duelo de la separación de 6 años
+
+---
+
+🤖 **Assistant:**
 
 Salir de una relación de seis años es un proceso que inevitablemente implica duelo, aunque a veces no lo experimentes de forma lineal o predecible. Más aún si estás en un contexto donde, al mismo tiempo, quieres abrirte a nuevas conexiones y a la libertad sin caer en patrones de codependencia.  
 
@@ -427,7 +492,15 @@ Lo que mencionas sobre querer disfrutar de tu libertad, pero al mismo tiempo sen
 
 No hay una sola forma correcta de atravesar esto. Lo importante es **darte permiso para sentir y procesar lo que venga**, sin forzarte a encajar en una narrativa (como "ya debería haberlo superado" o "no
 
+---
+
+🙋 **You:**
+
 Me da mucho miedo no poder decir que no, eso que comentas de hacer cosas por culpa, y tampoco poder determinar bien qué es lo que quiero. O sea escoger la poligamia es solo escoger lo opuesto a al norma, pero todo es ambigüedad ahí. Y con el tema de mi adiccion y las diferencias salariales…
+
+---
+
+🤖 **Assistant:**
 
 Parece que te encuentras en un punto donde hay varias capas de conflicto entre lo que quieres, lo que sientes que "deberías" querer y lo que te mueve de manera impulsiva. Y todo esto atraviesa temas profundos: el duelo, la poligamia, la culpa, la diferencia económica y tu proceso de recuperación.  
 
@@ -466,7 +539,15 @@ Si el miedo a no poder decir que no te pesa mucho, podrías intentar un enfoque 
 
 Si quieres, dime qué parte te pesa más en este momento y podemos profundizar en eso.
 
+---
+
+🙋 **You:**
+
 Cuáles son las cosas románticas que no debo hacer si estamos en una relación abierta. Me gustaría entender Dos and Donts. Me siento un poco dependiente emocionalmente y no quiero olvidar el trabajo emocional conmigo mismo de reconocer cuando hago cosas con emociones alegres, cuando las hago por culpa, etc
+
+---
+
+🤖 **Assistant:**
 
 En una relación abierta, especialmente cuando te sientes emocionalmente dependiente, es clave ser consciente de qué gestos fortalecen vínculos sanos y cuáles pueden generar confusión, desigualdad o manipulación, incluso sin intención. Aquí hay una guía de **Do’s and Don’ts** para mantener equilibrio emocional y claridad en tus relaciones:  
 
@@ -525,7 +606,15 @@ Parece que estás haciendo un esfuerzo consciente por no actuar desde la culpa n
 
 Si alguna de estas cosas resuena contigo o te sientes atorado en algún punto específico, dime y lo desglosamos más.
 
+---
+
+🙋 **You:**
+
 Cómo se gestiona salir con otras personas? No se que tanto comunicar y que tanto bajar la guardia
+
+---
+
+🤖 **Assistant:**
 
 Salir con otras personas en una relación abierta implica encontrar un equilibrio entre **honestidad, autonomía y gestión emocional**. No hay una única forma correcta de hacerlo, pero sí hay principios clave que pueden ayudarte a navegarlo sin caer en culpa, dependencia o dinámicas desbalanceadas.  
 
@@ -602,7 +691,15 @@ Gestionar salir con otras personas en una relación abierta implica **ser honest
 
 Si hay algo que sientas que te cuesta más, dime y lo podemos afinar más a tu situación.
 
+---
+
+🙋 **You:**
+
 Que cosa es cultivar amor e intensidad sin clavarnos o encularnos de una forma posesiva?
+
+---
+
+🤖 **Assistant:**
 
 Cultivar amor e intensidad sin caer en una dinámica posesiva significa **permitirse sentir profundamente sin que la relación se vuelva un centro de gravedad que absorba todo tu mundo**. Es encontrar un balance donde hay pasión, pero también libertad, deseo sin apego, cercanía sin fusión.  
 
@@ -681,7 +778,15 @@ Cultivar amor e intensidad sin clavarte ni poseer significa:
 
 La clave es sentir profundo sin perderte en la otra persona. **Amar con fuego, pero sin quemarte.**
 
+---
+
+🙋 **You:**
+
 Me cuesta trabajo concebir que tenemos ingresos muy diferentes. Seguro yo casi cinco veces más que ella y me siento de alguna manera obligado a darle dinero. Sí me gustaría darle pero cuando siento que hace cosas que yo no quiero ya no quiero darle. Quizá es control y me avergüenza pero lo reconozco.
+
+---
+
+🤖 **Assistant:**
 
 Es valioso que lo reconozcas, porque la diferencia de ingresos en una relación puede generar dinámicas de poder sutiles o explícitas, y ser consciente de eso es el primer paso para manejarlo de manera más sana. Aquí algunas reflexiones que pueden ayudarte:  
 
@@ -745,7 +850,15 @@ No hay nada de malo en querer compartir recursos, pero **el problema surge cuand
 
 Si quieres seguir explorando esto, dime qué parte se te hace más difícil y lo afinamos más.
 
-Pues he pensado en darle una rentita para que se ayude con sus gastos 
+---
+
+🙋 **You:**
+
+Pues he pensado en darle una rentita para que se ayude con sus gastos
+
+---
+
+🤖 **Assistant:**
 
 Si decides darle una renta, es clave definir bien desde dónde lo haces y con qué expectativas, para que no se vuelva una fuente de tensión o control (consciente o inconsciente). Aquí algunas preguntas y consideraciones para que la decisión sea más clara y funcional:  
 
@@ -787,7 +900,15 @@ Si la respuesta a estas preguntas te genera incomodidad, entonces hay una parte 
 Si el dinero te genera conflicto, podrías:  
 - **Pagar cosas específicas en lugar de darle una renta fija** (por ejemplo, un curso, un viaje, un cowork
 
+---
+
+🙋 **You:**
+
 Hay alguna especie de manual de integridad emocional o algo así?
+
+---
+
+🤖 **Assistant:**
 
 No hay un único manual universal de integridad emocional, pero hay varios libros y enfoques que te pueden ayudar a cultivar relaciones más conscientes y a manejar temas como la responsabilidad afectiva, el deseo, la autonomía y el poder en las relaciones.  
 

@@ -6,28 +6,35 @@ tags:
 - techbooks
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I am a programmer. How can I find the audience for
+  my book? I can use any api or marketing service. Feel like instagram can be super
+  useful"
 draft: false
 ---
 
 # Instagram API Book Promotion
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I am a programmer. How can I find the audience for my book? I can use any api or marketing service. Feel like instagram can be super useful
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I am a programmer. How can I find the audience for my book? I can use any api or marketing service. Feel like instagram can be super useful
 
+---
 
+🤖 **Assistant:**
 
 The user is a programmer and has written a book.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 To find the audience for your book as a programmer, leveraging APIs and marketing services can be highly effective. Here are some strategies, with a focus on Instagram:
 

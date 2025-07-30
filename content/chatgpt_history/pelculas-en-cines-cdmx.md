@@ -3,24 +3,21 @@ title: Películas en cines CDMX.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que películas hay en cines en cdmx hoy?"
 draft: false
 ---
 
 # Películas en cines CDMX.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Que películas hay en cines en cdmx hoy?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Que películas hay en cines en cdmx hoy? 
+Que películas hay en cines en cdmx hoy?
 
+---
 
+🤖 **Assistant:**
 
 Hoy en los cines de CDMX se pueden encontrar varias películas interesantes. Algunas de las opciones disponibles son:
 

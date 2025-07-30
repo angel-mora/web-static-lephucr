@@ -3,22 +3,22 @@ title: 'Alternativas a neoclásica: influencias'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Mencion que teorias economicas y autores que mencionan
+  en el libro Inventar el futuro como alternativas a la teoria neoclasica"
 draft: false
 ---
 
 # Alternativas a neoclásica: influencias
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Mencion que teorias economicas y autores que mencionan en el libro Inventar el futuro como alternativas a la teoria neoclasica
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Mencion que teorias economicas y autores que mencionan en el libro Inventar el futuro como alternativas a la teoria neoclasica 
+Mencion que teorias economicas y autores que mencionan en el libro Inventar el futuro como alternativas a la teoria neoclasica
+
+---
+
+🤖 **Assistant:**
 
 El libro "Inventar el Futuro: Postcapitalismo y un Mundo Sin Trabajo" de Nick Srnicek y Alex Williams, ofrece una visión crítica de la economía política contemporánea y argumenta a favor de un futuro post-trabajo. Aunque el libro se enfoca principalmente en la idea de superar las limitaciones del capitalismo y el trabajo tal como los conocemos hoy, discute varias teorías económicas y autores que ofrecen alternativas a la teoría neoclásica, la cual ha dominado el pensamiento económico desde finales del siglo XIX.
 
@@ -36,7 +36,15 @@ Srnicek y Williams no se adhieren estrictamente a una sola teoría económica al
 
 Es importante señalar que "Inventar el Futuro" no se centra exclusivamente en discutir teorías económicas alternativas, sino en argumentar a favor de un cambio radical en cómo la sociedad organiza el trabajo y la producción, en respuesta a los desarrollos tecnológicos y los desafíos contemporáneos. Los autores buscan inspirar un debate sobre cómo podemos construir un futuro más equitativo y sostenible, más allá de los límites del pensamiento económico neoclásico.
 
-Que ejemplos concretos de otras economías dan en el libro? 
+---
+
+🙋 **You:**
+
+Que ejemplos concretos de otras economías dan en el libro?
+
+---
+
+🤖 **Assistant:**
 
 En "Inventar el Futuro: Postcapitalismo y un Mundo Sin Trabajo", Nick Srnicek y Alex Williams proponen diversas estrategias y políticas para alcanzar una sociedad post-trabajo. Aunque el libro es más teórico y se centra en argumentar a favor de grandes cambios estructurales, incluyendo la automatización y la implementación de una renta básica universal, los autores también hacen referencia a algunos ejemplos y casos de estudio para ilustrar cómo diferentes ideas y políticas pueden funcionar en práctica. Aquí hay un resumen de los tipos de ejemplos y áreas que abordan:
 
@@ -52,7 +60,15 @@ En "Inventar el Futuro: Postcapitalismo y un Mundo Sin Trabajo", Nick Srnicek y 
 
 "Inventar el Futuro" actúa más como un llamado a la acción y un marco para pensar en posibilidades futuras que como un análisis detallado de ejemplos existentes de economías alternativas. Su enfoque está en cómo las tecnologías actuales podrían usarse para crear una sociedad más igualitaria y libre, más que en documentar casos de estudio específicos de estas ideas en práctica.
 
-Concretamente ejemplos, como una cooperativa que menciona. Dime nombres concretos de iniciativas 
+---
+
+🙋 **You:**
+
+Concretamente ejemplos, como una cooperativa que menciona. Dime nombres concretos de iniciativas
+
+---
+
+🤖 **Assistant:**
 
 Lo lamento, mi error anteriormente. "Inventar el Futuro" de Nick Srnicek y Alex Williams se centra más en la teoría y las propuestas a alto nivel que en brindar ejemplos detallados de iniciativas específicas como cooperativas o proyectos concretos. Su enfoque principal es argumentar por cambios estructurales significativos en la sociedad que faciliten una transición hacia un mundo post-trabajo, más que detallar casos específicos de iniciativas económicas alternativas.
 
@@ -70,7 +86,15 @@ Sin embargo, si estás interesado en ejemplos concretos fuera del libro, puedo m
 
 Estos ejemplos representan algunas de las maneras en que las ideas sobre economías alternativas y post-trabajo están siendo exploradas y puestas en práctica alrededor del mundo.
 
+---
+
+🙋 **You:**
+
 Ahora dame concretos ejemplos en Latam de iniciativas de esa naturaleza
+
+---
+
+🤖 **Assistant:**
 
 En América Latina, diversas iniciativas reflejan la búsqueda de alternativas económicas que se alinean con algunos de los principios discutidos en "Inventar el Futuro". Estas iniciativas abarcan desde cooperativas hasta proyectos de economía social y solidaria. A continuación, se presentan algunos ejemplos concretos:
 

@@ -3,20 +3,15 @@ title: Add Commas to Ruby Array
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  ["
 draft: false
 ---
 
 # Add Commas to Ruby Array
 
-## ✅ TODOs
-
-
-## 📌 Summary
-[
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 [
    32   ┆ ┆ ┆ 'No.'
@@ -35,6 +30,10 @@ draft: false
 >> 45   ┆ ┆ ].freeze
 
 How can I add commas to all the lines except the last one with vim? It's a ruby array
+
+---
+
+🤖 **Assistant:**
 
 You can add commas to all lines except for the last one in Vim by using the following steps:
 

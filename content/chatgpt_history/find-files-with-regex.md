@@ -3,22 +3,22 @@ title: Find Files with Regex
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  In nvchad how can I find files by regex when I press
+  SPACE + f + f"
 draft: false
 ---
 
 # Find Files with Regex
 
-## ✅ TODOs
-
-
-## 📌 Summary
-In nvchad how can I find files by regex when I press SPACE + f + f
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 In nvchad how can I find files by regex when I press SPACE + f + f
+
+---
+
+🤖 **Assistant:**
 
 In NvChad, a popular Neovim configuration, you can find files using regular expressions (regex) by using the built-in Telescope functionality. To achieve this after pressing `SPACE + f + f`, which is the default keybinding to open Telescope's file finder, you can follow these steps:
 
@@ -38,7 +38,15 @@ If NvChad does not have a direct keybinding or mode for regex searching within T
 
 For more specific instructions or troubleshooting, consulting the NvChad and Telescope documentation is recommended, as they provide detailed information on customization and available features. Additionally, the NvChad community, found on platforms like GitHub or Discord, can be a valuable resource for personalized assistance.
 
+---
+
+🙋 **You:**
+
 So telescope also handles SPC f w ? I'd like to get the vscode functionality of search a pattern in specific files
+
+---
+
+🤖 **Assistant:**
 
 Telescope, an extensible fuzzy finder over lists, is indeed a powerful tool in the Neovim ecosystem, and it can be used to achieve functionality similar to VSCode's pattern search in specific files. However, the exact keybindings may vary based on your Neovim configuration, especially if you are using a customized setup like NvChad.
 

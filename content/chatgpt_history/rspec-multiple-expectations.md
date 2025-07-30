@@ -4,7 +4,7 @@ tags:
 - my_method
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  rspec multiple expectations inline comment how to"
 draft: false
 ---
 
@@ -13,13 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] so and if you're confident that the disabled code is correct and won't cause any issues.
 
-## 📌 Summary
-rspec multiple expectations inline comment how to
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 rspec multiple expectations inline comment how to
+
+---
+
+🤖 **Assistant:**
 
 To write multiple expectations in an RSpec test using inline comments, you can separate each expectation with a semicolon (;) and add an inline comment after each expectation. Here's an example:
 
@@ -40,7 +42,15 @@ In the above example, three expectations are written in one line, separated by s
 
 However, it's important to note that while this can be a useful technique for shortening your test code, it can also make your tests harder to read and understand. So it's generally a good idea to use it sparingly and only when it improves readability.
 
+---
+
+🙋 **You:**
+
 disable rubocop inline
+
+---
+
+🤖 **Assistant:**
 
 To disable Rubocop for a specific line of code, you can add a comment with the `rubocop:disable` directive followed by the specific cop that you want to disable. Here's an example:
 
@@ -60,7 +70,15 @@ In the above example, the `Metrics/AbcSize` and `Style/MethodCallWithArgsParenth
 
 Note that while disabling Rubocop can be useful in some cases, it should be used with caution, as it can make your code less readable and maintainable. Only disable cops if you have a good reason to do so and if you're confident that the disabled code is correct and won't cause any issues.
 
+---
+
+🙋 **You:**
+
 two directives disabled, same line
+
+---
+
+🤖 **Assistant:**
 
 To disable multiple Rubocop directives for the same line, you can separate the directive names with a comma. Here's an example:
 

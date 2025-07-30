@@ -3,27 +3,24 @@ title: Creating notes with templates
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Creating a note via a template link"
 draft: false
 ---
 
 # Creating notes with templates
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Creating a note via a template link
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Creating a note via a template link
 https://www.reddit.com/r/ObsidianMD/comments/14h317c/creating_a_note_via_a_template_link/
 https://forum.obsidian.md/t/automatic-wikilink-template/85131
 How can I achieve this today? Dig into Obsidian current features and famous plugins
 
+---
 
+🤖 **Assistant:**
 
 To automatically create notes from templates when clicking on non-existent links in Obsidian, you can utilize the **Templater** plugin's folder templates feature. This allows you to specify that any new note created within a particular folder will have a designated template applied automatically.
 
@@ -47,9 +44,17 @@ How can I achieve this today? Dig into Obsidian current features and famous plug
 
 citeturn0fetch0
 
-By implementing this setup, you can streamline your note-taking process, ensuring consistency and efficiency across your Obsidian vault. 
+By implementing this setup, you can streamline your note-taking process, ensuring consistency and efficiency across your Obsidian vault.
+
+---
+
+🙋 **You:**
 
 Put the proper path in templater config and created a new file called 3_resources/templates/recovery/emotions log, being that an arbitrary note title to hypothetically get the template injected
+
+---
+
+🤖 **Assistant:**
 
 Now that you've set up the **Templater** plugin and created your template file (`3_resources/templates/recovery/emotions log`), follow these steps to ensure that new notes in the correct folder automatically use this template:
 

@@ -3,22 +3,21 @@ title: Sales Science Book Summary
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Resumen de The Science of Selling"
 draft: false
 ---
 
 # Sales Science Book Summary
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Resumen de The Science of Selling
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Resumen de The Science of Selling
+
+---
+
+🤖 **Assistant:**
 
 "The Science of Selling" by David Hoffeld is a comprehensive guide that applies scientific research from psychology, neuroscience, and behavioral economics to improve sales techniques. The book is divided into multiple parts, each focusing on different aspects of selling.
 

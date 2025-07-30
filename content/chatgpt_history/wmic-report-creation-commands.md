@@ -3,20 +3,15 @@ title: WMIC Report Creation Commands
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  ## Activity File: Creating a Report with wmic Output"
 draft: false
 ---
 
 # WMIC Report Creation Commands
 
-## ✅ TODOs
-
-
-## 📌 Summary
-## Activity File: Creating a Report with wmic Output
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 ## Activity File: Creating a Report with wmic Output
 
@@ -66,7 +61,9 @@ Continue to use the Windows RDP Host machine as the `azadmin` user. Remember to 
 
 Give the cmd commands to execute for each task
 
+---
 
+🤖 **Assistant:**
 
 Sure, here are the commands you'll need to run for each task.
 

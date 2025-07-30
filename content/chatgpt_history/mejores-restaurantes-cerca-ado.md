@@ -4,24 +4,22 @@ tags:
 - '496'
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Mejor lugar yucateco para cenar que quede cerca del
+  ADO en Mérida"
 draft: false
 ---
 
 # Mejores restaurantes cerca ADO
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Mejor lugar yucateco para cenar que quede cerca del ADO en Mérida
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Mejor lugar yucateco para cenar que quede cerca del ADO en Mérida 
+Mejor lugar yucateco para cenar que quede cerca del ADO en Mérida
 
+---
 
+🤖 **Assistant:**
 
 Si buscas una auténtica experiencia culinaria yucateca cerca de la terminal ADO en Mérida, aquí te presento algunas opciones destacadas:
 

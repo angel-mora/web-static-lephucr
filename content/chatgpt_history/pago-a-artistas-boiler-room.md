@@ -3,24 +3,22 @@ title: Pago a artistas Boiler Room
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  cuanto le pagan a artistas que tocan en el boiler room,
+  como arca"
 draft: false
 ---
 
 # Pago a artistas Boiler Room
 
-## ✅ TODOs
-
-
-## 📌 Summary
-cuanto le pagan a artistas que tocan en el boiler room, como arca
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 cuanto le pagan a artistas que tocan en el boiler room, como arca
 
+---
 
+🤖 **Assistant:**
 
 La información específica sobre los pagos que Boiler Room ofrece a los artistas para sus presentaciones no es de dominio público, ya que estos acuerdos suelen ser confidenciales y varían según diversos factores, como la popularidad del artista, la duración del set y la ubicación del evento.
 

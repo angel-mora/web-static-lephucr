@@ -3,24 +3,22 @@ title: Ganancia secundaria vs goce
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuál es la diferencia entre ganancia secundaria y goce
+  en el psicoanálisis? Dame una respuesta comprensiva"
 draft: false
 ---
 
 # Ganancia secundaria vs goce
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cuál es la diferencia entre ganancia secundaria y goce en el psicoanálisis? Dame una respuesta comprensiva
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cuál es la diferencia entre ganancia secundaria y goce en el psicoanálisis? Dame una respuesta comprensiva
 
+---
 
+🤖 **Assistant:**
 
 En el psicoanálisis, **ganancia secundaria** y **goce** son conceptos distintos, aunque ambos se relacionan con la manera en que los individuos pueden sostener síntomas o patrones de comportamiento que parecen "negativos" a primera vista.
 

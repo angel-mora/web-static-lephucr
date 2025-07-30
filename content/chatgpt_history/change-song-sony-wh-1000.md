@@ -3,24 +3,21 @@ title: Change Song Sony WH-1000
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Change song in Sony headphones WH-100"
 draft: false
 ---
 
 # Change Song Sony WH-1000
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Change song in Sony headphones WH-100
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Change song in Sony headphones WH-100
 
+---
 
+🤖 **Assistant:**
 
 To change the song on your Sony WH-1000 series headphones, you can use the touch controls located on the right earcup. Here's how:
 

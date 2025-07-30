@@ -3,22 +3,22 @@ title: Aditivos y alergias alimentarias
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Principales aditivos alimenticios y cuales produce
+  vómito como alergia comúnmente"
 draft: false
 ---
 
 # Aditivos y alergias alimentarias
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Principales aditivos alimenticios y cuales produce vómito como alergia comúnmente
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Principales aditivos alimenticios y cuales produce vómito como alergia comúnmente 
+Principales aditivos alimenticios y cuales produce vómito como alergia comúnmente
+
+---
+
+🤖 **Assistant:**
 
 Los aditivos alimentarios más propensos a provocar reacciones alérgicas incluyen colorantes y conservantes. La tartracina, un colorante que produce tonos amarillos, anaranjados y, al mezclarse con otros, colores verdes o azulados, es particularmente conocida por desencadenar alergias. En cuanto a los conservantes, los benzoatos encabezan la lista【6†fuente】【10†fuente】.
 

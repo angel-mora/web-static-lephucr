@@ -9,24 +9,21 @@ tags:
 - public_methods
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to see all methods of a class in ruby"
 draft: false
 ---
 
 # Listing Ruby Class Methods
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How to see all methods of a class in ruby
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to see all methods of a class in ruby
 
+---
 
+🤖 **Assistant:**
 
 In Ruby, you can list all methods of a class using several methods:
 

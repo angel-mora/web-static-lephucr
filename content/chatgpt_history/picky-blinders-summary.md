@@ -3,24 +3,21 @@ title: Picky Blinders Summary
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Picky blinders serie"
 draft: false
 ---
 
 # Picky Blinders Summary
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Picky blinders serie
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Picky blinders serie
 
+---
 
+🤖 **Assistant:**
 
 "Picky Blinders" is a crime drama series created by Steven Knight. The show is set in Birmingham, England, and follows the exploits of the Shelby crime family in the aftermath of World War I. The series is known for its stylish cinematography, compelling storylines, and strong performances, particularly by Cillian Murphy, who plays the lead role of Thomas Shelby.
 

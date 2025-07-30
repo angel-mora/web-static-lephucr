@@ -3,22 +3,21 @@ title: Concurrency vs Parallelism
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Explain concurrency vs paralelism. I know js and ruby"
 draft: false
 ---
 
 # Concurrency vs Parallelism
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Explain concurrency vs paralelism. I know js and ruby
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Explain concurrency vs paralelism. I know js and ruby
+
+---
+
+🤖 **Assistant:**
 
 Concurrency and parallelism are two concepts often used in programming, including in languages like JavaScript and Ruby. Understanding the distinction between them is crucial for writing efficient and effective code.
 

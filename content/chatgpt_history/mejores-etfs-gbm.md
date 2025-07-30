@@ -3,24 +3,22 @@ title: Mejores ETFs GBM
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Mejores ETFs para comprar a través de GBM con los rendimientos
+  históricos más altos de los últimos 30 años. Desagrega la info"
 draft: false
 ---
 
 # Mejores ETFs GBM
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Mejores ETFs para comprar a través de GBM con los rendimientos históricos más altos de los últimos 30 años. Desagrega la info
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Mejores ETFs para comprar a través de GBM con los rendimientos históricos más altos de los últimos 30 años. Desagrega la info
 
+---
 
+🤖 **Assistant:**
 
 Para invertir en ETFs a través de GBM con un buen rendimiento histórico, aquí te presento algunas de las mejores opciones, basadas en su desempeño a largo plazo:
 

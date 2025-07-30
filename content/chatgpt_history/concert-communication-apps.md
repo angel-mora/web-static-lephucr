@@ -3,24 +3,21 @@ title: Concert Communication Apps
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  App to communicate in concerts, iPhone"
 draft: false
 ---
 
 # Concert Communication Apps
 
-## ✅ TODOs
-
-
-## 📌 Summary
-App to communicate in concerts, iPhone
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-App to communicate in concerts, iPhone 
+App to communicate in concerts, iPhone
 
+---
 
+🤖 **Assistant:**
 
 Communicating effectively during concerts can be challenging due to high noise levels. Several iPhone apps are designed to facilitate communication in such environments:
 
@@ -54,9 +51,17 @@ App to communicate in concerts, iPhone
 This app allows you to participate in various events related to your favorite artists, receive notifications, and engage with other fans worldwide. It's a platform to communicate with artists and fellow fans, enhancing your concert experience. citeturn0search10
 :::
 
-These apps can enhance your concert experience by enabling communication and interaction despite the challenging acoustics of live events. 
+These apps can enhance your concert experience by enabling communication and interaction despite the challenging acoustics of live events.
+
+---
+
+🙋 **You:**
 
 No, I mean like a local radio to comunícate with other iPhones without signal
+
+---
+
+🤖 **Assistant:**
 
 Communicating during concerts without cellular or Wi-Fi connectivity is possible on iPhones through apps that utilize Bluetooth and Wi-Fi to create local networks. Here are some options to consider:
 

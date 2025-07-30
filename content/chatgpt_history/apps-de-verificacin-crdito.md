@@ -3,7 +3,8 @@ title: Apps de verificación crédito.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hay alguna app como Deel con RRHH pero para calcular
+  historial crediticio en diferentes países?"
 draft: false
 ---
 
@@ -12,13 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s alternativos para evaluar la capacidad crediticia, especialmente útiles para personas que no tienen historial crediticio tradicional【6†source】.
 
-## 📌 Summary
-Hay alguna app como Deel con RRHH pero para calcular historial crediticio en diferentes países?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Hay alguna app como Deel con RRHH pero para calcular historial crediticio en diferentes países? 
+Hay alguna app como Deel con RRHH pero para calcular historial crediticio en diferentes países?
+
+---
+
+🤖 **Assistant:**
 
 Existen varias aplicaciones que pueden ayudarte a calcular y monitorear tu historial crediticio en diferentes países, especialmente en Estados Unidos. Algunas de las más destacadas son:
 
@@ -40,13 +43,25 @@ Existen varias aplicaciones que pueden ayudarte a calcular y monitorear tu histo
 
 Estas aplicaciones son herramientas valiosas para aquellos que buscan mantener su crédito en buen estado y tomar decisiones financieras informadas. Aunque no pueden garantizar la exactitud de tu informe de crédito, ya que la información es suministrada por terceros, son una excelente manera de monitorear y mejorar tu historial crediticio【8†source】.
 
-Alguna tiene api? 
+---
+
+🙋 **You:**
+
+Alguna tiene api?
+
+---
+
+🤖 **Assistant:**
 
 Experian ofrece una API, conocida como Experian Connect API, que permite integrar servicios de compartición de crédito directamente en tus propios sitios web y aplicaciones móviles. Esta API ofrece diversas opciones de integración para adaptarse a tus necesidades específicas. Con ella, puedes facilitar el acceso al informe de crédito de tus clientes sin que tengan que abandonar tu sitio, entre otras funcionalidades【14†source】.
 
 Además, Experian ha lanzado cinco nuevas APIs a través de su API Hub. Estas herramientas permiten integrar varios tipos de datos de Experian dentro de tus sistemas, incluyendo perfiles de crédito del consumidor, puntuaciones de crédito, y más. La integración con estas APIs de Experian es sencilla y eficiente, ofreciendo soluciones en cuestión de minutos. Las APIs incluyen Consumer Credit Profile V2, Extended View Score Only, Extended View Attributes Only, Extended View Attributes and Score, y Standard Prequalification【15†source】.
 
 Puedes visitar [Experian Connect API](https://www.experian.com/connect/api/) y [Experian Global Developer](https://developer.experian.com/blogs/5-brand-new-apis-have-been-released-experians-api-hub) para obtener más información sobre estas APIs y cómo empezar a utilizarlas.
+
+---
+
+🤖 **Assistant:**
 
 Experian ofrece una serie de APIs a través de su API Hub, que incluyen nuevas herramientas para integrar varios tipos de datos de Experian en tus sistemas. Estas APIs permiten, entre otras cosas, recuperar perfiles de crédito con puntajes y complementos solicitados【16†source】【17†source】【18†source】【19†source】【20†source】.
 

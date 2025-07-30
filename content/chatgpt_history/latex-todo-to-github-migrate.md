@@ -3,7 +3,8 @@ title: 'LaTeX \todo to GitHub: Migrate.'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What is the easiest way to move a bunch of TODOs from
+  LaTeX \\todo library to simple GitHub issues"
 draft: false
 ---
 
@@ -21,13 +22,15 @@ draft: false
 - [ ] {}` command and captures the content of the curly braces, which is the text of the TODO.
 - [ ] \{(.+?)\}`
 
-## 📌 Summary
-What is the easiest way to move a bunch of TODOs from LaTeX \todo library to simple GitHub issues
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What is the easiest way to move a bunch of TODOs from LaTeX \todo library to simple GitHub issues
+
+---
+
+🤖 **Assistant:**
 
 One possible way to move a bunch of TODOs from LaTeX \todo library to GitHub issues is:
 
@@ -43,8 +46,16 @@ One possible way to move a bunch of TODOs from LaTeX \todo library to GitHub iss
 
 By following these steps, you should be able to efficiently migrate your TODOs from LaTeX \todo library to GitHub issues, which can help you keep better track of your project tasks and progress.
 
+---
+
+🙋 **You:**
+
 Provide the regular expression, replace the word text with any matching string content:
 \todo{text}
+
+---
+
+🤖 **Assistant:**
 
 To remove the LaTeX-specific syntax and leave only the text of the TODOs, you can use the following regular expression:
 
@@ -65,7 +76,15 @@ So the final find-and-replace command would look like this:
 Find: `\\todo\{(.+?)\}`
 Replace: `$1`
 
+---
+
+🙋 **You:**
+
 How can I make vscode search to copy to clipboard the matching lines
+
+---
+
+🤖 **Assistant:**
 
 You can use the built-in search functionality in Visual Studio Code to copy matching lines to the clipboard by following these steps:
 

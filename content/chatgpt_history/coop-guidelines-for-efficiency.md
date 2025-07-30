@@ -3,7 +3,10 @@ title: Coop Guidelines for Efficiency
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que habilidades debe tener un asambleísta de una cooperativa
+  para crear una cultura de trabajo de ser eficiente y escalable? Pienso en tecnologías
+  sociales como lo desarrollado en el libro “Asambleas y Reuniones” y “ Micropoliticas
+  de los grupos”."
 draft: false
 ---
 
@@ -15,13 +18,15 @@ draft: false
 - [ ] s los miembros en la toma de decisiones. Esto puede involucrar la implementación de procesos democráticos y la promoción de una cultura de empoderamiento.
 - [ ] s tienen voz. Veo mi papel como colaborador activo, dispuesto a asumir responsabilidades y contribuir al bien común.
 
-## 📌 Summary
-Que habilidades debe tener un asambleísta de una cooperativa para crear una cultura de trabajo de ser eficiente y escalable? Pienso en tecnologías sociales como lo desarrollado en el libro “Asambleas y Reuniones” y “ Micropoliticas de los grupos”.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que habilidades debe tener un asambleísta de una cooperativa para crear una cultura de trabajo de ser eficiente y escalable? Pienso en tecnologías sociales como lo desarrollado en el libro “Asambleas y Reuniones” y “ Micropoliticas de los grupos”.
+
+---
+
+🤖 **Assistant:**
 
 Un asambleísta en una cooperativa que busca crear una cultura de trabajo eficiente y escalable debe poseer una serie de habilidades y comprender ciertos principios clave. Aquí tienes algunos que podrían ser especialmente relevantes, considerando las tecnologías sociales y las referencias que has mencionado:
 
@@ -47,7 +52,15 @@ Un asambleísta en una cooperativa que busca crear una cultura de trabajo eficie
 
 Estas habilidades y principios, cuando se aplican de manera efectiva, pueden ayudar a un asambleísta a fomentar una cultura de trabajo que sea tanto eficiente como escalable en una cooperativa.
 
+---
+
+🙋 **You:**
+
 Que otros libros recomiendas similares a los que te mencione? Tienen que hablar sobre tecnologías de organización social y sobre gestión de bienes comunes
+
+---
+
+🤖 **Assistant:**
 
 ¡Por supuesto! Si estás interesado en tecnologías de organización social y gestión de bienes comunes, los siguientes libros podrían ser de gran interés:
 
@@ -73,7 +86,15 @@ Que otros libros recomiendas similares a los que te mencione? Tienen que hablar 
 
 Estos libros ofrecen diversas perspectivas sobre tecnologías sociales, organización colaborativa y gestión de recursos comunes, y deberían proporcionar una amplia comprensión de estos temas complejos y vitales.
 
+---
+
+🙋 **You:**
+
 Gracias! Si hubiese algún otro libro de carácter más práctico que hayas omitido, compártelo.
+
+---
+
+🤖 **Assistant:**
 
 ¡Por supuesto! Si estás buscando un enfoque más práctico, el siguiente libro podría ser de particular interés:
 
@@ -81,7 +102,15 @@ Gracias! Si hubiese algún otro libro de carácter más práctico que hayas omit
 
 Este manual es altamente recomendable para aquellos que buscan un enfoque más "manos a la obra" en la facilitación de grupos y la toma de decisiones colaborativas.
 
+---
+
+🙋 **You:**
+
 Excelente! Ahora dame guidelines comunes de una empresa (misión, visión, etc) cooperativa considerando los compromisos Intersecciónales que mencionaste anteriormente (ambiental, etc). Debe plantear los conceptos y guidelines para llenar esos valores.
+
+---
+
+🤖 **Assistant:**
 
 Por supuesto, las empresas cooperativas suelen tener una estructura y valores únicos que se reflejan en sus guías y principios. Aquí hay una estructura que podría ayudar a definir los conceptos y directrices para una cooperativa, considerando los compromisos interseccionales como el medio ambiente, la responsabilidad social, la colaboración, entre otros.
 
@@ -118,7 +147,15 @@ Por supuesto, las empresas cooperativas suelen tener una estructura y valores ú
 
 Esta estructura puede adaptarse y expandirse según las necesidades y valores específicos de la cooperativa. Al incorporar estos conceptos y directrices en su planificación y operación, una cooperativa puede trabajar de manera coherente hacia sus objetivos, alineada con sus compromisos interseccionales.
 
+---
+
+🙋 **You:**
+
 Ahora dame una entrevista y evaluación de respuestas para reclutar para mi cooperativa
+
+---
+
+🤖 **Assistant:**
 
 ¡Claro! Aquí tienes un ejemplo de una entrevista para reclutar a un candidato para tu cooperativa. Los comentarios de evaluación ofrecen una visión de cómo podrían interpretarse las respuestas del candidato.
 

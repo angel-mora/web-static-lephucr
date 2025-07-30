@@ -3,22 +3,22 @@ title: Preparación física para MMA
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Como preparar tobillos, rodillas, cuadriceps y cuello
+  para formación de mma (wrestling, jiujitsu, muai thai, etc)"
 draft: false
 ---
 
 # Preparación física para MMA
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Como preparar tobillos, rodillas, cuadriceps y cuello para formación de mma (wrestling, jiujitsu, muai thai, etc)
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Como preparar tobillos, rodillas, cuadriceps y cuello para formación de mma (wrestling, jiujitsu, muai thai, etc) 
+Como preparar tobillos, rodillas, cuadriceps y cuello para formación de mma (wrestling, jiujitsu, muai thai, etc)
+
+---
+
+🤖 **Assistant:**
 
 Preparar tobillos, rodillas, cuádriceps y cuello para la formación en artes marciales mixtas (MMA), que incluyen disciplinas como lucha libre, jiujitsu y muay thai, es fundamental para prevenir lesiones y mejorar el rendimiento. Aquí te dejo algunos consejos y ejercicios específicos para cada área:
 
@@ -65,7 +65,15 @@ Preparar tobillos, rodillas, cuádriceps y cuello para la formación en artes ma
 
 Es crucial consultar con un entrenador especializado o un fisioterapeuta para obtener un programa de entrenamiento adaptado específicamente a tus necesidades y metas en MMA, asegurando así un enfoque seguro y efectivo.
 
+---
+
+🙋 **You:**
+
 Me refiero a como ponerse duro, agarrar callo, para soportar mejor los golpes y para caer mejor
+
+---
+
+🤖 **Assistant:**
 
 Para "endurecer" el cuerpo y aumentar la resistencia a los golpes, así como mejorar la técnica para caídas en artes marciales mixtas, hay varias estrategias y ejercicios que puedes implementar. Estas prácticas no solo te ayudarán a "agarrar callo", sino también a disminuir el riesgo de lesiones durante el entrenamiento y la competencia.
 

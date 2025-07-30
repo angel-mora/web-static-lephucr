@@ -3,22 +3,23 @@ title: Nutrition and Weight Loss
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hazme una consultoría holística sobre cómo eliminar
+  la grasa abdominal donde me harás preguntas sobre edad, estatura, etc y recomendarás
+  macronutrientes, horas para comer y tipos de ejercicios."
 draft: false
 ---
 
 # Nutrition and Weight Loss
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Hazme una consultoría holística sobre cómo eliminar la grasa abdominal donde me harás preguntas sobre edad, estatura, etc y recomendarás macronutrientes, horas para comer y tipos de ejercicios.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Hazme una consultoría holística sobre cómo eliminar la grasa abdominal donde me harás preguntas sobre edad, estatura, etc y recomendarás macronutrientes, horas para comer y tipos de ejercicios.
+
+---
+
+🤖 **Assistant:**
 
 ¡Por supuesto! Vamos a empezar con tu consulta. A continuación, te haré algunas preguntas que me ayudarán a comprender mejor tu situación actual y a hacer recomendaciones personalizadas.
 
@@ -33,7 +34,15 @@ Hazme una consultoría holística sobre cómo eliminar la grasa abdominal donde 
 
 Cuando tengas todas las respuestas, podré proporcionarte una guía personalizada para ayudarte a alcanzar tus objetivos.
 
+---
+
+🙋 **You:**
+
 28, 175cm, 85kg, stretching 10 min al día y calistenia/lifting 3 veces a la semana, mejorar mi salud y estética, poca carne roja e indiferente al tipo de ejercicio aunque me gusta el box para cardio
+
+---
+
+🤖 **Assistant:**
 
 Excelente, gracias por compartir esa información. Aquí tienes un enfoque holístico que podrías seguir para eliminar la grasa abdominal. Recuerda, es recomendable hablar con un profesional en nutrición o un entrenador personal para asegurarte de que estas recomendaciones sean adecuadas para ti.
 
@@ -58,9 +67,17 @@ Excelente, gracias por compartir esa información. Aquí tienes un enfoque holí
 
 ¡Espero que estas recomendaciones te sean útiles! Si tienes alguna pregunta adicional o necesitas más detalles, no dudes en preguntar.
 
+---
+
+🙋 **You:**
+
 - Ppm en el límite entre beneficio cardiovascular y reducción de grasa 
 - Total de calorías 
-- Opinión concienzuda sobre intermitent fasting 
+- Opinión concienzuda sobre intermitent fasting
+
+---
+
+🤖 **Assistant:**
 
 ¡Por supuesto! Aquí tienes más detalles sobre los temas que has mencionado:
 

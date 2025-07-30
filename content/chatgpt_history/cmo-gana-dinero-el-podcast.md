@@ -3,24 +3,21 @@ title: Cómo gana dinero el podcast
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Como hace dinero The Dairy of a CEO?"
 draft: false
 ---
 
 # Cómo gana dinero el podcast
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Como hace dinero The Dairy of a CEO?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Como hace dinero The Dairy of a CEO?
 
+---
 
+🤖 **Assistant:**
 
 El podcast **The Diary of a CEO**, de Steven Bartlett, genera ingresos a través de varios modelos de negocio. Aquí te detallo las principales formas:
 

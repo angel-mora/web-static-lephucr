@@ -3,28 +3,36 @@ title: Regulaciones de venta anticipada
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Es cierto que no me pueden vender una receta en la
+  farmacia san Pablo si es del mes siguiente? Que dice la cofepris?"
 draft: false
 ---
 
 # Regulaciones de venta anticipada
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Es cierto que no me pueden vender una receta en la farmacia san Pablo si es del mes siguiente? Que dice la cofepris?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Es cierto que no me pueden vender una receta en la farmacia san Pablo si es del mes siguiente? Que dice la cofepris? 
+Es cierto que no me pueden vender una receta en la farmacia san Pablo si es del mes siguiente? Que dice la cofepris?
+
+---
+
+🤖 **Assistant:**
 
 Lamentablemente, no pude encontrar información específica sobre si las farmacias, como Farmacias San Pablo en México, pueden o no vender medicamentos con recetas fechadas para el mes siguiente. Sin embargo, según la COFEPRIS, una receta médica debe incluir la fecha en que se está proporcionando al paciente【40†source】【41†source】. Esto sugiere que la fecha en la receta es importante y podría influir en la validez de la misma para la dispensación de medicamentos.
 
 Para obtener una respuesta definitiva, te recomendaría contactar directamente a Farmacias San Pablo o consultar las regulaciones específicas de la COFEPRIS relacionadas con la validez y fechas de las recetas médicas.
 
+---
+
+🙋 **You:**
+
 Provee urls de verificación de cofepris recetas controlados
+
+---
+
+🤖 **Assistant:**
 
 Para verificar recetas de medicamentos controlados en México, la COFEPRIS ofrece varias herramientas y servicios. Aquí tienes algunos enlaces útiles:
 

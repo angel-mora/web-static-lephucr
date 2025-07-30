@@ -3,22 +3,28 @@ title: Formulario de Sidebar Eficiente
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tengo un sidebar que debe postear 4 categorias y varias
+  subcategorias dentro de esas categorias. Las voy a postear en un solo form. Cual
+  es la manera mas facil y eficiente de postearlas? Tengo duda si puedo usar el mismo
+  nombre de categoria en el label y pasar como value una subcategoria (son checkboxes)
+  o si me conviene mas poner labels especificos con categoria y subcategoria y dejar
+  el boolean por default para el checkbox. Este sidebar se actualizara dinamicamente
+  para dejar de mostrar las subcategorias que no tengan matches en la query de respuesta,
+  por lo que busco la forma mas eficiente y efectiva de handle those params."
 draft: false
 ---
 
 # Formulario de Sidebar Eficiente
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Tengo un sidebar que debe postear 4 categorias y varias subcategorias dentro de esas categorias. Las voy a postear en un solo form. Cual es la manera mas facil y eficiente de postearlas? Tengo duda si puedo usar el mismo nombre de categoria en el label y pasar como value una subcategoria (son checkboxes) o si me conviene mas poner labels especificos con categoria y subcategoria y dejar el boolean por default para el checkbox. Este sidebar se actualizara dinamicamente para dejar de mostrar las subcategorias que no tengan matches en la query de respuesta, por lo que busco la forma mas eficiente y efectiva de handle those params.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tengo un sidebar que debe postear 4 categorias y varias subcategorias dentro de esas categorias. Las voy a postear en un solo form. Cual es la manera mas facil y eficiente de postearlas? Tengo duda si puedo usar el mismo nombre de categoria en el label y pasar como value una subcategoria (son checkboxes) o si me conviene mas poner labels especificos con categoria y subcategoria y dejar el boolean por default para el checkbox. Este sidebar se actualizara dinamicamente para dejar de mostrar las subcategorias que no tengan matches en la query de respuesta, por lo que busco la forma mas eficiente y efectiva de handle those params.
+
+---
+
+🤖 **Assistant:**
 
 Para manejar eficientemente el envío de múltiples categorías y subcategorías en un solo formulario, especialmente cuando se trata de un sidebar que se actualiza dinámicamente basado en los resultados de una búsqueda o filtro, es importante considerar tanto la usabilidad para el usuario final como la facilidad de procesamiento de los datos en el backend. Aquí te ofrezco algunas sugerencias sobre cómo abordar este desafío:
 
@@ -51,7 +57,15 @@ En el backend, recibirás un objeto con los nombres de los campos como claves. P
 
 Esta aproximación equilibra la facilidad de uso para el usuario, la eficiencia en la manipulación de los datos en el frontend, y la simplicidad en el procesamiento de los datos en el backend.
 
+---
+
+🙋 **You:**
+
 Muestrame el body de ese objeto hipotetico
+
+---
+
+🤖 **Assistant:**
 
 Imaginemos que tienes un formulario con checkboxes para categorías y subcategorías como lo describí. Aquí te muestro cómo se vería el cuerpo del objeto enviado al backend después de que un usuario selecciona varias categorías y subcategorías. Supongamos que tenemos 2 categorías (`categoria1` y `categoria2`) y cada categoría tiene 2 subcategorías (`subcategoriaA` y `subcategoriaB`).
 

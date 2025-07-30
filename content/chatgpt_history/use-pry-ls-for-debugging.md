@@ -3,22 +3,22 @@ title: Use Pry ls for Debugging
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Can I use pry ls to see instances of different classes
+  in rspec or rails console debugging?"
 draft: false
 ---
 
 # Use Pry ls for Debugging
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Can I use pry ls to see instances of different classes in rspec or rails console debugging?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Can I use pry ls to see instances of different classes in rspec or rails console debugging? 
+Can I use pry ls to see instances of different classes in rspec or rails console debugging?
+
+---
+
+🤖 **Assistant:**
 
 Yes, you can use `pry` along with the `ls` command to see instances of different classes while debugging in RSpec or the Rails console. `Pry` is a powerful interactive shell for Ruby and offers advanced features for introspection and debugging. Here's how you can use it:
 

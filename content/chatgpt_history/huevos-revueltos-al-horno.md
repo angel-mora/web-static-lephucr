@@ -3,24 +3,22 @@ title: Huevos revueltos al horno
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Temperatura hacer huevos revueltos en horno, que queden
+  tiernitos"
 draft: false
 ---
 
 # Huevos revueltos al horno
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Temperatura hacer huevos revueltos en horno, que queden tiernitos
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Temperatura hacer huevos revueltos en horno, que queden tiernitos
 
+---
 
+🤖 **Assistant:**
 
 Para hacer huevos revueltos en el horno y que queden tiernos, sigue estos pasos:  
 

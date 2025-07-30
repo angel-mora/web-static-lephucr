@@ -3,22 +3,22 @@ title: Crecimiento Cetes vs SP500
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Haz una grafica comparando la utilidad a 20 años de
+  un cete mexicano vs sp500"
 draft: false
 ---
 
 # Crecimiento Cetes vs SP500
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Haz una grafica comparando la utilidad a 20 años de un cete mexicano vs sp500
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Haz una grafica comparando la utilidad a 20 años de un cete mexicano vs sp500
+
+---
+
+🤖 **Assistant:**
 
 Para comparar la utilidad a largo plazo de un Cete mexicano contra el índice S&P 500, necesitamos algunos supuestos clave, ya que el rendimiento histórico puede ser un indicador pero no una garantía de rendimientos futuros. A continuación, haré algunas suposiciones para realizar esta comparación:
 
@@ -28,9 +28,17 @@ Para comparar la utilidad a largo plazo de un Cete mexicano contra el índice S&
 
 Con estas suposiciones, podemos calcular el crecimiento de una inversión inicial de $10,000 en cada uno de estos instrumentos durante un período de 20 años. Vamos a realizar estos cálculos.
 
+---
+
+🤖 **Assistant:**
+
 Con una inversión inicial de $10,000 y después de 20 años, el valor futuro estimado para los Cetes sería aproximadamente $38,697, asumiendo una tasa de interés anual del 7%. Por otro lado, para el S&P 500, con un rendimiento anual promedio del 10%, el valor futuro estimado sería alrededor de $67,275.
 
 A continuación, crearemos un gráfico para visualizar cómo crece cada inversión a lo largo de los 20 años.
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes la gráfica que compara el crecimiento de una inversión inicial de $10,000 en Cetes y en el S&P 500 a lo largo de 20 años. Como puedes observar, la inversión en el S&P 500 crece significativamente más rápido que la inversión en Cetes debido a la diferencia en las tasas de rendimiento anuales (10% vs. 7%).
 

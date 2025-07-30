@@ -3,24 +3,22 @@ title: Espuma y sobredosis de drogas
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Por qué saca espuma de la boca una persona cuando está
+  overdosed? Que drogas pueden causarte overdose más fácilmente?"
 draft: false
 ---
 
 # Espuma y sobredosis de drogas
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Por qué saca espuma de la boca una persona cuando está overdosed? Que drogas pueden causarte overdose más fácilmente?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Por qué saca espuma de la boca una persona cuando está overdosed? Que drogas pueden causarte overdose más fácilmente?
 
+---
 
+🤖 **Assistant:**
 
 La espuma en la boca durante una **sobredosis (overdose)** suele ser un signo de actividad convulsiva o de insuficiencia respiratoria. Cuando alguien experimenta una sobredosis grave, el cuerpo puede reaccionar de diversas maneras, como la producción excesiva de saliva y mucosidad, y si la persona no puede tragarla adecuadamente debido a la pérdida de conciencia o convulsiones, puede acumularse en la boca y mezclarse con aire, formando espuma.
 

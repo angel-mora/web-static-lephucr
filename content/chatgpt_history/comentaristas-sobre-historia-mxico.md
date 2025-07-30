@@ -3,24 +3,22 @@ title: Comentaristas sobre historia México
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cómo se llama comentarista medio chairo que habla sobre
+  historia y economía y imperialismo en México?"
 draft: false
 ---
 
 # Comentaristas sobre historia México
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cómo se llama comentarista medio chairo que habla sobre historia y economía y imperialismo en México?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cómo se llama comentarista medio chairo que habla sobre historia y economía y imperialismo en México?
 
+---
 
+🤖 **Assistant:**
 
 Podrías estar pensando en **Juan Miguel Zunzunegui** o **John M. Ackerman**.  
 
@@ -29,7 +27,15 @@ Podrías estar pensando en **Juan Miguel Zunzunegui** o **John M. Ackerman**.
 
 Si buscas a alguien más, dime más detalles y te ayudo a encontrarlo.
 
+---
+
+🙋 **You:**
+
 No, es más como conspiranoico de izquierda
+
+---
+
+🤖 **Assistant:**
 
 Podrías estar pensando en **Rafael Barajas "El Fisgón"** o **Pedro Miguel**.  
 
@@ -38,7 +44,15 @@ Podrías estar pensando en **Rafael Barajas "El Fisgón"** o **Pedro Miguel**.
 
 Si no es ninguno de ellos, dime más detalles y lo buscamos.
 
-Es más viejo 
+---
+
+🙋 **You:**
+
+Es más viejo
+
+---
+
+🤖 **Assistant:**
 
 Podrías estar pensando en **Alfredo Jalife-Rahme**.  
 
@@ -46,12 +60,14 @@ Es un comentarista y analista geopolítico que habla mucho sobre imperialismo, e
 
 ¿Ese es el que buscas?
 
+---
+
+🙋 **You:**
+
 Si, gracias!!
 
+---
 
-
-
-
-
+🤖 **Assistant:**
 
 ¡De nada! Si necesitas más ayuda o información, no dudes en preguntar.

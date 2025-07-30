@@ -3,26 +3,25 @@ title: Pattern Match in nvchad
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  In nvchad I want to"
 draft: false
 ---
 
 # Pattern Match in nvchad
 
-## ✅ TODOs
-
-
-## 📌 Summary
-In nvchad I want to
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 In nvchad I want to 
 :%s/expect(/is_expected.
 but I want it to pattern match all content inside the expect, like:
 :%s/expect(*)/is_expected.
 How do I achieve this?
+
+---
+
+🤖 **Assistant:**
 
 To perform a pattern match for content inside the `expect(` in nvchad, you can use regular expressions with Vim's search and replace (`:s`) command. Here's how you can achieve this:
 

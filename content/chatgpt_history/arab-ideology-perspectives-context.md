@@ -3,22 +3,24 @@ title: 'Arab Ideology: Perspectives & Context'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I want to understand the arab ideology over time. Provide
+  book references, preferably cultural/antropological/historical but that also consider
+  war/military positions. One of them from an IDF academic and one of them from a
+  palestine-side perspective."
 draft: false
 ---
 
 # Arab Ideology: Perspectives & Context
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I want to understand the arab ideology over time. Provide book references, preferably cultural/antropological/historical but that also consider war/military positions. One of them from an IDF academic and one of them from a palestine-side perspective.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I want to understand the arab ideology over time. Provide book references, preferably cultural/antropological/historical but that also consider war/military positions. One of them from an IDF academic and one of them from a palestine-side perspective.
+
+---
+
+🤖 **Assistant:**
 
 Understanding the Arab ideology over time, especially in the context of cultural, anthropological, historical, and military perspectives, requires delving into a broad and complex field of study. Here are some book recommendations that span these areas, including viewpoints from both an Israeli Defense Forces (IDF) academic perspective and a Palestinian perspective. These books provide a variety of insights into the socio-political dynamics, historical context, and cultural aspects of Arab societies, as well as the Israeli-Palestinian conflict.
 

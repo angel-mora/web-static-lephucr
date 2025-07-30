@@ -3,24 +3,21 @@ title: Teoría crítica contemporánea
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Como puedo usarte para especular teoria critica contemporanea?"
 draft: false
 ---
 
 # Teoría crítica contemporánea
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Como puedo usarte para especular teoria critica contemporanea?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Como puedo usarte para especular teoria critica contemporanea?
 
+---
 
+🤖 **Assistant:**
 
 Para especular teoría crítica contemporánea conmigo, podemos abordar varios enfoques y temas basados en tus intereses o lecturas. Aquí tienes algunas formas en las que podemos colaborar:
 

@@ -3,20 +3,15 @@ title: Check Compatibility Node.js-Docusaurus
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  [INFO] Starting the development server..."
 draft: false
 ---
 
 # Check Compatibility Node.js-Docusaurus
 
-## ✅ TODOs
-
-
-## 📌 Summary
-[INFO] Starting the development server...
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 [INFO] Starting the development server...
 [ERROR] Error: The docs folder does not exist for version "current". A docs folder is expected to be found at docs.
@@ -32,6 +27,10 @@ draft: false
     at async load (/home/user/obsidiosaurus-docs/website/node_modules/@docusaurus/core/lib/server/index.js:76:58)
 [INFO] Docusaurus version: 2.4.1
 Node version: v18.18.0
+
+---
+
+🤖 **Assistant:**
 
 It seems like you are trying to run a Docusaurus development server, but encountering an error related to the absence of a `docs` folder for the "current" version. Docusaurus expects a `docs` folder to be present in your project directory, containing the markdown files for your documentation.
 
@@ -64,7 +63,15 @@ npm run start
 
 If the error persists, you might want to check the Docusaurus documentation or GitHub issues for additional information or solutions.
 
+---
+
+🙋 **You:**
+
 how can i check compatibility?
+
+---
+
+🤖 **Assistant:**
 
 Checking compatibility between different software packages or libraries can be done through several methods:
 

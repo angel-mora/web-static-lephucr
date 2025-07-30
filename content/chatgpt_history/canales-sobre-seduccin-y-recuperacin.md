@@ -3,24 +3,24 @@ title: Canales sobre seducción y recuperación
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Quiero un canal en youtube para ver tips sobre cómo
+  ligar, cómo ser más seductor, cómo ganar amigxs. Soy adicto sexual en recuperación
+  y muchas veces me siento indeseable para las personas que me atraen. Puede ser en
+  español o en inglés"
 draft: false
 ---
 
 # Canales sobre seducción y recuperación
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Quiero un canal en youtube para ver tips sobre cómo ligar, cómo ser más seductor, cómo ganar amigxs. Soy adicto sexual en recuperación y muchas veces me siento indeseable para las personas que me atraen. Puede ser en español o en inglés
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Quiero un canal en youtube para ver tips sobre cómo ligar, cómo ser más seductor, cómo ganar amigxs. Soy adicto sexual en recuperación y muchas veces me siento indeseable para las personas que me atraen. Puede ser en español o en inglés 
+Quiero un canal en youtube para ver tips sobre cómo ligar, cómo ser más seductor, cómo ganar amigxs. Soy adicto sexual en recuperación y muchas veces me siento indeseable para las personas que me atraen. Puede ser en español o en inglés
 
+---
 
+🤖 **Assistant:**
 
 Dado que estás en recuperación y a veces te sientes indeseable, lo mejor sería un canal que no solo te dé "técnicas" de seducción, sino que también te ayude a mejorar tu autoestima, habilidades sociales y autenticidad en las relaciones. Aquí tienes algunas opciones en español e inglés:  
 
@@ -38,7 +38,15 @@ Si buscas algo que también hable de la recuperación de la adicción sexual y a
 
 ¿Quieres algo más específico o te interesa algún enfoque en particular?
 
+---
+
+🙋 **You:**
+
 Justo eso, algo que no sea trucos manipuladores
+
+---
+
+🤖 **Assistant:**
 
 En ese caso, estos canales pueden ayudarte a desarrollar confianza genuina, mejorar tus habilidades sociales y sentirte más cómodo contigo mismo sin recurrir a manipulaciones:  
 

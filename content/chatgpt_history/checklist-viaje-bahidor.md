@@ -3,24 +3,21 @@ title: Checklist viaje Bahidorá
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  checklist para mi viaje al bahidora"
 draft: false
 ---
 
 # Checklist viaje Bahidorá
 
-## ✅ TODOs
-
-
-## 📌 Summary
-checklist para mi viaje al bahidora
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 checklist para mi viaje al bahidora
 
+---
 
+🤖 **Assistant:**
 
 Aquí tienes una checklist para tu viaje a Bahidorá:  
 

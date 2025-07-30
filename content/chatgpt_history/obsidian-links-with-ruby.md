@@ -4,7 +4,8 @@ tags:
 - daily_notes
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hey, what chriteria would you use to create obsidian
+  wiki links within a bunch of markdown files?"
 draft: false
 ---
 
@@ -16,14 +17,16 @@ draft: false
 - [ ] .completed) as "Completed Todos", COUNT(file.todo) as "Total Todos" SORT by "Completed Todos" desc
 - [ ] s within those files. Sorting by completed todos helps you identify notes with completed tasks.
 
-## 📌 Summary
-Hey, what chriteria would you use to create obsidian wiki links within a bunch of markdown files?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Hey, what chriteria would you use to create obsidian wiki links within a bunch of markdown files?
 Tell me what I should do (having the ruby gpt gem) and what would you do (what is your semantic chriteria, how you are trained to solve this issues of detecting a common concept based on context)?
+
+---
+
+🤖 **Assistant:**
 
 As an AI language model, I am trained to understand natural language text and identify meaningful relationships between concepts. In the context of creating Obsidian wiki links within a bunch of markdown files, my approach would be to identify the relevant concepts based on the content of the files and create links accordingly.
 
@@ -39,7 +42,15 @@ To achieve this, you can use the Ruby GPT gem to analyze the text and identify t
 
 As an AI language model, I don't have any specific semantic criteria for creating Obsidian wiki links within markdown files. However, I can help you develop a custom solution based on your specific needs and requirements.
 
+---
+
+🙋 **You:**
+
 How do you understand a contextualized concept within some text?
+
+---
+
+🤖 **Assistant:**
 
 As an AI language model, my understanding of contextualized concepts within text is based on the statistical patterns and relationships I have learned from analyzing vast amounts of language data.
 
@@ -51,7 +62,15 @@ To understand a contextualized concept within some text, I analyze the embedding
 
 For example, if the text mentions the concept of "programming languages," I can analyze the embeddings of the surrounding words and phrases to identify related concepts such as "computer science," "syntax," "compiler," "interpreter," etc. By identifying these related concepts, I can develop a more nuanced understanding of what the text is discussing and how it fits into the larger context of computer programming.
 
-Can you provide some literature and code projects in the internet about "contextualized word embeddings"? 
+---
+
+🙋 **You:**
+
+Can you provide some literature and code projects in the internet about "contextualized word embeddings"?
+
+---
+
+🤖 **Assistant:**
 
 Sure, here are some resources that you may find helpful for learning about contextualized word embeddings and code projects related to them:
 
@@ -69,7 +88,15 @@ Sure, here are some resources that you may find helpful for learning about conte
 
 These resources should provide a good starting point for learning about contextualized word embeddings and their applications in NLP, as well as some code projects that you can explore and experiment with.
 
+---
+
+🙋 **You:**
+
 How can  I create a note with timestamp from a template?
+
+---
+
+🤖 **Assistant:**
 
 To create a note with a timestamp from a template, you can use a scripting language like Python or a command-line tool like Bash. Here's a step-by-step guide using Python:
 
@@ -119,7 +146,15 @@ Remember to modify the `attendees` variable with the actual list of attendees yo
 
 You can execute this script whenever you need to create a new note with a timestamp based on your template.
 
+---
+
+🙋 **You:**
+
 in obsidian
+
+---
+
+🤖 **Assistant:**
 
 To create a note with a timestamp from a template in Obsidian, you can use the Templater plugin. Here's how to do it:
 
@@ -157,7 +192,15 @@ After typing this line, the Templater plugin will automatically replace the plac
 
 The Templater plugin in Obsidian allows you to automate the process of generating notes from templates, saving you time and ensuring consistent formatting across your notes.
 
+---
+
+🙋 **You:**
+
 Can it include hour of the day?
+
+---
+
+🤖 **Assistant:**
 
 Yes, the Templater plugin in Obsidian can include the hour of the day in the timestamp. To include the hour in the timestamp, you need to modify the template and use the appropriate date format placeholder. Here's how you can do it:
 
@@ -189,7 +232,15 @@ After typing this line, the Templater plugin will automatically replace the `{da
 
 With this modification, your notes created from the template will now include both the date and the hour of the day in the specified format.
 
+---
+
+🙋 **You:**
+
 where should i input {!template.md}?
+
+---
+
+🤖 **Assistant:**
 
 Apologies for the confusion in my previous response. The `{!template.md}` syntax is not the correct way to trigger the Templater plugin in Obsidian.
 
@@ -217,7 +268,15 @@ Remember to fill in the `{attendees}` placeholder within the Templater code bloc
 
 By following these steps, you can use the Templater plugin to create a new note with a timestamp from your template, including the hour of the day as desired.
 
+---
+
+🙋 **You:**
+
 Most popular dataviewjs queries for knowledge bases. Can be existing or good ideas to improve productivity
+
+---
+
+🤖 **Assistant:**
 
 DataViewJS is a powerful plugin for Obsidian that allows you to query and manipulate data in your knowledge base. Here are some popular and productivity-enhancing DataViewJS queries for knowledge bases:
 

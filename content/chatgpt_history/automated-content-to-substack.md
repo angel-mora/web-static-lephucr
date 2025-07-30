@@ -4,24 +4,25 @@ tags:
 - create
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I programatically send data to my substack
+  account? I was thinking using a mailchimp compatible mailer system that would transform
+  my content into those mails so I only have to manually integrate mailchimp with
+  substack through their import feature. Please develop the possibilities and its
+  potential business outcome"
 draft: false
 ---
 
 # Automated Content to Substack
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I programatically send data to my substack account? I was thinking using a mailchimp compatible mailer system that would transform my content into those mails so I only have to manually integrate mailchimp with substack through their import feature. Please develop the possibilities and its potential business outcome
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I programatically send data to my substack account? I was thinking using a mailchimp compatible mailer system that would transform my content into those mails so I only have to manually integrate mailchimp with substack through their import feature. Please develop the possibilities and its potential business outcome
 
+---
 
+🤖 **Assistant:**
 
 Substack does not offer a public API or webhooks for direct programmatic content submission. citeturn0search7 However, you can utilize Mailchimp's API to automate content creation and then import this content into Substack using its import feature. Here's a step-by-step approach:
 
@@ -39,9 +40,17 @@ How can I programatically send data to my substack account? I was thinking using
 
 - **Scalability**: Automating these processes facilitates scaling your content operations, making it easier to handle larger volumes of content and subscribers.
 
-While this approach requires some setup and technical knowledge, it offers a viable solution to programmatically send data to your Substack account in the absence of a direct API. 
+While this approach requires some setup and technical knowledge, it offers a viable solution to programmatically send data to your Substack account in the absence of a direct API.
+
+---
+
+🙋 **You:**
 
 Provide a path with rails. Input: pdf file, output: Mailchimp API-compatible campaign. It can use what you recommended for the content training (langchain and pinecot) but that service will need to connect with rails
+
+---
+
+🤖 **Assistant:**
 
 Here’s a roadmap for building a Rails application to convert a PDF file into a Mailchimp API-compatible campaign. This approach leverages **LangChain** and **Pinecone** for extracting and structuring content, making it suitable for Mailchimp campaigns.
 

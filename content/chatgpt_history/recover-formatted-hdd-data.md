@@ -3,7 +3,8 @@ title: Recover Formatted HDD Data
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I accidentaly formatted my internal hdd with the windows
+  11 installer tool, how can I recover it?"
 draft: false
 ---
 
@@ -12,13 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] much.
 
-## 📌 Summary
-I accidentaly formatted my internal hdd with the windows 11 installer tool, how can I recover it?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I accidentaly formatted my internal hdd with the windows 11 installer tool, how can I recover it?
+
+---
+
+🤖 **Assistant:**
 
 I'm sorry to hear about your situation. Accidentally formatting your HDD can be distressing, but there are steps you can take to attempt recovery:
 
@@ -42,7 +45,15 @@ I'm sorry to hear about your situation. Accidentally formatting your HDD can be 
 
 Lastly, while data recovery software can be effective, it's never guaranteed that you'll get all your data back. The more you use the drive after formatting, the lesser the chances of recovery. So, act quickly and cautiously.
 
-My hdd was Luks encrypted 
+---
+
+🙋 **You:**
+
+My hdd was Luks encrypted
+
+---
+
+🤖 **Assistant:**
 
 If your HDD was LUKS (Linux Unified Key Setup) encrypted, the recovery becomes more complicated. LUKS encrypts the whole block device and the actual data starts after the LUKS header. If the LUKS header is damaged or overwritten, it becomes nearly impossible to decrypt the data, even if you have the passphrase. 
 
@@ -61,7 +72,15 @@ Here's what you can try:
 
 It's crucial to understand that when dealing with encrypted data, especially with a system as secure as LUKS, recovery chances are slim once the encryption header is damaged. But it's always worth trying the above steps, especially if the data is important.
 
+---
+
+🙋 **You:**
+
 How can I make a backup of the header?
+
+---
+
+🤖 **Assistant:**
 
 Backing up the LUKS header is a wise precautionary measure, as it contains crucial information for decrypting your data. If you lose the header, the data is practically unrecoverable even if you have the password. Here's how you can back up and restore the LUKS header:
 

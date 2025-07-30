@@ -3,7 +3,8 @@ title: Plataforma Política y Decidim
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que debería tener una plataforma política en Mexico
+  para ser útil para los usuarios?"
 draft: false
 ---
 
@@ -15,13 +16,15 @@ draft: false
 - [ ] with Law and Why It Matters"** de David D. Friedman: Proporciona una introducción a cómo los principios económicos pueden aplicarse al estudio del derecho.
 - [ ] s los crímenes, especialmente aquellos que son particularmente graves o atroces.
 
-## 📌 Summary
-Que debería tener una plataforma política en Mexico para ser útil para los usuarios?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que debería tener una plataforma política en Mexico para ser útil para los usuarios?
+
+---
+
+🤖 **Assistant:**
 
 Una plataforma política en México que busque ser útil para los ciudadanos debería considerar lo siguiente:
 
@@ -55,7 +58,15 @@ Una plataforma política en México que busque ser útil para los ciudadanos deb
 
 El desarrollo de una plataforma política debería ser el resultado de un proceso participativo, que incluya a expertos, stakeholders y a la ciudadanía en general. Solo así se garantizará que responda a las verdaderas necesidades y aspiraciones de los mexicanos.
 
+---
+
+🙋 **You:**
+
 Cómo podría ayudar al ciudadano de a pie a volverse un actor político?
+
+---
+
+🤖 **Assistant:**
 
 Para que un ciudadano de a pie se convierta en un actor político activo y efectivo, se requiere tanto de un empoderamiento personal como de estructuras que faciliten su participación. Aquí te comparto algunos pasos y estrategias:
 
@@ -85,7 +96,15 @@ Para que un ciudadano de a pie se convierta en un actor político activo y efect
 
 Para que un ciudadano se sienta motivado a convertirse en un actor político, es esencial que perciba que su participación tiene un impacto real y que sus esfuerzos pueden generar cambios en su comunidad o en el país. Por lo tanto, es crucial que las estructuras políticas y gubernamentales sean receptivas y estén dispuestas a escuchar y considerar las voces de los ciudadanos.
 
+---
+
+🙋 **You:**
+
 Dime qué features de lo que mencionas no se encuentra ya en decidim?
+
+---
+
+🤖 **Assistant:**
 
 [Decidim](https://decidim.org/) es una plataforma de democracia participativa de código abierto. A la fecha de mi última actualización en septiembre de 2021, Decidim ofrecía una variedad de herramientas y características para la participación ciudadana. Vamos a comparar las características de Decidim con las recomendaciones que proporcioné:
 
@@ -115,9 +134,17 @@ Dime qué features de lo que mencionas no se encuentra ya en decidim?
 
 Por lo tanto, aunque Decidim es una herramienta robusta y valiosa para la democracia participativa, hay ciertas características y funcionalidades relacionadas con la educación cívica, la capacitación, la formación de ONGs, la participación en elecciones, y la defensa legal de derechos que no están directamente cubiertas por la plataforma.
 
+---
+
+🙋 **You:**
+
 Dime qué features cumple decidim como soporte para una plataforma política en México, como si fuera código de Cucumber. Ejemplo:
 As a citizen I can participate in proposals 
-As an actor I can submit topics 
+As an actor I can submit topics
+
+---
+
+🤖 **Assistant:**
 
 Basándonos en las características de Decidim y su capacidad para soportar una plataforma política en México, los features podrían definirse en un formato similar al lenguaje Gherkin de Cucumber de la siguiente manera:
 
@@ -167,7 +194,15 @@ Feature: Democratic Participation through Decidim
 
 Estos escenarios describen algunas de las características básicas de Decidim que apoyan la democracia participativa. Es importante adaptarlos y expandirlos según las necesidades específicas de una plataforma política en México o cualquier otro contexto específico.
 
+---
+
+🙋 **You:**
+
 Ahora dame una lista de las features que NO cubre decidim y que mencionaste como necesidades de la plataforma política. Agrega comentarios para sugerir gemas que faciliten la implementación de cada feature.
+
+---
+
+🤖 **Assistant:**
 
 De acuerdo, a continuación te listo las características que no están directamente cubiertas por Decidim basado en las recomendaciones previas y te sugiero algunas gemas de Ruby (considerando que Decidim está desarrollado en Ruby on Rails) que podrían facilitar la implementación de dichas características:
 
@@ -197,7 +232,15 @@ De acuerdo, a continuación te listo las características que no están directam
 
 Estas son solo algunas sugerencias iniciales basadas en las características recomendadas y las gemas disponibles a la fecha de mi última actualización en 2021. El proceso de selección e implementación de gemas debe considerar las necesidades específicas del proyecto, así como la compatibilidad y mantenimiento de las gemas seleccionadas.
 
-Features en Gherkin 
+---
+
+🙋 **You:**
+
+Features en Gherkin
+
+---
+
+🤖 **Assistant:**
 
 Entendido. Vamos a definir estas características faltantes en formato Gherkin:
 
@@ -257,7 +300,15 @@ Feature: News and Political Updates
 
 Estos escenarios de Gherkin representan características que no están directamente incluidas en Decidim, basándose en las recomendaciones previamente mencionadas para una plataforma política en México. Es importante ajustar y expandir estos escenarios según las necesidades y especificaciones detalladas del proyecto.
 
+---
+
+🙋 **You:**
+
 asocia la conversación con el libro Run for Something. Después dime iniciativas similares al movimiento cinco estrellas en Italia y concluye con una recomendación general después de la asociación y las recomendaciones en donde me des consejos para el caso mexicano .
+
+---
+
+🤖 **Assistant:**
 
 1. **Asociación con "Run for Something"**:
    "Run for Something" es un libro de Amanda Litman que aboga por involucrar a más jóvenes en la política, especialmente animándolos a postularse para cargos públicos. El libro ofrece guías sobre cómo comenzar en la política y subraya la importancia de la participación activa en la democracia. La conversación anterior se alinea con las ideas de Litman, en el sentido de que busca empoderar a los ciudadanos para que se conviertan en actores políticos y participen activamente en la toma de decisiones. Herramientas como Decidim y las características adicionales propuestas tienen el potencial de romper barreras y animar a más personas, especialmente a los jóvenes, a involucrarse en la política.
@@ -279,7 +330,15 @@ asocia la conversación con el libro Run for Something. Después dime iniciativa
 
 En resumen, inspirándote en ejemplos exitosos y aprendiendo de sus desafíos, México tiene el potencial de forjar un camino innovador hacia una democracia más participativa y representativa.
 
+---
+
+🙋 **You:**
+
 Desde la antropología política, cómo condiciona la situación de pobreza y la precarización de los entornos rurales a la acción política en Mexico? Cosas como ejidos, corporativismo, CTM y viejas prácticas clientelares del PRI
+
+---
+
+🤖 **Assistant:**
 
 Desde la perspectiva de la antropología política, la pobreza y la precarización de los entornos rurales tienen implicaciones profundas en la acción política en México. Las estructuras socioeconómicas, combinadas con sistemas políticos y prácticas tradicionales, pueden tener un impacto en cómo las comunidades rurales interactúan y se relacionan con el poder político.
 
@@ -310,7 +369,15 @@ La precarización y pobreza en zonas rurales, combinadas con estas estructuras y
 
 En resumen, la interacción entre pobreza, precarización y estructuras políticas en México ha condicionado y, en muchos casos, limitado la acción política de las comunidades rurales. Es crucial reconocer y entender estos patrones para abogar por cambios que empoderen y ofrezcan mayor autonomía a estas comunidades.
 
+---
+
+🙋 **You:**
+
 Desde el punto de vista de Marcell Maus y otras visiones críticas sobre el régimen de la moneda, de qué manera la legalidad de la ciudadanía afecta a formas de vida no urbanizadas? Que consideraciones de corto plazo tendría que tener el movimiento político para no ocasionar más pobreza sino contribuir a la libertad sintética (Srnicek en Inventar el futuro) de la ciudadanía y comunidades en México? (Considerando la integración al modo urbano de consumo que enriquece al BigCorp como empobrecedor)
+
+---
+
+🤖 **Assistant:**
 
 La teoría del antropólogo Marcel Mauss, especialmente su trabajo sobre la "dádiva", desafía la noción de intercambio económico puramente utilitario en sociedades occidentales. Mauss argumenta que en muchas sociedades tradicionales, el intercambio de bienes y servicios no se basa simplemente en el valor económico, sino también en relaciones sociales y morales. Estas formas de intercambio, imbuidas de significados culturales y sociales, pueden entrar en conflicto con la lógica del capitalismo moderno y la moneda estandarizada.
 
@@ -338,7 +405,15 @@ En relación con la "libertad sintética" que Nick Srnicek propone en "Inventar 
 
 En resumen, un movimiento político en México debe ser cuidadoso y deliberado en cómo aborda las tensiones entre las economías tradicionales y la economía monetaria moderna. Reconocer, respetar y proteger las formas tradicionales de vida, al mismo tiempo que se proporcionan herramientas y oportunidades para la integración en la economía moderna, es esencial para garantizar un desarrollo equitativo y sostenible.
 
+---
+
+🙋 **You:**
+
 Dada la conversación, recomienda bibliografía para comprender la política en Mexico con miras a la acción.
+
+---
+
+🤖 **Assistant:**
 
 Claro, para comprender la política en México, especialmente con un enfoque hacia la acción, es esencial abordarla desde diferentes perspectivas, considerando su historia, estructuras sociopolíticas y desafíos actuales. Aquí hay algunas recomendaciones bibliográficas:
 
@@ -364,7 +439,15 @@ Claro, para comprender la política en México, especialmente con un enfoque hac
 
 Estas lecturas ofrecen una combinación de análisis histórico, reflexión crítica y perspectivas sobre la acción y el cambio. Es esencial combinar la comprensión teórica con historias y testimonios de aquellos que han estado en la primera línea de la acción política para obtener una visión completa.
 
+---
+
+🙋 **You:**
+
 Referencias sobre 1) las mañas de la grilla política, viejos dichos priístas, traiciones, etc. 2) el sistema político mexicano desde la teoría de juegos o elección pública
+
+---
+
+🤖 **Assistant:**
 
 Por supuesto. Aquí algunas referencias que pueden ayudarte a comprender esos aspectos de la política mexicana:
 
@@ -386,7 +469,15 @@ Por supuesto. Aquí algunas referencias que pueden ayudarte a comprender esos as
 
 Es importante destacar que, si bien la teoría de juegos y la elección pública ofrecen herramientas valiosas para analizar la política, también es esencial comprender el contexto histórico, cultural y social de México para tener una visión completa de su paisaje político. Estas lecturas te proporcionarán una buena base, pero te recomendaría que también explores otros enfoques y perspectivas para enriquecer tu comprensión.
 
+---
+
+🙋 **You:**
+
 Dame tus recomendaciones para enriquecer mi comprensión, anotando el enfoque/perspectiva
+
+---
+
+🤖 **Assistant:**
 
 ¡Por supuesto! La política mexicana es rica y compleja, y puede ser abordada desde múltiples enfoques y perspectivas. Aquí hay algunas recomendaciones para enriquecer tu comprensión:
 
@@ -415,7 +506,15 @@ Dame tus recomendaciones para enriquecer mi comprensión, anotando el enfoque/pe
 
 Estas lecturas ofrecen una variedad de perspectivas y enfoques sobre la política y sociedad mexicanas. Es útil diversificar las fuentes y enfoques para obtener una comprensión más holística de la complejidad del panorama político de México. Combina estos textos con conversaciones, documentales y otras fuentes para construir una visión bien redondeada.
 
+---
+
+🙋 **You:**
+
 Dame referencias del análisis económico del derecho. Es decir, como la legislación incentiva comportamientos económicos en diferentes industrias. Busco literatura en general y si hay también en específico de Mexico compártela también.
+
+---
+
+🤖 **Assistant:**
 
 El Análisis Económico del Derecho (AED) se ha convertido en una herramienta esencial para comprender cómo las leyes y regulaciones pueden afectar los comportamientos económicos. Aquí te comparto literatura relevante en el área, tanto en general como enfocada en México:
 
@@ -441,9 +540,15 @@ El Análisis Económico del Derecho (AED) se ha convertido en una herramienta es
 
 Estos textos te proporcionarán una base sólida en el análisis económico del derecho tanto a nivel general como en el contexto específico de México. El campo es amplio y multifacético, por lo que te recomendaría comenzar con las lecturas generales para establecer una base y luego explorar la literatura específica de México para comprender cómo se aplica en ese contexto particular.
 
+---
+
+🙋 **You:**
+
 Que tal referencias sobre movimientos politicos en el contexto de guerra civil? Considerando el tema del narco como un gobierno paralelo a nivel municipal
 
+---
 
+🤖 **Assistant:**
 
 El contexto de la guerra civil o conflictos internos armados, junto con el surgimiento de entidades paralelas o subestatales como los carteles del narcotráfico, ha sido un tema de investigación en diversos lugares del mundo. En el caso de México, la violencia relacionada con el narcotráfico ha tenido un impacto significativo en la dinámica política y social. A continuación, te presento algunas referencias que abordan estos temas:
 
@@ -467,7 +572,15 @@ El contexto de la guerra civil o conflictos internos armados, junto con el surgi
 
 Estas referencias te ayudarán a entender mejor cómo los movimientos políticos y los grupos armados interactúan en contextos de guerra civil y cómo el fenómeno del narcotráfico ha influido en la política y la sociedad en México. Es una problemática compleja que requiere de un análisis multifacético, así que te recomiendo abordar estas lecturas con una mente abierta y crítica.
 
+---
+
+🙋 **You:**
+
 Que papel juega el entendimiento de la violencia o uso de la fuerza en todas las referencias que has dado? Sientete libre de citar referencias que has mencionado anteriormente y nuevas. Pienso en cosas como el concepto de agonismo de Chantal Mouffe o el de la banalidad del mal de Hannah Arendt. Cómo se ha construido una paz en muchos movimientos con una resolución positiva? Negando la violencia o aproximándose a ella de cierta manera (ideológica, filosófica y políticamente)?
+
+---
+
+🤖 **Assistant:**
 
 El entendimiento de la violencia o el uso de la fuerza juega un papel fundamental en la mayoría de las referencias que he mencionado y, en general, en la teoría política y social contemporánea. A continuación, examinaremos cómo algunos de estos conceptos se relacionan con el uso de la fuerza y la construcción de la paz:
 
@@ -487,7 +600,15 @@ El entendimiento de la violencia o el uso de la fuerza juega un papel fundamenta
 
 Para responder a tu pregunta final: la construcción de la paz no suele lograrse simplemente negando la violencia. En lugar de eso, a menudo requiere un reconocimiento y entendimiento profundo de las raíces de la violencia y un esfuerzo activo para abordar esas causas a través de la justicia, el reconocimiento y la transformación estructural. Las respuestas ideológicas, filosóficas y políticas a la violencia pueden variar ampliamente, pero la construcción de la paz exitosa generalmente involucra un compromiso activo con esas preguntas y desafíos.
 
+---
+
+🙋 **You:**
+
 Platicame sobre conceptos como justicia transicional, restaurativa, procesos de paz, etc. Quiero referencias de documentacion de esos procesos y críticas a esos procesos.
+
+---
+
+🤖 **Assistant:**
 
 Claro, con gusto te explico sobre estos conceptos, acompañados de referencias relevantes:
 

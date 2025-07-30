@@ -3,20 +3,15 @@ title: GROUP_CONCAT Truncation Fix
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  select"
 draft: false
 ---
 
 # GROUP_CONCAT Truncation Fix
 
-## ✅ TODOs
-
-
-## 📌 Summary
-select
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 select
   documents.title 'Document Title',
@@ -71,7 +66,9 @@ Truncated incorrect DOUBLE value: '389656,389671,389686,389701,389716,389731,389
 
 What am I doing wrong? Can you simplify it?
 
+---
 
+🤖 **Assistant:**
 
 The errors you're encountering are likely due to the **`GROUP_CONCAT`** function being truncated because it exceeds the maximum allowed length. By default, MySQL limits the `GROUP_CONCAT` result size to 1024 characters. Additionally, you have some syntax issues (e.g., a misplaced semicolon in the `WHERE` clause) and unnecessary complexity in the query.
 

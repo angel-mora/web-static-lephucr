@@ -3,24 +3,21 @@ title: View Rails DB User MySQL
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  how do i see rails db user in mysql?"
 draft: false
 ---
 
 # View Rails DB User MySQL
 
-## ✅ TODOs
-
-
-## 📌 Summary
-how do i see rails db user in mysql?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 how do i see rails db user in mysql?
 
+---
 
+🤖 **Assistant:**
 
 To view the current Rails database user in MySQL, you can follow these steps:
 

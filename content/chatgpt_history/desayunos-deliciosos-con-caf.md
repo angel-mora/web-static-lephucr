@@ -3,7 +3,8 @@ title: Desayunos deliciosos con café
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Buenos lugares para desayunar en Orizaba, de preferencia
+  que tengan wifi y café de especialidad. Ejemplos:"
 draft: false
 ---
 
@@ -16,16 +17,18 @@ draft: false
 - [ ] s los días de 7 am a 10 pm.
 - [ ] s los días de 8 am a 10 pm.
 
-## 📌 Summary
-Buenos lugares para desayunar en Orizaba, de preferencia que tengan wifi y café de especialidad. Ejemplos:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Buenos lugares para desayunar en Orizaba, de preferencia que tengan wifi y café de especialidad. Ejemplos:
 https://maps.app.goo.gl/YzhxsJXAtwPJS4867
 https://maps.app.goo.gl/mGzi7bhp9dV9d1Sd6
 https://maps.app.goo.gl/4Qagn2V5R5znzgNk6
+
+---
+
+🤖 **Assistant:**
 
 En Orizaba, tienes varias opciones interesantes para disfrutar de un desayuno delicioso en lugares que también ofrecen café de especialidad y WiFi. Aquí te dejo algunas recomendaciones basadas en tus preferencias:
 

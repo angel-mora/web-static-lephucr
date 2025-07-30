@@ -3,24 +3,23 @@ title: Rails Developer Integrates Stripe
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  how can i make a subscribe url for a youtube channel
+  that connects to a mailer to send updates of the project? I'm a rails developer,
+  considering using stripe and a mailer or patreon"
 draft: false
 ---
 
 # Rails Developer Integrates Stripe
 
-## ✅ TODOs
-
-
-## 📌 Summary
-how can i make a subscribe url for a youtube channel that connects to a mailer to send updates of the project? I'm a rails developer, considering using stripe and a mailer or patreon
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 how can i make a subscribe url for a youtube channel that connects to a mailer to send updates of the project? I'm a rails developer, considering using stripe and a mailer or patreon
 
+---
 
+🤖 **Assistant:**
 
 To create a subscription URL for a YouTube channel that connects to a mailer to send updates about a project, you can follow these steps:
 

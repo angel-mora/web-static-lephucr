@@ -3,24 +3,22 @@ title: Agua para cocinar pasta
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  La pasta se cuece con agua de la llave o del garrafón
+  en CDMX?"
 draft: false
 ---
 
 # Agua para cocinar pasta
 
-## ✅ TODOs
-
-
-## 📌 Summary
-La pasta se cuece con agua de la llave o del garrafón en CDMX?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 La pasta se cuece con agua de la llave o del garrafón en CDMX?
 
+---
 
+🤖 **Assistant:**
 
 En la Ciudad de México, aunque el agua que llega a los hogares es considerada potable, su calidad puede variar significativamente entre diferentes alcaldías e incluso entre colonias. Factores como la antigüedad y el estado de las tuberías, así como la posible presencia de metales pesados y microorganismos, pueden afectar su pureza. citeturn0search0
 

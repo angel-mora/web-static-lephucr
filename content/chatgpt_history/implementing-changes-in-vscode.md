@@ -3,22 +3,24 @@ title: Implementing Changes in VSCode
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  how to implement changes pr comments extension vscode.
+  When I open the comment I can only see the comparison version and it's not possible
+  to edit that view. Is it possible to open the file with the comments instead of
+  the non-modifiable diff?"
 draft: false
 ---
 
 # Implementing Changes in VSCode
 
-## ✅ TODOs
-
-
-## 📌 Summary
-how to implement changes pr comments extension vscode. When I open the comment I can only see the comparison version and it's not possible to edit that view. Is it possible to open the file with the comments instead of the non-modifiable diff?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 how to implement changes pr comments extension vscode. When I open the comment I can only see the comparison version and it's not possible to edit that view. Is it possible to open the file with the comments instead of the non-modifiable diff?
+
+---
+
+🤖 **Assistant:**
 
 In Visual Studio Code, you can use the "Changes" view to see and make changes to comments in a more interactive way. Here's how you can access it:
 
@@ -31,7 +33,15 @@ By clicking the "Changes" button, Visual Studio Code will open a diff view of th
 
 Remember to save your changes when you're done, and don't forget to commit them if you're using version control.
 
+---
+
+🙋 **You:**
+
 How can I set the Open Changes with Working File by default? Or what is a shortcut? My problem is when I click a modified and commented file from the pull requests and issues vscode extension and it redirects to a read-only diff
+
+---
+
+🤖 **Assistant:**
 
 To set the "Open Changes with Working File" as the default behavior in Visual Studio Code, you can modify the settings of the Git extension. Here's how you can do it:
 

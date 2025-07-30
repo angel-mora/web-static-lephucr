@@ -3,7 +3,9 @@ title: Bloqueo contenido pornográfico multi-capa
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  mejor manera de bloquear todo el contenido pornografico
+  del internet en todas las capas que se pueda. Comienza dandome herramientas para
+  bloquear el iphone y la mac y si se puede despues herramientas a nivel modem"
 draft: false
 ---
 
@@ -13,15 +15,15 @@ draft: false
 - [ ] el contenido pornografico del internet en todas las capas que se pueda. Comienza dandome herramientas para bloquear el iphone y la mac y si se puede despues herramientas a nivel modem
 - [ ] s tus dispositivos.
 
-## 📌 Summary
-mejor manera de bloquear todo el contenido pornografico del internet en todas las capas que se pueda. Comienza dandome herramientas para bloquear el iphone y la mac y si se puede despues herramientas a nivel modem
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 mejor manera de bloquear todo el contenido pornografico del internet en todas las capas que se pueda. Comienza dandome herramientas para bloquear el iphone y la mac y si se puede despues herramientas a nivel modem
 
+---
 
+🤖 **Assistant:**
 
 Aquí tienes una guía paso a paso para bloquear contenido pornográfico en **todas las capas posibles**:
 

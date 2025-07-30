@@ -3,23 +3,23 @@ title: Windows ISO on SD.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What is this? I presume a windows iso. I am providing
+  ls of the sd contents:"
 draft: false
 ---
 
 # Windows ISO on SD.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-What is this? I presume a windows iso. I am providing ls of the sd contents:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What is this? I presume a windows iso. I am providing ls of the sd contents:
 'System Volume Information'   autorun.inf   boot   bootmgr   bootmgr.efi   efi   setup.exe   sources   support
+
+---
+
+🤖 **Assistant:**
 
 It looks like the contents of your SD card include files related to a Windows installation. Here's a brief overview of the items you listed:
 

@@ -3,27 +3,30 @@ title: Enfoques Gestalt y Humanista
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Enfoque gestalt y humanista"
 draft: false
 ---
 
 # Enfoques Gestalt y Humanista
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Enfoque gestalt y humanista
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Enfoque gestalt y humanista 
+Enfoque gestalt y humanista
+
+---
+
+🤖 **Assistant:**
 
 El enfoque gestalt y el enfoque humanista son dos corrientes de la psicología que ponen un énfasis particular en la percepción holística del individuo y su mundo.
 
 ### Enfoque Gestalt
 La terapia Gestalt, desarrollada por Fritz Perls, se centra en el aquí y ahora, promoviendo la conciencia plena y el contacto pleno con lo que está ocurriendo en el momento presente. Este enfoque subraya cómo las personas organizan sus percepciones, pensamientos y emociones en patrones o gestalts, y cómo estos patrones pueden influir en su comportamiento y bienestar. La meta principal es ayudar al individuo a darse cuenta de sus hábitos automáticos de pensamiento y comportamiento para poder actuar de manera más libre y aut
+
+---
+
+🤖 **Assistant:**
 
 Los enfoques gestalt y humanista son dos importantes corrientes psicológicas que enfocan la comprensión y tratamiento del ser humano desde perspectivas distintas pero centradas en la persona.
 

@@ -3,20 +3,15 @@ title: EventMachine LoadError with Invoker
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  ❯ invoker start"
 draft: false
 ---
 
 # EventMachine LoadError with Invoker
 
-## ✅ TODOs
-
-
-## 📌 Summary
-❯ invoker start
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 ❯ invoker start
 Unable to load the EventMachine C extension; To use the pure-ruby reactor, require 'em/pure_ruby'
@@ -35,6 +30,10 @@ Traceback (most recent call last):
 	 2: from /Users/angel.mora.mx/.rbenv/versions/2.7.5/lib/ruby/gems/2.7.0/gems/eventmachine-1.0.9.1/lib/eventmachine.rb:8:in `<top (required)>'
 	 1: from /Users/angel.mora.mx/.rbenv/versions/2.7.5/lib/ruby/site_ruby/2.7.0/rubygems/core_ext/kernel_require.rb:86:in `require'
 /Users/angel.mora.mx/.rbenv/versions/2.7.5/lib/ruby/site_ruby/2.7.0/rubygems/core_ext/kernel_require.rb:86:in `require': dlopen(/Users/angel.mora.mx/.rbenv/versions/2.7.5/lib/ruby/gems/2.7.0/gems/eventmachine-1.0.9.1/lib/rubyeventmachine.bundle, 0x0009): symbol not found in flat namespace '_SSL_get1_peer_certificate' - /Users/angel.mora.mx/.rbenv/versions/2.7.5/lib/ruby/gems/2.7.0/gems/eventmachine-1.0.9.1/lib/rubyeventmachine.bundle (LoadError)
+
+---
+
+🤖 **Assistant:**
 
 It looks like you are encountering a `LoadError` related to the EventMachine gem while trying to start Invoker. This error suggests that there is an issue with the native extensions of the EventMachine gem, specifically related to SSL functionality.
 
@@ -66,7 +65,15 @@ Here are a few steps you might consider to resolve this issue:
 
 If these steps do not resolve the issue, you might need to look into more specific configurations of your Ruby environment or additional dependencies that may be required for EventMachine and Invoker to work properly on your system.
 
+---
+
+🙋 **You:**
+
 symbol not found in flat namespace '_SSL_get1_peer_certificate' - /Users/angel.mora.mx/.rbenv/versions/2.7.5/lib/ruby/gems/2.7.0/gems/eventmachine-1.0.9.1/lib/rubyeventmachine.bundle (LoadError)
+
+---
+
+🤖 **Assistant:**
 
 The error message you're encountering, `symbol not found in flat namespace '_SSL_get1_peer_certificate'`, indicates a compatibility issue between the EventMachine gem and the OpenSSL library in your Ruby environment. This is typically related to changes or incompatibilities in the OpenSSL library that EventMachine relies upon.
 

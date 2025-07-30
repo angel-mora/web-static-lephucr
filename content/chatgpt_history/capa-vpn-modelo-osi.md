@@ -3,24 +3,21 @@ title: 'Capa VPN: Modelo OSI'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que capa del modelo osi es la vpn?"
 draft: false
 ---
 
 # Capa VPN: Modelo OSI
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Que capa del modelo osi es la vpn?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que capa del modelo osi es la vpn?
 
+---
 
+🤖 **Assistant:**
 
 Una VPN (Red Privada Virtual) opera principalmente en la capa 3 (capa de red) del modelo OSI. Esto se debe a que las VPN se utilizan para enrutar el tráfico de red a través de túneles seguros, lo cual implica la encapsulación de paquetes a nivel de red y, a menudo, la manipulación de direcciones IP.
 

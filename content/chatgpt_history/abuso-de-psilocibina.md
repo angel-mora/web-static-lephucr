@@ -3,24 +3,21 @@ title: Abuso de psilocibina
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Abuso psilocibina"
 draft: false
 ---
 
 # Abuso de psilocibina
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Abuso psilocibina
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Abuso psilocibina 
+Abuso psilocibina
 
+---
 
+🤖 **Assistant:**
 
 El abuso de psilocibina puede tener efectos negativos, a pesar de que esta sustancia es conocida por su potencial terapéutico en contextos controlados y supervisados. Cuando se usa de manera irresponsable o en dosis excesivas, pueden surgir las siguientes consecuencias:
 

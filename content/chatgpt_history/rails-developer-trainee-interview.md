@@ -3,24 +3,22 @@ title: Rails Developer Trainee Interview
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  questions to ask to a potential trainee from computer
+  science. I am a experienced rails developer"
 draft: false
 ---
 
 # Rails Developer Trainee Interview
 
-## ✅ TODOs
-
-
-## 📌 Summary
-questions to ask to a potential trainee from computer science. I am a experienced rails developer
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 questions to ask to a potential trainee from computer science. I am a experienced rails developer
 
+---
 
+🤖 **Assistant:**
 
 When interviewing a potential trainee from a computer science background, it's important to gauge their fundamental knowledge, problem-solving skills, and understanding of web development concepts, especially those relevant to Ruby on Rails. Here are some questions you might consider asking:
 

@@ -3,24 +3,21 @@ title: Ciclos de codependencia
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Explicame los ciclos de la codependencia"
 draft: false
 ---
 
 # Ciclos de codependencia
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Explicame los ciclos de la codependencia
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Explicame los ciclos de la codependencia
 
+---
 
+🤖 **Assistant:**
 
 Los ciclos de la codependencia se refieren a patrones repetitivos de comportamiento que las personas codependientes experimentan en sus relaciones. Estos ciclos suelen estar caracterizados por una serie de etapas que se repiten, manteniendo la dinámica codependiente. A continuación, te explico estas etapas:
 

@@ -3,7 +3,9 @@ title: 'Ruby Server Comparison: Puma, Unicorn, Passenger'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I want to understand differences between puma, unicorn
+  and passenger. How can I test them? Provide an example of a basic server in ruby
+  code and then explain what these existing servers do beyond the code provided."
 draft: false
 ---
 
@@ -12,13 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] what it's best at: Nginx manages high numbers of connections and static assets, while Unicorn (or other app servers) focuses on running your Ruby code.
 
-## 📌 Summary
-I want to understand differences between puma, unicorn and passenger. How can I test them? Provide an example of a basic server in ruby code and then explain what these existing servers do beyond the code provided.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-I want to understand differences between puma, unicorn and passenger. How can I test them? Provide an example of a basic server in ruby code and then explain what these existing servers do beyond the code provided. 
+I want to understand differences between puma, unicorn and passenger. How can I test them? Provide an example of a basic server in ruby code and then explain what these existing servers do beyond the code provided.
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Let's first understand what these are. Puma, Unicorn, and Phusion Passenger are all application servers for hosting Ruby applications, most commonly Ruby on Rails.
 
@@ -108,7 +112,15 @@ For testing, you would primarily want to look into:
 
 Do some benchmarking with tools like `wrk` or `ab` (Apache Bench) to see how they perform under your specific conditions.
 
+---
+
+🙋 **You:**
+
 ffCan you explain the differences between processes (are those regular unix processes?), threads and workers. I want to understand concurrency in this context. So why you need nginx and apache? Aren't those servers too? I want to understand what a server is in the context of real world applications. I'd like an explanation like: When you start your server in port 8080 in production, it becomes available through multiple dynamic ports by ngix load balancer... or however it suppose to work. I want you to explain me what actually happens in the context of the concepts I still don't get very well. If you can append ruby/unix chunks to complement your explanations, that would be even better
+
+---
+
+🤖 **Assistant:**
 
 Absolutely, let's break it down step by step.
 

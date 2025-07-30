@@ -3,7 +3,7 @@ title: 'Reuniones: Programa Fecha'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Web app para acordar un dia para una reunión"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s los participantes:
 
-## 📌 Summary
-Web app para acordar un dia para una reunión
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Web app para acordar un dia para una reunión 
+Web app para acordar un dia para una reunión
 
+---
 
+🤖 **Assistant:**
 
 Puedes considerar utilizar algunas de estas aplicaciones web populares para programar reuniones y encontrar la fecha que mejor convenga a todos los participantes:
 
@@ -36,7 +36,15 @@ Puedes considerar utilizar algunas de estas aplicaciones web populares para prog
 
 Estas herramientas pueden facilitar mucho la coordinación de fechas para reuniones, especialmente cuando se trata de grupos grandes o agendas muy ocupadas.
 
+---
+
+🙋 **You:**
+
 Cual es la. Mas facil para un grupo escolar que no se frecuenta mucho
+
+---
+
+🤖 **Assistant:**
 
 Para un grupo escolar que no se frecuenta mucho, donde quizás los participantes no estén muy familiarizados con herramientas avanzadas o no deseen registrarse en servicios nuevos, recomendaría usar **Doodle** o **When2meet**. Ambas son bastante accesibles y no requieren que los usuarios creen cuentas para participar en las encuestas de disponibilidad.
 

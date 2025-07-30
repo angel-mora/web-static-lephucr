@@ -3,24 +3,22 @@ title: Rails Service Concern Creation
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  if want to get concern for service in rails what should
+  I do?"
 draft: false
 ---
 
 # Rails Service Concern Creation
 
-## ✅ TODOs
-
-
-## 📌 Summary
-if want to get concern for service in rails what should I do?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 if want to get concern for service in rails what should I do?
 
+---
 
+🤖 **Assistant:**
 
 To create a concern for service objects in Rails, you should define a module that can be included in multiple service objects to share common functionality. Here's a step-by-step guide:
 
@@ -77,7 +75,15 @@ To create a concern for service objects in Rails, you should define a module tha
 
 This structure allows you to keep your code DRY (Don't Repeat Yourself) by sharing common logic across different service objects through concerns.
 
+---
+
+🙋 **You:**
+
 where it should be located? arent concerns exclusively for models?
+
+---
+
+🤖 **Assistant:**
 
 You're correct that concerns are traditionally associated with models in Rails, but you can also organize concerns for other parts of your application. For service objects, you can follow a similar structure but place them in a directory specific to services.
 

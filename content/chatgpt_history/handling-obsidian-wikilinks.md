@@ -3,7 +3,8 @@ title: Handling Obsidian Wikilinks
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How does Obsidian handle wikilinks redirections to
+  the right file despite folders’ depth?"
 draft: false
 ---
 
@@ -12,13 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] cument it. This way, if someone else (or future you) works with your Gollum wiki, they'll know how links are structured.
 
-## 📌 Summary
-How does Obsidian handle wikilinks redirections to the right file despite folders’ depth?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How does Obsidian handle wikilinks redirections to the right file despite folders’ depth?
+
+---
+
+🤖 **Assistant:**
 
 Obsidian, a popular note-taking app, uses a wiki-style linking mechanism that allows users to easily interlink their notes. The way Obsidian handles wikilinks, especially when dealing with folder structures, is relatively straightforward:
 
@@ -40,7 +43,15 @@ Obsidian, a popular note-taking app, uses a wiki-style linking mechanism that al
 
 Remember, one of the advantages of using a tool like Obsidian is the flexibility it provides. You can structure your notes in a way that makes the most sense to you, and the software provides multiple methods to help you maintain and navigate those links.
 
+---
+
+🙋 **You:**
+
 How can I mimic that md behavior of linking to the proper note despite its folder for gollum wiki?
+
+---
+
+🤖 **Assistant:**
 
 Gollum is a simple wiki system built on top of Git that is also designed around the concept of linking files similar to markdown wiki links. However, its handling of links, especially across different folders, might not be as intuitive as Obsidian's out-of-the-box behavior.
 
@@ -71,7 +82,15 @@ To mimic the behavior of linking to the right note in Gollum irrespective of its
 
 Remember, while Gollum is flexible and integrates well with Git, it doesn't have the same built-in conveniences as Obsidian for handling links across folders. You'll likely need to implement a consistent system yourself or dive into custom solutions to mimic Obsidian's exact behavior.
 
+---
+
+🙋 **You:**
+
 A set of gardens has a name?
+
+---
+
+🤖 **Assistant:**
 
 Yes, a set or collection of gardens can have various names based on its purpose, design, or layout. Some potential terms for a set or collection of gardens include:
 

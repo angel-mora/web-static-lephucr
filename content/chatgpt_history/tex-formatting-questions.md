@@ -5,7 +5,7 @@ tags:
 - '2'
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What part of this file is"
 draft: false
 ---
 
@@ -26,11 +26,9 @@ draft: false
 - [ ] grado de interioridad en la vida psíquica de las personas pues la Ley ha pasado a ser la norma, a estar completamente internalizada. Nuestras relaciones son espectáculares porque están mediadas a través de la representación cibernética y nuestro deseo bajo el Biopoder porque la industria farmacopornográfica se encarga de generar dinero de la enfermedad y de la frustración sexual. La cibernética es el arte del control, la disciplina propia de tiempos donde la información se vuelve la mercancía que más valor produce.
 - [ ] s
 
-## 📌 Summary
-What part of this file is
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What part of this file is 
 1. managing the depth of the index
@@ -326,11 +324,23 @@ Impreso y hecho en México $\bullet$ \emph{Printed in Mexico}
 \end{document}
 ```
 
+---
+
+🤖 **Assistant:**
+
 The given code does not contain any specific part that is managing the depth of the index, nor does it contain any code that explicitly adds numbers to chapters.
+
+---
+
+🤖 **Assistant:**
 
 1. The part managing the depth of the index cannot be determined from the given code.
 
 2. The given code does not add numbers to chapters.
+
+---
+
+🙋 **You:**
 
 What part of this LaTeX code is 
 1. managing the depth of the index
@@ -627,13 +637,23 @@ Impreso y hecho en México $\bullet$ \emph{Printed in Mexico}
 \end{document}
 ```
 
+---
 
+🤖 **Assistant:**
 
 1. The code does not contain anything related to managing the depth of the index.
 
 2. Adding numbers to chapters is done by using the `scrbook` document class and setting the `chapterprefix` option to `true` or `false` depending on whether you want to include the word "Chapter" before the chapter number. In this code, `chapterprefix` is set to `false`, so chapter numbers will be displayed without the word "Chapter".
 
+---
+
+🙋 **You:**
+
 How can I add Obsidian wikilinks "[[link]]" to gollum git wiki gem in ruby
+
+---
+
+🤖 **Assistant:**
 
 To add support for Obsidian-style wikilinks to Gollum git wiki gem in Ruby, you can modify the `Gollum::Markup::LinkParser` class to recognize and parse Obsidian-style links.
 
@@ -668,7 +688,15 @@ This modification adds a new `extract_obsidian_links` method that scans the text
 
 You can then use the modified Gollum gem in your Ruby project to parse Obsidian-style links.
 
+---
+
+🙋 **You:**
+
 What is the easiest way to call a latex build from a ruby on rails application?  It will generate a book through a latex template for a given folder of markdown files
+
+---
+
+🤖 **Assistant:**
 
 One way to call a LaTeX build from a Ruby on Rails application is to use the `system` method in Ruby to execute a command-line interface (CLI) command. 
 

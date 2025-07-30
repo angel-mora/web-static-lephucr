@@ -3,7 +3,8 @@ title: Valores económicos para startups
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuáles son los valores económicos que tenemos que tener
+  los socios de la startup para disminuir el riesgo de fallo y una sociedad adecuada?"
 draft: false
 ---
 
@@ -13,15 +14,15 @@ draft: false
 - [ ] s los socios deben estar alineados con el nivel de inversión requerido para el proyecto, ya sea en dinero, tiempo o ambos.
 - [ ] s los socios están alineados.
 
-## 📌 Summary
-Cuáles son los valores económicos que tenemos que tener los socios de la startup para disminuir el riesgo de fallo y una sociedad adecuada?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cuáles son los valores económicos que tenemos que tener los socios de la startup para disminuir el riesgo de fallo y una sociedad adecuada?
 
+---
 
+🤖 **Assistant:**
 
 Los valores económicos que deberían tener los socios de una startup para reducir el riesgo de fracaso y construir una sociedad adecuada incluyen:
 

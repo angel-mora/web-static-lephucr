@@ -3,24 +3,21 @@ title: Rails Obsidian Plugin Integration
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  how can I make my rails compatible with https://github.com/obsidianmd/obsidian-sample-plugin?"
 draft: false
 ---
 
 # Rails Obsidian Plugin Integration
 
-## ✅ TODOs
-
-
-## 📌 Summary
-how can I make my rails compatible with https://github.com/obsidianmd/obsidian-sample-plugin?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 how can I make my rails compatible with https://github.com/obsidianmd/obsidian-sample-plugin?
 
+---
 
+🤖 **Assistant:**
 
 To make your Rails application compatible with the Obsidian sample plugin from [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin), you need to ensure your app provides the necessary API endpoints and file structures that the plugin can interact with. Here's a step-by-step guide:
 

@@ -3,24 +3,22 @@ title: Similitudes en películas distópicas
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Películas como Idiocracy. Argumenta en qué se parecen.
+  Se vale cualquier origen, no solo Hollywood"
 draft: false
 ---
 
 # Similitudes en películas distópicas
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Películas como Idiocracy. Argumenta en qué se parecen. Se vale cualquier origen, no solo Hollywood
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Películas como Idiocracy. Argumenta en qué se parecen. Se vale cualquier origen, no solo Hollywood
 
+---
 
+🤖 **Assistant:**
 
 Aquí tienes una lista de películas similares a *Idiocracy* y cómo se parecen:
 
@@ -54,7 +52,15 @@ Aquí tienes una lista de películas similares a *Idiocracy* y cómo se parecen:
 
 Estas películas, aunque con enfoques y géneros variados, comparten con *Idiocracy* la exploración de futuros distópicos donde la sociedad sufre las consecuencias de sus propias acciones, destacando la decadencia cultural, la dependencia tecnológica, y la manipulación.
 
-Películas de género de critica / comedia 
+---
+
+🙋 **You:**
+
+Películas de género de critica / comedia
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes una lista de películas que combinan la crítica social con la comedia, similar a *Idiocracy*:
 

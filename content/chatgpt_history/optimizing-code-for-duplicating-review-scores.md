@@ -3,22 +3,17 @@ title: Optimizing code for duplicating review scores.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  def duplicate_parent_scores_by_review(review)"
 draft: false
 ---
 
 # Optimizing code for duplicating review scores.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-def duplicate_parent_scores_by_review(review)
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-  def duplicate_parent_scores_by_review(review)
+def duplicate_parent_scores_by_review(review)
     return unless offerings.find_by(id: review.offering_id)
 
     # Eager load approved_review associations
@@ -58,6 +53,10 @@ def duplicate_parent_scores_by_review(review)
   end
 
 Is it possible to optimize it more?
+
+---
+
+🤖 **Assistant:**
 
 Yes, the given code can be optimized further. Here's an optimized version of the code:
 

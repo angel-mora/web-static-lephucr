@@ -3,22 +3,30 @@ title: Leader Development Strategies
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I be a good leader and use those skill to land
+  a senior rails dev despite I'm not very skilled just yet (6 years). I am currently
+  improving my TDAH condition and want to keep improving despite feeling like have
+  to get a dopamine shot (with pmo or weed) each time I need to focus in something
+  though. I want to hack these behaviours to improve as a dev and land better salary.
+  My main improvement opportunity I think is to be able to handle with frustration
+  (particularly in weird bugs that require you to take a look at the code and formulate
+  hyphotesis, like understanding the flow of a model from the db to a warehouse. Tracing
+  down the issue blocks me very bad. Provide cognitive-behavioral advice. I have a
+  good ergonomics in my office and a beautiful place to spend some time to relax"
 draft: false
 ---
 
 # Leader Development Strategies
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I be a good leader and use those skill to land a senior rails dev despite I'm not very skilled just yet (6 years). I am currently improving my TDAH condition and want to keep improving despite feeling like have to get a dopamine shot (with pmo or weed) each time I need to focus in something though. I want to hack these behaviours to improve as a dev and land better salary. My main improvement opportunity I think is to be able to handle with frustration (particularly in weird bugs that require you to take a look at the code and formulate hyphotesis, like understanding the flow of a model from the db to a warehouse. Tracing down the issue blocks me very bad. Provide cognitive-behavioral advice. I have a good ergonomics in my office and a beautiful place to spend some time to relax
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I be a good leader and use those skill to land a senior rails dev despite I'm not very skilled just yet (6 years). I am currently improving my TDAH condition and want to keep improving despite feeling like have to get a dopamine shot (with pmo or weed) each time I need to focus in something though. I want to hack these behaviours to improve as a dev and land better salary. My main improvement opportunity I think is to be able to handle with frustration (particularly in weird bugs that require you to take a look at the code and formulate hyphotesis, like understanding the flow of a model from the db to a warehouse. Tracing down the issue blocks me very bad. Provide cognitive-behavioral advice. I have a good ergonomics in my office and a beautiful place to spend some time to relax
+
+---
+
+🤖 **Assistant:**
 
 Becoming a good leader and advancing in your career as a senior Rails developer, especially when dealing with ADHD and seeking to improve focus and handle frustration better, involves a multi-faceted approach. Here are strategies encompassing leadership, technical skill enhancement, and cognitive-behavioral techniques to help you progress:
 
@@ -47,10 +55,16 @@ Becoming a good leader and advancing in your career as a senior Rails developer,
 
 Remember, leadership and technical skills go hand in hand with personal development. Your journey to improving as a developer and leader is ongoing, and every step forward counts. Celebrate your progress and remain patient and persistent with your growth.
 
+---
+
+🙋 **You:**
+
 How can I create a light routine that helps me avoid triggers ans have periods of deep focus? Then, provide common weed-pmo triggers I should be aware of and sustitutions (like playing Civ 6 or doing something less intense)?
 I'd like to also decrease the intense of my dopamine rewards. Like the microdosing idea but for dopamine detox
 
+---
 
+🤖 **Assistant:**
 
 Creating a light routine that minimizes triggers and fosters periods of deep focus involves structuring your day in a way that supports your cognitive and emotional needs while gradually reducing reliance on high-dopamine activities. Here’s a simple structure to consider:
 
@@ -59,13 +73,29 @@ Creating a light routine that minimizes triggers and fosters periods of deep foc
 2. **Light Exercise:** Engage in light exercise like a short walk, yoga, or stretching to boost your mood and energy naturally.
 3. **Healthy Breakfast:** Eat a nutritious breakfast that
 
+---
+
+🙋 **You:**
+
 Como aprender a trabajar con mucha productividad de una manera saludable
+
+---
+
+🤖 **Assistant:**
 
 Aprender a trabajar con alta productividad de manera saludable implica encontrar un equilibrio entre la eficiencia laboral y el bienestar personal. Aquí tienes algunas estrategias clave:
 
 ### 1. Establecer Objetivos Claros
 - **Define metas realistas** para cada día, semana y mes. Asegúrate de que sean específicas, medibles, alcanzables, relevantes
 
+---
+
+🙋 **You:**
+
 Nucleo azul de la dopamina
+
+---
+
+🤖 **Assistant:**
 
 El "núcleo azul" es un término que se refiere al locus coeruleus (LC), una estructura del cerebro que está estrechamente relacionada con la respuesta al estrés y el pánico, además de jugar un papel en la regulación de la atención. Aunque el locus coeruleus es más conocido por su papel en la producción y liberación de norepinefrina (noradrenalina), una sustancia química del cerebro que actúa como neurotransmisor y hormona del estrés, la dopamina se asocia más común

@@ -3,24 +3,21 @@ title: Shape Up Method
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Shape Up Method from Basecamp"
 draft: false
 ---
 
 # Shape Up Method
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Shape Up Method from Basecamp
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Shape Up Method from Basecamp
 
+---
 
+🤖 **Assistant:**
 
 The Shape Up method, developed by Basecamp, is a product development framework designed to help teams build and ship projects more effectively. Here’s an overview of the core concepts of the Shape Up method:
 

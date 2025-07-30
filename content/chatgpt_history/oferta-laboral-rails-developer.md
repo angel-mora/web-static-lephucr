@@ -3,7 +3,8 @@ title: Oferta laboral Rails Developer
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Todas las cosas que tiene que tener una oferta laboral
+  de programación"
 draft: false
 ---
 
@@ -17,20 +18,28 @@ draft: false
 - [ ] s los procesos y decisiones relevantes para facilitar el mantenimiento y futuras iteraciones.
 - [ ] s entiendan claramente los objetivos y plazos.
 
-## 📌 Summary
-Todas las cosas que tiene que tener una oferta laboral de programación
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Todas las cosas que tiene que tener una oferta laboral de programación
 
+---
 
+🤖 **Assistant:**
 
 Una oferta laboral en el ámbito de la programación debe incluir una variedad de detalles clave para que sea atractiva y clara
 
+---
+
+🙋 **You:**
+
 Todas las cosas que tiene que tener una oferta laboral de programación para un asociado junior que recibiría 27K + 3K acumulado al final del contrato. Después, a la hora de la constitución para la LLC de YC el 3% de participación.
 Específica las funciones de un rails developer y las Que se requieran para cumplir la meta “Hacer la mayor cantidad de dinero posible con el ingreso de tres proyectos de programación de la forma más saludable”.
+
+---
+
+🤖 **Assistant:**
 
 Aquí te dejo un ejemplo de cómo estructurar una oferta laboral para un **junior Rails developer** con las condiciones y objetivos específicos que mencionas:
 
@@ -97,11 +106,27 @@ Contrato inicial de 6 meses con posibilidad de extensión y participación en la
 ### **Cómo aplicar:**
 Enviar CV y portafolio de proyectos realizados a [correo de la empresa].
 
+---
+
+🙋 **You:**
+
 Más bien la meta sería garantizar que los dos devs que trabajan en los proyectos y pudieran cumplir las metas. Hacer qa y project management más que codear en si. Dar preámbulos de los code reviews
+
+---
+
+🤖 **Assistant:**
 
 User's goal for the junior Rails developer position is to ensure that two developers working on projects can meet their goals by focusing more on QA and project management than on coding, and by providing code review guidelines.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes una oferta laboral más enfocada en **QA y gestión de proyectos**, con énfasis en la supervisión y revisión de los desarrolladores que trabajan en los proyectos.
 
@@ -118,11 +143,21 @@ Contrato inicial de 6 meses con posibilidad de extensión y participación en la
 ### **Objetivo del puesto:**
 - **Meta global:** A
 
+---
 
+🤖 **Assistant:**
 
 User's goal for the junior Rails developer position is to ensure that two developers working on projects can meet their goals by focusing more on QA and project management than on coding, and by providing code review guidelines.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes una versión ajustada de la oferta laboral que se alinea con la meta de **gestionar a los dos desarrolladores**, enfocándose más en **QA, project management**, y **code review** en lugar de programar directamente.
 
@@ -185,12 +220,28 @@ Contrato inicial de 6 meses con posibilidad de extensión y participación en la
 
 Este enfoque es adecuado para un rol donde la prioridad es asegurar que los desarrolladores alcancen sus objetivos, garantizando la calidad del código y la efectividad del proceso de desarrollo, más que escribir código directamente.
 
+---
+
+🙋 **You:**
+
 Objetivo Principal: Generar la mayor cantidad posible de ingresos de los capacidades existentes
-Objetivo Secundario: Garantizar el cumplimiento de las entregar necesarias para cumplir, con una comunicación adecuada, los entregables de los diferentes proyectos 
+Objetivo Secundario: Garantizar el cumplimiento de las entregar necesarias para cumplir, con una comunicación adecuada, los entregables de los diferentes proyectos
+
+---
+
+🤖 **Assistant:**
 
 User's primary objective for the junior Rails developer role is to generate the maximum possible revenue from existing capacities. The secondary objective is to ensure the necessary deliveries are met, with proper communication regarding the deliverables of different projects.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes una versión refinada de la oferta laboral, alineada con los objetivos principales y secundarios que has mencionado:
 
@@ -258,13 +309,27 @@ Contrato inicial de 6 meses con posibilidad de extensión y participación en la
 
 Este enfoque destaca cómo el rol no solo es técnico, sino que también está orientado a **gestionar el éxito del equipo** y asegurar que los proyectos se completen de manera rentable y eficiente.
 
+---
+
+🙋 **You:**
+
 Ahora para un junior rails developer, 30K al mes y seguro privado en Sofía
 
+---
 
+🤖 **Assistant:**
 
 User is preparing a job offer for a junior Rails developer with a salary of 30K MXN per month and private health insurance through Sofía.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes una oferta laboral ajustada para un **junior Rails developer** con un salario de $30,000 MXN mensuales y seguro privado con Sofía:
 

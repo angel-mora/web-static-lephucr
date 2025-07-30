@@ -3,22 +3,25 @@ title: Foam Daily Log Templates
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  how can I make a wikilink to create a file with specific
+  path based on a template so it's prepopulated. E.g. clicking [[Daily Log entry]]
+  should redirect to either the existing file or a new one in ~/Documents/my_folder/subfolder/2024-04-09-daily-log.
+  Feel free to suggest different kinds of solutions. Like using vscode foam, or obsidian
+  plugins combinations. Make sure to browse the web to provide the best possible advice"
 draft: false
 ---
 
 # Foam Daily Log Templates
 
-## ✅ TODOs
-
-
-## 📌 Summary
-how can I make a wikilink to create a file with specific path based on a template so it's prepopulated. E.g. clicking [[Daily Log entry]] should redirect to either the existing file or a new one in ~/Documents/my_folder/subfolder/2024-04-09-daily-log. Feel free to suggest different kinds of solutions. Like using vscode foam, or obsidian plugins combinations. Make sure to browse the web to provide the best possible advice
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 how can I make a wikilink to create a file with specific path based on a template so it's prepopulated. E.g. clicking [[Daily Log entry]] should redirect to either the existing file or a new one in ~/Documents/my_folder/subfolder/2024-04-09-daily-log. Feel free to suggest different kinds of solutions. Like using vscode foam, or obsidian plugins combinations. Make sure to browse the web to provide the best possible advice
+
+---
+
+🤖 **Assistant:**
 
 Creating a Wikilink that redirects to either an existing file or creates a new one in a specific path, pre-populated based on a template, is a process that involves a combination of settings and functionalities available in tools like VSCode with the Foam extension or Obsidian. Below are the approaches tailored to Foam for VSCode, given its flexibility and extensibility, which should serve as a solid foundation for achieving your goal.
 
@@ -47,8 +50,16 @@ While the focus here is on Foam for VSCode due to its flexibility and integratio
 
 In summary, by leveraging Foam's templating system, command customization, and the ability to specify dynamic paths and content within templates, you can set up a workflow that automatically generates or navigates to daily log entries based on the current date, organized in a structured directory hierarchy.
 
+---
+
+🙋 **You:**
+
 Check this url please and now suggest an approach with Obsidian
 https://www.youtube.com/watch?v=ccN5vJzXwvo&t=1s
+
+---
+
+🤖 **Assistant:**
 
 Given that the video discusses Obsidian's capabilities with Dataviewjs, Templates, and Daily Notes, for implementing a system similar to the VSCode Foam approach in Obsidian, consider leveraging these features:
 
@@ -62,7 +73,15 @@ Given that the video discusses Obsidian's capabilities with Dataviewjs, Template
 
 This approach combines the power of Templater for dynamic content generation, Daily Notes for automatic note creation, and Dataview for sophisticated data manipulation and presentation within your notes. For a step-by-step guide and examples, you might find tutorials and documentation on Obsidian's official forum and community hubs very helpful.
 
+---
+
+🙋 **You:**
+
 Show me the actual implementation. Remember,  clicking [[Daily Log entry]] should redirect to either the existing file or a new one in ~/Documents/my_folder/subfolder/2024-04-09-daily-log
+
+---
+
+🤖 **Assistant:**
 
 For implementing the desired functionality in Obsidian, you'll need to combine features from the Daily Notes, Templater, and possibly other plugins to manage dynamic file creation and linking. The precise setup involves configuring Templater to dynamically create file paths and names based on the current date and then linking or accessing these files through Obsidian's markdown link or command features.
 

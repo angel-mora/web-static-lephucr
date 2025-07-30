@@ -3,7 +3,9 @@ title: Riesgos tras correr en frío
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Mi corazón sigue palpitando muy fuerte, hace media
+  hora que paré de correr y hacía mucho frío afuera, que riesgos corro y como puedo
+  evitarlos?"
 draft: false
 ---
 
@@ -12,15 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] valga la pena. Si necesitas apoyo adicional, un médico o terapeuta puede guiarte en este proceso.
 
-## 📌 Summary
-Mi corazón sigue palpitando muy fuerte, hace media hora que paré de correr y hacía mucho frío afuera, que riesgos corro y como puedo evitarlos?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Mi corazón sigue palpitando muy fuerte, hace media hora que paré de correr y hacía mucho frío afuera, que riesgos corro y como puedo evitarlos?
 
+---
 
+🤖 **Assistant:**
 
 Es común que, después de un esfuerzo físico intenso, especialmente en condiciones de frío, el corazón siga latiendo con fuerza durante un tiempo. Sin embargo, si persiste durante tanto tiempo o sientes otros síntomas, podría ser señal de algo más serio. Aquí hay algunos riesgos y consejos para evitarlos:
 
@@ -60,7 +62,15 @@ Es común que, después de un esfuerzo físico intenso, especialmente en condici
 
 Si esto fue un episodio aislado, probablemente no sea grave, pero si persiste o sientes algo más extraño, es mejor consultar con un médico para asegurarte de que tu corazón está sano.
 
+---
+
+🙋 **You:**
+
 Fumo vape
+
+---
+
+🤖 **Assistant:**
 
 Fumar vape puede influir en cómo tu cuerpo responde al ejercicio, especialmente en condiciones de frío o después de un esfuerzo físico intenso. Aquí hay algunos factores que podrían estar relacionados con tu corazón latiendo fuerte después de correr:
 
@@ -105,7 +115,15 @@ Fumar vape puede influir en cómo tu cuerpo responde al ejercicio, especialmente
 
 El vape puede parecer menos dañino que fumar, pero tiene impactos significativos en tu salud cardiovascular, especialmente si haces ejercicio regularmente. Reducir o dejarlo podría mejorar mucho tu resistencia y bienestar general. Si necesitas ayuda para dejarlo, hay programas y recursos disponibles para acompañarte en el proceso.
 
+---
+
+🙋 **You:**
+
 Como dejarlo
+
+---
+
+🤖 **Assistant:**
 
 Dejar de vapear puede ser un desafío, pero es completamente posible con un enfoque estratégico y el apoyo adecuado. Aquí tienes un plan detallado para lograrlo:
 

@@ -3,7 +3,8 @@ title: Estados no cristianos hoy.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  porcentaje de estados no laicos y no cristianos hoy
+  en día"
 draft: false
 ---
 
@@ -13,15 +14,15 @@ draft: false
 - [ ] xa tiene un estatus especial.
 - [ ] xo ruso junto con otras religiones tradicionales, pero muestra un tratamiento preferencial hacia la iglesia ortodoxa【9†source】.
 
-## 📌 Summary
-porcentaje de estados no laicos y no cristianos hoy en día
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 porcentaje de estados no laicos y no cristianos hoy en día
 
+---
 
+🤖 **Assistant:**
 
 No hay un número exacto para determinar el porcentaje de estados no laicos y no cristianos en el mundo, dado que la clasificación de un estado puede variar según su constitución y prácticas gubernamentales. Sin embargo, puedo ofrecerte una visión general de la situación:
 
@@ -31,7 +32,15 @@ No hay un número exacto para determinar el porcentaje de estados no laicos y no
 
 Si te interesa conocer más sobre cómo se distribuyen estos países por regiones o continentes, puedo buscar información más específica para ti. ¿Te gustaría eso?
 
+---
+
+🙋 **You:**
+
 Sí
+
+---
+
+🤖 **Assistant:**
 
 En el mundo actual, alrededor del 43% de los países tienen una religión de estado o preferida. Entre estos, el islam es la religión oficial más común, presente en 27 países, principalmente en Oriente Medio y África del Norte, y en algunas naciones de Asia-Pacífico y África subsahariana. El cristianismo es la segunda religión oficial más común, con 13 países que lo declaran como religión de estado, mayormente en Europa y algunos en América y Asia-Pacífico【9†source】.
 

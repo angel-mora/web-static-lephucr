@@ -3,22 +3,22 @@ title: UX/UI Job Description - XYZ
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Example of a UX/UI Job Description for your CV following
+  XYZ methodology"
 draft: false
 ---
 
 # UX/UI Job Description - XYZ
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Example of a UX/UI Job Description for your CV following XYZ methodology
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Example of a UX/UI Job Description for your CV following XYZ methodology
+
+---
+
+🤖 **Assistant:**
 
 Certainly! The XYZ methodology emphasizes results in job descriptions by framing achievements in terms of the situation faced (X), the action taken (Y), and the result achieved (Z). Using this method, you can show prospective employers the tangible benefits you brought to previous roles. 
 
@@ -46,7 +46,15 @@ Here's an example of a UX/UI Designer job description for a CV:
 
 Adjust and tailor the details according to your own experiences and achievements. Remember, the XYZ methodology is about clarifying the impact you've had in a role, making it easier for prospective employers to understand the value you can bring to their organization.
 
+---
+
+🙋 **You:**
+
 Shortened version to fit in my CV
+
+---
+
+🤖 **Assistant:**
 
 Absolutely! Here's a more concise version using the XYZ methodology for a UX/UI Designer role on a CV:
 

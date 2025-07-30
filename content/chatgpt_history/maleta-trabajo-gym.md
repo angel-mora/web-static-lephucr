@@ -3,7 +3,11 @@ title: Maleta Trabajo & Gym
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Soy programador y uso un monitor externo en mi Mac
+  que se conecta por usbc. Hago calistenia y traigo mis calleras. Haz una lista de
+  todas las cosas que debo traer en mi mochila como nómada que podría bañarse en el
+  gym de MMA y que también trabaja en diferentes cafés. Una maleta para el trabajo
+  y otra para el gym"
 draft: false
 ---
 
@@ -15,13 +19,15 @@ draft: false
 - [ ] para maximizar el espacio y mantener las cosas accesibles. Es posible que necesites ajustar esta lista según tus necesidades específicas y la duración de tus días fuera de casa.
 - [ ] s los ingredientes en un tazón grande. Añade el aderezo y mezcla bien.
 
-## 📌 Summary
-Soy programador y uso un monitor externo en mi Mac que se conecta por usbc. Hago calistenia y traigo mis calleras. Haz una lista de todas las cosas que debo traer en mi mochila como nómada que podría bañarse en el gym de MMA y que también trabaja en diferentes cafés. Una maleta para el trabajo y otra para el gym
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Soy programador y uso un monitor externo en mi Mac que se conecta por usbc. Hago calistenia y traigo mis calleras. Haz una lista de todas las cosas que debo traer en mi mochila como nómada que podría bañarse en el gym de MMA y que también trabaja en diferentes cafés. Una maleta para el trabajo y otra para el gym 
+Soy programador y uso un monitor externo en mi Mac que se conecta por usbc. Hago calistenia y traigo mis calleras. Haz una lista de todas las cosas que debo traer en mi mochila como nómada que podría bañarse en el gym de MMA y que también trabaja en diferentes cafés. Una maleta para el trabajo y otra para el gym
+
+---
+
+🤖 **Assistant:**
 
 Para asegurarte de que tienes todo lo necesario tanto para tu jornada laboral como para tus entrenamientos en el gimnasio de MMA y sesiones de calistenia, aquí tienes dos listas detalladas, una para cada maleta:
 
@@ -46,6 +52,10 @@ Para asegurarte de que tienes todo lo necesario tanto para tu jornada laboral co
 12. Botella de agua reutilizable
 13. Snacks saludables (barras de proteínas, frutos secos)
 14. Kit de higiene personal (gel antibacterial, toallitas h
+
+---
+
+🤖 **Assistant:**
 
 Para organizar tus pertenencias de manera eficiente, dividiremos la lista en dos categorías: una maleta para el trabajo y otra para el gym. Esto te ayudará a mantener tus cosas organizadas y a asegurarte de que tienes todo lo necesario para tus actividades diarias.
 
@@ -86,7 +96,15 @@ Para organizar tus pertenencias de manera eficiente, dividiremos la lista en dos
 
 Considera el tamaño de tus maletas y cómo organizarás todo para maximizar el espacio y mantener las cosas accesibles. Es posible que necesites ajustar esta lista según tus necesidades específicas y la duración de tus días fuera de casa.
 
+---
+
+🙋 **You:**
+
 Lista de recetas fáciles y con mucha proteína, muchas verduras y pocos carbs, para preparar rápido entre semana.ejemplo: ensalada de queso feta con quinoa,pimientos, apio, cebolla, o bowls, etc. De preferencia pero no es necesario que aguanten algunos días en el refri (di cuanto tiempo aguantarían maso)
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes algunas recetas fáciles, ricas en proteínas y verduras, y bajas en carbohidratos que son perfectas para preparar rápidamente entre semana. Muchas de estas recetas se pueden almacenar en el refrigerador por varios días, lo que las hace ideales para la preparación de comidas.
 

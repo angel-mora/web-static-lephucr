@@ -3,7 +3,12 @@ title: Certificaciones para Abogados en México
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tengo dos programadores, uno que estudio derecho, los
+  dos certificados en CompTIA Security+, y dos abogados litigantes, como podemos hacer
+  mucho dinero estando en Mexico y pensando en hacer negocios con otros países? EUA
+  está más cerca pero no nos cerramos a todas las opciones. Ordena tus recomendaciones
+  por mayor ingresos potenciales y dame un estimado de ganancia anual para la empresa
+  en dólares junto con la descripción de la actividad."
 draft: false
 ---
 
@@ -12,13 +17,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s los cursos sean completamente remotos, muchos programas ofrecen componentes en línea. Estos cursos se centran en el arbitraje comercial internacional, que es esencial para resolver disputas en acuerdos comerciales internacionales.
 
-## 📌 Summary
-Tengo dos programadores, uno que estudio derecho, los dos certificados en CompTIA Security+, y dos abogados litigantes, como podemos hacer mucho dinero estando en Mexico y pensando en hacer negocios con otros países? EUA está más cerca pero no nos cerramos a todas las opciones. Ordena tus recomendaciones por mayor ingresos potenciales y dame un estimado de ganancia anual para la empresa en dólares junto con la descripción de la actividad.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tengo dos programadores, uno que estudio derecho, los dos certificados en CompTIA Security+, y dos abogados litigantes, como podemos hacer mucho dinero estando en Mexico y pensando en hacer negocios con otros países? EUA está más cerca pero no nos cerramos a todas las opciones. Ordena tus recomendaciones por mayor ingresos potenciales y dame un estimado de ganancia anual para la empresa en dólares junto con la descripción de la actividad.
+
+---
+
+🤖 **Assistant:**
 
 Dada la combinación única de habilidades y certificaciones que tienes en tu equipo, hay varias formas interesantes de abordar negocios tanto en México como en el extranjero. Aquí hay algunas recomendaciones:
 
@@ -44,7 +51,15 @@ Dada la combinación única de habilidades y certificaciones que tienes en tu eq
 
 Estas cifras son solo estimaciones basadas en la información proporcionada y el contexto general del mercado hasta 2021. Es crucial hacer un estudio de mercado y un análisis detallado antes de invertir recursos en cualquier iniciativa. Además, las ganancias pueden variar dependiendo de muchos factores, como la competencia, la adopción del mercado, la calidad del servicio o producto, entre otros.
 
+---
+
+🙋 **You:**
+
 Que certificaciones necesitarían mis abogados en Mexico?
+
+---
+
+🤖 **Assistant:**
 
 Si tus abogados en México buscan especializarse en áreas específicas o mejorar su perfil profesional, existen varias certificaciones que podrían considerar. Aunque en México la carrera de abogado no requiere certificaciones adicionales para ejercer, estas pueden otorgar un valor agregado en términos de competencia y especialización. Aquí hay algunas recomendaciones basadas en las áreas de interés mencionadas anteriormente:
 
@@ -66,7 +81,15 @@ Si tus abogados en México buscan especializarse en áreas específicas o mejora
 
 Es importante investigar y analizar cuál certificación o curso es el más adecuado según las metas y objetivos específicos de tus abogados y la dirección que desees darle a tu negocio.
 
+---
+
+🙋 **You:**
+
 Dime los certificados internacionales que tendrían que tener los abogados, de preferencia que los puedan hacer remotos. Ordénalos según el ingreso potencial de cada opción de negocio que me recomendaste antes
+
+---
+
+🤖 **Assistant:**
 
 Entendido. Vamos a enfocarnos en certificaciones internacionales que tus abogados pueden obtener de forma remota y que sean pertinentes a las opciones de negocio previamente mencionadas. Las ordenaré según el ingreso potencial de cada opción:
 

@@ -3,24 +3,21 @@ title: Tiendas second hand La Paz
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tiendas cool second hand en La Paz, BCS"
 draft: false
 ---
 
 # Tiendas second hand La Paz
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Tiendas cool second hand en La Paz, BCS
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tiendas cool second hand en La Paz, BCS
 
+---
 
+🤖 **Assistant:**
 
 Si estás buscando tiendas de ropa de segunda mano con estilo en La Paz, Baja California Sur, aquí tienes algunas opciones destacadas:
 

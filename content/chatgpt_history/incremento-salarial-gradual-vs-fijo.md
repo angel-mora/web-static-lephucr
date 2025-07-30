@@ -3,7 +3,9 @@ title: 'Incremento salarial: Gradual vs. Fijo'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Grafica de incremento salarial durante un periodo de
+  un año comenzando en 7 mil pesos y hasta llegar a 20 mil pesos. Cuanto sumarian?
+  Cual es la diferencia si fueran 20K durante todo el año?"
 draft: false
 ---
 
@@ -15,15 +17,15 @@ draft: false
 - [ ] el año:
 - [ ] el año con un incremento de 7
 
-## 📌 Summary
-Grafica de incremento salarial durante un periodo de un año comenzando en 7 mil pesos y hasta llegar a 20 mil pesos. Cuanto sumarian? Cual es la diferencia si fueran 20K durante todo el año?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Grafica de incremento salarial durante un periodo de un año comenzando en 7 mil pesos y hasta llegar a 20 mil pesos. Cuanto sumarian? Cual es la diferencia si fueran 20K durante todo el año?
 
+---
 
+🤖 **Assistant:**
 
 Durante el periodo de un año, el salario incrementa de 7 mil pesos a 20 mil pesos de la siguiente manera:
 
@@ -32,7 +34,15 @@ Durante el periodo de un año, el salario incrementa de 7 mil pesos a 20 mil pes
 
 La diferencia entre estos dos escenarios es de **78,000 pesos**.
 
+---
+
+🙋 **You:**
+
 tabla
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes la tabla que muestra el salario incremental mes a mes y el salario fijo de 20,000 MXN durante todo el año:
 
@@ -54,7 +64,15 @@ Aquí tienes la tabla que muestra el salario incremental mes a mes y el salario 
 
 La diferencia entre el total acumulado de los salarios incrementales y el salario fijo es de **78,000 pesos**.
 
+---
+
+🙋 **You:**
+
 ahora por quincenas
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes la tabla que muestra el salario incremental por quincena y el salario fijo de 20,000 MXN durante todo el año:
 
@@ -88,11 +106,27 @@ Aquí tienes la tabla que muestra el salario incremental por quincena y el salar
 
 La diferencia entre el total acumulado de los salarios incrementales y el salario fijo es de **84,000 pesos**.
 
-no, el mismo incremento de 7 a 20 durante un año pero a 24 quincenas 
+---
+
+🙋 **You:**
+
+no, el mismo incremento de 7 a 20 durante un año pero a 24 quincenas
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes la tabla que muestra el salario incremental por quincena y el salario fijo de 20,000 MXN durante todo el año con un incremento de 7
 
+---
+
+🙋 **You:**
+
 no, el mismo incremento de 7 a 20 durante un año pero a 24 quincenas, es decir que 7 se divide entre las dos primeras quincenas. Podria empezar en 3500 la primera quincena
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes la tabla que muestra el salario incremental por quincena, comenzando en 3,500 MXN y aumentando hasta 20,000 MXN durante un año, y el salario fijo de 20,000 MXN durante todo el año:
 
@@ -126,7 +160,15 @@ Aquí tienes la tabla que muestra el salario incremental por quincena, comenzand
 
 La diferencia entre el total acumulado de los salarios incrementales y el salario fijo es de **42,000 pesos**.
 
+---
+
+🙋 **You:**
+
 tabla incremento quincenal de 3500 a 10000 durante un año
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes la tabla que muestra el salario incremental por quincena, comenzando en 3,500 MXN y aumentando hasta 10,000 MXN durante un año, y el salario fijo de 10,000 MXN durante todo el año:
 
@@ -160,9 +202,15 @@ Aquí tienes la tabla que muestra el salario incremental por quincena, comenzand
 
 La diferencia entre el total acumulado de los salarios incrementales y el salario fijo es de **78,000 pesos**.
 
+---
+
+🙋 **You:**
+
 como abordar una propuesta para mi potencial practicante junior
 
+---
 
+🤖 **Assistant:**
 
 Abordar una propuesta para un potencial practicante junior implica varios pasos clave para asegurar que la oferta sea atractiva, clara y mutuamente beneficiosa. Aquí hay una guía sobre cómo hacerlo:
 

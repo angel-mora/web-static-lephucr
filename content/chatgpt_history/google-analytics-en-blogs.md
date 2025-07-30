@@ -3,24 +3,22 @@ title: Google Analytics en Blogs
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Puede Google analytics decirme como leen los posts
+  de mi blog los usuarios??"
 draft: false
 ---
 
 # Google Analytics en Blogs
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Puede Google analytics decirme como leen los posts de mi blog los usuarios??
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Puede Google analytics decirme como leen los posts de mi blog los usuarios??
 
+---
 
+🤖 **Assistant:**
 
 Sí, Google Analytics puede proporcionarte datos detallados sobre cómo los usuarios leen los posts de tu blog. Algunas de las métricas y características útiles que puedes configurar para obtener esta información incluyen:
 
@@ -57,7 +55,15 @@ Sí, Google Analytics puede proporcionarte datos detallados sobre cómo los usua
 
 ¿Te gustaría ayuda con algún aspecto específico, como configurar el scroll tracking o interpretar los datos?
 
+---
+
+🙋 **You:**
+
 Puede Google analytics decirme como leen los posts de mi blog los usuarios??
+
+---
+
+🤖 **Assistant:**
 
 Google Analytics puede darte una idea de cómo los usuarios leen los posts de tu blog, pero necesitas configurar ciertas herramientas y eventos para obtener datos detallados. Aquí te explico cómo puedes hacerlo:
 

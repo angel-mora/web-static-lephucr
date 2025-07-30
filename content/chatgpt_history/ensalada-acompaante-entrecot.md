@@ -3,24 +3,21 @@ title: Ensalada acompañante entrecot
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  como se llama la ensalada del entrecot? Como se prepara?"
 draft: false
 ---
 
 # Ensalada acompañante entrecot
 
-## ✅ TODOs
-
-
-## 📌 Summary
-como se llama la ensalada del entrecot? Como se prepara?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-como se llama la ensalada del entrecot? Como se prepara? 
+como se llama la ensalada del entrecot? Como se prepara?
 
+---
 
+🤖 **Assistant:**
 
 La "ensalada del entrecot" no es un nombre universalmente reconocido para una receta específica. Sin embargo, puede referirse a una ensalada que se sirve comúnmente como acompañamiento de un entrecot (un corte de carne popular en la cocina francesa). Estas ensaladas suelen ser frescas y equilibradas para complementar el sabor rico y jugoso de la carne.
 
@@ -44,8 +41,15 @@ La "ensalada del entrecot" no es un nombre universalmente reconocido para una re
 
 ¿Es esta la ensalada que buscas o prefieres una receta más específica?
 
+---
+
+🙋 **You:**
 
 Es tipo una vinagreta amarilla
+
+---
+
+🤖 **Assistant:**
 
 ¡Gracias por la aclaración! La vinagreta amarilla a menudo se asocia con una emulsión de **mostaza Dijon** y aceite. Este tipo de vinagreta es típico en muchas ensaladas que acompañan carnes como el entrecot. A continuación, te dejo una receta para preparar esta ensalada con su vinagreta amarilla característica.
 
@@ -89,7 +93,15 @@ Es tipo una vinagreta amarilla
 
 Esta vinagreta amarilla es deliciosa y eleva el sabor fresco de la ensalada, complementando perfectamente el plato principal. Si necesitas más detalles o tips, ¡házmelo saber! 😊
 
+---
+
+🙋 **You:**
+
 como se llama esa vinagreta o ensalada en la cocina francesa
+
+---
+
+🤖 **Assistant:**
 
 En la cocina francesa, la vinagreta que describes podría llamarse **"vinaigrette à la moutarde"** (vinagreta de mostaza). Es una preparación clásica en Francia, ampliamente utilizada para acompañar ensaladas verdes y platos de carne como el entrecot.
 

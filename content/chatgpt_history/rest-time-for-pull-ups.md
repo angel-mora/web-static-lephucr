@@ -3,24 +3,21 @@ title: Rest Time for Pull-ups
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Rest time pull ups"
 draft: false
 ---
 
 # Rest Time for Pull-ups
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Rest time pull ups
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Rest time pull ups
 
+---
 
+🤖 **Assistant:**
 
 The optimal rest time between pull-up sets depends on your goals:  
 

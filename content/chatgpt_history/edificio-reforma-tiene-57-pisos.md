@@ -3,28 +3,33 @@ title: Edificio Reforma tiene 57 pisos.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuantos pisos tiene el edificio reforma capital?"
 draft: false
 ---
 
 # Edificio Reforma tiene 57 pisos.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cuantos pisos tiene el edificio reforma capital?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Cuantos pisos tiene el edificio reforma capital? 
+Cuantos pisos tiene el edificio reforma capital?
 
+---
 
+🤖 **Assistant:**
 
 El edificio Reforma Capital, también conocido como Torre Reforma, cuenta con 57 pisos y una altura de 246 metros. Es uno de los rascacielos más destacados y sostenibles de la Ciudad de México, conocido por su diseño innovador que le permite soportar terremotos de alta magnitud y por su eficiencia energética【7†source】【8†source】.
 
-Y las torres del Parque Toreo? 
+---
+
+🙋 **You:**
+
+Y las torres del Parque Toreo?
+
+---
+
+🤖 **Assistant:**
 
 El complejo Parque Toreo en Naucalpan, Estado de México, está compuesto por cuatro torres. Las torres corporativas, conocidas como Torre "A", Torre "B", y Torre "C", tienen la siguiente distribución:
 

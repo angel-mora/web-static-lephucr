@@ -3,24 +3,22 @@ title: Stream, Record, Edit, Upload
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  what is the best way to stream videogaming and then
+  save it up for youtube?"
 draft: false
 ---
 
 # Stream, Record, Edit, Upload
 
-## ✅ TODOs
-
-
-## 📌 Summary
-what is the best way to stream videogaming and then save it up for youtube?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-what is the best way to stream videogaming and then save it up for youtube? 
+what is the best way to stream videogaming and then save it up for youtube?
 
+---
 
+🤖 **Assistant:**
 
 To stream video gaming and then save it for YouTube, follow these steps:
 

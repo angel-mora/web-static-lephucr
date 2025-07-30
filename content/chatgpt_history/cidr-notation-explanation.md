@@ -3,22 +3,21 @@ title: CIDR Notation Explanation
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Explain CIDR notation"
 draft: false
 ---
 
 # CIDR Notation Explanation
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Explain CIDR notation
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Explain CIDR notation
+
+---
+
+🤖 **Assistant:**
 
 CIDR (Classless Inter-Domain Routing) notation is a method used to specify IP addresses and subnet masks. It’s a compact way of representing both the IP address and the network mask together. In CIDR notation, an IP address is followed by a slash ('/') and a number. The number after the slash represents the number of consecutive 1s in the subnet mask, starting from the left. 
 

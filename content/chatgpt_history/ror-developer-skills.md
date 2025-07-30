@@ -3,22 +3,22 @@ title: RoR Developer Skills
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What skills do I need to be a one-man-army ruby on
+  rails developer?"
 draft: false
 ---
 
 # RoR Developer Skills
 
-## ✅ TODOs
-
-
-## 📌 Summary
-What skills do I need to be a one-man-army ruby on rails developer?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What skills do I need to be a one-man-army ruby on rails developer?
+
+---
+
+🤖 **Assistant:**
 
 Being a "one-man-army" Ruby on Rails (RoR) developer means you're handling all aspects of a Rails project, from ideation to deployment. This is a comprehensive role, and the skillset required is broad. Here's a list of technical and non-technical skills and knowledge areas you'd likely need:
 

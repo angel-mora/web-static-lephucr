@@ -3,7 +3,8 @@ title: '"Create VSCode RSpec Extension"'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I want to write a bredcrumbs extension for rspec context/describe
+  blocks in vscode"
 draft: false
 ---
 
@@ -13,13 +14,15 @@ draft: false
 - [ ] this, you can use the VSCode API to create a TextDocumentContentProvider that scans the current file for RSpec context/describe blocks and generates breadcrumb items for them.
 - [ ] this, you will need to create an account on the VSCode marketplace and follow their instructions for publishing a new extension.
 
-## 📌 Summary
-I want to write a bredcrumbs extension for rspec context/describe blocks in vscode
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I want to write a bredcrumbs extension for rspec context/describe blocks in vscode
+
+---
+
+🤖 **Assistant:**
 
 Great! Writing a breadcrumbs extension for RSpec context/describe blocks in VSCode can be a useful tool for developers who use RSpec for testing their Ruby code. Here are the steps you can follow to create this extension:
 

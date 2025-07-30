@@ -3,24 +3,22 @@ title: Daños de fumar marihuana
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que daños me produce fumar marihuana en bong? Quiero
+  dejarlo"
 draft: false
 ---
 
 # Daños de fumar marihuana
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Que daños me produce fumar marihuana en bong? Quiero dejarlo
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que daños me produce fumar marihuana en bong? Quiero dejarlo
 
+---
 
+🤖 **Assistant:**
 
 Fumar marihuana, incluso en un bong, puede tener varios efectos negativos en tu salud. Aunque algunas personas perciben el bong como una forma más "limpia" de consumir cannabis, no elimina los riesgos inherentes al consumo de la sustancia. Aquí te enumero algunos de los daños que puede causar fumar marihuana en bong:
 
@@ -44,9 +42,21 @@ Fumar marihuana, incluso en un bong, puede tener varios efectos negativos en tu 
 
 Dejar el hábito puede ser difícil, pero a largo plazo tu salud física y mental mejorarán significativamente.
 
-Que daños me produce fumar marihuana en bong? Quiero dejarlo
+---
+
+🙋 **You:**
 
 Que daños me produce fumar marihuana en bong? Quiero dejarlo
+
+---
+
+🙋 **You:**
+
+Que daños me produce fumar marihuana en bong? Quiero dejarlo
+
+---
+
+🤖 **Assistant:**
 
 Fumar marihuana en bong, aunque algunas personas lo consideran menos dañino por la filtración del agua, sigue teniendo efectos negativos en tu salud. Aquí te detallo los principales daños asociados:
 
@@ -76,6 +86,10 @@ Fumar marihuana en bong, aunque algunas personas lo consideran menos dañino por
 5. **Considera la terapia cognitivo-conductual**: Puede ayudarte a identificar patrones de pensamiento o situaciones que te llevan a fumar, y a desarrollar estrategias para superarlas.
 
 Dejar de fumar te traerá beneficios inmediatos y a largo plazo para tu salud mental y física.
+
+---
+
+🤖 **Assistant:**
 
 Fumar marihuana en bong puede tener varios efectos negativos en tu salud, tanto a corto como a largo plazo. Aquí te detallo algunos de los posibles daños:
 
@@ -109,11 +123,27 @@ Fumar marihuana en bong puede tener varios efectos negativos en tu salud, tanto 
 
 Reducir o dejar el consumo te ayudará a mejorar tu salud física y mental a largo plazo.
 
+---
+
+🙋 **You:**
+
 Estoy en mi trabajo como rails dev solo la mayoría del día, el estrés del trabajo me triguerea fumar y PMO
+
+---
+
+🤖 **Assistant:**
 
 El usuario es un desarrollador de Rails que pasa la mayor parte del día solo en su trabajo, lo que le genera estrés y le desencadena fumar y PMO (consumo de pornografía).
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Es comprensible que el estrés del trabajo y la soledad puedan desencadenar estos hábitos. A continuación te doy algunas estrategias para manejar el estrés en el trabajo y evitar caer en estos patrones:
 

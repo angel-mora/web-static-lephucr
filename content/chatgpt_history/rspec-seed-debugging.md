@@ -3,7 +3,8 @@ title: RSpec Seed Debugging
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  seed number for each spec in rspec so i can trace down
+  flaky specs in circleci"
 draft: false
 ---
 
@@ -12,15 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] is reset the Random seed of every spec and log that seed if that spec fails. This way we can run the spec locally using the same Random seed that failed in CI so the exact same faker data is produced and hopefully will reproduce any flakiness in the spec and make it easy to fix.
 
-## 📌 Summary
-seed number for each spec in rspec so i can trace down flaky specs in circleci
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 seed number for each spec in rspec so i can trace down flaky specs in circleci
 
+---
 
+🤖 **Assistant:**
 
 To ensure that each test run in RSpec outputs the seed number, helping you trace flaky specs in CircleCI, follow these steps:
 
@@ -77,7 +78,15 @@ circleci rerun --seed 12345
 
 This will help you reproduce and debug flaky tests. 🚀
 
+---
+
+🙋 **You:**
+
 What we really want to do is reset the Random seed of every spec and log that seed if that spec fails. This way we can run the spec locally using the same Random seed that failed in CI so the exact same faker data is produced and hopefully will reproduce any flakiness in the spec and make it easy to fix.
+
+---
+
+🤖 **Assistant:**
 
 That makes sense! To achieve this, you need to reset the random seed for every spec and log the seed only when a test fails. Here's how you can implement it in `spec_helper.rb` or `rails_helper.rb`:
 
@@ -144,6 +153,10 @@ end
 
 This should make tracking down flaky tests in CircleCI **much easier**! 🚀
 
+---
+
+🙋 **You:**
+
 not even reaching config.before and after blocks for @example_seed
 
 RSpec.configure do |config|
@@ -181,6 +194,10 @@ RSpec.configure do |config|
 
   config.include GraphQLHelper
 end
+
+---
+
+🤖 **Assistant:**
 
 Your `before` and `after` hooks should be running, but if they're not, here are a few things to check and alternative approaches:
 

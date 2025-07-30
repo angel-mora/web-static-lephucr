@@ -3,24 +3,21 @@ title: Costo equipo vlogging CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuanto cuesta un vlogging setup en CDMX? Url de empresas"
 draft: false
 ---
 
 # Costo equipo vlogging CDMX
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cuanto cuesta un vlogging setup en CDMX? Url de empresas
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cuanto cuesta un vlogging setup en CDMX? Url de empresas
 
+---
 
+🤖 **Assistant:**
 
 El costo de un setup de vlogging en Ciudad de México puede variar bastante dependiendo de la calidad y el tipo de equipo que elijas. Aquí tienes una idea de algunos componentes esenciales y su posible costo:
 
@@ -40,11 +37,23 @@ Para adquirir estos productos en Ciudad de México, puedes visitar tiendas local
 
 Estos precios son aproximados y pueden variar según la tienda y las ofertas disponibles. Te recomiendo comparar precios y leer reseñas para encontrar el mejor equipo que se ajuste a tus necesidades y presupuesto.
 
-Quiero decir un servicio de que me pongan plantas, iluminación y decoración a una pared para vlogging 
+---
+
+🙋 **You:**
+
+Quiero decir un servicio de que me pongan plantas, iluminación y decoración a una pared para vlogging
+
+---
+
+🤖 **Assistant:**
 
 Para un servicio completo que incluya la instalación de plantas, iluminación y decoración en una pared para vlogging en Ciudad de México, tienes varias opciones interesantes:
 
 1. **Fotomurales México**: Ofrec
+
+---
+
+🤖 **Assistant:**
 
 Para configurar una pared para vlogging en Ciudad de México con plantas, iluminación y decoración, puedes considerar los siguientes servicios especializados:
 
@@ -56,7 +65,15 @@ Para configurar una pared para vlogging en Ciudad de México con plantas, ilumin
 
 Estos proveedores pueden ayudarte a diseñar y equipar tu espacio de vlogging para que sea tanto funcional como estéticamente agradable. Te recomendaría contactarlos directamente para discutir tus necesidades específicas y obtener un presupuesto ajustado a tu proyecto.
 
+---
+
+🙋 **You:**
+
 Dime empresas concretas en cdmx
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes algunas empresas concretas en Ciudad de México que pueden ayudarte a diseñar y equipar tu espacio de vlogging:
 

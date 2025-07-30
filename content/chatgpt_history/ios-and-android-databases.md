@@ -3,22 +3,22 @@ title: iOS and Android Databases
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How are iPhones similar to Mac Unix and how Android
+  to Linux? Do phones have databases, etc?"
 draft: false
 ---
 
 # iOS and Android Databases
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How are iPhones similar to Mac Unix and how Android to Linux? Do phones have databases, etc?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How are iPhones similar to Mac Unix and how Android to Linux? Do phones have databases, etc?
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Let's break this down:
 

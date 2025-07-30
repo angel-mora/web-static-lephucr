@@ -3,24 +3,23 @@ title: RailsGoat Security Learning
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  best dynamic resorce to learn rails security. I saw
+  a friend at Mastercard using that Rails software, it's like Hackerrank or Coderbyte
+  but specifically to understand security"
 draft: false
 ---
 
 # RailsGoat Security Learning
 
-## ✅ TODOs
-
-
-## 📌 Summary
-best dynamic resorce to learn rails security. I saw a friend at Mastercard using that Rails software, it's like Hackerrank or Coderbyte but specifically to understand security
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 best dynamic resorce to learn rails security. I saw a friend at Mastercard using that Rails software, it's like Hackerrank or Coderbyte but specifically to understand security
 
+---
 
+🤖 **Assistant:**
 
 It sounds like you're referring to **RailsGoat**, an intentionally vulnerable Ruby on Rails application developed by OWASP to help developers and security professionals learn about security vulnerabilities within the Rails framework. RailsGoat includes examples of vulnerabilities from the OWASP Top 10, such as SQL Injection, Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF), among others. citeturn0search0
 
@@ -36,10 +35,17 @@ best dynamic resorce to learn rails security. I saw a friend at Mastercard using
 
 Additionally, there's a comprehensive [OWASP Global Webinar by Ken Johnson](https://www.youtube.com/watch?v=NPwnzH-5udI) that delves into RailsGoat, providing insights into its purpose and how to effectively use it for learning Rails security.
 
-By engaging with RailsGoat, you'll gain hands-on experience in identifying and mitigating security issues within Ruby on Rails applications, enhancing your understanding of secure coding practices. 
+By engaging with RailsGoat, you'll gain hands-on experience in identifying and mitigating security issues within Ruby on Rails applications, enhancing your understanding of secure coding practices.
+
+---
+
+🙋 **You:**
 
 Nope, it's a private, interactive platform
 
+---
+
+🤖 **Assistant:**
 
 I understand you're seeking a private, interactive platform focused on Ruby on Rails security, similar to platforms like HackerRank or Coderbyte. While specific private platforms used internally by companies like Mastercard may not be publicly accessible, there are several reputable resources that offer interactive learning experiences in Rails security:
 
@@ -49,9 +55,17 @@ I understand you're seeking a private, interactive platform focused on Ruby on R
 
 3. **Gem Shop by Paraxial.io**: Although not a private platform, Gem Shop is an intentionally vulnerable Ruby on Rails 8 application designed for security education. It offers practical examples of common vulnerabilities, allowing developers to practice identifying and mitigating security issues in a controlled environment. citeturn0search0
 
-While these platforms may not be private in the same sense as internal corporate tools, they offer interactive and practical approaches to mastering Rails security. Engaging with these resources can provide valuable hands-on experience and deepen your understanding of secure coding practices within the Ruby on Rails framework. 
+While these platforms may not be private in the same sense as internal corporate tools, they offer interactive and practical approaches to mastering Rails security. Engaging with these resources can provide valuable hands-on experience and deepen your understanding of secure coding practices within the Ruby on Rails framework.
+
+---
+
+🙋 **You:**
 
 are those interactive?
+
+---
+
+🤖 **Assistant:**
 
 Yes, the resources previously mentioned offer interactive learning experiences:
 

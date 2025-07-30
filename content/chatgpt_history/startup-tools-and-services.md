@@ -3,24 +3,23 @@ title: Startup Tools and Services
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What other services entrepreneurs from Y Combinator
+  regularly use? Like https://www.clerky.com/ and deel.com to manage the startup.
+  Provide companies names and urls"
 draft: false
 ---
 
 # Startup Tools and Services
 
-## ✅ TODOs
-
-
-## 📌 Summary
-What other services entrepreneurs from Y Combinator regularly use? Like https://www.clerky.com/ and deel.com to manage the startup. Provide companies names and urls
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What other services entrepreneurs from Y Combinator regularly use? Like https://www.clerky.com/ and deel.com to manage the startup. Provide companies names and urls
 
+---
 
+🤖 **Assistant:**
 
 Entrepreneurs from Y Combinator often use a variety of services to manage and scale their startups. Here are some commonly used services:
 
@@ -66,7 +65,15 @@ Entrepreneurs from Y Combinator often use a variety of services to manage and sc
 
 These services offer various tools and support essential for startup operations, ranging from legal and financial management to team collaboration and HR services.
 
+---
+
+🙋 **You:**
+
 organize them in categories so I understand which of them operate which part of the business
+
+---
+
+🤖 **Assistant:**
 
 Sure, here's a categorized list of the services and the parts of the business they operate:
 
@@ -122,7 +129,15 @@ Sure, here's a categorized list of the services and the parts of the business th
    - **URL**: [https://www.notion.so/](https://www.notion.so/)
    - **Description**: An all-in-one workspace for notes, tasks, databases, and collaboration.
 
+---
+
+🙋 **You:**
+
 now browse the web and make a comparison table
+
+---
+
+🤖 **Assistant:**
 
 Here's a comparison table of services frequently used by startups from Y Combinator, categorized by their business function:
 

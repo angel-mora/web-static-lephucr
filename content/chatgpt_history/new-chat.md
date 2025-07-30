@@ -3,22 +3,23 @@ title: New chat
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Chrome Bookmarks: Ruby script to interact with bookmarks
+  API and for all the folders I have saved, create a bookmark for each bookmark, add
+  tags and other bookmark metadata"
 draft: false
 ---
 
 # New chat
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Chrome Bookmarks: Ruby script to interact with bookmarks API and for all the folders I have saved, create a bookmark for each bookmark, add tags and other bookmark metadata
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Chrome Bookmarks: Ruby script to interact with bookmarks API and for all the folders I have saved, create a bookmark for each bookmark, add tags and other bookmark metadata
+
+---
+
+🤖 **Assistant:**
 
 As of my last training cut-off in September 2021, Google Chrome does not provide an API that allows direct interaction with bookmarks. Therefore, scripting interactions directly with Chrome's bookmarks isn't straightforward.
 

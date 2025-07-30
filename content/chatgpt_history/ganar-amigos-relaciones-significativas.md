@@ -3,7 +3,8 @@ title: Ganar Amigos, Relaciones Significativas
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Como ganar mas amigues? Que cosa hay en la amistad
+  y relaciones sexoafectivas que nos llena tanto?"
 draft: false
 ---
 
@@ -12,13 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s cometen errores y que no eres una mala persona por tener sentimientos de culpa.
 
-## 📌 Summary
-Como ganar mas amigues? Que cosa hay en la amistad y relaciones sexoafectivas que nos llena tanto?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Como ganar mas amigues? Que cosa hay en la amistad y relaciones sexoafectivas que nos llena tanto? 
+Como ganar mas amigues? Que cosa hay en la amistad y relaciones sexoafectivas que nos llena tanto?
+
+---
+
+🤖 **Assistant:**
 
 Ganar más amigos y fortalecer las relaciones interpersonales son aspectos fundamentales de la vida social humana. Aquí tienes algunos consejos para ganar más amigos y comprender el valor de las amistades y relaciones sexoafectivas:
 
@@ -42,9 +45,15 @@ Ganar más amigos y fortalecer las relaciones interpersonales son aspectos funda
 
 Fomentar amistades y mantener relaciones saludables requiere esfuerzo y dedicación, pero el resultado puede ser increíblemente gratificante y enriquecedor. Es importante recordar que la calidad de las amistades a menudo importa más que la cantidad, y que desarrollar y mantener relaciones significativas lleva tiempo.
 
+---
+
+🙋 **You:**
+
 Como confrontar la culpa sanamente
 
+---
 
+🤖 **Assistant:**
 
 Confrontar la culpa de manera saludable es crucial para el bienestar emocional y mental. La culpa puede ser una emoción útil cuando nos motiva a enmendar errores y crecer personalmente, pero puede volverse problemática si es excesiva o infundada. Aquí te dejo algunas estrategias para manejarla de manera constructiva:
 

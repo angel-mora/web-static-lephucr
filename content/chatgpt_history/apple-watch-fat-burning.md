@@ -3,7 +3,7 @@ title: Apple Watch Fat Burning
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to use Apple Watch to do fat burning running?"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] fat burning running?
 
-## 📌 Summary
-How to use Apple Watch to do fat burning running?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to use Apple Watch to do fat burning running?
 
+---
 
+🤖 **Assistant:**
 
 To use your Apple Watch for fat-burning running, follow these steps to optimize your workouts and track your performance:
 

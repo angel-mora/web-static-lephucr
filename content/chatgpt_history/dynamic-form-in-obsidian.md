@@ -3,24 +3,23 @@ title: Dynamic Form in Obsidian
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  how to make a dynamic for for users (like airtable)
+  with Obsidian? Like, sort of static website with checkboxes and some of the drag
+  and drop features plugins like kanban have"
 draft: false
 ---
 
 # Dynamic Form in Obsidian
 
-## ✅ TODOs
-
-
-## 📌 Summary
-how to make a dynamic for for users (like airtable) with Obsidian? Like, sort of static website with checkboxes and some of the drag and drop features plugins like kanban have
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 how to make a dynamic for for users (like airtable) with Obsidian? Like, sort of static website with checkboxes and some of the drag and drop features plugins like kanban have
 
+---
 
+🤖 **Assistant:**
 
 Creating a dynamic form system or Airtable-like functionality using **Obsidian** would require combining markdown-based note-taking with plugins and possibly some customization. Here's a step-by-step approach to achieve your goal:
 

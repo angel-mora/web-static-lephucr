@@ -3,22 +3,22 @@ title: Tech Startup Books List
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  best books to understand businesses for programmers.
+  I am a ruby on rails developer about to found a startup"
 draft: false
 ---
 
 # Tech Startup Books List
 
-## ✅ TODOs
-
-
-## 📌 Summary
-best books to understand businesses for programmers. I am a ruby on rails developer about to found a startup
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 best books to understand businesses for programmers. I am a ruby on rails developer about to found a startup
+
+---
+
+🤖 **Assistant:**
 
 Starting a business, especially in the tech space, requires more than just technical know-how. You'll need an understanding of business strategy, marketing, sales, finance, operations, and more. Here's a list of recommended books that will help programmers (like you) understand various facets of business:
 
@@ -52,7 +52,15 @@ Lastly, even though you're starting a tech company, don't limit yourself to just
 
 Good luck with your startup!
 
+---
+
+🙋 **You:**
+
 Summary of key points to know for me as a developer about each book. Use patterns and point out the most critical and core stuff of each book, as well as the chapters I can review
+
+---
+
+🤖 **Assistant:**
 
 Absolutely, here's a concise summary for each book, along with core chapters or sections you might find particularly valuable as a developer-founder:
 
@@ -110,7 +118,15 @@ Absolutely, here's a concise summary for each book, along with core chapters or 
 
 I've highlighted the essential points and chapters that might be of most relevance to you. However, these books are rich in content, so it's worth exploring them further if a particular topic piques your interest.
 
+---
+
+🙋 **You:**
+
 You are a very experienced CEO willing to give me a personal advice. Provide the advise thinking in me as a person, reference core advises from those books and tell me hidden things I need to know about venture capital.
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Stepping into the shoes of an experienced CEO, I'll craft some advice for you:
 
@@ -156,7 +172,15 @@ Best wishes,
 
 While this advice is tailored based on the content of the books and the realm of venture capital, every entrepreneurial journey is unique. Trust your instincts, be adaptable, and surround yourself with mentors and peers who can guide and support you.
 
+---
+
+🙋 **You:**
+
 Now provide concrete stories of things that caused the learnings for the recommendations
+
+---
+
+🤖 **Assistant:**
 
 Absolutely, context often provides clarity. Let's delve into some anecdotal stories to illustrate these learnings:
 
@@ -194,7 +218,15 @@ e. **Prepare for Long-term Commitment**
 
 Each of these stories carries lessons and insights that can provide guidance and caution to budding entrepreneurs. The journey of building a startup is filled with twists, turns, highs, and lows, and learning from others' experiences can offer invaluable navigation aids.
 
+---
+
+🙋 **You:**
+
 provide integral advice about positive and negative cases I need to always remember as I move on in the path
+
+---
+
+🤖 **Assistant:**
 
 Absolutely, reflecting on both positive and negative cases can provide valuable lessons as you embark on your entrepreneurial journey. Here are some emblematic cases for you to remember:
 

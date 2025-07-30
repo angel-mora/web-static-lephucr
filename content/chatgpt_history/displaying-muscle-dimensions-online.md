@@ -3,22 +3,22 @@ title: Displaying Muscle Dimensions Online
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I put my body muscle dimensions in a web page?
+  Like with Unreal Engine or WebGL, is there any library?"
 draft: false
 ---
 
 # Displaying Muscle Dimensions Online
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I put my body muscle dimensions in a web page? Like with Unreal Engine or WebGL, is there any library?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I put my body muscle dimensions in a web page? Like with Unreal Engine or WebGL, is there any library?
+
+---
+
+🤖 **Assistant:**
 
 To showcase your body muscle dimensions on a webpage, you can use technologies like Unreal Engine or WebGL, which are powerful tools for rendering 3D models and graphics. Here are a few approaches and libraries you might consider:
 

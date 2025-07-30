@@ -3,24 +3,22 @@ title: Gumroad Marketing Strategy
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I leverage a good business in gumroad? How
+  to get my marketing strategy? Is critical theory  book?"
 draft: false
 ---
 
 # Gumroad Marketing Strategy
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I leverage a good business in gumroad? How to get my marketing strategy? Is critical theory  book?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-How can I leverage a good business in gumroad? How to get my marketing strategy? Is critical theory  book? 
+How can I leverage a good business in gumroad? How to get my marketing strategy? Is critical theory  book?
 
+---
 
+🤖 **Assistant:**
 
 To leverage a business on Gumroad effectively, consider the following strategies:
 

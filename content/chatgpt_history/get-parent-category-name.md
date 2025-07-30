@@ -3,20 +3,15 @@ title: Get Parent Category Name
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I have a query like this:"
 draft: false
 ---
 
 # Get Parent Category Name
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I have a query like this:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I have a query like this:
 SELECT
@@ -37,6 +32,10 @@ WHERE
 GROUP BY
 	c.id;
 Please do what the comment asks for
+
+---
+
+🤖 **Assistant:**
 
 To fulfill your request to retrieve the category name using `parent_id` from the `categories` table, you need to modify the query to include a join that fetches the category name associated with each `parent_id`. Assuming the structure of the `categories` table allows for self-referencing to identify parent categories (which is common in hierarchical data models), you can achieve this by adding another join to the `categories` table.
 

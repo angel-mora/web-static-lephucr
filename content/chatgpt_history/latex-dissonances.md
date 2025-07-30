@@ -8,7 +8,9 @@ tags:
 - altwoke
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Este template de latex pone los numeros de pagina en
+  el medio pero el titulo de mi texto es muy largo, como puedo recortarlo para que
+  no se extienda hasta el numero de pagina que esta en el medio abajo?"
 draft: false
 ---
 
@@ -27,11 +29,9 @@ draft: false
 - [ ] derecho político.
 - [ ] s policías, todos asesinos, todos un engrane de la máquina.
 
-## 📌 Summary
-Este template de latex pone los numeros de pagina en el medio pero el titulo de mi texto es muy largo, como puedo recortarlo para que no se extienda hasta el numero de pagina que esta en el medio abajo?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Este template de latex pone los numeros de pagina en el medio pero el titulo de mi texto es muy largo, como puedo recortarlo para que no se extienda hasta el numero de pagina que esta en el medio abajo?
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -472,6 +472,10 @@ Este template de latex pone los numeros de pagina en el medio pero el titulo de 
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+---
+
+🤖 **Assistant:**
+
 Para recortar el título de tu texto de manera que no se extienda hasta el número de página en el pie de página, puedes utilizar el paquete `fancyhdr` que ya está incluido en tu plantilla y realizar un ajuste en cómo se define el pie de página (footer). En tu caso, el título del documento se utiliza como parte del texto del pie de página izquierdo, como se define en `\lfoot{\footnotesize\MakeUppercase\@lfooter}`.
 
 Una solución sería acortar el título manualmente al definir `\@lfooter` para que solo muestre una versión abreviada o una parte del título. Sin embargo, si deseas hacerlo de forma automática para que se ajuste dinámicamente sin necesidad de definir manualmente una versión corta cada vez, puedes utilizar un comando de LaTeX para recortar el título.
@@ -497,10 +501,18 @@ Después de agregar el comando `\shorttitle` en tu preámbulo, puedes definir un
 
 Este título corto será el que se utilice en el pie de página, permitiéndote mantener el título completo del documento en otras partes sin que interfiera con los números de página. Recuerda que debes definir este título corto antes de `\begin{document}` para que se aplique correctamente.
 
+---
+
+🙋 **You:**
+
 What kind of citation format is this and how can I refactor it to LaTeX?
 I suspect is BetterBibTex for markdown
 
 ~[@Wikipedia2023]
+
+---
+
+🤖 **Assistant:**
 
 The citation format you're referring to, `~[@Wikipedia2023]`, is commonly used in Markdown documents that are processed with tools like Pandoc. This format is indeed indicative of a citation style that might be used with Better BibTeX, which is an extension for Zotero that improves LaTeX integration by automatically generating BibTeX keys and managing bibliographies. In this context, `@Wikipedia2023` would refer to a BibTeX entry in a bibliography file, and the `~` character is used to create a non-breaking space between the text and the citation in the final output.
 
@@ -544,7 +556,15 @@ Ensure that your BibTeX bibliography file (`references.bib` in this example) is 
 
 When you compile your LaTeX document, make sure to run BibTeX as well to process your bibliography references correctly. The process usually involves compiling with LaTeX, running BibTeX, and then compiling with LaTeX again twice to ensure all references are updated correctly in the document.
 
+---
+
+🙋 **You:**
+
 How can I access my refs from overleaf? I have a bib file in the project already
+
+---
+
+🤖 **Assistant:**
 
 Accessing and using a `.bib` file for references in an Overleaf project is a straightforward process. Here's a step-by-step guide on how you can do it:
 
@@ -589,6 +609,9 @@ Accessing and using a `.bib` file for references in an Overleaf project is a str
 
 If you make changes to your `.bib` file or add new citations, Overleaf will automatically recompile your project to include these changes. Ensure that any new references added to the `.bib` file are correctly formatted and that the citation keys are unique.
 
+---
+
+🙋 **You:**
 
 The cite I asked you about before is not rendered due to being inside a markdown chunk, how can I address this issue? I'm working in overleaf currently
 
@@ -695,6 +718,9 @@ La libertad, el horizonte por el que nos cuestionamos cada paso que damos.
 LA PARTIDA, órgano de la tecnocrítica en Wikipolítica Mx
 \end{markdown}
 
+---
+
+🤖 **Assistant:**
 
 Cuando se trabaja con bloques de Markdown dentro de un documento LaTeX en Overleaf y se quiere incluir citas que se integren correctamente con el sistema de citas de LaTeX, el desafío principal es que los comandos de LaTeX, como `\cite{}`, no se procesan directamente dentro de los bloques de Markdown. Esto se debe a que el paquete `markdown` en LaTeX, que permite la integración de contenido en Markdown, no interpreta los comandos de LaTeX dentro de estos bloques de la misma manera que lo haría en el texto principal de LaTeX.
 
@@ -704,7 +730,9 @@ Una solución más efectiva es realizar la cita fuera del bloque de Markdown o t
 
 Aquí tienes un ejemplo de cómo manejar la situación descrita
 
+---
 
+🤖 **Assistant:**
 
 When using Markdown syntax within LaTeX documents, especially on platforms like Overleaf, direct LaTeX commands inside Markdown blocks may not always work as expected because the Markdown environment treats the content differently from the rest of your LaTeX document. This is particularly true for commands like `\cite{}` which are not natively supported within Markdown syntax.
 
@@ -734,6 +762,10 @@ Finally, considering the limitations within Overleaf for directly processing Mar
 
 For your specific scenario in Overleaf, if none of these options are viable due to the platform's constraints or your project's requirements, you may need to opt for manually converting sections with citations to LaTeX or exploring external tools for preprocessing your document before uploading it to Overleaf.
 
+---
+
+🙋 **You:**
+
 /Users/angel.mora.mx/Documents/646af38b43291e8baf306bf9/Main.tex:64:  ==> Fatal error occurred, no output PDF file produced!
 Transcript written on Main.log.
 Latexmk: Missing bbl file 'Main.bbl' in following:
@@ -748,7 +780,9 @@ Collected error summary (may duplicate other messages):
   pdflatex: Command for 'pdflatex' gave return code 1
       Refer to 'Main.log' for details
 
+---
 
+🤖 **Assistant:**
 
 The error message you're encountering indicates that LaTeX could not generate the `.bbl` file, which is essential for bibliography management. This file is produced by BibTeX or Biber (depending on which backend you're using with LaTeX) and contains formatted bibliography entries that LaTeX includes in the final document. The absence of the `.bbl` file suggests that BibTeX or Biber was not run successfully, or there was an error processing your bibliography.
 
@@ -794,7 +828,15 @@ If you continue to face issues, consider isolating the problem by:
 
 If you're working in an environment like Overleaf and these steps don't resolve the issue, consider reaching out to their support with specifics, as they may be able to offer guidance based on their system's logs and behavior.
 
+---
+
+🙋 **You:**
+
 what should i pass to latexmk -f command? Main.tex?
+
+---
+
+🤖 **Assistant:**
 
 Yes, when using the `latexmk -f` command to force the processing of your LaTeX document, you should specify the main document file (without the `.tex` extension) as the argument. The `-f` option tells `latexmk` to continue processing as much as possible, ignoring errors if it can. Here's how you use it:
 
@@ -808,7 +850,15 @@ Remember, if you're compiling a document that uses BibTeX for bibliography manag
 
 If you're working in an environment like Overleaf, you usually won't need to run `latexmk` manually since Overleaf automatically compiles your LaTeX projects. The advice above is more relevant if you're compiling your LaTeX documents locally or in another environment where you have direct access to the command line.
 
+---
+
+🙋 **You:**
+
 how to check latex version in iterm?
+
+---
+
+🤖 **Assistant:**
 
 To check the LaTeX version in iTerm (or any terminal application on macOS, Linux, or a Unix-like system), you can use the `pdflatex` command with the version option. Open iTerm and type the following command:
 
@@ -836,7 +886,15 @@ This will provide you with the version of TeX Live Manager, which is part of the
 
 Remember, the exact output and version numbers will depend on the specific LaTeX distribution and version you have installed.
 
+---
+
+🙋 **You:**
+
 Provide options to try with biber. Do I need to run it over the bibliography file or over Main?
+
+---
+
+🤖 **Assistant:**
 
 When using `biber` as the bibliography backend with LaTeX, you don't run it directly on the `.bib` file. Instead, you run it on the main document file, but without including the file extension. `biber` works in conjunction with LaTeX to process the bibliographic data in your `.bib` file(s), as specified within your main LaTeX document. Here's how to use `biber` in your document compilation workflow:
 
@@ -870,7 +928,15 @@ Remember, the name of the `.bib` file must be included in the `\addbibresource{}
 
 In summary, you run `biber` on the main document, not directly on the bibliography file, as part of a multi-step compilation process to correctly process and include your bibliography in the LaTeX document.
 
-how can I view the logs from biber? 
+---
+
+🙋 **You:**
+
+how can I view the logs from biber?
+
+---
+
+🤖 **Assistant:**
 
 To view the logs generated by `biber`, you need to locate the `.blg` file that `biber` creates during its run. This log file is named after your main document file but with a `.blg` extension. For example, if your main LaTeX document is `Main.tex`, `biber` will generate a log file named `Main.blg`.
 
@@ -899,6 +965,10 @@ If you're using a LaTeX editor or an integrated development environment (IDE) li
 - **Encoding Issues**: If there are encoding issues with your `.bib` file, `biber` will mention these in the log, allowing you to correct them for successful compilation.
 
 Remember, resolving issues identified in the `biber` log file is crucial for ensuring that your bibliography is correctly processed and appears as expected in your final document.
+
+---
+
+🙋 **You:**
 
 This is all it says:
 [0] Config.pm:307> INFO - This is Biber 2.17
@@ -1314,6 +1384,10 @@ month[normalize_month]
 pages[normalize_page_numbers]
 ;}
 
+---
+
+🤖 **Assistant:**
+
 The error message from Biber, `Main.bcf is malformed, last biblatex run probably failed. Deleted Main.bbl`, suggests that the compilation with `biblatex` did not complete successfully, leading to a malformed `.bcf` file. This situation often arises due to issues within the LaTeX document itself, preventing `biblatex` from generating a proper `.bcf` file for Biber to process.
 
 Given this scenario, here are several steps to troubleshoot and resolve the issue:
@@ -1347,13 +1421,29 @@ Ensure that your document includes `\printbibliography` at the point where you w
 
 Given the error message, the issue likely stems from the initial LaTeX run rather than the `.bib` file itself. If these steps do not resolve the problem, consider isolating the issue further by reducing your LaTeX file to a very basic document that includes one or two citations and a bibliography. This can help determine whether the issue is with the document setup or the `.bib` file.
 
+---
+
+🙋 **You:**
+
 I reran it with pdflatex and it worked, thanks!
+
+---
+
+🤖 **Assistant:**
 
 You're welcome! I'm glad to hear that rerunning `pdflatex` resolved the issue. It's often the case that a sequence of compilation steps, starting with `pdflatex`, then running `biber`, and followed by one or two more runs of `pdflatex`, is necessary to fully integrate all elements of a LaTeX document, especially when it includes citations and a bibliography.
 
 If you encounter any more issues or have further questions, feel free to ask. Happy writing with LaTeX!
 
+---
+
+🙋 **You:**
+
 A website like awwwards but for books design?
+
+---
+
+🤖 **Assistant:**
 
 For book design inspiration and recognition, there isn't a direct equivalent to Awwwards, which focuses on web design excellence, but there are several platforms and awards that highlight outstanding book design. Here are some notable ones:
 
@@ -1383,6 +1473,10 @@ For book design inspiration and recognition, there isn't a direct equivalent to 
 
 While none of these platforms are exactly like Awwwards for books, they each contribute significantly to the recognition and celebration of book design excellence. They offer great resources for designers seeking inspiration or for anyone interested in the art of book design.
 
+---
+
+🙋 **You:**
+
 If you were a san martin's college or from a design school from new york, what fonts that are open source would you use for this latex project? Something serif-sans serif or more contemporary? Share 3 different combinations of those pairs
 
 
@@ -1390,6 +1484,9 @@ If you were a san martin's college or from a design school from new york, what f
   \RequirePackage{ebgaramond}
   \RequirePackage{inconsolata}
 
+---
+
+🤖 **Assistant:**
 
 Selecting font pairs for a LaTeX project, especially for institutions like a design school in New York or San Martin's College, involves balancing readability with aesthetic appeal, reflecting contemporary design trends while ensuring the document remains professional. When considering open-source fonts for such a context, it's important to choose fonts that offer versatility and a modern feel. Here are three different combinations of serif and sans-serif open-source font pairs that could suit your project, along with brief explanations for each choice:
 
@@ -1434,7 +1531,15 @@ When using external fonts in LaTeX, especially with `pdflatex`, you might need t
 
 Remember, the availability of specific font packages (`\usepackage{}` commands) in LaTeX might vary, and some fonts may require manual installation or use of the `fontspec` package with `XeLaTeX` or `LuaLaTeX`. Always ensure you have the rights to use the fonts for your project, even with open-source options.
 
+---
+
+🙋 **You:**
+
 so which of them will work right now in my overleaf?
+
+---
+
+🤖 **Assistant:**
 
 To directly use the specific open-source fonts mentioned in my previous suggestions within an Overleaf project, especially when those fonts are not directly available via LaTeX packages, you would typically use `XeLaTeX` or `LuaLaTeX` as your compiler because they allow the use of system fonts through the `fontspec` package. This approach provides access to a wide range of fonts, including those installed on your system or embedded within the Overleaf project.
 
@@ -1477,6 +1582,10 @@ For the other font combinations, follow the same pattern, adjusting the `\setmai
 In Overleaf, you can change the compiler to `XeLaTeX` or `LuaLaTeX` by clicking on the Menu button at the top left, then under the "Settings" section, find "Compiler" and select `XeLaTeX` or `LuaLaTeX`.
 
 Using `XeLaTeX` or `LuaLaTeX` with the `fontspec` package in this way should enable you to work with almost any font in Overleaf, providing a lot of flexibility for your document's design.
+
+---
+
+🙋 **You:**
 
 Implement a example in here:
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -1918,6 +2027,10 @@ Implement a example in here:
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+---
+
+🤖 **Assistant:**
+
 To implement an example incorporating a contemporary serif and sans-serif font combination into your LaTeX class `Tiqqunazo`, we will select a combination and modify the class to use these fonts with `XeLaTeX` or `LuaLaTeX` for better font handling. Let's choose the combination of **Fira Sans** (for sans-serif) and **Merriweather** (for serif), as they offer a modern and readable typeface pairing suitable for diverse document types.
 
 First, ensure your LaTeX document uses `XeLaTeX` or `LuaLaTeX` as the compiler, as these engines support direct font usage through the `fontspec` package.
@@ -1979,7 +2092,15 @@ This setup assumes that you have the rights to use and distribute the fonts with
 
 If you're not familiar with where to find these fonts or how to include them in your Overleaf project, both **Fira Sans** and **Merriweather** are available for free download from sites like Google Fonts. Download the `.ttf` files for each style you plan to use (Regular, Italic, Bold, etc.) and upload them to your project.
 
+---
+
+🙋 **You:**
+
 provide a remote available font so I don't have to down and upload
+
+---
+
+🤖 **Assistant:**
 
 To use fonts that are readily available without needing to download and upload them to your Overleaf project, you can leverage fonts that are already included within the LaTeX distribution on Overleaf. This way, you can ensure compatibility and ease of use with `XeLaTeX` or `LuaLaTeX` without dealing with font files directly.
 
@@ -2016,12 +2137,27 @@ Ensure your LaTeX document specifies the `Tiqqunazo` class at the beginning and 
 
 By using `fontspec` with these fonts, you combine the ease of use with the flexibility of `XeLaTeX` or `LuaLaTeX`, allowing for a more sophisticated typography in your LaTeX projects without the hassle of manual font file handling.
 
+---
+
+🙋 **You:**
+
 How can I make the titles serif?
+
+---
+
+🤖 **Assistant:**
 
 To make the titles in your document use
 
+---
+
+🙋 **You:**
+
 How can I make the titles sans serif?
 
+---
+
+🤖 **Assistant:**
 
 To make the titles sans-serif in your LaTeX document, especially when you're using `XeLaTeX` or `LuaLaTeX` with the `fontspec` package, you can redefine the formatting of section titles to use the sans-serif font family. This is typically done by customizing the commands for sectioning (`\section`, `\subsection`, etc.) using packages such as `titlesec`.
 
@@ -2071,7 +2207,15 @@ Incorporating these changes into your LaTeX class file or document preamble will
 
 This approach provides a consistent, modern look for your document titles, leveraging the flexibility of `fontspec` with `XeLaTeX` or `LuaLaTeX` and the powerful customization capabilities of `titlesec`.
 
+---
+
+🙋 **You:**
+
 nothing changed
+
+---
+
+🤖 **Assistant:**
 
 If changing the title fonts to sans-serif using the `titlesec` package did not have the desired effect, it's possible that the specific setup or commands might be conflicting with other styles or settings within your document or class file. Let's try a different approach to ensure that your section titles use the sans-serif font you've specified with `\setsansfont`.
 
@@ -2115,7 +2259,15 @@ If changes still do not appear, double-check that:
 
 This direct redefinition method should force your section titles to adopt the sans-serif font, bypassing potential conflicts or overrides from other packages or settings.
 
+---
+
+🙋 **You:**
+
 Didn't use sansfont definition, can you repeat how to do that? I'm using my ebgaramond and incosolata fonts loaded with RequirePackage, please provide the adequate solution
+
+---
+
+🤖 **Assistant:**
 
 If you're aiming to integrate sans-serif titles into your document while retaining `ebgaramond` for the body text and `inconsolata` for monospaced text, but did not define a specific sans-serif font earlier using `\setsansfont`, let's address this with a focus on compatibility with your current setup.
 
@@ -2158,7 +2310,15 @@ Combining the above with your original font setup for `ebgaramond` and `inconsol
 % If not setting Helvetica as the default document font, skip the \familydefault redefinition
 % \renewcommand*\familydefault{\sfdefault}
 
+---
+
+🙋 **You:**
+
 I don't want to use any new font now, just want to set inconsolata for the titles/subtitles
+
+---
+
+🤖 **Assistant:**
 
 If you want to use Inconsolata, which you've already loaded with `\RequirePackage{inconsolata}`, for your titles and subtitles without introducing any new fonts, you can achieve this by explicitly setting the font for the section titles using the `titlesec` package. Since Inconsolata is a monospaced font and not typically used for title settings, this will give your document a unique appearance.
 
@@ -2212,7 +2372,15 @@ For maximum flexibility and ease of font customization, including using Inconsol
 
 This method provides direct control over the fonts in your document but requires using `XeLaTeX` or `LuaLaTeX` instead of `pdflatex`.
 
+---
+
+🙋 **You:**
+
 continue in the lualatex/xelatex option. How should I change my tiqqunazo class?
+
+---
+
+🤖 **Assistant:**
 
 To adapt your `Tiqqunazo` class for use with `LuaLaTeX` or `XeLaTeX` and to apply Inconsolata to your titles using the `fontspec` package, follow these steps. This approach enables direct font manipulation, offering greater flexibility over font choices and customization.
 
@@ -2263,7 +2431,15 @@ Ensure that your document is compiled with `LuaLaTeX` or `XeLaTeX` to properly r
 
 This setup provides a robust method for integrating contemporary typography into your LaTeX documents, leveraging the powerful `fontspec` package for font management under `LuaLaTeX` or `XeLaTeX`.
 
+---
+
+🙋 **You:**
+
 Just want something that works on overleaf, just the code
+
+---
+
+🤖 **Assistant:**
 
 For an Overleaf project using `LuaLaTeX` or `XeLaTeX`, where you want to use Inconsolata for your titles and keep EB Garamond for the body text, here's a streamlined version of the necessary code adjustments. This setup assumes you're modifying your `Tiqqunazo` class or adding these settings to your document preamble. Overleaf supports these fonts directly, so you don't need to worry about font installation.
 
@@ -2320,7 +2496,15 @@ Combining all the steps, here is how you can adjust your class file or document 
 
 Ensure you select either `LuaLaTeX` or `XeLaTeX` as the compiler in Overleaf's project settings. This setup will apply Inconsolata to your titles and subtitles, giving them a distinctive, monospaced look while keeping the body text in the elegant EB Garamond serif font.
 
+---
+
+🙋 **You:**
+
 Provide a regex to search for betterbibtex markdown quote in vscode
+
+---
+
+🤖 **Assistant:**
 
 To search for Better BibTeX markdown citations in Visual Studio Code (VSCode) using a regex (regular expression), you'll want to match the typical citation pattern used by Better BibTeX in Markdown documents. A common format for these citations is `[@citationkey]`, where `citationkey` is the unique identifier for a bibliographic entry.
 
@@ -2343,7 +2527,15 @@ Explanation of the regex components:
 
 This regex will help you find all instances of Better BibTeX markdown citations in your document, making it easier to review or modify your citations as needed.
 
+---
+
+🙋 **You:**
+
 Replace that pattern with the latex cite
+
+---
+
+🤖 **Assistant:**
 
 To replace the Better BibTeX markdown citation pattern `[@citationkey]` with the LaTeX citation command `\cite{citationkey}` in Visual Studio Code (VSCode) using regex, follow these steps:
 
@@ -2384,7 +2576,15 @@ To replace the Better BibTeX markdown citation pattern `[@citationkey]` with the
 
 This process converts all instances of the markdown citation format into the LaTeX `\cite{}` command format, making your document ready for LaTeX compilation with proper citations.
 
+---
+
+🙋 **You:**
+
 Provide a pandoc to the best tex output for my tiqqunazo (I am trying to see if \cite is left out but pandoc still changes remaining pandoc to translate to latex
+
+---
+
+🤖 **Assistant:**
 
 To convert a document to LaTeX using Pandoc while ensuring that citations are correctly handled, especially if you want to see how `\cite` commands are preserved or transformed, you can use the following Pandoc command. This command assumes you're starting with a Markdown document and want to convert it to LaTeX, using your custom `Tiqqunazo` class in the output LaTeX file. The command also takes into consideration that you want to keep or correctly translate citations.
 
@@ -2423,6 +2623,10 @@ If you have literal `\cite` commands in your Markdown that you wish to pass thro
 - For complex documents or specific formatting requirements, additional LaTeX packages or Pandoc options might be necessary. 
 
 This setup should provide a good starting point for converting your Markdown documents to LaTeX using Pandoc while handling citations appropriately and specifying your custom LaTeX class.
+
+---
+
+🙋 **You:**
 
 This is what it returns but still not reading the \cite references
 \hypertarget{manifiesto-de-la-partida}{%
@@ -2526,6 +2730,9 @@ damos.
 
 LA PARTIDA, órgano de la tecnocrítica en Wikipolítica Mx
 
+---
+
+🤖 **Assistant:**
 
 The output you've shared indicates that Pandoc correctly processes the document and keeps the `\cite` references intact, as expected. However, if you're finding that Pandoc isn't converting other Markdown citation styles to LaTeX `\cite` commands, or if you want to ensure the best possible handling of citations and references, you might need to adjust your Pandoc command to explicitly manage citations.
 
@@ -2552,7 +2759,15 @@ This command should ensure that your citations are processed and converted corre
 
 If you've done all this and specific `\cite` commands or references are still not being processed as you expect, consider reviewing the Pandoc documentation on citations for any recent changes or additional options that might be relevant to your use case.
 
+---
+
+🙋 **You:**
+
 no, I want to understand why Latex didnt translate my \cite to a reference
+
+---
+
+🤖 **Assistant:**
 
 If LaTeX didn't translate your `\cite` commands into references, there are a few common reasons this might happen. Understanding why requires checking several aspects of your LaTeX setup and compilation process. Here's what you need to ensure:
 
@@ -2621,7 +2836,15 @@ If LaTeX didn't translate your `\cite` commands into references, there are a few
 
 If you've checked these aspects and the issue persists, consider isolating the problem. Try compiling a minimal example that uses `\cite` and your bibliography file. If the minimal example works, the issue might be with specific settings or package conflicts in your main document.
 
+---
+
+🙋 **You:**
+
 I want my citation style to show the ref number and the quote / footnote associated for tiqqunazo
+
+---
+
+🤖 **Assistant:**
 
 To achieve a citation style that shows both the reference number and the quotation or footnote associated with each citation in your LaTeX document (using the custom `Tiqqunazo` class or any LaTeX setup), you can utilize the `biblatex` package with appropriate options and modifications. `biblatex` is versatile and can be customized to handle citations and bibliographies in various formats, including the integration of footnotes.
 
@@ -2691,7 +2914,15 @@ Or use `\footcite` with pre- and post-notes:
 
 This setup should help you tailor the citation and bibliography output to meet the needs of the `Tiqqunazo` document style, incorporating reference numbers and associated quotations or notes into footnotes.
 
+---
+
+🙋 **You:**
+
 How to transform markdown of certain flavor that has footnotes like this: ^[content here...] into latex?
+
+---
+
+🤖 **Assistant:**
 
 To transform Markdown content that includes footnotes (using the syntax `^[content here...]`) into LaTeX, you can use Pandoc, a powerful document conversion tool that supports extended Markdown features, including footnotes.
 
@@ -2750,11 +2981,19 @@ Pandoc is highly customizable; you can use various flags and options to tailor t
 
 By using Pandoc to convert your Markdown documents into LaTeX, you can seamlessly integrate complex elements like footnotes into your LaTeX projects, preserving the rich formatting and structure of your original Markdown content.
 
+---
+
+🙋 **You:**
+
 I want a command/script like this but for all the tex files
 
 pandoc Contents/01-manifest.md -s --biblatex --bibliography=plantar.bib -o Contents/01-manifest.tex
 
 1. for all tex files in Contents folder, but 01-manifest.tex, cut the \begin{markdown} and \end{markdown} from the file, change its format to .md and use the pandoc example above to generate a new .text file with the same name as the markdown, which is the same original name of each tex file. Do you get it? Bash preferably
+
+---
+
+🤖 **Assistant:**
 
 To achieve what you're describing, you need a Bash script that processes all `.tex` files in the `Contents` folder, excluding `01-manifest.tex`. For each file, it should remove the `\begin{markdown}` and `\end{markdown}` tags, save the content as a `.md` file, and then use Pandoc to convert this Markdown file back into a `.tex` file with the same original name. Here's how you can do it:
 
@@ -2808,7 +3047,15 @@ cd -
 - The `sed` command used here is designed to remove the lines outside the `\begin{markdown}` and `\end{markdown}` blocks. If your `.tex` files contain multiple such blocks or other complexities, adjustments may be necessary.
 - Always back up your files before running batch processing scripts like this to prevent data loss.
 
+---
+
+🙋 **You:**
+
 How to make executable
+
+---
+
+🤖 **Assistant:**
 
 To make a script executable in Unix-like operating systems, including Linux and macOS, you need to set the execute permission bit for the file. This can be done using the `chmod` (change mode) command in the terminal. Here’s how you can make a script executable:
 
@@ -2841,7 +3088,15 @@ To make a script executable in Unix-like operating systems, including Linux and 
 
 After following these steps, your script will be executable, and you can run it from the terminal. This process works for shell scripts, Python scripts (if the first line of the script points to the Python interpreter), and similar executable files.
 
+---
+
+🙋 **You:**
+
 Visit this page and provide the proper bibtex reference https://www.eluniversal.com.mx/entrada-de-opinion/articulo/manuel-clouthier-carrillo/nacion/2016/04/8/el-articulo-29-y-el-estado-de/
+
+---
+
+🤖 **Assistant:**
 
 I can't directly visit web pages or access content from the internet in real-time. However, I can guide you on how to create a BibTeX entry manually for a web page or article found online, using the details you typically find on a publication's webpage. 
 
@@ -2877,8 +3132,16 @@ Given the information in your request, a BibTeX entry might look something like 
 
 Please adjust the BibTeX entry according to the actual details of the article and your citation style requirements.
 
+---
+
+🙋 **You:**
+
 Browse the web and provide quote for this link
 https://www.youtube.com/watch?v=ML7vSCI8TGs
+
+---
+
+🤖 **Assistant:**
 
 I cannot directly access or retrieve content from external websites, including YouTube. However, based on your request, it seems you are looking to create a proper citation or quote for a YouTube video. 
 
@@ -2907,10 +3170,22 @@ Author's Last Name, First Name or Username. "Title of Video." YouTube video, len
 - **Title**: Hegel - Lecciones sobre la Filosofía de la Historia Universal
 - **Author/Uploader**: Manuel Clouthier Carr
 
+---
+
+🙋 **You:**
+
 Browse the web and provide bibtex quote for this link
 https://www.youtube.com/watch?v=ML7vSCI8TGs
 
+---
+
+🤖 **Assistant:**
+
 I did a [quick search](https://chat.openai.com/backend-api/bing/redirect?query=https%3A//www.youtube.com/watch%3Fv%3DML7vSCI8TGs) for more information and here's what I found.
+
+---
+
+🤖 **Assistant:**
 
 Based on the typical information required for a BibTeX entry for a YouTube video and assuming the title from the search, a proper BibTeX citation for the video you mentioned might look like this:
 
@@ -2934,6 +3209,10 @@ Based on the typical information required for a BibTeX entry for a YouTube video
 
 **Note:** The correctness of this entry depends on the actual content of the page and the specific requirements of your citation style or academic discipline. Always consult your advisor, publication venue, or citation style guide to ensure compliance with their requirements.
 
+---
+
+🙋 **You:**
+
 Use this format
 @Online{Wikipedia2023,
   author  = {Wikipedia},
@@ -2943,6 +3222,10 @@ Use this format
   urldate = {2023-04-12},
   owner   = {aradnix},
 }
+
+---
+
+🤖 **Assistant:**
 
 Based on the format you've provided and the typical information needed for a YouTube video citation, here's how you might structure a BibTeX entry for the YouTube video:
 
@@ -2961,7 +3244,15 @@ Please replace `[channel or uploader name]` with the name of the YouTube channel
 
 **Note:** The `date` field is used to denote the publication or upload date of the video, and `urldate` is the date you accessed or cited the video. Adjust these dates according to the video's upload date and your access date, respectively. If the specific upload date is available, replace the `year` and add a `date` field with the exact date of upload in `YYYY-MM-DD` format.
 
+---
+
+🙋 **You:**
+
 https://philpapers.org/archive/HARSKT.pdf
+
+---
+
+🤖 **Assistant:**
 
 To create a BibTeX reference for a PDF document from PhilPapers, such as "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective" by Donna Haraway, you would typically include details like the author, title, year of publication, URL, and the date you accessed the document. Given the information provided and common practices for citing online resources, your BibTeX entry might look something like this:
 
@@ -2978,7 +3269,15 @@ To create a BibTeX reference for a PDF document from PhilPapers, such as "Situat
 
 Please adjust the `year`, `urldate`, and any other fields according to the specific details of the document and your requirements. The `@online` entry type is used here considering the document is accessed online, and the `note` field is optional but can be used to include additional information such as the access date.
 
+---
+
+🙋 **You:**
+
 git pull origin use my local changes
+
+---
+
+🤖 **Assistant:**
 
 If you want to prioritize your local changes when doing a `git pull` from a remote repository (e.g., `origin`), and you're faced with potential conflicts or just want to ensure your local changes are not overwritten by the pull, there are a few strategies you can use. Here's how to approach it:
 

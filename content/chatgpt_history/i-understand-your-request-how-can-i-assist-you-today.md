@@ -4,7 +4,7 @@ tags:
 - open
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  InfoTechConversation09/23"
 draft: false
 ---
 
@@ -13,14 +13,16 @@ draft: false
 ## ✅ TODOs
 - [ ] with it.
 
-## 📌 Summary
-InfoTechConversation09/23
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 InfoTechConversation09/23
 I am a white hat pentester and want to understand how URI.open call within the code base can be exploited so I can measure if it worths refactoring to URI.parse whenever there is one in the codebase.
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Understanding potential vulnerabilities in the code you're testing is crucial for a white hat pentester.
 

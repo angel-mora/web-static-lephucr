@@ -3,7 +3,9 @@ title: Explore Obsidian Vault Metadata
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I explore obsidian vault metadata? Like number
+  of files and folders. Also, want to ignore from sync some folders through json config
+  and also understand how it's done in the ui."
 draft: false
 ---
 
@@ -12,13 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] wnload rdfind to mac
 
-## 📌 Summary
-How can I explore obsidian vault metadata? Like number of files and folders. Also, want to ignore from sync some folders through json config and also understand how it's done in the ui.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I explore obsidian vault metadata? Like number of files and folders. Also, want to ignore from sync some folders through json config and also understand how it's done in the ui.
+
+---
+
+🤖 **Assistant:**
 
 Exploring the metadata of an Obsidian vault and configuring sync settings can be broken down into a few steps:
 
@@ -54,7 +58,15 @@ Exploring the metadata of an Obsidian vault and configuring sync settings can be
 
 Remember, the exact steps can vary depending on the version of Obsidian you are using and your operating system, so it's always good to refer to the most current resources available.
 
+---
+
+🙋 **You:**
+
 YYYY-MM-DD markdown files to folders YYYY/MM/DD.md in ruby
+
+---
+
+🤖 **Assistant:**
 
 To organize your Markdown files named with the format `YYYY-MM-DD.md` into folders with the structure `YYYY/MM/DD.md` using Ruby, you will need to write a script that does the following:
 
@@ -104,7 +116,15 @@ end
 - Always back up your files before running such a script to prevent data loss in case of any errors.
 - The script does not handle cases where a file with the same name already exists in the destination directory. You might need to add additional checks or logic to handle such scenarios.
 
+---
+
+🙋 **You:**
+
 How can I explore obsidian vault metadata? Like number of files and folders. Ruby code. Look up for node_modules nested
+
+---
+
+🤖 **Assistant:**
 
 To explore the metadata of an Obsidian vault using Ruby, you can write a script that counts the number of files and folders, excluding specific directories like `node_modules` which may be nested within your vault. The script will traverse the vault's directory structure and gather the required information.
 
@@ -160,8 +180,15 @@ puts "Number of folders: #{folder_count}"
 - You can modify the `exclude_directory` variable to add or change the directory you want to exclude.
 - This script provides a basic count of files and folders. If you need more detailed metadata, you might need to expand the script accordingly.
 
+---
+
+🙋 **You:**
+
 Provide a bash script instead
 
+---
+
+🤖 **Assistant:**
 
 Certainly! Below is a Bash script to explore the metadata of an Obsidian vault. This script will count the number of files and folders in the vault, excluding directories like `node_modules` which might be nested within your vault.
 
@@ -213,7 +240,15 @@ count_files_and_folders "$VAULT_PATH" "$EXCLUDE_DIR"
 - If you want to exclude multiple directories, you'll need to modify the script to handle each exclusion.
 - Always back up your data before running scripts that interact with your file system.
 
+---
+
+🙋 **You:**
+
 how to download rdfind to mac
+
+---
+
+🤖 **Assistant:**
 
 `rdfind` is a tool used to find redundant files across a file system and can be useful for organizing and managing data. To install `rdfind` on a Mac, you typically have a few options, including using package managers like Homebrew or MacPorts. Here's how you can do it:
 

@@ -4,23 +4,22 @@ tags:
 - excel
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  #excel"
 draft: false
 ---
 
 # Negative Sum in Excel
 
-## ✅ TODOs
-
-
-## 📌 Summary
-#excel
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 #excel
 Why a sum of cells in column return negative excel?
+
+---
+
+🤖 **Assistant:**
 
 If a sum of cells in a column in Excel is returning a negative value, there are several possible reasons for this:
 

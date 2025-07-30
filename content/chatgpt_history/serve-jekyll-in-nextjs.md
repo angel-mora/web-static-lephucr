@@ -3,24 +3,21 @@ title: Serve Jekyll in Next.js
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Can I serve a jekyll blog within a nextjs app?"
 draft: false
 ---
 
 # Serve Jekyll in Next.js
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Can I serve a jekyll blog within a nextjs app?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Can I serve a jekyll blog within a nextjs app? 
+Can I serve a jekyll blog within a nextjs app?
 
+---
 
+🤖 **Assistant:**
 
 Yes, you can serve a Jekyll blog within a Next.js app by using a couple of approaches. Here are the steps for one of the more straightforward methods:
 

@@ -3,30 +3,41 @@ title: Update Sequential Numbering Model
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  adjust the numbers so they keep their order but just
+  remove empty numbers in between. Example if there is no 024, then 025 should be
+  024, 026 should be 025 and so on"
 draft: false
 ---
 
 # Update Sequential Numbering Model
 
-## ✅ TODOs
-
-
-## 📌 Summary
-adjust the numbers so they keep their order but just remove empty numbers in between. Example if there is no 024, then 025 should be 024, 026 should be 025 and so on
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 adjust the numbers so they keep their order but just remove empty numbers in between. Example if there is no 024, then 025 should be 024, 026 should be 025 and so on
 
+---
 
+🤖 **Assistant:**
 
 Remove empty numbers in the model set context, adjusting the numbering to maintain sequential order.
 
+---
+
+**Tool:**
+
 Model set context updated.
 
+---
+
+🤖 **Assistant:**
+
 The model set context has been updated with sequential numbering, ensuring no empty numbers in between. If you need any further adjustments or have other requests, feel free to let me know!
+
+---
+
+🙋 **You:**
 
 adjust the numbers so they keep their order but just remove empty numbers in between. Example if there is no 024, then 025 should be 024, 026 should be 025 and so on
 [[LEPHUCR-015]]
@@ -52,7 +63,9 @@ adjust the numbers so they keep their order but just remove empty numbers in bet
 [[LEPHUCR-004]]
 [[LEPHUCR-003]]
 
+---
 
+🤖 **Assistant:**
 
 Sure! Here is the adjusted list with the numbers reordered sequentially:
 

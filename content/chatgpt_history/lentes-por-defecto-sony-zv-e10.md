@@ -3,33 +3,43 @@ title: Lentes por defecto Sony ZV-E10.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Urls a lentes de camara para sony z e10. Dime cuál
+  trae por default normalmente"
 draft: false
 ---
 
 # Lentes por defecto Sony ZV-E10.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Urls a lentes de camara para sony z e10. Dime cuál trae por default normalmente
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Urls a lentes de camara para sony z e10. Dime cuál trae por default normalmente 
+Urls a lentes de camara para sony z e10. Dime cuál trae por default normalmente
 
+---
 
+🤖 **Assistant:**
 
 La cámara Sony ZV-E10 normalmente viene con un objetivo zoom de 16-50 mm f/3.5-5.6 OSS, lo cual es bastante estándar para muchos kits de cámaras de nivel de entrada y semiprofesionales. Este lente es versátil para una variedad de situaciones de disparo, ofreciendo desde gran angular hasta capacidades de telefoto moderadas, ideal para vloggers y creadores de contenido que necesitan flexibilidad en diferentes entornos de grabación【8†source】.
 
+---
+
+🙋 **You:**
+
 Url a otros lentes compatibles
+
+---
+
+🤖 **Assistant:**
 
 Puedes encontrar una amplia variedad de lentes compatibles con la cámara Sony ZV-E10, que utiliza la montura tipo E de Sony. Aquí te menciono algunas opciones populares según las características y tipo de fotografía o videografía que quieras realizar:
 
 1. **Lentes fijas**: 
    - Sigma 50mm F1.4 DG HSM (Art) y Sigma 35mm F1.4 DG HSM (Art) son muy aprec
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes algunos enlaces a diferentes objetivos compatibles con la cámara Sony ZV-E10, que puedes considerar según tus necesidades fotográficas:
 

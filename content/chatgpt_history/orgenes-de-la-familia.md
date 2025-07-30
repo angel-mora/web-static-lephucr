@@ -3,22 +3,21 @@ title: Orígenes de la familia.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  De que geografía es la familia de Netanyahu?"
 draft: false
 ---
 
 # Orígenes de la familia.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-De que geografía es la familia de Netanyahu?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-De que geografía es la familia de Netanyahu? 
+De que geografía es la familia de Netanyahu?
+
+---
+
+🤖 **Assistant:**
 
 La familia de Benjamin Netanyahu, quien ha sido Primer Ministro de Israel en varias ocasiones, tiene orígenes diversos. Netanyahu nació en Tel Aviv, Israel, pero su familia tiene raíces tanto en Europa como en América.
 

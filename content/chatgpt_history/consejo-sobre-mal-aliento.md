@@ -3,24 +3,22 @@ title: Consejo sobre mal aliento
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Como decirle amablemente a mi mejor amigo que le huele
+  muy feo la boca?"
 draft: false
 ---
 
 # Consejo sobre mal aliento
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Como decirle amablemente a mi mejor amigo que le huele muy feo la boca?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Como decirle amablemente a mi mejor amigo que le huele muy feo la boca? 
+Como decirle amablemente a mi mejor amigo que le huele muy feo la boca?
 
+---
 
+🤖 **Assistant:**
 
 Decirle a tu mejor amigo que tiene mal aliento puede ser incómodo, pero es importante ser honesto de una manera delicada. Aquí tienes una sugerencia:
 

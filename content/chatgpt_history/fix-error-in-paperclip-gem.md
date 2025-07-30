@@ -4,20 +4,16 @@ tags:
 - open
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Why am I getting this error in Rails paperclip gem,
+  only in a few random cases"
 draft: false
 ---
 
 # Fix Error in Paperclip Gem
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Why am I getting this error in Rails paperclip gem, only in a few random cases
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Why am I getting this error in Rails paperclip gem, only in a few random cases
 undefined method `to_model' for #<Paperclip::Attachment>
@@ -88,9 +84,21 @@ undefined method `to_model' for #<Paperclip::Attachment>
 
 It is failing in the video.thumbnail
 
+---
+
+🤖 **Assistant:**
+
 The error message you're receiving is indicating that the method `to_model` is not defined for a Paperclip attachment. The method `to_model` is called when trying to convert an object to an ActiveRecord model. It is possible that this error is being thrown because the `video` object being passed to `image_tag` is not an ActiveRecord model, but instead a Paperclip attachment. To fix this, you may need to convert the attachment to an ActiveRecord model first, or provide a URL directly to the attachment instead of using `image_tag`.
 
+---
+
+🙋 **You:**
+
 Please tell me more about the second option of providing a URL directly to the attachment.
+
+---
+
+🤖 **Assistant:**
 
 The second option of providing a URL directly to the attachment involves generating a URL for a remote file or an asset that is hosted elsewhere. Instead of attaching a file from the local file system, you can provide a URL that points to the file or asset. This is useful in scenarios where the file is already hosted somewhere, or if you want to avoid the overhead of storing large files in your database or application. 
 

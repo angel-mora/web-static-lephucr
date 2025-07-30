@@ -3,7 +3,8 @@ title: Protecting Outlook from Brute Force
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I am receiving a bunch of failed login attempts to
+  brute force my email account, what can I do? It is Outlook"
 draft: false
 ---
 
@@ -12,13 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] wnload an archive of all your emails.
 
-## 📌 Summary
-I am receiving a bunch of failed login attempts to brute force my email account, what can I do? It is Outlook
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I am receiving a bunch of failed login attempts to brute force my email account, what can I do? It is Outlook
+
+---
+
+🤖 **Assistant:**
 
 I'm sorry to hear that you're experiencing this. Here are some steps you can take to protect your Outlook email account from brute force attacks:
 
@@ -44,7 +47,15 @@ I'm sorry to hear that you're experiencing this. Here are some steps you can tak
 
 Lastly, always be vigilant. If something seems off or suspicious, it's better to take precautionary steps early on.
 
+---
+
+🙋 **You:**
+
 How can I migrate from one email to a new one?
+
+---
+
+🤖 **Assistant:**
 
 Migrating from one email account to a new one can be broken down into several steps. Here's a simplified guide:
 
@@ -80,7 +91,15 @@ Migrating from one email account to a new one can be broken down into several st
 
 Remember, the specific steps can vary depending on the email service providers you're migrating between, so always consult their help documentation or support if you encounter any issues.
 
+---
+
+🙋 **You:**
+
 How about cellphone?
+
+---
+
+🤖 **Assistant:**
 
 Migrating data from one cellphone to another can be a bit more involved because of the variety of data types (contacts, apps, photos, messages, etc.) and potential differences in operating systems. Here's a general guide for both Android and iOS:
 

@@ -3,22 +3,22 @@ title: Aws Services for Rails
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tell me which aws services I should know if I use rails
+  as monolith and as api. SQL and Redis. Elasticsearch. Docker. Logging (like Cloudwatch)"
 draft: false
 ---
 
 # Aws Services for Rails
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Tell me which aws services I should know if I use rails as monolith and as api. SQL and Redis. Elasticsearch. Docker. Logging (like Cloudwatch)
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tell me which aws services I should know if I use rails as monolith and as api. SQL and Redis. Elasticsearch. Docker. Logging (like Cloudwatch)
+
+---
+
+🤖 **Assistant:**
 
 For a Rails application that functions both as a monolithic application and as an API, using SQL, Redis, Elasticsearch, Docker, and requires logging capabilities, you'd benefit from familiarizing yourself with a set of AWS services that support these requirements efficiently. Here's a breakdown:
 

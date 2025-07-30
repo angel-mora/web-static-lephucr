@@ -3,22 +3,21 @@ title: Fixing RSpec Rubocop warnings.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I fix this rspec rubocop warning? https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MultipleMemoizedHelpers"
 draft: false
 ---
 
 # Fixing RSpec Rubocop warnings.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I fix this rspec rubocop warning? https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MultipleMemoizedHelpers
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I fix this rspec rubocop warning? https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/MultipleMemoizedHelpers
+
+---
+
+🤖 **Assistant:**
 
 The `MultipleMemoizedHelpers` cop from Rubocop RSpec gem warns about having multiple memoized helpers in the same example group. Memoization is a technique to store the value of an expression, so that it is only computed once and can be reused later. Memoized helpers are often used in RSpec tests to simplify the setup of test data.
 
@@ -110,5 +109,9 @@ To fix this warning, you can refactor your RSpec test code to have only one memo
    
      it "does something with foo" do
        #
+
+---
+
+🙋 **You:**
 
 continue

@@ -3,24 +3,22 @@ title: Bloqueador Solar Compliant Recomendado
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que bloqueador solar es más compliant que pueda comprar
+  en CDMX?? Que no tengan componentes prohibidos por la FDA o la unión europea?"
 draft: false
 ---
 
 # Bloqueador Solar Compliant Recomendado
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Que bloqueador solar es más compliant que pueda comprar en CDMX?? Que no tengan componentes prohibidos por la FDA o la unión europea?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Que bloqueador solar es más compliant que pueda comprar en CDMX?? Que no tengan componentes prohibidos por la FDA o la unión europea? 
+Que bloqueador solar es más compliant que pueda comprar en CDMX?? Que no tengan componentes prohibidos por la FDA o la unión europea?
 
+---
 
+🤖 **Assistant:**
 
 Para asegurarte de que el bloqueador solar que compras en CDMX cumpla con las regulaciones de la FDA y la Unión Europea, busca productos que cumplan con estas pautas:
 

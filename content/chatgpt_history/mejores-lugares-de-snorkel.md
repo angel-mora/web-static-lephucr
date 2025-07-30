@@ -3,24 +3,21 @@ title: Mejores lugares de snorkel
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Mejores lugar para snorkelear en México y Latam"
 draft: false
 ---
 
 # Mejores lugares de snorkel
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Mejores lugar para snorkelear en México y Latam
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Mejores lugar para snorkelear en México y Latam
 
+---
 
+🤖 **Assistant:**
 
 Aquí tienes una lista de algunos de los mejores lugares para snorkelear en México y América Latina:
 

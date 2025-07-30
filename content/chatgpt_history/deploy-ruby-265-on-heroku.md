@@ -3,22 +3,21 @@ title: Deploy Ruby 2.6.5 on Heroku
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  heroku cli to push ruby 2.6.5"
 draft: false
 ---
 
 # Deploy Ruby 2.6.5 on Heroku
 
-## ✅ TODOs
-
-
-## 📌 Summary
-heroku cli to push ruby 2.6.5
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 heroku cli to push ruby 2.6.5
+
+---
+
+🤖 **Assistant:**
 
 If you want to deploy a Ruby application with a specific Ruby version (in this case, 2.6.5) to Heroku using the Heroku CLI, follow these steps:
 
@@ -84,7 +83,15 @@ web: bundle exec puma -C config/puma.rb
 
 Adjust as necessary for your specific application and its requirements.
 
+---
+
+🙋 **You:**
+
 is there a website where I can find railsgoat deployed? I need it for a sample test where I'll run OWASP zap against the remote url
+
+---
+
+🤖 **Assistant:**
 
 RailsGoat is a vulnerable version of the Ruby on Rails Framework, used for training and educational purposes. It's a project maintained by OWASP itself. However, as of my last update in January 2022, there isn't a permanently deployed public instance of RailsGoat. This is likely due to the inherent security risks of hosting intentionally vulnerable applications on the public internet.
 

@@ -3,22 +3,22 @@ title: Linux Window Management Options
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Is there anything like rectangle in mac to handle windows/tiles
+  but for linux?"
 draft: false
 ---
 
 # Linux Window Management Options
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Is there anything like rectangle in mac to handle windows/tiles but for linux?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Is there anything like rectangle in mac to handle windows/tiles but for linux?
+
+---
+
+🤖 **Assistant:**
 
 Yes, there are several window management tools for Linux that offer functionality similar to Rectangle for macOS. Rectangle is a window management app for macOS that allows users to quickly organize and manage windows using keyboard shortcuts. In the Linux ecosystem, you have a variety of choices depending on your preferences and the desktop environment you are using. Here are a few options:
 
@@ -32,7 +32,15 @@ Yes, there are several window management tools for Linux that offer functionalit
 
 Each of these options has its own set of features and customization capabilities. The choice depends on how deeply you want to customize your environment and how integrated you want the window management to be with your existing desktop environment.
 
+---
+
+🙋 **You:**
+
 What will be more easily set up as rectangle app shortcuts?
+
+---
+
+🤖 **Assistant:**
 
 For an experience most similar to Rectangle on macOS, which is known for its ease of setup and use, you might want to consider options that require minimal configuration and integrate well with your existing desktop environment. Here are two recommendations based on ease of setup:
 

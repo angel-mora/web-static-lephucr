@@ -6,20 +6,16 @@ tags:
 - first
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I test this link_to opening in another tab
+  in rspec / capybara?"
 draft: false
 ---
 
 # Rspec Capybara Test: New Tab
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I test this link_to opening in another tab in rspec / capybara?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I test this link_to opening in another tab in rspec / capybara?
   <%= link_to 'First Time Leader Learning', learning_content_library_external_search_path(audience_ids: [ResourceCenterHelper.first_time_leader.id]), method: :post, target: :_blank, id: ResourceCenterHelper.first_time_leader.slug %>
@@ -42,8 +38,9 @@ RSpec.describe 'Learning and Development', type: :feature do
   end
 end
 
+---
 
-
+🤖 **Assistant:**
 
 To test that a link opens in another tab using RSpec and Capybara, you need to verify that the link has the correct attributes and that clicking it opens a new window. Capybara itself doesn't directly handle new windows, so you'll need to use the `window_opened_by` method to test this behavior. Here's how you can write the test:
 

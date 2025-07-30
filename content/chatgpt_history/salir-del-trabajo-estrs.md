@@ -3,7 +3,13 @@ title: Salir del trabajo estrés
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Ayúdame a dejar mi trabajo, me cuesta mucho trabajo.
+  Como adicto al sexo y mariguano en recuperación ya no aguanto más seguir en este
+  trabajo. Pago 20K de renta al mes, tengo un crédito de 16K al mes CAT 18%. Tengo
+  on-hold una aplicación para 500 Startups y YVombinator. Quiero terminar mi libro
+  y empezar a aligerar mi vida. Tengo cita de la visa en junio y no quiero que me
+  la nieguen pero en verdad ya no aguanto trabajar, y la verdad es que mi trabajo
+  es bueno. Me tratan bien."
 draft: false
 ---
 
@@ -12,15 +18,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s los días de 07:00 a 11:00.","cite":"turn0search8"}{"name":"Camino Real Polanco México","location":"Ciudad de México, México","description":"Este hotel de lujo ofrece una gran variedad de vinos y una exclusiva área privada para negocios o reuniones de trabajo. Su restaurante Bistró ofrece desayunos y comidas estilo buffet.","cite":"turn0search9"}{"name":"City Express Plus by Marriott Ciudad de México Patio Universidad","location":"Ciudad de México, México","description":"Ubicado en la zona sur de la CDMX, este hotel ofrece habitaciones con espacios de trabajo y acceso a conexión WiFi. Además, cuenta con desayuno continental de cortesía.","cite":"turn0search11"}{"name":"Hotel Habita","location":"Ciudad de México, México","description":"Este hotel boutique de diseño contemporáneo ubicado en Polanco ofrece una terraza con piscina, jacuzzi y bar, desde donde se puede disfrutar de una vista panorámica de la ciudad.","cite":"turn0search12"}{"name":"Hotel Marbella CDMX","location":"Ciudad de México, México","description":"Situado en la Colonia Roma Norte, este hotel moderno ofrece habitaciones con espacio de trabajo y está cerca de diversas atracciones turísticas.","cite":"turn0search13"}{"name":"Hotel del Prado Ciudad de México","location":"Ciudad de México, México","description":"Este hotel cuenta con 358 habitaciones y 16 suites, además de 26 salones con capacidad de 10 a 900 personas. Está ubicado junto al centro comercial y financiero Plaza Galerías de las Estrellas.","cite":"turn0search15"}
 
-## 📌 Summary
-Ayúdame a dejar mi trabajo, me cuesta mucho trabajo. Como adicto al sexo y mariguano en recuperación ya no aguanto más seguir en este trabajo. Pago 20K de renta al mes, tengo un crédito de 16K al mes CAT 18%. Tengo on-hold una aplicación para 500 Startups y YVombinator. Quiero terminar mi libro y empezar a aligerar mi vida. Tengo cita de la visa en junio y no quiero que me la nieguen pero en verdad ya no aguanto trabajar, y la verdad es que mi trabajo es bueno. Me tratan bien.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Ayúdame a dejar mi trabajo, me cuesta mucho trabajo. Como adicto al sexo y mariguano en recuperación ya no aguanto más seguir en este trabajo. Pago 20K de renta al mes, tengo un crédito de 16K al mes CAT 18%. Tengo on-hold una aplicación para 500 Startups y YVombinator. Quiero terminar mi libro y empezar a aligerar mi vida. Tengo cita de la visa en junio y no quiero que me la nieguen pero en verdad ya no aguanto trabajar, y la verdad es que mi trabajo es bueno. Me tratan bien.
 
+---
 
+🤖 **Assistant:**
 
 Entiendo que estás en una situación difícil y que te sientes atrapado en tu trabajo, aunque reconozcas que es bueno y que te tratan bien. Hay varios factores en juego: tu recuperación, tus deudas, el costo de tu vida actual, tus planes de negocio y la necesidad de estabilidad para la visa.  
 
@@ -46,31 +52,63 @@ No veas el trabajo como una cárcel, sino como un medio temporal. Fija metas cer
 
 Si quieres, dime más sobre qué te está quemando más del trabajo y podemos ver si hay una manera de hacerlo más llevadero mientras preparas tu salida.
 
+---
+
+🙋 **You:**
+
 No quiero trabajar en la oficina esta semana, a que lugares de la CDMX puedo ir que tengan un buffet que me permita mantener mi intake proteico que sean cómodos para trabajar con la laptop
+
+---
+
+🤖 **Assistant:**
 
 Entiendo que buscas espacios en la Ciudad de México donde puedas trabajar cómodamente con tu laptop y disfrutar de un buffet que te permita mantener un alto consumo de proteínas. A continuación, te presento algunas opciones que podrían adaptarse a tus necesidades:
 
 businesses_map{"name":"Café Reforma en Hotel Marquis Reforma","location":"Ciudad de México, México","description":"Ofrece uno de los buffets más completos de la ciudad, incluyendo opciones saludables como frutas y ensaladas, así como pastas, carnes, pescados y postres. Ideal para desayunos y brunch.","cite":"turn0search1"}{"name":"Buffet del Valle Place","location":"Ciudad de México, México","description":"Restaurante familiar con ambiente acogedor y atención destacada. Su buffet ofrece una variedad de platillos que incluyen opciones proteicas, ideal para disfrutar en compañía de familiares o amigos.","cite":"turn0search5"}{"name":"Mr. Pampas – Mundo E","location":"Tlalnepantla, México","description":"Restaurante reconocido por su amplia selección de cortes brasileños y variedad de platillos. Ofrece más de 30 cortes, incluyendo carne blanca y mariscos, en un ambiente ideal para grupos y familias.","cite":"turn0search4"}{"name":"Sonora Grill","location":"Ciudad de México, México","description":"Especializado en cortes de carne de alta calidad, este restaurante ofrece un ambiente moderno y cómodo. Sus sucursales en Condesa, Nápoles, Reforma y Polanco son ideales para disfrutar de una comida abundante y trabajar en un entorno agradable.","cite":"turn0search4"}{"name":"Centro Café","location":"Ciudad de México, México","description":"Cafetería tranquila con terraza y ambiente relajado, ideal para trabajar con wifi. Aunque no es un buffet, ofrece un menú con opciones saludables que podrían complementar tu ingesta proteica.","cite":"turn0search3"}
 
-Te recomiendo contactar previamente a estos lugares para confirmar que cuentan con las facilidades necesarias para trabajar con tu laptop, como enchufes y conexión Wi-Fi estable. Además, verifica los horarios y disponibilidad de sus buffets para planificar mejor tus visitas. 
+Te recomiendo contactar previamente a estos lugares para confirmar que cuentan con las facilidades necesarias para trabajar con tu laptop, como enchufes y conexión Wi-Fi estable. Además, verifica los horarios y disponibilidad de sus buffets para planificar mejor tus visitas.
 
-Hmm hoteles? Dame precios también 
+---
+
+🙋 **You:**
+
+Hmm hoteles? Dame precios también
+
+---
+
+🤖 **Assistant:**
 
 Entiendo que buscas hoteles en la Ciudad de México que ofrezcan buffet, espacios cómodos para trabajar con tu laptop y que te permitan mantener una ingesta proteica adecuada. A continuación, te presento algunas opciones que podrían adaptarse a tus necesidades:
 
 businesses_map{"name":"Hotel El Ejecutivo by Reforma Avenue","location":"Ciudad de México, México","description":"Este hotel ofrece habitaciones equipadas con espacio para trabajar con laptop y aire acondicionado. Además, cuenta con un restaurante en el que puedes disfrutar de diversas opciones gastronómicas.","cite":"turn0search0"}{"name":"LaiLa Hotel CDMX","location":"Ciudad de México, México","description":"Ofrece desayuno buffet (con cargo) y habitaciones con espacio para trabajar con laptop y aire acondicionado. También dispone de renta de bicicletas y estacionamiento (con cargo).","cite":"turn0search2"}{"name":"Hotel Punto MX","location":"Ciudad de México, México","description":"Ubicado en el Centro Histórico, este hotel ofrece habitaciones lujosas y una ubicación céntrica cerca de las principales atracciones turísticas y comerciales de la ciudad. Cuenta con opciones gastronómicas que incluyen buffet.","cite":"turn0search7"}{"name":"Hotel Ritz Ciudad de México","location":"Ciudad de México, México","description":"Las habitaciones de este hotel cuentan con espacio para trabajar con laptop y vistas a la ciudad. Ofrece desayuno buffet con cargo todos los días de 07:00 a 11:00.","cite":"turn0search8"}{"name":"Camino Real Polanco México","location":"Ciudad de México, México","description":"Este hotel de lujo ofrece una gran variedad de vinos y una exclusiva área privada para negocios o reuniones de trabajo. Su restaurante Bistró ofrece desayunos y comidas estilo buffet.","cite":"turn0search9"}{"name":"City Express Plus by Marriott Ciudad de México Patio Universidad","location":"Ciudad de México, México","description":"Ubicado en la zona sur de la CDMX, este hotel ofrece habitaciones con espacios de trabajo y acceso a conexión WiFi. Además, cuenta con desayuno continental de cortesía.","cite":"turn0search11"}{"name":"Hotel Habita","location":"Ciudad de México, México","description":"Este hotel boutique de diseño contemporáneo ubicado en Polanco ofrece una terraza con piscina, jacuzzi y bar, desde donde se puede disfrutar de una vista panorámica de la ciudad.","cite":"turn0search12"}{"name":"Hotel Marbella CDMX","location":"Ciudad de México, México","description":"Situado en la Colonia Roma Norte, este hotel moderno ofrece habitaciones con espacio de trabajo y está cerca de diversas atracciones turísticas.","cite":"turn0search13"}{"name":"Hotel del Prado Ciudad de México","location":"Ciudad de México, México","description":"Este hotel cuenta con 358 habitaciones y 16 suites, además de 26 salones con capacidad de 10 a 900 personas. Está ubicado junto al centro comercial y financiero Plaza Galerías de las Estrellas.","cite":"turn0search15"}
 
-Te recomiendo contactar directamente a estos hoteles para confirmar la disponibilidad de buffets que se ajusten a tus necesidades dietéticas y para obtener información actualizada sobre precios y servicios adicionales que puedan ofrecer. 
+Te recomiendo contactar directamente a estos hoteles para confirmar la disponibilidad de buffets que se ajusten a tus necesidades dietéticas y para obtener información actualizada sobre precios y servicios adicionales que puedan ofrecer.
+
+---
+
+🙋 **You:**
 
 Mejores lugares para trabajar mi jornada de ocho horas. Ejemplo: Blend Station, Haab Project. No repitas lo que yo ya dije
+
+---
+
+🤖 **Assistant:**
 
 Entiendo que buscas espacios en la Ciudad de México donde puedas trabajar durante una jornada de ocho horas, similares a Blend Station y Haab Project. A continuación, te presento algunas opciones que podrían adaptarse a tus necesidades:
 
 businesses_map{"name":"Libertario Coffee Roasters","location":"Ciudad de México, México","description":"Ubicado frente a la Plaza Luis Cabrera, este café ofrece un espacio amplio y luminoso, ideal para trabajar con laptop. Cuenta con varios enchufes y buen Wi-Fi.","cite":"turn0search0"}{"name":"Vocablo Café y Poesía","location":"Ciudad de México, México","description":"Situado en La Romita, este café combina un ambiente tranquilo con una decoración acogedora, perfecto para concentrarse en el trabajo.","cite":"turn0search0"}{"name":"Coffeefy Workafe","location":"Ciudad de México, México","description":"Este espacio combina cafetería con coworking, ofreciendo un ambiente informal sin compromisos a largo plazo. Ideal para quienes buscan flexibilidad.","cite":"turn0search1"}{"name":"The Pool","location":"Ciudad de México, México","description":"Con varias ubicaciones en la ciudad, este espacio de coworking ofrece acceso 24/7 a oficinas y áreas de trabajo compartidas, adaptándose a horarios flexibles.","cite":"turn0search1"}{"name":"Niddo","location":"Ciudad de México, México","description":"Cafetería con ambiente tranquilo y menú variado, ideal para trabajar durante largas jornadas.","cite":"turn0search2"}{"name":"Junkie CDMX","location":"Ciudad de México, México","description":"Espacio con buen café y ambiente relajado, perfecto para concentrarse en tareas laborales.","cite":"turn0search2"}
 
-Te recomiendo visitar estos lugares para evaluar cuál se adapta mejor a tus necesidades y preferencias. Además, es aconsejable verificar previamente si cuentan con servicios como Wi-Fi gratuito, enchufes disponibles y un ambiente propicio para trabajar durante periodos prolongados. 
+Te recomiendo visitar estos lugares para evaluar cuál se adapta mejor a tus necesidades y preferencias. Además, es aconsejable verificar previamente si cuentan con servicios como Wi-Fi gratuito, enchufes disponibles y un ambiente propicio para trabajar durante periodos prolongados.
+
+---
+
+🙋 **You:**
 
 Que pasa si renuncio con la deuda de 380K que pago a dos años de 16K al mes, más mi renta? Cómo puedo no tener miedo? Dame los consejos más estratégicos para adquirir ingresos con mis saberes de Rails y de ciberseguridad. También soy un filósofo con capacidades sociales y formación de liderazgo. Quiero hacer una lista de todas mis potenciales fuentes de income. Haz un encuadre que de valor económico a las contribuciones de esas potenciales fuentes de income para mis potenciales clientes.
+
+---
+
+🤖 **Assistant:**
 
 Si renuncias con una deuda de **$380K MXN**, un pago mensual de **$16K MXN** y una renta de **$20K MXN**, el mayor riesgo es quedarte sin liquidez antes de generar ingresos estables. Para reducir este miedo, el enfoque debe ser **estratégico y basado en flujo de caja inmediato**.  
 
@@ -164,7 +202,15 @@ Si aplicas esto, puedes irte con **flujo de caja inmediato**, reduciendo el ries
 
 ¿Quieres ayuda con un plan más detallado para los primeros clientes?
 
-Quiero que consideres las aplicaciones de YC y 500 Startups y que profundices en la cronología 
+---
+
+🙋 **You:**
+
+Quiero que consideres las aplicaciones de YC y 500 Startups y que profundices en la cronología
+
+---
+
+🤖 **Assistant:**
 
 Dado que tienes una aplicación **on hold** para **Y Combinator** y **500 Startups**, podemos alinear tu salida laboral con la posibilidad de levantar inversión. Esto implica dos posibles escenarios:  
 

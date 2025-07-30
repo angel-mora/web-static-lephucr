@@ -3,26 +3,24 @@ title: Redis SSL Connection Error
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  2025-01-06 17:02:10 1:M 06 Jan 2025 22:02:10.847 #
+  Error accepting a client connection: error:0A00010B:SSL routines::wrong version
+  number (addr=192.168.65.1:22167 laddr=172.18.0.3:6379)"
 draft: false
 ---
 
 # Redis SSL Connection Error
 
-## ✅ TODOs
-
-
-## 📌 Summary
-2025-01-06 17:02:10 1:M 06 Jan 2025 22:02:10.847 # Error accepting a client connection: error:0A00010B:SSL routines::wrong version number (addr=192.168.65.1:22167 laddr=172.18.0.3:6379)
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 2025-01-06 17:02:10 1:M 06 Jan 2025 22:02:10.847 # Error accepting a client connection: error:0A00010B:SSL routines::wrong version number (addr=192.168.65.1:22167 laddr=172.18.0.3:6379)
 Got this error from the docker container when trying to run my spec
 
+---
 
-
+🤖 **Assistant:**
 
 The error you’re encountering—`SSL routines::wrong version number`—indicates that the Redis client is trying to use SSL, but the Redis server in your Docker container is not configured to support SSL connections.
 
@@ -121,9 +119,16 @@ PONG
 
 Would you like me to generate a quick Redis and Rails setup guide using Docker that ensures proper connection for your specs?
 
+---
+
+🙋 **You:**
+
 127.0.0.1:6379> ping
 Error: Connection reset by peer
 
+---
+
+🤖 **Assistant:**
 
 The error `Connection reset by peer` typically means that the Redis server is either not running, has crashed, or is refusing the connection for some reason. Here's how to troubleshoot and resolve the issue:
 
@@ -218,8 +223,16 @@ docker-compose up --build
 
 Would you like help diagnosing the logs from your Redis container? You can share the output, and I’ll help analyze it.
 
+---
+
+🙋 **You:**
+
 I am using dip
 redis rubymine net time out rspec
+
+---
+
+🤖 **Assistant:**
 
 It looks like you are using `dip` to manage your Docker-based development environment, and you’re encountering a timeout when trying to connect to Redis from RubyMine during your RSpec tests.
 

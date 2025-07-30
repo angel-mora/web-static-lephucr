@@ -3,27 +3,23 @@ title: Chrome Profile Lock Resolve
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  > google-chrome"
 draft: false
 ---
 
 # Chrome Profile Lock Resolve
 
-## ✅ TODOs
-
-
-## 📌 Summary
-> google-chrome
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 > google-chrome
 [5726:5726:0717/122417.718213:ERROR:process_singleton_posix.cc(353)] The profile appears to be in use by another Google Chrome process (7065) on another computer (U-4WH6ASLDUVZU).  Chrome has locked the profile so that it doesn't get corrupted.  If you are sure no other processes are using this profile, you can unlock the profile and relaunch Chrome.
 [5726:5726:0717/122417.718503:ERROR:message_box_dialog.cc(144)] Unable to show a dialog outside the UI thread message loop: Google Chrome - The profile appears to be in use by another Google Chrome process (7065) on another computer (U-4WH6ASLDUVZU).  Chrome has locked the profile so that it doesn't get corrupted.  If you are sure no other processes are using this profile, you can unlock the profile and relaunch Chrome.
 
+---
 
-
+🤖 **Assistant:**
 
 It appears that Google Chrome is detecting another instance of the browser using the same profile on a different computer or process. To resolve this, you can try the following steps:
 

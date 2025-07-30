@@ -3,7 +3,9 @@ title: Convocatorias educación programación electrónica
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Dime todas las convocatorias donde podria meter un
+  proyecto de fomentar la educacion en programacion y electronica. Soy mexicano, creando
+  una LLC a traves de clerky."
 draft: false
 ---
 
@@ -12,15 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] el país. citeturn0search1
 
-## 📌 Summary
-Dime todas las convocatorias donde podria meter un proyecto de fomentar la educacion en programacion y electronica. Soy mexicano, creando una LLC a traves de clerky.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Dime todas las convocatorias donde podria meter un proyecto de fomentar la educacion en programacion y electronica. Soy mexicano, creando una LLC a traves de clerky.
 
+---
 
+🤖 **Assistant:**
 
 Existen diversas convocatorias y programas en México que podrían respaldar tu proyecto para fomentar la educación en programación y electrónica. A continuación, te presento algunas opciones:
 
@@ -42,9 +44,17 @@ Dime todas las convocatorias donde podria meter un proyecto de fomentar la educa
 6. **Universidades y Centros Educativos:**
    Instituciones como la Universidad Nacional Autónoma de México (UNAM) y el Instituto Politécnico Nacional (IPN) suelen tener programas y convocatorias para proyectos educativos y tecnológicos. Establecer vínculos con estas instituciones podría abrir puertas para tu proyecto.
 
-Te sugiero mantenerte atento a las actualizaciones en los sitios oficiales de estas organizaciones y considerar la posibilidad de establecer alianzas estratégicas que potencien el impacto de tu iniciativa en la educación en programación y electrónica en México. 
+Te sugiero mantenerte atento a las actualizaciones en los sitios oficiales de estas organizaciones y considerar la posibilidad de establecer alianzas estratégicas que potencien el impacto de tu iniciativa en la educación en programación y electrónica en México.
+
+---
+
+🙋 **You:**
 
 Otras instituciones privadas como Open Society Foundation???
+
+---
+
+🤖 **Assistant:**
 
 Existen diversas fundaciones privadas en México que apoyan proyectos educativos enfocados en programación y electrónica. A continuación, se presentan algunas de ellas:
 

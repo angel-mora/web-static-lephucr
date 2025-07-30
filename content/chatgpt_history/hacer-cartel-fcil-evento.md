@@ -3,24 +3,22 @@ title: Hacer cartel fácil evento
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Manera más fácil de hacer un cartel para un evento
+  que haré este domingo"
 draft: false
 ---
 
 # Hacer cartel fácil evento
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Manera más fácil de hacer un cartel para un evento que haré este domingo
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Manera más fácil de hacer un cartel para un evento que haré este domingo 
+Manera más fácil de hacer un cartel para un evento que haré este domingo
 
+---
 
+🤖 **Assistant:**
 
 La manera más fácil y rápida de hacer un cartel para tu evento es usando **Canva** o **Figma** con una plantilla prehecha. Aquí te dejo un proceso sencillo:  
 

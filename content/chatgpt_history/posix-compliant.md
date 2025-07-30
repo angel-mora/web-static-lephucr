@@ -3,22 +3,21 @@ title: Posix-compliant
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What is posix-compliant?"
 draft: false
 ---
 
 # Posix-compliant
 
-## ✅ TODOs
-
-
-## 📌 Summary
-What is posix-compliant?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-What is posix-compliant? 
+What is posix-compliant?
+
+---
+
+🤖 **Assistant:**
 
 A POSIX-compliant system adheres to a set of standards specified by the Portable Operating System Interface (POSIX). These standards are defined by the IEEE (Institute of Electrical and Electronics Engineers) and aim to ensure compatibility and interoperability between various Unix-like operating systems. The POSIX specifications cover a wide range of topics, including:
 

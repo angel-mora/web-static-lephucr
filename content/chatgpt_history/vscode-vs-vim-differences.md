@@ -3,22 +3,22 @@ title: VSCode vs Vim Differences
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tell me common things that you can easily do in vscode
+  but in vim"
 draft: false
 ---
 
 # VSCode vs Vim Differences
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Tell me common things that you can easily do in vscode but in vim
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tell me common things that you can easily do in vscode but in vim
+
+---
+
+🤖 **Assistant:**
 
 Visual Studio Code (VSCode) and Vim are both powerful editors, but they have different strengths and design philosophies. Some common tasks that are typically easier or more straightforward in VSCode compared to Vim include:
 

@@ -3,24 +3,22 @@ title: Cuestionario emocional PMO
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuestionario emocional para entender mis ganas de actuar
+  (PMO)"
 draft: false
 ---
 
 # Cuestionario emocional PMO
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cuestionario emocional para entender mis ganas de actuar (PMO)
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cuestionario emocional para entender mis ganas de actuar (PMO)
 
+---
 
+🤖 **Assistant:**
 
 Aquí tienes un cuestionario que te ayudará a entender mejor tus ganas de actuar en relación con PMO y detectar patrones emocionales o situaciones que las disparan:  
 
@@ -57,7 +55,15 @@ Aquí tienes un cuestionario que te ayudará a entender mejor tus ganas de actua
 
 Responder este cuestionario cada vez que sientas el impulso te ayudará a detectar patrones y encontrar formas más saludables de manejar la situación. ¿Te gustaría convertir esto en un sistema más estructurado, como un diario o una app sencilla para registrar estos momentos?
 
+---
+
+🙋 **You:**
+
 Cuestionario sobre cómo me siento para identificar que cosa quiero evadir en este momento con el placer
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes un cuestionario diseñado para ayudarte a identificar qué estás tratando de evadir con el placer en este momento.  
 
@@ -89,9 +95,15 @@ Aquí tienes un cuestionario diseñado para ayudarte a identificar qué estás t
 
 Responder esto cada vez que sientas el impulso puede ayudarte a detectar patrones y entender qué estás evadiendo realmente. Si quieres, podemos explorar técnicas para enfrentar esas emociones de forma más efectiva.
 
+---
+
+🙋 **You:**
+
 que cosas podria estar evadiendo con el placer al mirar pornografia como developer recien separado despues de 6 años que vive solo?
 
+---
 
+🤖 **Assistant:**
 
 Es probable que el placer al ver pornografía esté sirviendo como una distracción o escape de emociones difíciles relacionadas con tu nueva situación. Aquí hay algunas cosas que podrías estar evadiendo:  
 

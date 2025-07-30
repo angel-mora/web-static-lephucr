@@ -3,22 +3,22 @@ title: Integrate React Native with Hotwire
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  React Native and Rails 7 monolith with Hotwire. How
+  can both live together?"
 draft: false
 ---
 
 # Integrate React Native with Hotwire
 
-## ✅ TODOs
-
-
-## 📌 Summary
-React Native and Rails 7 monolith with Hotwire. How can both live together?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 React Native and Rails 7 monolith with Hotwire. How can both live together?
+
+---
+
+🤖 **Assistant:**
 
 Sure, integrating React Native with a Rails 7 monolith application that's using Hotwire can be an interesting and potentially beneficial architectural choice. Here's a general outline of how you can go about doing this:
 

@@ -3,22 +3,22 @@ title: Canción "Amor Dime" de Nigga
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cual es la canción de reggae sampleada por Nigga o
+  Flex en la canción Amor Dime?"
 draft: false
 ---
 
 # Canción "Amor Dime" de Nigga
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cual es la canción de reggae sampleada por Nigga o Flex en la canción Amor Dime?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Cual es la canción de reggae sampleada por Nigga o Flex en la canción Amor Dime? 
+Cual es la canción de reggae sampleada por Nigga o Flex en la canción Amor Dime?
+
+---
+
+🤖 **Assistant:**
 
 La canción "Amor Dime" de Nigga (también conocido como Flex) no parece ser una que haya sampleado una canción de reggae específica, o al menos no hay información disponible que indique esto. La letra de "Amor Dime" es una obra original que expresa sentimientos de amor y desamor. 
 

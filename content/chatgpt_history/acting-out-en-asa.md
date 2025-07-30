@@ -3,24 +3,21 @@ title: Acting-out en ASA
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  que significa acting-out en Adictos al Sexo Anónimos?"
 draft: false
 ---
 
 # Acting-out en ASA
 
-## ✅ TODOs
-
-
-## 📌 Summary
-que significa acting-out en Adictos al Sexo Anónimos?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 que significa acting-out en Adictos al Sexo Anónimos?
 
+---
 
+🤖 **Assistant:**
 
 En el contexto de **Adictos al Sexo Anónimos (ASA)**, el término **acting-out** hace referencia a comportamientos compulsivos relacionados con la adicción sexual. Estos pueden incluir cualquier acción que una persona realiza para satisfacer impulsos sexuales de manera descontrolada, perjudicial o fuera de los límites saludables definidos por esa persona en su proceso de recuperación.
 

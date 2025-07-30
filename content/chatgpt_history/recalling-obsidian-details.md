@@ -3,7 +3,8 @@ title: Recalling Obsidian Details
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Do you remember all I've said in other conversations
+  about Obsidian?"
 draft: false
 ---
 
@@ -24,21 +25,39 @@ draft: false
 - [ ] n (or any AGPLv3 licensed software) need to be available upon request. This doesn't mean you have to publicly share your modifications, but you should provide them to users of your platform if they ask.
 - [ ] n Instances**: While Mastodon itself is decentralized, some instances may have unique features or monetization models.
 
-## 📌 Summary
-Do you remember all I've said in other conversations about Obsidian?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Do you remember all I've said in other conversations about Obsidian?
+
+---
+
+🤖 **Assistant:**
 
 No, I don't have the ability to remember past interactions with users for privacy reasons. Every conversation with me is stateless, meaning I don't store or recall personal data from one session to the next. You'd need to provide any relevant context or information again if you have questions about Obsidian or any other topic. How can I assist you today?
 
+---
+
+🙋 **You:**
+
 But you know stuff within the previous conversations, don't you?
+
+---
+
+🤖 **Assistant:**
 
 Yes, during a single session, I can reference previous parts of our current conversation for context. However, once the session ends (for example, if you close the browser, disconnect, or after some inactivity), I won't retain that information. It's designed this way to prioritize user privacy. So, if you're referring to our current conversation, I can keep up with that! What would you like to know?
 
+---
+
+🙋 **You:**
+
 I want to make an Obsidian-based social network that allows users to post their knowledge bases within the social network and decide what they want to share from a centralized source of truth. I am a Rails developer and planning to use Mastodon for this purpose. Since I want to raise money, I want to understand if I can charge for using my social network if I am based in Mastodon.
+
+---
+
+🤖 **Assistant:**
 
 It's great that you're thinking of blending Obsidian's knowledge management capabilities with the social features of a platform like Mastodon! Let's break down the aspects of your plan:
 
@@ -63,13 +82,25 @@ It's great that you're thinking of blending Obsidian's knowledge management capa
 
 Lastly, while the combination of Obsidian and Mastodon is innovative, always keep in mind the needs and preferences of your target audience. Regularly gathering feedback and iterating based on that can go a long way in ensuring the success of your platform.
 
-What is the most prudent way to make money out of this? I want to make open sourced stuff and still be able to charge for it if people use it over my platform.
-The value proposition is handling the knowledge base within your social network. I don't know if that'd mean having mastodon inside my rails remote knowledge base manager or viceversa, or integrate its functionality within mastodon and add a whole new namespace to that app.
-Is there anything that forces me not to allow ads? I'd integrate ads for people creating third party features, like the obsidian kanban frontmatter parser for the remote kb manager or these sort of things. I'd also ask for money to publish created presentations into shareable urls or ask for money monthly to publish created (for free) static websites, I'd also charge premium users for an AI assistant that organizes their notes (Lv1) and manages their agenda (Lv2).
+---
+
+🙋 **You:**
 
 What is the most prudent way to make money out of this? I want to make open sourced stuff and still be able to charge for it if people use it over my platform.
 The value proposition is handling the knowledge base within your social network. I don't know if that'd mean having mastodon inside my rails remote knowledge base manager or viceversa, or integrate its functionality within mastodon and add a whole new namespace to that app.
 Is there anything that forces me not to allow ads? I'd integrate ads for people creating third party features, like the obsidian kanban frontmatter parser for the remote kb manager or these sort of things. I'd also ask for money to publish created presentations into shareable urls or ask for money monthly to publish created (for free) static websites, I'd also charge premium users for an AI assistant that organizes their notes (Lv1) and manages their agenda (Lv2).
+
+---
+
+🙋 **You:**
+
+What is the most prudent way to make money out of this? I want to make open sourced stuff and still be able to charge for it if people use it over my platform.
+The value proposition is handling the knowledge base within your social network. I don't know if that'd mean having mastodon inside my rails remote knowledge base manager or viceversa, or integrate its functionality within mastodon and add a whole new namespace to that app.
+Is there anything that forces me not to allow ads? I'd integrate ads for people creating third party features, like the obsidian kanban frontmatter parser for the remote kb manager or these sort of things. I'd also ask for money to publish created presentations into shareable urls or ask for money monthly to publish created (for free) static websites, I'd also charge premium users for an AI assistant that organizes their notes (Lv1) and manages their agenda (Lv2).
+
+---
+
+🤖 **Assistant:**
 
 Let's delve into the considerations you've presented:
 
@@ -98,7 +129,15 @@ Let's delve into the considerations you've presented:
 
 In summary, it sounds like you're considering a mix of advertising, freemium features, and premium services to monetize your platform. This multi-pronged approach can be very effective, especially if you tailor it based on user feedback and market demand. The key will be to strike a balance between open-source community values and business imperatives.
 
+---
+
+🙋 **You:**
+
 How should I conduct the marketing research? Disclosing the premium features and providing a pricing model? Providing different pricing models? What are other similar platforms and what are their market pricing and features?
+
+---
+
+🤖 **Assistant:**
 
 Conducting market research is crucial to understanding your target audience's preferences, willingness to pay, and interest in your platform's features. Here's a step-by-step approach:
 
@@ -139,7 +178,15 @@ Conducting market research is crucial to understanding your target audience's pr
 
 Remember, the key is to balance between what users want, what they're willing to pay for, and your business objectives. Engaging with your audience genuinely and openly can help in building a loyal and supportive user base.
 
+---
+
+🙋 **You:**
+
 Provide a sample pricing model consider all potential streams of income I shared with you before
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Here's a sample pricing model based on the potential streams of income you mentioned earlier:
 
@@ -215,7 +262,15 @@ Certainly! Here's a sample pricing model based on the potential streams of incom
 
 This is a foundational structure. Actual prices would need to be validated based on market research, costs involved, and perceived value to the users. It's also worth noting that bundling services can offer perceived value and incentivize users to invest more. Remember to provide clear communication on what each tier or package offers to avoid any confusion for potential subscribers.
 
+---
+
+🙋 **You:**
+
 Now provide a prospective of revenue for YCombinator based on your model
+
+---
+
+🤖 **Assistant:**
 
 Certainly! To project revenue for an entry into Y Combinator (YC), it's important to remember that YC and similar accelerators are often interested in traction and growth rates rather than absolute numbers. Let's make some educated assumptions based on your model and typical early-stage startup growth to create a hypothetical scenario:
 
@@ -280,9 +335,15 @@ Remember, these are hypothetical numbers. The real challenge lies in achieving t
 
 Additionally, YC is known for its focus on month-over-month growth. Even if the absolute numbers are small, if the startup demonstrates a strong growth trajectory (e.g., 20% or more month-over-month), it can be a compelling sign of product-market fit and potential for further scale.
 
+---
+
+🙋 **You:**
+
 Is there a mdx /md based survey js implementation?
 
+---
 
+🤖 **Assistant:**
 
 As of my last update in January 2022, there isn't a dedicated MDX or Markdown (MD) based survey JS library that directly translates MDX/MD into survey forms. However, there are ways to achieve something similar:
 
@@ -299,7 +360,15 @@ As of my last update in January 2022, there isn't a dedicated MDX or Markdown (M
 
 If there's significant demand for an MDX/MD-based survey tool in the developer community, it's possible that a dedicated library might emerge in the future. For now, a custom solution combining MDX and React components or integrating existing survey libraries within an MDX environment would be the way to go. Always remember to check the current state of the ecosystem, as the JavaScript and React landscape evolves rapidly and new tools emerge frequently.
 
+---
+
+🙋 **You:**
+
 What should I ask in my survey to get close to understand product market fit?
+
+---
+
+🤖 **Assistant:**
 
 Achieving product-market fit (PMF) is crucial for the success of a startup or product. When trying to understand PMF through a survey, your questions should aim to determine how indispensable or valuable your product is to your users. Here's a set of questions that can help you gauge PMF:
 
@@ -338,7 +407,11 @@ Achieving product-market fit (PMF) is crucial for the success of a startup or pr
    - What do you like most about our product?
    - What do you dislike or
 
- find frustrating about our product?
+---
+
+🤖 **Assistant:**
+
+find frustrating about our product?
    - Any other feedback or suggestions for us?
 
 By analyzing the responses to these questions, you'll get insights into how users perceive your product, how integral it is to their workflows or lives, and areas where there might be gaps or room for improvement. Remember to approach the results with an open mind, ready to iterate on your product based on the feedback.

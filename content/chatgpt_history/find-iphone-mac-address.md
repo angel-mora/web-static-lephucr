@@ -3,22 +3,22 @@ title: Find iPhone MAC Address
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to find a mac address for an iphone analyzed in
+  autopsy?"
 draft: false
 ---
 
 # Find iPhone MAC Address
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How to find a mac address for an iphone analyzed in autopsy?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to find a mac address for an iphone analyzed in autopsy?
+
+---
+
+🤖 **Assistant:**
 
 Autopsy is a digital forensics platform used to conduct investigations on hard drives and mobile devices. If you have an iPhone image or backup that you're analyzing with Autopsy, and you want to find the MAC address, follow these general steps:
 
@@ -42,7 +42,15 @@ Autopsy is a digital forensics platform used to conduct investigations on hard d
 
 Remember, digital forensics and extracting personal information from devices may be subject to legal restrictions, depending on the jurisdiction and the circumstances of the investigation. Always ensure that you have the proper legal permissions and follow ethical guidelines when conducting any form of digital investigation.
 
+---
+
+🙋 **You:**
+
 The WifiTable has the iphone mac address or only the one from the routers?
+
+---
+
+🤖 **Assistant:**
 
 The `com.apple.wifi.plist` file, sometimes referred to in the context of the "WiFiTable", generally contains information about Wi-Fi networks that the iPhone has connected to. This includes details about the routers (or access points) such as their SSID, security type, and occasionally the BSSID, which is the MAC address of the router or access point. 
 
@@ -50,7 +58,15 @@ So, to answer your question directly: The `com.apple.wifi.plist` typically conta
 
 The iPhone's own MAC address would more likely be found in device information records, as previously described, such as the `Info.plist` file or other system configuration files.
 
+---
+
+🙋 **You:**
+
 so if I want the locations of the phone how can I get that?
+
+---
+
+🤖 **Assistant:**
 
 If you want to determine the locations that an iPhone has been, there are a few potential sources of location data within the device. Here's how you can get location information from an iPhone:
 

@@ -6,22 +6,25 @@ tags:
 - altwoke
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I make a marketing campaign to point to people
+  who follow TheNewCenter and who likes to read some specific books about Critical
+  Theory, like altwoke, Tiqqun or eFlux? I am fully abled programmer. I want to promote
+  a new book I wrote to them and want to understand how can I design my marketing
+  campaign successfully."
 draft: false
 ---
 
 # Targeted Marketing for Critical Theory
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I make a marketing campaign to point to people who follow TheNewCenter and who likes to read some specific books about Critical Theory, like altwoke, Tiqqun or eFlux? I am fully abled programmer. I want to promote a new book I wrote to them and want to understand how can I design my marketing campaign successfully.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I make a marketing campaign to point to people who follow TheNewCenter and who likes to read some specific books about Critical Theory, like altwoke, Tiqqun or eFlux? I am fully abled programmer. I want to promote a new book I wrote to them and want to understand how can I design my marketing campaign successfully.
+
+---
+
+🤖 **Assistant:**
 
 Designing a targeted marketing campaign involves understanding your target audience and leveraging various platforms and techniques to reach them. Given that you've identified followers of TheNewCenter and those interested in specific books about Critical Theory, here's a tailored marketing strategy for you:
 

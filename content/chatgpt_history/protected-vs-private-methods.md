@@ -3,23 +3,22 @@ title: Protected vs Private-Methods
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Ruby Junior Prep:"
 draft: false
 ---
 
 # Protected vs Private-Methods
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Ruby Junior Prep:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Ruby Junior Prep:
 Difference between private and protected
+
+---
+
+🤖 **Assistant:**
 
 In Ruby, both `private` and `protected` are access control mechanisms that help in encapsulating the methods within a class, making them accessible only from within the class or its subclasses. However, there are nuanced differences in how they operate and in their accessibility from outside the class or within the class hierarchy. Here's a breakdown of the differences:
 
@@ -65,7 +64,15 @@ In this example, `older_than?` is a public method that compares the ages of two 
 
 This demonstrates the key use case for protected methods: enabling controlled visibility between objects of the same class or subclasses, which isn't possible with private methods without a workaround.
 
+---
+
+🙋 **You:**
+
 time-space complexity
+
+---
+
+🤖 **Assistant:**
 
 Understanding time and space complexity is crucial for evaluating the efficiency of algorithms. Let's break down both concepts:
 
@@ -91,7 +98,15 @@ Space complexity measures the amount of memory an algorithm needs to run to comp
 
 It's important to note that both time and space complexity are theoretical measures. They help us understand and compare the efficiency of algorithms but do not provide exact runtimes or memory usage. Optimizing for time often requires more space, and vice versa, leading to trade-offs based on the constraints of a given problem.
 
+---
+
+🙋 **You:**
+
 show code samples
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Let's provide some code examples to illustrate the concepts of time and space complexity with common algorithms or operations in Python. These examples will demonstrate how the complexity affects both the time it takes to run the algorithm and the amount of memory it uses.
 
@@ -102,9 +117,17 @@ Certainly! Let's provide some code examples to illustrate the concepts of time a
 ```python
 def find_max(nums):
     max_val = nums[0]  # Assume the first number is the max initially
-    for num in nums[1:]: 
+    for num in nums[1:]:
+
+---
+
+🙋 **You:**
 
 show code samples in ruby
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Let's provide code samples in Ruby that illustrate some common algorithms and their time-space complexity. Each example will include a brief explanation of what the code does, along with its time and space complexity.
 

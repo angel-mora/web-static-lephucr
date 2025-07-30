@@ -3,22 +3,22 @@ title: Sort Spotify Liked Songs
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Api query to sort all my songs liked by bpm from Spotify
+  in JavaScript"
 draft: false
 ---
 
 # Sort Spotify Liked Songs
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Api query to sort all my songs liked by bpm from Spotify in JavaScript
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Api query to sort all my songs liked by bpm from Spotify in JavaScript 
+Api query to sort all my songs liked by bpm from Spotify in JavaScript
+
+---
+
+🤖 **Assistant:**
 
 To sort your liked songs by BPM (beats per minute) from Spotify using JavaScript, you'll need to utilize the Spotify Web API. Here's a step-by-step guide:
 
@@ -77,7 +77,15 @@ Note: The above example assumes that each track object contains a `tempo` field.
 
 Remember to handle potential pagination as the `getLikedSongs` function above only fetches 50 songs at a time. If the user has more than 50 liked songs, you'll need to account for pagination by using the `offset` query parameter in your requests to the Spotify API.
 
+---
+
+🙋 **You:**
+
 Do not assume. Does it have the functionality?
+
+---
+
+🤖 **Assistant:**
 
 Sorry for the oversight. Let me clarify.
 

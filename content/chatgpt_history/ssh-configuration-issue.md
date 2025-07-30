@@ -3,7 +3,8 @@ title: SSH Configuration Issue
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  ➜  lolo.international git:(assets) git pull origin
+  assets"
 draft: false
 ---
 
@@ -12,11 +13,9 @@ draft: false
 ## ✅ TODOs
 - [ ] it:
 
-## 📌 Summary
-➜  lolo.international git:(assets) git pull origin assets
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 ➜  lolo.international git:(assets) git pull origin assets
 fatal: 'git@github-personal/lolo.international.git' does not appear to be a git repository
@@ -38,7 +37,9 @@ Host github-personal
 
 why causing trouble?
 
+---
 
+🤖 **Assistant:**
 
 It seems that the issue is related to your SSH configuration, specifically how the `github-personal` host is being interpreted when trying to connect to GitHub.
 
@@ -89,7 +90,15 @@ After making these adjustments, try pulling from the repository again:
 git pull origin assets
 ```
 
+---
+
+🙋 **You:**
+
 nvim execution proper path, i have it in the downloads folder
+
+---
+
+🤖 **Assistant:**
 
 If you have `nvim` (Neovim) in your `Downloads` folder and want to run it, you can either:
 
@@ -129,8 +138,15 @@ If you have `nvim` (Neovim) in your `Downloads` folder and want to run it, you c
 
 Let me know if you need help with any specific steps!
 
+---
+
+🙋 **You:**
+
 downloaded it from https://github.com/neovim/neovim/releases/tag/v0.10.0/nvim-macos-arm64.tar.gz
 
+---
+
+🤖 **Assistant:**
 
 Great! Since you've downloaded the Neovim `nvim-macos-arm64.tar.gz` file, here's how you can set it up on your system properly:
 
@@ -190,6 +206,10 @@ Now you should be able to run `nvim` from any directory.
 
 Let me know if you encounter any issues!
 
+---
+
+🙋 **You:**
+
 got this error
 Error detected while processing /Users/spectech/.config/nvim/init.lua:
 E5113: Error while calling lua chunk: vim/_init_packages.lua:0: module 'vim.uri' not found:
@@ -219,6 +239,10 @@ stack traceback:
         /Users/spectech/.config/nvim/init.lua:17: in main chunk
 E484: Can't open file /usr/local/share/nvim/syntax/syntax.vim
 Press ENTER or type command to continue
+
+---
+
+🤖 **Assistant:**
 
 The error you're encountering likely stems from some misconfiguration or missing packages in your Neovim setup, especially with Lua modules like `vim.uri` and the missing `syntax.vim` file. Here's how you can troubleshoot and resolve this issue:
 
@@ -282,11 +306,27 @@ nvim
 
 If you still encounter issues, feel free to share any new error messages.
 
+---
+
+🙋 **You:**
+
 I want to install nvchad on top of it, maybe went to the wrong route
+
+---
+
+🤖 **Assistant:**
 
 User wants to install NvChad on top of Neovim.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 If you're looking to install NvChad on top of Neovim, that’s a great choice as NvChad provides a highly customizable and feature-rich Neovim setup. Here’s how you can install NvChad correctly, step-by-step:
 
@@ -326,9 +366,15 @@ If you encounter any issues:
 
 Now you should have a fully functional NvChad setup on top of Neovim. Let me know if you encounter any specific issues during the installation!
 
-E484: Cant open file /usr/local/share/nvim/syntax/syntax.vim after I moved it from downloads to the bin folder you suggested. 
+---
 
+🙋 **You:**
 
+E484: Cant open file /usr/local/share/nvim/syntax/syntax.vim after I moved it from downloads to the bin folder you suggested.
+
+---
+
+🤖 **Assistant:**
 
 The error `E484: Can't open file /usr/local/share/nvim/syntax/syntax.vim` occurs because Neovim cannot find the runtime files, which include syntax definitions, keymaps, and other configurations that Neovim needs to function properly.
 
@@ -385,7 +431,15 @@ Using Homebrew will ensure that everything is installed in the correct locations
 
 Let me know if this helps or if you're still seeing issues!
 
+---
+
+🙋 **You:**
+
 i have neovim but it looks like is not loading nvchad
+
+---
+
+🤖 **Assistant:**
 
 If Neovim is installed correctly but NvChad is not loading, it might be due to an issue with the installation or configuration. Here's how to troubleshoot and ensure that NvChad loads properly:
 
@@ -446,6 +500,10 @@ If Neovim is installed correctly but NvChad is not loading, it might be due to a
 
 Let me know how it goes, and if you encounter any specific issues, share the error messages!
 
+---
+
+🙋 **You:**
+
 Last login: Tue Sep 17 18:35:39 on ttys000
 [oh-my-zsh] plugin 'zsh-autosuggestions' not found
 [oh-my-zsh] plugin 'zsh-syntax-highlighting' not found
@@ -453,6 +511,10 @@ Last login: Tue Sep 17 18:35:39 on ttys000
 [oh-my-zsh] plugin 'zsh-autocomplete' not found
 ➜  ~
 Im in mac
+
+---
+
+🤖 **Assistant:**
 
 The error messages you're seeing are related to missing Oh My Zsh plugins, which means that certain Zsh plugins you configured are either not installed or aren't correctly set up. Here's how you can resolve these issues on your Mac:
 
@@ -509,7 +571,15 @@ The error messages you're seeing are related to missing Oh My Zsh plugins, which
 
 Let me know if this solves the issue or if you need further assistance!
 
+---
+
+🙋 **You:**
+
 [oh-my-zsh] plugin 'fast-syntax-highlighting' not found
+
+---
+
+🤖 **Assistant:**
 
 It seems that the `fast-syntax-highlighting` plugin is still not found. Let's go through a step-by-step guide to properly install and set up this plugin for Oh My Zsh.
 

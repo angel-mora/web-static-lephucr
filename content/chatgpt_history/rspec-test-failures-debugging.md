@@ -10,20 +10,16 @@ tags:
 - specific
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hello there Im expecting this issues when im trying
+  to run my spec, this is the command that i use:"
 draft: false
 ---
 
 # RSpec Test Failures Debugging
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Hello there Im expecting this issues when im trying to run my spec, this is the command that i use:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Hello there Im expecting this issues when im trying to run my spec, this is the command that i use:
 
@@ -200,8 +196,9 @@ bundler: failed to load command: rspec (/Users/spectech/.rbenv/versions/3.2.2/bi
 Coverage report generated for RSpec to /Users/spectech/Printavo/Printavo/coverage. 14339 / 31082 LOC (46.13%) covered.
 Stopped processing SimpleCov as a previous error not related to SimpleCov has been detected
 
+---
 
-
+🤖 **Assistant:**
 
 Your test failures suggest a couple of different issues:
 
@@ -219,11 +216,27 @@ Your test failures suggest a couple of different issues:
 
 Let me know if you’d like more specific guidance on adjusting any of these suggestions!
 
-since my network is working properly i have a thought about could be a local enviroment issues related to redis? 
+---
+
+🙋 **You:**
+
+since my network is working properly i have a thought about could be a local enviroment issues related to redis?
+
+---
+
+🤖 **Assistant:**
 
 User suspects that their local environment may have issues related to Redis when running tests.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Yes, Redis environment issues could definitely be contributing to this, especially since you're experiencing timeouts. Here are a few checks and adjustments you can try to pinpoint and resolve Redis-related issues in your local environment:
 
@@ -241,9 +254,15 @@ Yes, Redis environment issues could definitely be contributing to this, especial
 
 These steps should help clarify if Redis is indeed the root cause. Let me know if you observe any changes after trying these adjustments!
 
+---
+
+🙋 **You:**
+
 im in mac m3, how can i check my redis conection?
 
+---
 
+🤖 **Assistant:**
 
 On a Mac with an M3, here’s how you can check and troubleshoot your Redis connection:
 
@@ -293,6 +312,10 @@ On a Mac with an M3, here’s how you can check and troubleshoot your Redis conn
 
 Let me know if you’re still having trouble connecting after these steps!
 
+---
+
+🙋 **You:**
+
 Now im getting this error Failures:
 
   1) Customer makes payment using Stripe on general checkout form when the Customer tries to pay with an invalid credit card number 
@@ -307,6 +330,10 @@ this is my test:
 
 
 what could be get wrong?
+
+---
+
+🤖 **Assistant:**
 
 The error `Capybara::Ambiguous: Ambiguous match, found 2 elements matching visible css "iframe"` indicates that Capybara is finding multiple iframes on the page, causing it to fail since it’s unclear which one to interact with.
 

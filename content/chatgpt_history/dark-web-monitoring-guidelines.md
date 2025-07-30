@@ -3,22 +3,24 @@ title: Dark Web Monitoring Guidelines
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I am a security white hat and got asked to monitor
+  dark net looking for my client db leaked so I can inform proper authorities about
+  it. Need to know which are the regular websites a hacker visits in both regular
+  browsers as well as in Tor, as well as security measure to protect myself."
 draft: false
 ---
 
 # Dark Web Monitoring Guidelines
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I am a security white hat and got asked to monitor dark net looking for my client db leaked so I can inform proper authorities about it. Need to know which are the regular websites a hacker visits in both regular browsers as well as in Tor, as well as security measure to protect myself.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I am a security white hat and got asked to monitor dark net looking for my client db leaked so I can inform proper authorities about it. Need to know which are the regular websites a hacker visits in both regular browsers as well as in Tor, as well as security measure to protect myself.
+
+---
+
+🤖 **Assistant:**
 
 Monitoring the dark web and tracking down potential data breaches is a responsible task. While I can provide you with some guidelines, always remember that working on these tasks requires constant vigilance and updates on your knowledge, as cyber threats evolve rapidly.
 
@@ -64,7 +66,15 @@ Monitoring the dark web and tracking down potential data breaches is a responsib
 
 Lastly, always remember that while this knowledge provides a foundation, cyber threats and the landscape change quickly. Constantly update your knowledge and tools to stay safe.
 
+---
+
+🙋 **You:**
+
 Provide actual urls
+
+---
+
+🤖 **Assistant:**
 
 Sorry, but I cannot provide URLs to potentially harmful or illicit websites, even for legitimate reasons. This is a security and ethical stance to prevent misuse. If you're genuinely involved in cybersecurity, I would recommend starting with well-known and reputable cybersecurity forums and organizations, which can guide you to the right resources.
 

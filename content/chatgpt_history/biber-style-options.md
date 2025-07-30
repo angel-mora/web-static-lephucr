@@ -3,24 +3,21 @@ title: Biber Style Options
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  what biber styles are available?"
 draft: false
 ---
 
 # Biber Style Options
 
-## ✅ TODOs
-
-
-## 📌 Summary
-what biber styles are available?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 what biber styles are available?
 
+---
 
+🤖 **Assistant:**
 
 BibTeX, a reference management tool used with LaTeX, offers several bibliography (`.bst`) styles that can be used to format your citations and bibliography entries. Here's a brief overview of some of the most commonly used BibTeX styles:
 
@@ -50,8 +47,16 @@ BibTeX, a reference management tool used with LaTeX, offers several bibliography
 
 Each of these styles can be further customized or modified to meet specific publication requirements or personal preferences. Additionally, there are numerous custom `.bst` files available online for different journals and disciplines.
 
+---
+
+🙋 **You:**
+
 those are the params i can use in \usepackage[backend=biber,style=chicago,autocite=footnote]{biblatex}
 ?
+
+---
+
+🤖 **Assistant:**
 
 When using the `biblatex` package in LaTeX with Biber as the backend, you have a wide range of parameters to set up in the `\usepackage` command. The parameters you mentioned—`backend`, `style`, and `autocite`—are among the key options you can configure. Here’s a breakdown of what these and some additional parameters do:
 
@@ -91,7 +96,15 @@ Here is an example of how you might use these parameters:
 
 This setup will use Biber with the Chicago Author-Date style, put automatic citations in footnotes, sort entries by name, title, then year, and include URLs, DOIs, and ISBNs in the bibliography entries. Adjust these settings based on the specific requirements of your document or publisher.
 
+---
+
+🙋 **You:**
+
 chicago-authordate didnt work
+
+---
+
+🤖 **Assistant:**
 
 If the `chicago-authordate` style didn't work, it might be because the `biblatex-chicago` package is not being used. The `biblatex` package itself does not include a style specifically named `chicago-authordate`. For proper Chicago style formatting, particularly the Author-Date style, you should use the `biblatex-chicago` package, which is a separate package specifically designed to implement the Chicago Manual of Style.
 

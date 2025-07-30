@@ -3,24 +3,22 @@ title: Cómo iniciar empresa trading
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Como pongo una empresa de trading? Cuánto cuesta la
+  plataforma de Bloomberg para analistas?"
 draft: false
 ---
 
 # Cómo iniciar empresa trading
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Como pongo una empresa de trading? Cuánto cuesta la plataforma de Bloomberg para analistas?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Como pongo una empresa de trading? Cuánto cuesta la plataforma de Bloomberg para analistas?
 
+---
 
+🤖 **Assistant:**
 
 Para poner una empresa de trading, necesitas considerar varios pasos clave, entre los que destacan:
 
@@ -42,7 +40,15 @@ Para poner una empresa de trading, necesitas considerar varios pasos clave, entr
 
 ¿Te interesa saber más sobre algún punto en particular o sobre alternativas más accesibles para empezar?
 
-Alternativas para traders pequeños 
+---
+
+🙋 **You:**
+
+Alternativas para traders pequeños
+
+---
+
+🤖 **Assistant:**
 
 Para traders pequeños, hay varias alternativas más accesibles que **Bloomberg Terminal**, las cuales ofrecen herramientas eficientes sin el alto costo. Aquí te dejo algunas opciones:
 

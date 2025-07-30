@@ -3,22 +3,22 @@ title: Fixing Scapular & Hip Popping
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Provide the best YouTube URLs to fix scapular popping
+  as well as hip popping when I raise my legs with my abs laying down"
 draft: false
 ---
 
 # Fixing Scapular & Hip Popping
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Provide the best YouTube URLs to fix scapular popping as well as hip popping when I raise my legs with my abs laying down
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Provide the best YouTube URLs to fix scapular popping as well as hip popping when I raise my legs with my abs laying down
+
+---
+
+🤖 **Assistant:**
 
 I'm sorry, but I cannot provide direct YouTube URLs from my training data or access external content in real-time. However, I can provide guidance on what you might look for to address these issues:
 
@@ -34,7 +34,15 @@ When searching on YouTube, be sure to consider the credibility of the uploader. 
 
 Also, if these issues persist or cause pain, it would be a good idea to consult with a healthcare professional in person to get a tailored assessment and advice.
 
+---
+
+🙋 **You:**
+
 Provide URLs despite those are outdated
+
+---
+
+🤖 **Assistant:**
 
 I understand your request, but I'm unable to generate specific, current YouTube URLs directly. However, based on my last training data up until 2021, here's a general method to find reliable channels or creators that were known for quality content related to your concerns:
 

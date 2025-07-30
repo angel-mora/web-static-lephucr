@@ -3,7 +3,7 @@ title: Prevención inflamación próstata
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Prevenir inflamación próstata"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] a partir de los 50 años o si hay antecedentes familiares de problemas prostáticos.
 
-## 📌 Summary
-Prevenir inflamación próstata
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Prevenir inflamación próstata
 
+---
 
+🤖 **Assistant:**
 
 Para prevenir la inflamación de la próstata (prostatitis) y mantener una buena salud prostática, aquí te dejo algunos consejos:
 

@@ -3,7 +3,8 @@ title: Gollum & Jamstack in Ruby
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Can I combine Gollum git-based wiki editor with jamstack
+  philosophy in ruby? If so, how?"
 draft: false
 ---
 
@@ -14,13 +15,15 @@ draft: false
 - [ ] so, consider that it should be compatible with ObsidianMD.
 - [ ] this, you would need a way to map the wikilink references to their actual URL representation.
 
-## 📌 Summary
-Can I combine Gollum git-based wiki editor with jamstack philosophy in ruby? If so, how?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Can I combine Gollum git-based wiki editor with jamstack philosophy in ruby? If so, how?
+
+---
+
+🤖 **Assistant:**
 
 Yes, it's entirely possible to combine Gollum, a Git-based wiki editor, with the Jamstack philosophy in Ruby. Gollum can store your wiki content in a Git repository, while a static site generator such as Jekyll or Middleman can build your static site (as per Jamstack philosophy) from this content.
 
@@ -79,7 +82,15 @@ Here is a simplified version of how this can be done:
 
 Remember, Gollum is great for small teams or personal projects, but it might not scale well to larger projects or teams. If you find that you need more features or flexibility, you might want to consider using a more fully-featured CMS or wiki system. But for simple, Git-based wikis, Gollum should work perfectly well.
 
+---
+
+🙋 **You:**
+
 I want to create a rails app for this purpose, providing the service of managing and publishing your git wikis. Give me a code tutorial to do so, consider that it should be compatible with ObsidianMD.
+
+---
+
+🤖 **Assistant:**
 
 Creating a Rails application to manage and publish Git-based wikis is quite a big task, so let's break it down into smaller steps. The outline of the app would look something like this:
 
@@ -193,7 +204,15 @@ Obsidian uses regular markdown files, so you should be able to use your Rails ap
 
 Building a Rails application to manage and publish Git-based wikis is a significant task that involves several different components. The guide above should give you a good starting point, but you'll likely need to modify and expand on it to meet your specific needs. Good luck with your project!
 
+---
+
+🙋 **You:**
+
 How can I transform markdown with [[wikilinks]] to html in ruby?
+
+---
+
+🤖 **Assistant:**
 
 If you are rendering Markdown to HTML and want to support `[[wikilinks]]`, one of the easiest ways is to pre-process your markdown, replacing wikilinks with markdown links, before passing it to your markdown renderer. To do this, you would need a way to map the wikilink references to their actual URL representation.
 
@@ -238,7 +257,15 @@ The processed text is then passed to the `Redcarpet::Markdown` renderer as usual
 
 Please note that the URL conversion in this example is very basic and might not work correctly for all wikilinks. You might need to expand it to handle special characters, Unicode, etc.
 
+---
+
+🙋 **You:**
+
 Easiest markdown to html in ruby
+
+---
+
+🤖 **Assistant:**
 
 The easiest way to convert Markdown to HTML in Ruby is by using the `redcarpet` gem, which is a fast, safe and extensible Markdown to (X)HTML converter.
 

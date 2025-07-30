@@ -3,7 +3,7 @@ title: Docker macOS Drive Mounting
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  docker run -it --rm \\"
 draft: false
 ---
 
@@ -14,13 +14,11 @@ draft: false
 - [ ] cker's Virtual Machine:**
 - [ ] cker:**
 
-## 📌 Summary
-docker run -it --rm \
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-    docker run -it --rm \
+docker run -it --rm \
      --device disk5:/dev/sda \
      --device disk6:/dev/sdb \
      --privileged \
@@ -67,7 +65,9 @@ diskutil list
 
 That is however how it looks
 
+---
 
+🤖 **Assistant:**
 
 The error you're seeing is because Docker on macOS does not have direct access to block devices like `/dev/sda` or `/dev/sdb`. On macOS, Docker runs inside a virtualized Linux environment, so the device paths in your `docker run` command won't map directly to your host's devices.
 

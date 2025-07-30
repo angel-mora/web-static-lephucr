@@ -6,24 +6,22 @@ tags:
 - '3'
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Difference between receive and have_received in rspec.
+  When each of them is used properly"
 draft: false
 ---
 
 # RSpec receive vs have_received
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Difference between receive and have_received in rspec. When each of them is used properly
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Difference between receive and have_received in rspec. When each of them is used properly
 
+---
 
+🤖 **Assistant:**
 
 In RSpec, `receive` and `have_received` are both used to mock and verify that a method has been called on a particular object, but they are used in different contexts and serve different purposes:
 
@@ -72,7 +70,15 @@ In RSpec, `receive` and `have_received` are both used to mock and verify that a 
 - Use **`receive`** when you're in control of triggering the method call and want to expect it in advance.
 - Use **`have_received`** when you want to verify that a method was called at some point during the test execution, typically in cases where you're spying on an object.
 
+---
+
+🙋 **You:**
+
 How to use each one correctly and common pitfalls that cause false positives or negatives
+
+---
+
+🤖 **Assistant:**
 
 ### How to Use `receive` and `have_received` Correctly
 
@@ -187,7 +193,15 @@ How to use each one correctly and common pitfalls that cause false positives or 
 
 By carefully ensuring you are setting up spies or expectations at the right time and on the right objects, you can avoid these common pitfalls.
 
+---
+
+🙋 **You:**
+
 Explain the concept of spy. Is it exclusive of rspec? What else uses it?
+
+---
+
+🤖 **Assistant:**
 
 ### Concept of a Spy
 

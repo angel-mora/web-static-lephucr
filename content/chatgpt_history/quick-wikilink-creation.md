@@ -3,25 +3,22 @@ title: Quick Wikilink Creation
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  is it doable?"
 draft: false
 ---
 
 # Quick Wikilink Creation
 
-## ✅ TODOs
-
-
-## 📌 Summary
-is it doable?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 is it doable?
 https://forum.obsidian.md/t/is-there-a-plugin-or-way-to-quickly-create-wikilinks-internal-links-where-i-can-select-text-convert-it-to-wikilink-format-and-immediately-type-in-the-linked-page/56987
 
+---
 
+🤖 **Assistant:**
 
 Yes, it's doable! The Obsidian forum thread you linked to suggests using community plugins like **QuickAdd** or **Templater** to quickly convert selected text into a `[[wikilink]]` and immediately start typing in the linked note. Here are a few approaches:
 
@@ -43,7 +40,15 @@ Yes, it's doable! The Obsidian forum thread you linked to suggests using communi
 
 Would you like help setting up a specific method, or do you have a preferred workflow in mind?
 
+---
+
+🙋 **You:**
+
 Is that the same as https://forum.obsidian.md/t/automatic-wikilink-template/85131/2?
+
+---
+
+🤖 **Assistant:**
 
 The method in the second link (**Automatic Wikilink Template**) is similar but focuses more on using **Templater** to automatically insert a structured template into newly created wikilinked notes. It differs slightly from the QuickAdd method in that it pre-fills the new note with predefined content.
 
@@ -59,8 +64,16 @@ If you just want to **quickly turn text into a wikilink and open it**, QuickAdd 
 
 Would you like a step-by-step guide for setting up either method?
 
+---
+
+🙋 **You:**
+
 https://github.com/mo-seph/obsidian-note-from-template
 Does that help?
+
+---
+
+🤖 **Assistant:**
 
 Yes! The **Obsidian Note From Template** plugin by [mo-seph](https://github.com/mo-seph/obsidian-note-from-template) is a great tool for automating note creation from templates when you create a new wikilinked note. It works similarly to **Templater**, but with a simpler setup focused on applying templates automatically.
 

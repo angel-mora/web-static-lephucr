@@ -3,22 +3,22 @@ title: MySQL Indexing and Limits
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How mysql indexing works? Why tables cant have many
+  indexes?"
 draft: false
 ---
 
 # MySQL Indexing and Limits
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How mysql indexing works? Why tables cant have many indexes?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How mysql indexing works? Why tables cant have many indexes?
+
+---
+
+🤖 **Assistant:**
 
 MySQL indexing works by creating an additional data structure, typically a B-tree or a hash table, that stores a part of the table's data in a way that makes searching more efficient. When you query a MySQL database, the database engine can use the index to quickly locate the data without having to scan the entire table. This is particularly useful for large tables and complex queries.
 
@@ -42,7 +42,15 @@ However, having too many indexes on a table can be problematic for several reaso
 
 In summary, while indexes are a powerful tool for improving query performance in MySQL, they come with trade-offs in terms of write performance, disk space, and complexity. Therefore, it's essential to balance the number of indexes against these factors.
 
+---
+
+🙋 **You:**
+
 where can i practice multiple database query languages online using mock data?
+
+---
+
+🤖 **Assistant:**
 
 There are several online platforms where you can practice multiple database query languages using mock data. These platforms often provide interactive environments, allowing you to write and test queries in real-time. Here are some notable options:
 
@@ -66,11 +74,27 @@ There are several online platforms where you can practice multiple database quer
 
 These platforms offer varying levels of complexity, from basic SQL to more advanced database operations, and are suitable for both beginners and experienced users. Remember that while practicing, it's also important to understand the underlying concepts and not just the syntax of queries.
 
+---
+
+🙋 **You:**
+
 I want a website url so I can start playing around the mock db right away
+
+---
+
+🤖 **Assistant:**
 
 You can start practicing database queries right away on SQL Fiddle. Just visit [sqlfiddle.com](http://sqlfiddle.com) and you'll be able to use their platform to experiment with SQL queries using mock databases【10†source】. This website is quite user-friendly and supports various SQL dialects, making it a great place to practice and enhance your database querying skills.
 
+---
+
+🙋 **You:**
+
 and for mongo? redis? graphql?
+
+---
+
+🤖 **Assistant:**
 
 To practice with different types of databases and query languages like MongoDB, Redis, and GraphQL, you can use specific platforms tailored for each:
 

@@ -3,22 +3,22 @@ title: US Bar Exam Preparation
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Give me books and general recommendations to pass the
+  USA bar exam and become a certified USA lawyer. I am mexican, no law background."
 draft: false
 ---
 
 # US Bar Exam Preparation
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Give me books and general recommendations to pass the USA bar exam and become a certified USA lawyer. I am mexican, no law background.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Give me books and general recommendations to pass the USA bar exam and become a certified USA lawyer. I am mexican, no law background.
+
+---
+
+🤖 **Assistant:**
 
 To pass the bar exam and become a certified lawyer in the United States, you first have to graduate from a law school accredited by the American Bar Association (ABA). This requires a substantial investment in both time and money, usually totaling three years of full-time study. You must also pass the Law School Admission Test (LSAT) to be admitted to an ABA-accredited law school. 
 
@@ -56,7 +56,15 @@ Remember, your best bet would be to attend a law school in the U.S. if you're pl
 
 It is advisable to consult with legal professionals or educational consultants to get more tailored advice for your personal circumstances. In any case, a commitment to diligent study, strong understanding of legal principles, and developing analytical skills will be crucial to your success.
 
+---
+
+🙋 **You:**
+
 I can’t join a US school. Can I simply prepare to take the certification?
+
+---
+
+🤖 **Assistant:**
 
 Becoming a lawyer in the United States usually requires obtaining a Juris Doctor (JD) degree from a law school approved by the American Bar Association (ABA) before you can sit for the bar exam. This standard requirement might present challenges for those who cannot attend a U.S. law school.
 

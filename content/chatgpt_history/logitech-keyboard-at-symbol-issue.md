@@ -3,7 +3,9 @@ title: Logitech Keyboard At Symbol Issue
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Logitech ergo keyboard, how can I type an at symbol?
+  Press shift + 2 and shows double quotes despite having the at and the quotes in
+  the 2 number"
 draft: false
 ---
 
@@ -13,15 +15,15 @@ draft: false
 - [ ] uble-check that no other system settings or third-party apps are interfering with the keyboard layout. Let me know if it helps!
 - [ ] the @ in my ergo logitech keyboard inside a Ubuntu VM from aws workspace (in my mac) but the alt q doesnt work inside it. Please provide a solution
 
-## 📌 Summary
-Logitech ergo keyboard, how can I type an at symbol? Press shift + 2 and shows double quotes despite having the at and the quotes in the 2 number
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Logitech ergo keyboard, how can I type an at symbol? Press shift + 2 and shows double quotes despite having the at and the quotes in the 2 number
 
+---
 
+🤖 **Assistant:**
 
 It sounds like your keyboard layout is set to a different region than you expect. This issue commonly occurs when the layout is set to something other than your intended one, such as a US layout vs. a UK or other regional layout.
 
@@ -47,11 +49,27 @@ To resolve this, follow these steps depending on your operating system:
 
 Once you ensure your layout matches your physical keyboard, pressing `Shift + 2` should type the "@" symbol as expected.
 
+---
+
+🙋 **You:**
+
 I have mac and both are set in spanish
+
+---
+
+🤖 **Assistant:**
 
 User has a Mac, and their keyboard layout is set in Spanish.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Since your Mac is set to a Spanish keyboard layout, you’ll need to use the following key combination to type the "@" symbol:
 
@@ -59,9 +77,15 @@ Since your Mac is set to a Spanish keyboard layout, you’ll need to use the fol
 
 Let me know if this works!
 
+---
+
+🙋 **You:**
+
 option also shows the double quoutes
 
+---
 
+🤖 **Assistant:**
 
 It sounds like the keyboard layout may still not be aligned with what you're expecting, even though it's set to Spanish. Here’s a workaround specific to a Spanish (ISO) keyboard layout:
 
@@ -71,7 +95,15 @@ To type the "@" symbol on a Spanish keyboard layout, try the following:
 
 This is the correct combination for typing the "@" symbol on a Spanish Mac keyboard layout. Let me know if this works!
 
+---
+
+🙋 **You:**
+
 it shows © instead, how can I set it up again?
+
+---
+
+🤖 **Assistant:**
 
 It seems like the keyboard layout might not be set correctly even though it says "Spanish." Let's walk through how to reset and ensure the correct layout is chosen on your Mac.
 
@@ -101,7 +133,15 @@ It seems like the keyboard layout might not be set correctly even though it says
 
 If this still doesn’t work, you might want to double-check that no other system settings or third-party apps are interfering with the keyboard layout. Let me know if it helps!
 
+---
+
+🙋 **You:**
+
 no luck, that at is the only one not working as expected. Isn't there another combination?
+
+---
+
+🤖 **Assistant:**
 
 If everything else on the Spanish (ISO) keyboard is working correctly except for the "@" symbol, here's an alternative combination you can try that is often used on Spanish keyboards:
 
@@ -112,7 +152,15 @@ This combination should work for typing the "@" symbol on Spanish (ISO) keyboard
 
 Let me know if this combination works for you!
 
+---
+
+🙋 **You:**
+
 still no luck, can I see the keyboard visually?
+
+---
+
+🤖 **Assistant:**
 
 You can visualize the current keyboard layout on macOS using the **Keyboard Viewer**. Here's how to open it and check the correct key combination for the "@" symbol:
 
@@ -141,7 +189,15 @@ You can visualize the current keyboard layout on macOS using the **Keyboard View
 
 This should give you a visual guide to identify which key combination produces the "@" symbol on your specific layout. Let me know what you find!
 
+---
+
+🙋 **You:**
+
 @ it seems it's alt + q, which is weird cause the keyboard shows the at in the 2. Is it possible it's not latam but spain?
+
+---
+
+🤖 **Assistant:**
 
 Yes, that sounds like the keyboard layout might be set to the **Spanish (Spain)** layout instead of **Spanish (Latin America)**. In the Spanish (Spain) layout, `Alt + Q` is indeed the correct combination for typing the "@" symbol, while the label on the `2` key can be misleading.
 
@@ -174,15 +230,39 @@ Once you switch to **Spanish (Latin America)**, `Shift + 2` should work as expec
 
 Let me know if this resolves your issue!
 
+---
+
+🙋 **You:**
+
 So it works now
+
+---
+
+🤖 **Assistant:**
 
 Great to hear that it works now! Switching to the **Spanish (Latin America)** layout solved the issue. If you need any more assistance or run into other questions, feel free to reach out!
 
+---
+
+🙋 **You:**
+
 So it works now using alt + q. Now I want to do the @ in my ergo logitech keyboard inside a Ubuntu VM from aws workspace (in my mac) but the alt q doesnt work inside it. Please provide a solution
+
+---
+
+🤖 **Assistant:**
 
 User uses an Ubuntu VM inside AWS Workspace on their Mac.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 For your Ubuntu VM inside AWS Workspace on a Mac, the `Alt + Q` combination might not work due to the way the VM handles the keyboard input. Here are a few steps to troubleshoot and fix the issue:
 

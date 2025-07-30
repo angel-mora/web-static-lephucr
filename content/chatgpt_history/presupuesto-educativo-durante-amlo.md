@@ -3,22 +3,23 @@ title: Presupuesto educativo durante AMLO.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuantas universidades hay en la red de tecnológicos
+  de México. Presupuesto dursnte el sexenio de Amlo en relación con presupuesto de
+  la unam y el poli."
 draft: false
 ---
 
 # Presupuesto educativo durante AMLO.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cuantas universidades hay en la red de tecnológicos de México. Presupuesto dursnte el sexenio de Amlo en relación con presupuesto de la unam y el poli.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Cuantas universidades hay en la red de tecnológicos de México. Presupuesto dursnte el sexenio de Amlo en relación con presupuesto de la unam y el poli. 
+Cuantas universidades hay en la red de tecnológicos de México. Presupuesto dursnte el sexenio de Amlo en relación con presupuesto de la unam y el poli.
+
+---
+
+🤖 **Assistant:**
 
 La red de institutos tecnológicos en México incluye 254 institutos, de los cuales 126 son federales y 128 descentralizados【7†source】.
 

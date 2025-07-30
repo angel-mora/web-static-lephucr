@@ -3,24 +3,21 @@ title: Anticapitalist Strategies Today
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to be anticapitalist today by The Jacobin syntesis"
 draft: false
 ---
 
 # Anticapitalist Strategies Today
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How to be anticapitalist today by The Jacobin syntesis
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to be anticapitalist today by The Jacobin syntesis
 
+---
 
+🤖 **Assistant:**
 
 "How to Be an Anticapitalist Today" by Erik Olin Wright, published in *Jacobin*, outlines several key strategies for opposing capitalism effectively in the contemporary era:
 

@@ -3,20 +3,15 @@ title: TinyTDS Gem Installation Fix
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Remember I use macos:"
 draft: false
 ---
 
 # TinyTDS Gem Installation Fix
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Remember I use macos:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Remember I use macos:
 
@@ -132,7 +127,9 @@ In Gemfile:
   activerecord-sqlserver-adapter was resolved to 7.0.7, which depends on
     tiny_tds
 
+---
 
+🤖 **Assistant:**
 
 The error suggests that the `tiny_tds` gem is failing to install because the required FreeTDS library is not found. FreeTDS is a dependency for `tiny_tds`, which provides connectivity to Microsoft SQL Server. Here's how you can resolve this issue on macOS:
 

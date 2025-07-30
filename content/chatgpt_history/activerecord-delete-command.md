@@ -3,25 +3,23 @@ title: ActiveRecord Delete Command
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  activerecord command to delete in sql, my initial attempt
+  was"
 draft: false
 ---
 
 # ActiveRecord Delete Command
 
-## ✅ TODOs
-
-
-## 📌 Summary
-activerecord command to delete in sql, my initial attempt was
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 activerecord command to delete in sql, my initial attempt was 
 FriendlyIdSlug.where(id:[70408,70409,70645]).each(&:destroy)
 
+---
 
+🤖 **Assistant:**
 
 Your code will trigger a callback for each record and delete them individually. If you want to delete the records directly in the database with a single SQL command (bypassing callbacks), you can use `delete_all`:
 
@@ -48,7 +46,15 @@ DELETE FROM friendly_id_slugs WHERE id IN (70408, 70409, 70645);
 
 Choose the method that fits your requirements! If you need to preserve logic in callbacks, stick to `destroy`. If not, `delete_all` is the way to go.
 
+---
+
+🙋 **You:**
+
 i want to execute it over an active record connecgtion
+
+---
+
+🤖 **Assistant:**
 
 If you want to execute a raw SQL query over an ActiveRecord connection, you can use `ActiveRecord::Base.connection.execute`. Here's how you can do it:
 

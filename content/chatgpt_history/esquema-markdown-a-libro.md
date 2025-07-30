@@ -3,7 +3,10 @@ title: Esquema Markdown a Libro
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Siguiendo la conversación de mi blog en Rails, dime
+  si me convendría hacer un esquema para pasar el markdown del blog a un libro compuesto,
+  incluye parámetros que tendría que tener para poder generar el libro. Ejemplo: bibtex
+  file, LaTeX style class from template, chapters, subchapters, paragraphs, etc"
 draft: false
 ---
 
@@ -12,19 +15,27 @@ draft: false
 ## ✅ TODOs
 - [ ] s los capítulos y defina las macros y estilo.
 
-## 📌 Summary
-Siguiendo la conversación de mi blog en Rails, dime si me convendría hacer un esquema para pasar el markdown del blog a un libro compuesto, incluye parámetros que tendría que tener para poder generar el libro. Ejemplo: bibtex file, LaTeX style class from template, chapters, subchapters, paragraphs, etc
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Siguiendo la conversación de mi blog en Rails, dime si me convendría hacer un esquema para pasar el markdown del blog a un libro compuesto, incluye parámetros que tendría que tener para poder generar el libro. Ejemplo: bibtex file, LaTeX style class from template, chapters, subchapters, paragraphs, etc
 
+---
 
+🤖 **Assistant:**
 
 User is considering creating a system to transform the markdown content of their Rails blog into a composed book.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Para transformar el contenido de tu blog en Markdown a un libro compuesto, podrías diseñar un esquema que facilite la conversión del blog a un formato adecuado para un libro. A continuación te describo los componentes clave que necesitarías considerar:
 

@@ -3,22 +3,23 @@ title: Ethernet Connection Issue Troubleshooting
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  lenovo with amd running ubuntu. Connected to ethernet
+  over usb adapter. Shows a question mark under eth logo. it says connected in Settings
+  > Network but won't access internet"
 draft: false
 ---
 
 # Ethernet Connection Issue Troubleshooting
 
-## ✅ TODOs
-
-
-## 📌 Summary
-lenovo with amd running ubuntu. Connected to ethernet over usb adapter. Shows a question mark under eth logo. it says connected in Settings > Network but won't access internet
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 lenovo with amd running ubuntu. Connected to ethernet over usb adapter. Shows a question mark under eth logo. it says connected in Settings > Network but won't access internet
+
+---
+
+🤖 **Assistant:**
 
 When you're experiencing issues with Ethernet connectivity in Ubuntu, there are a few steps you can take to troubleshoot and potentially resolve the problem. Here’s a step-by-step guide to help you:
 

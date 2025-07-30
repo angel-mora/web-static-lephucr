@@ -3,22 +3,22 @@ title: Maestría en Electrónica vs Mecatrónica
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Maestría en electrónica o mecatronica? Soy ruby on
+  rails developer en México. Bilingue. UNAM, Poli o ITAM?"
 draft: false
 ---
 
 # Maestría en Electrónica vs Mecatrónica
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Maestría en electrónica o mecatronica? Soy ruby on rails developer en México. Bilingue. UNAM, Poli o ITAM?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Maestría en electrónica o mecatronica? Soy ruby on rails developer en México. Bilingue. UNAM, Poli o ITAM? 
+Maestría en electrónica o mecatronica? Soy ruby on rails developer en México. Bilingue. UNAM, Poli o ITAM?
+
+---
+
+🤖 **Assistant:**
 
 Elegir entre una maestría en electrónica o mecatrónica depende de tus intereses y objetivos profesionales. Como desarrollador de Ruby on Rails en México, aquí tienes algunos puntos a considerar:
 

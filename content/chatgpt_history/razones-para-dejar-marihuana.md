@@ -3,24 +3,21 @@ title: Razones para dejar marihuana
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Dame todas las razones para dejar de fumar marihuana"
 draft: false
 ---
 
 # Razones para dejar marihuana
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Dame todas las razones para dejar de fumar marihuana
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Dame todas las razones para dejar de fumar marihuana
 
+---
 
+🤖 **Assistant:**
 
 Si estás considerando dejar de fumar marihuana, aquí tienes todas las razones posibles organizadas por categorías:  
 

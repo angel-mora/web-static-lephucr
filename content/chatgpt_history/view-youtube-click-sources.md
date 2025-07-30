@@ -4,24 +4,22 @@ tags:
 - youtube
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  #youtube can i see where my youtube video is clicked
+  from, like to see if people clicked from facebook, twitter, instagram, reddit, etc"
 draft: false
 ---
 
 # View YouTube Click Sources
 
-## ✅ TODOs
-
-
-## 📌 Summary
-#youtube can i see where my youtube video is clicked from, like to see if people clicked from facebook, twitter, instagram, reddit, etc
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 #youtube can i see where my youtube video is clicked from, like to see if people clicked from facebook, twitter, instagram, reddit, etc
 
+---
 
+🤖 **Assistant:**
 
 Yes, you can see where your YouTube video traffic is coming from using YouTube Analytics. Here's how you can do it:
 

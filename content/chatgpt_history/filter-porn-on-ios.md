@@ -3,7 +3,7 @@ title: Filter Porn on iOS
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Antiporn filter for iPhone iPad"
 draft: false
 ---
 
@@ -12,13 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] so by following the prompts.
 
-## 📌 Summary
-Antiporn filter for iPhone iPad
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Antiporn filter for iPhone iPad
+
+---
+
+🤖 **Assistant:**
 
 To set up an anti-porn filter on an iPhone or iPad, you can use the built-in features provided by iOS to control and restrict content that can be accessed on the device. Here's a step-by-step guide on how to enable these settings:
 

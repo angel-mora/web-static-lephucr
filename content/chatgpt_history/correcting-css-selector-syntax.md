@@ -3,7 +3,9 @@ title: Correcting CSS Selector Syntax
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  how can I pass ul class into the expectation it { expect(rendered_component).to
+  have_selector(ul{'my-3 p-0 mb-0 font-roboto font-light text-base lg:columns-2'}
+  count: 6, visible: true) } is this correct?"
 draft: false
 ---
 
@@ -12,13 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] uble escape it (`\\`).
 
-## 📌 Summary
-how can I pass ul class into the expectation it { expect(rendered_component).to have_selector(ul{'my-3 p-0 mb-0 font-roboto font-light text-base lg:columns-2'} count: 6, visible: true) } is this correct?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 how can I pass ul class into the expectation it { expect(rendered_component).to have_selector(ul{'my-3 p-0 mb-0 font-roboto font-light text-base lg:columns-2'} count: 6, visible: true) } is this correct?
+
+---
+
+🤖 **Assistant:**
 
 In the code snippet you've provided, it appears you're attempting to use RSpec with Capybara or a similar testing tool to assert that the rendered HTML contains an `ul` element with a specific set of classes, and that there are six such elements.
 

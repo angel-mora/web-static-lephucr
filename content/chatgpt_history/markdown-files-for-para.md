@@ -9,7 +9,9 @@ tags:
 - relationships
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Apart from PROJECT, README, LICENSE, CONTRIBUTING,
+  what other markdown files capitalized my main projects folder under Obsidian-based
+  PARA it should contain?"
 draft: false
 ---
 
@@ -44,13 +46,15 @@ draft: false
 - [ ] s in PARA:
 - [ ] s:
 
-## 📌 Summary
-Apart from PROJECT, README, LICENSE, CONTRIBUTING, what other markdown files capitalized my main projects folder under Obsidian-based PARA it should contain?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Apart from PROJECT, README, LICENSE, CONTRIBUTING, what other markdown files capitalized my main projects folder under Obsidian-based PARA it should contain?
+
+---
+
+🤖 **Assistant:**
 
 When you're organizing your project folder in Obsidian, especially using the PARA (Projects, Areas, Resources, Archives) method, the primary markdown files you might have are PROJECT, README, LICENSE, and CONTRIBUTING. However, depending on the nature and complexity of your project or the need for additional structure and documentation, here are some other markdown files you might consider:
 
@@ -78,7 +82,15 @@ When you're organizing your project folder in Obsidian, especially using the PAR
 
 Remember, the goal of PARA and Obsidian is to help you create a structure that's clear and useful for you. You don't necessarily need all these files; they're just suggestions that you can adapt based on your needs. The key is to maintain clarity and ease of navigation, so you can efficiently access and understand your information.
 
+---
+
+🙋 **You:**
+
 associate with org mode flows and keywords. I am asking for a structure for the base 1. Projects folder. Every folder will contain its own structure, of course. I just want a bunch of files to put the things that are sort of projects but still not under a folder, just waiting for something else to happen.
+
+---
+
+🤖 **Assistant:**
 
 Got it. If you're looking to integrate Obsidian's PARA structure with `org-mode` flows and keywords and focus on the Projects folder, then let's merge the two worlds. Here's a potential structure for the base level of your Projects folder in Obsidian, with an emphasis on `org-mode` style:
 
@@ -104,7 +116,15 @@ Got it. If you're looking to integrate Obsidian's PARA structure with `org-mode`
 
 Remember, the real value comes from maintaining a structure that supports your workflow and thought process, so adjust these suggestions as needed. The integration of PARA with `org-mode` offers a powerful combination of structure and functionality, helping you navigate and manage projects efficiently.
 
+---
+
+🙋 **You:**
+
 show me the file tree of the 1. Projects folder and then show me a mock of some of the most important files that should live under 1. Projects/ folder
+
+---
+
+🤖 **Assistant:**
 
 Alright, let's start with the file tree for the "1. Projects" folder, integrating some of the structures discussed earlier:
 
@@ -180,7 +200,15 @@ Now, let's provide a mock-up of the content for some of these files:
 
 These are basic mocks, and they can be expanded with links, more meta information, tags, etc., as per your needs. This structure aims to provide a clean and organized approach to your projects, integrating the strengths of both PARA and `org-mode`.
 
+---
+
+🙋 **You:**
+
 I meant suggest a good filesystem flow considering the steps that org mode tags have (like TODO, IN PROGRESS, DONE). It should justify if uses a kanban obsidian template or different files, or any other innovative idea to handle the flow of activities under the projects folder. It should integrate well to my obsidian general para workflow (explain what is the role of INBOX.md/org in the flow)
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Incorporating the `org-mode` task statuses (TODO, IN PROGRESS, DONE) into the Obsidian PARA structure within the context of a project's folder requires a bit of hybrid thinking. Using a Kanban approach can visually represent the progression of tasks, and this is achievable with Obsidian plugins or templates. 
 
@@ -251,7 +279,15 @@ This Kanban approach, combined with `org-mode` statuses and the PARA method, giv
 
 Remember, the strength of tools like Obsidian lies in their flexibility. Adjust this proposed structure to what makes sense for you and your workflow!
 
+---
+
+🙋 **You:**
+
 and how are those lines that change the state move around in the separate kanban file?
+
+---
+
+🤖 **Assistant:**
 
 If you're using a Kanban-style plugin or template in Obsidian, the movement of tasks between different states (e.g., from INBOX to TODO to IN PROGRESS to DONE) would be represented by dragging and dropping the task cards between columns. 
 
@@ -278,7 +314,15 @@ The synchronization between the Kanban board and the state-related files require
 
 If you find this synchronization cumbersome, you may choose to lean more heavily on one approach or the other. The Kanban approach alone can be more streamlined, but the separate files can offer more detailed organization and note-taking. Choose the approach that best fits your workflow and the complexity of your projects.
 
+---
+
+🙋 **You:**
+
 suggest something simpler, an holistic approach, use your imagination to invent something creative that can be doable with obsidian plugins and to automate the most
+
+---
+
+🤖 **Assistant:**
 
 Alright, let's simplify and innovate:
 
@@ -343,7 +387,15 @@ This approach:
 
 In this method, you are maximizing Obsidian's capability with a minimalistic approach, making project management smoother and more integrated.
 
+---
+
+🙋 **You:**
+
 are you missing kanban plugin itself?
+
+---
+
+🤖 **Assistant:**
 
 Absolutely, the Kanban plugin for Obsidian is indeed a powerful tool to visually organize tasks within the Projects folder. My previous approach was to simplify the structure using the Tasks plugin primarily. But if you're looking for a seamless and more visual approach, the Kanban plugin is an excellent choice.
 
@@ -403,7 +455,15 @@ This approach:
 
 In this method, the Kanban plugin stands as the primary tool for project management, offering an intuitive and effective system within Obsidian.
 
+---
+
+🙋 **You:**
+
 now suggest an approach of kanban mixed with CAPITALIZED files for the rest of the PARA folders, I want to see a tree in the explanation
+
+---
+
+🤖 **Assistant:**
 
 Certainly! We can integrate a Kanban-style workflow into the entirety of the PARA system, bringing visual project/task management to each part of it.
 
@@ -471,9 +531,15 @@ The workflow is visually driven by the Kanban boards, supplemented by the detail
 
 Using this setup, you enjoy both a detailed file-based system and a visual Kanban-style workflow for each segment of the PARA structure.
 
+---
+
+🙋 **You:**
+
 Should I have my kanban based on /PROJECT.md or /4. Project/PROJECT.md? I mean, according to Tiago Forte how sould I handle my life daily todos? Through projects or how?
 
+---
 
+🤖 **Assistant:**
 
 Tiago Forte's PARA system is designed primarily for organizing information and projects. In his framework, the "Projects" category is typically reserved for initiatives or endeavors with clear outcomes and end-dates. That said, daily tasks or life todos might not always fit neatly into this definition. 
 
@@ -510,7 +576,15 @@ While Tiago Forte's PARA method provides a structure for organizing information,
 
 The integration of a Kanban board, be it centralized for daily tasks or distributed among projects/areas, offers a visual way to manage and prioritize these tasks within the PARA framework.
 
+---
+
+🙋 **You:**
+
 So how can I use tags to keep track of areas using markdown in my daily logs?
+
+---
+
+🤖 **Assistant:**
 
 Using tags to keep track of areas in your daily logs within markdown is a powerful way to interlink the conceptual structure of PARA, especially the "Areas" component, with your daily activities. Here's how you can effectively use tags for this purpose:
 

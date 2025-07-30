@@ -3,24 +3,21 @@ title: Hostales en Tulum
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hostales en Tulum como el Mayan monkey?"
 draft: false
 ---
 
 # Hostales en Tulum
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Hostales en Tulum como el Mayan monkey?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Hostales en Tulum como el Mayan monkey?
 
+---
 
+🤖 **Assistant:**
 
 Si estás buscando hostales en Tulum similares al Mayan Monkey, que ofrecen un ambiente animado, comodidades modernas y oportunidades para socializar, aquí te presento algunas opciones destacadas:
 

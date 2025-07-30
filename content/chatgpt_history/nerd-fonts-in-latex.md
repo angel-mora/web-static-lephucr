@@ -3,22 +3,21 @@ title: Nerd Fonts in LaTeX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  how to use nerdfonts in latex overleaft"
 draft: false
 ---
 
 # Nerd Fonts in LaTeX
 
-## ✅ TODOs
-
-
-## 📌 Summary
-how to use nerdfonts in latex overleaft
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 how to use nerdfonts in latex overleaft
+
+---
+
+🤖 **Assistant:**
 
 Using Nerd Fonts in LaTeX on Overleaf can be a great way to incorporate a wide range of icons and special glyphs into your documents. Nerd Fonts takes popular programming fonts and patches them with a large number of glyphs (icons), making them very useful for developers and content creators. However, integrating them directly into LaTeX projects on Overleaf requires a few steps, mainly because Overleaf's LaTeX engine uses TeX Live, which needs specific setup to include external fonts. Here’s a step-by-step guide to help you use Nerd Fonts in your LaTeX documents on Overleaf:
 

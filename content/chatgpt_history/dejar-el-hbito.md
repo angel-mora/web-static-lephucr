@@ -3,24 +3,21 @@ title: Dejar el hábito
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  como dejar de ser un pajero"
 draft: false
 ---
 
 # Dejar el hábito
 
-## ✅ TODOs
-
-
-## 📌 Summary
-como dejar de ser un pajero
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 como dejar de ser un pajero
 
+---
 
+🤖 **Assistant:**
 
 Dejar de ser un "pajero" (adict@ a la pornografía y/o la masturbación compulsiva) puede ser un proceso difícil, pero es completamente posible si te comprometes con el cambio y adoptas estrategias saludables. Aquí tienes algunos pasos clave:
 

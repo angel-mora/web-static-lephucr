@@ -3,24 +3,22 @@ title: Concurrencia y paralelismo en Ruby
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Se puede explicar concurrencia y paralelismo en Ruby?
+  Si no, cuál es la mejor manera de explicarlo para que lo entienda?"
 draft: false
 ---
 
 # Concurrencia y paralelismo en Ruby
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Se puede explicar concurrencia y paralelismo en Ruby? Si no, cuál es la mejor manera de explicarlo para que lo entienda?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Se puede explicar concurrencia y paralelismo en Ruby? Si no, cuál es la mejor manera de explicarlo para que lo entienda?
 
+---
 
+🤖 **Assistant:**
 
 Claro, aquí te explico la diferencia entre concurrencia y paralelismo en términos sencillos y específicos para Ruby:
 

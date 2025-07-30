@@ -3,24 +3,22 @@ title: Restaurantes con verduras.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuales son los restaurantes de la CDMX con mas verduras
+  y fibra en su menú? Preferible en la zona de delegación Cuauhtémoc"
 draft: false
 ---
 
 # Restaurantes con verduras.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cuales son los restaurantes de la CDMX con mas verduras y fibra en su menú? Preferible en la zona de delegación Cuauhtémoc
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Cuales son los restaurantes de la CDMX con mas verduras y fibra en su menú? Preferible en la zona de delegación Cuauhtémoc 
+Cuales son los restaurantes de la CDMX con mas verduras y fibra en su menú? Preferible en la zona de delegación Cuauhtémoc
 
+---
 
+🤖 **Assistant:**
 
 En la delegación Cuauhtémoc de la Ciudad de México, hay varios restaurantes destacados por ofrecer opciones ricas en verduras y fibra en sus menús. Aquí tienes algunas recomendaciones:
 

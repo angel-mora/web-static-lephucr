@@ -3,24 +3,21 @@ title: Maridaje de ostiones
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Con que maridar los ostiones"
 draft: false
 ---
 
 # Maridaje de ostiones
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Con que maridar los ostiones
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Con que maridar los ostiones
 
+---
 
+🤖 **Assistant:**
 
 Los ostiones tienen un sabor delicado y salino que combina bien con bebidas y alimentos que realzan su frescura y sabor marino. Aquí tienes algunas opciones para maridarlos:
 

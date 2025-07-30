@@ -4,20 +4,15 @@ tags:
 - user_has_active_job
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  can you explain the differance between these two queries?"
 draft: false
 ---
 
 # Query Differences: Arel vs. Merge
 
-## ✅ TODOs
-
-
-## 📌 Summary
-can you explain the differance between these two queries?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 can you explain the differance between these two queries? 
 
@@ -26,6 +21,10 @@ can you explain the differance between these two queries?
     }
 AND 
  scope :categories_published_to_site, -> { joins(:category).merge(Category.published.visible) }
+
+---
+
+🤖 **Assistant:**
 
 Sure, let's break down the differences between these two queries in Ruby on Rails. They both define a scope named `:categories_published_to_site` but use different approaches to achieve similar results.
 
@@ -58,13 +57,25 @@ Sure, let's break down the differences between these two queries in Ruby on Rail
 
 In summary, both achieve the same result but differ in their approach and use cases. The choice between them depends on the context of your application and your preference for complexity versus maintainability.
 
+---
+
+🙋 **You:**
+
 Could you explain this test?
   scope :categories_published_to_site, lambda {
       joins(:category).where(Category[:published].eq(true).and(Category[:show_category].eq(true)))
     }
     scope :categories_published_to_site, -> { joins(:category).merge(Category.published.visible) }
 
+---
+
+🤖 **Assistant:**
+
 Certainly! In the context of Ruby on Rails
+
+---
+
+🙋 **You:**
 
 colud you explain this test?  
   RSpec.describe DataExportsHelper do
@@ -83,6 +94,9 @@ colud you explain this test?
       allow(Rails).to receive(:cache).and_return(memory_store)
     end
 
+---
+
+🤖 **Assistant:**
 
 This test is written using RSpec, a popular testing framework for Ruby on Rails applications. The test is for a method called `#user_has_active_job?` within a module or helper named `DataExportsHelper`. Let's break down the components of this test:
 
@@ -114,7 +128,11 @@ This test is written using RSpec, a popular testing framework for Ruby on Rails 
 
 This test is a good example of how to isolate a method from external dependencies like database and cache in Rails, making it deterministic and faster. However, the actual test cases (the `it` blocks) are not shown in the snippet, so the specific behaviors being tested are not clear.
 
-      ReviewStat.by_campaign_id(@filters[:campaign_ids].empty? ? 0 : @filters[:campaign_ids])
+---
+
+🙋 **You:**
+
+ReviewStat.by_campaign_id(@filters[:campaign_ids].empty? ? 0 : @filters[:campaign_ids])
                 .joins(:campaign)
                 .where(campaign: { campaign_status: 2 })
                 .pluck(:review_id)
@@ -125,6 +143,10 @@ Would it make sense to turn this into a query instead of doing the work in ruby?
                 .distinct  
                 .count(:review_id)  
 Explain like you are a very smart teacher who wants to make sure I understand. Show sql query that would come from .to_sql method so I can understand differences. Also need to understand how distinct and count wraps together. I understand sql 4 basic elements but no more (SELECT FROM JOINS WHERE)
+
+---
+
+🤖 **Assistant:**
 
 Absolutely, I'll guide you through this!
 

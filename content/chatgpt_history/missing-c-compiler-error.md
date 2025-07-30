@@ -4,7 +4,7 @@ tags:
 - include
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  > tail /tmp/ruby-build.20241028072829.8098.log"
 draft: false
 ---
 
@@ -13,11 +13,9 @@ draft: false
 ## ✅ TODOs
 - [ ] it on Ubuntu:
 
-## 📌 Summary
-> tail /tmp/ruby-build.20241028072829.8098.log
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 > tail /tmp/ruby-build.20241028072829.8098.log
 -> ./config "--prefix=$HOME/.rbenv/versions/3.3.4/openssl" "--openssldir=$HOME/.rbenv/versions/3.3.4/openssl/ssl" --libdir=lib zlib-dynamic no-ssl3 shared
@@ -31,7 +29,9 @@ No C compiler found, please specify one with the environment variable CC,
 or configure with an explicit configuration target.
 external command failed with status 2
 
+---
 
+🤖 **Assistant:**
 
 It looks like your Ruby build process is failing due to a missing C compiler. To resolve this issue, you'll need to install a C compiler on your system. Here are steps you can take depending on your operating system:
 
@@ -62,6 +62,10 @@ It looks like your Ruby build process is failing due to a missing C compiler. To
 - Look for the package manager and install a package similar to `build-essential` or `gcc`.
 
 After installing the necessary tools, you should be able to proceed with the Ruby build without encountering the missing compiler error. If the problem persists, let me know, and we can troubleshoot further.
+
+---
+
+🙋 **You:**
 
 > rbenv install `cat .ruby-version` --skip-existing
 ==> Downloading openssl-3.0.15.tar.gz...
@@ -109,6 +113,10 @@ checked program was:
 tail: cannot open 'for' for reading: No such file or directory
 tail: cannot open 'more' for reading: No such file or directory
 tail: cannot open 'details' for reading: No such file or directory
+
+---
+
+🤖 **Assistant:**
 
 It looks like the build process is failing due to a missing dependency for the `psych` gem, which is the YAML parser used by Ruby. To resolve this issue, you need to install the necessary YAML development libraries on your system. Here's how to do it on Ubuntu:
 

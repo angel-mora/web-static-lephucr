@@ -3,22 +3,23 @@ title: Git Repo Management Tools
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I better manage my repos in git? Is there a
+  ruby gem or something like that? I use astral app for stars but looking to see repositories
+  a bit better, gem, app or whatever helps"
 draft: false
 ---
 
 # Git Repo Management Tools
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I better manage my repos in git? Is there a ruby gem or something like that? I use astral app for stars but looking to see repositories a bit better, gem, app or whatever helps
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I better manage my repos in git? Is there a ruby gem or something like that? I use astral app for stars but looking to see repositories a bit better, gem, app or whatever helps
+
+---
+
+🤖 **Assistant:**
 
 Managing your Git repositories effectively can indeed be enhanced with the right tools. While there isn't a Ruby gem that directly corresponds to Astral app's functionality for organizing starred repositories, there are several tools and strategies that can help you manage your repositories better:
 
@@ -38,7 +39,15 @@ Managing your Git repositories effectively can indeed be enhanced with the right
 
 Each tool or strategy has its own strengths, and the best choice depends on your specific needs and workflow. It's often helpful to try a few and see which ones fit best with how you work.
 
+---
+
+🙋 **You:**
+
 I want something to help me organize dozens of repos I have across different organizations I own
+
+---
+
+🤖 **Assistant:**
 
 Organizing dozens of repositories across multiple organizations can indeed be challenging. To better manage and organize these repositories, you might consider the following types of tools and strategies:
 

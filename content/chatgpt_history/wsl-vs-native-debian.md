@@ -3,22 +3,21 @@ title: WSL vs. Native Debian
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Windows 11 and WSL/VM or native debian?"
 draft: false
 ---
 
 # WSL vs. Native Debian
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Windows 11 and WSL/VM or native debian?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Windows 11 and WSL/VM or native debian?
+
+---
+
+🤖 **Assistant:**
 
 Whether you should use Windows 11 with Windows Subsystem for Linux (WSL) or a Virtual Machine (VM), or go with a native Debian installation depends on your needs and preferences. Here's a comparison to help you decide:
 

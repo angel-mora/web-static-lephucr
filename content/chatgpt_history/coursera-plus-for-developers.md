@@ -3,29 +3,35 @@ title: Coursera Plus for Developers
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Puedo obtener una maestría cursando cursos de coursera
+  plus?"
 draft: false
 ---
 
 # Coursera Plus for Developers
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Puedo obtener una maestría cursando cursos de coursera plus?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Puedo obtener una maestría cursando cursos de coursera plus?
-Cuáles son los mejores cursos para tomar si soy Rails developer? Me gustaría el de Andrew Ng de mates para data science pero también otros que cubran mis gaps pues soy programador de bootcamp 
+Cuáles son los mejores cursos para tomar si soy Rails developer? Me gustaría el de Andrew Ng de mates para data science pero también otros que cubran mis gaps pues soy programador de bootcamp
 
+---
 
+🤖 **Assistant:**
 
 User is interested in Coursera courses, particularly for a master's degree, and wants to cover gaps in their knowledge as a bootcamp-trained Rails developer. They are interested in Andrew Ng's course on math for data science.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Coursera Plus offers a wide range of courses, specializations, and professional certificates, but it does not offer full master’s degrees. However, Coursera does partner with universities to provide online degrees, including master’s programs. These degree programs are separate from Coursera Plus and have their own application processes and tuition fees.
 
@@ -49,9 +55,15 @@ Coursera Plus offers a wide range of courses, specializations, and professional 
 
 These courses will help fill in the gaps from your bootcamp training and provide a strong foundation in both development and data science.
 
+---
+
+🙋 **You:**
+
 Que maestrías hay en coursera para un mexicano?
 
+---
 
+🤖 **Assistant:**
 
 Coursera offers several online master's degree programs that are available to students worldwide, including those in Mexico. Here are some of the master's programs you might consider, especially if you have a background in software development or are looking to expand your skills:
 
@@ -90,7 +102,15 @@ These programs are fully online, allowing you to study from Mexico and at your o
 
 If any of these programs interest you, I can provide more details on the application process or specific course content.
 
+---
+
+🙋 **You:**
+
 Hay algo como el missing semester del MIT en coursera?
+
+---
+
+🤖 **Assistant:**
 
 The **"Missing Semester of Your CS Education"** from MIT is a popular course that focuses on practical computer science skills that are often not covered in traditional computer science curricula, such as using the command line, version control with Git, shell scripting, and debugging. While Coursera doesn't have an exact equivalent with the same focus, there are several courses and specializations that cover similar practical skills. Here are some Coursera courses that you might find useful:
 

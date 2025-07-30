@@ -3,24 +3,25 @@ title: MVP Hootsuite Integration
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Would it be suitable for a MVP to output the markdown
+  folder contents (a publication, from now on) processed with AI to a campaign in
+  Hootsuite? Their API can pull back statistics of the campaigns' performance? Can
+  it link to someone's website? Would it be a step before or after an integration
+  with mailchimp or substack if we want to be able to find leads for someone's publication?"
 draft: false
 ---
 
 # MVP Hootsuite Integration
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Would it be suitable for a MVP to output the markdown folder contents (a publication, from now on) processed with AI to a campaign in Hootsuite? Their API can pull back statistics of the campaigns' performance? Can it link to someone's website? Would it be a step before or after an integration with mailchimp or substack if we want to be able to find leads for someone's publication?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Would it be suitable for a MVP to output the markdown folder contents (a publication, from now on) processed with AI to a campaign in Hootsuite? Their API can pull back statistics of the campaigns' performance? Can it link to someone's website? Would it be a step before or after an integration with mailchimp or substack if we want to be able to find leads for someone's publication?
 
+---
 
+🤖 **Assistant:**
 
 Building an MVP that integrates a markdown-based publication with Hootsuite, Mailchimp, or Substack could serve as a powerful workflow for managing and distributing content while leveraging AI. Here's a breakdown of your questions and considerations:
 
@@ -63,7 +64,15 @@ Building an MVP that integrates a markdown-based publication with Hootsuite, Mai
 
 This workflow ensures a seamless progression from content creation to lead generation and retention, making it a strong MVP for content creators or businesses.
 
+---
+
+🙋 **You:**
+
 How can I create a campaign for one single social media over the Hootsuite API? I'll be using Ruby on Rails
+
+---
+
+🤖 **Assistant:**
 
 Creating a campaign for a single social media platform via the Hootsuite API using Ruby on Rails involves several steps. Here’s a guide to help you get started:
 
@@ -201,8 +210,16 @@ Creating a campaign for a single social media platform via the Hootsuite API usi
 
 This setup provides a basic structure for creating a single-platform campaign in Hootsuite from Rails, while leaving room for extensions like analytics tracking or multiple social profiles. Let me know if you’d like to refine or expand any part of this!
 
+---
+
+🙋 **You:**
+
 Do they handle url tracking?
 How about pulling back the results of the campaign?
+
+---
+
+🤖 **Assistant:**
 
 Yes, **Hootsuite handles URL tracking** and allows you to **pull back the results of a campaign** using their API. Here’s how you can work with these features in your Rails app:
 
@@ -336,7 +353,15 @@ end
 
 Let me know if you'd like further clarification or help implementing this!
 
+---
+
+🙋 **You:**
+
 Provide a json I can upload in postman so I only need to add the proper env variables. It should contain all the requests to push a campaign (obviously including auth and whatever it takes) and the requests to pull back the proper analytics
+
+---
+
+🤖 **Assistant:**
 
 Here’s a **Postman collection JSON** you can use. Replace the placeholders with your environment variables, such as `{{access_token}}`, `{{client_id}}`, `{{client_secret}}`, and others.
 

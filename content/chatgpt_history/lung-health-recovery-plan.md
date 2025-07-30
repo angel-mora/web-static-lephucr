@@ -3,29 +3,36 @@ title: Lung Health Recovery Plan
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I heal from smoking cannabis? I am 30 and want
+  to recover my lungs after 10 years of smoking. How can I measure the impact in my
+  lungs? (Medical examination)"
 draft: false
 ---
 
 # Lung Health Recovery Plan
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I heal from smoking cannabis? I am 30 and want to recover my lungs after 10 years of smoking. How can I measure the impact in my lungs? (Medical examination)
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I heal from smoking cannabis? I am 30 and want to recover my lungs after 10 years of smoking. How can I measure the impact in my lungs? (Medical examination)
 Provide a plan to measure the improvement in my health.
 
+---
 
+🤖 **Assistant:**
 
 User is 30 and wants to recover their lungs after 10 years of smoking cannabis.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 To heal from smoking cannabis and recover your lung health, it's essential to follow a structured plan that combines medical assessment, lifestyle changes, and regular monitoring. Here's a step-by-step approach to help you measure and improve your lung health:
 

@@ -3,22 +3,22 @@ title: Store Gollum Markdown in PostgreSQL
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Does it make sense to store a gollum based markdown
+  with front matter as a postgres ruby on rails app?"
 draft: false
 ---
 
 # Store Gollum Markdown in PostgreSQL
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Does it make sense to store a gollum based markdown with front matter as a postgres ruby on rails app?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Does it make sense to store a gollum based markdown with front matter as a postgres ruby on rails app? 
+Does it make sense to store a gollum based markdown with front matter as a postgres ruby on rails app?
+
+---
+
+🤖 **Assistant:**
 
 Storing Gollum-based Markdown with front matter in a PostgreSQL database for a Ruby on Rails application is feasible and can make sense depending on your specific use case. Here are some considerations:
 
@@ -38,7 +38,15 @@ Storing Gollum-based Markdown with front matter in a PostgreSQL database for a R
 
 In summary, while this setup might not be as straightforward as using Gollum with Git, it offers the benefits of integrating with a Rails web application, utilizing PostgreSQL's robust features, and customizing the system to your specific needs. Just be prepared for additional development work related to version control, Markdown rendering, and front matter processing.
 
+---
+
+🙋 **You:**
+
 Tell me potential benefits of using pg, tell me which js libraries would help me leverage markdown Metadata customization to avoid a lot of dB design overhead
+
+---
+
+🤖 **Assistant:**
 
 Using PostgreSQL (PG) for your Ruby on Rails application, especially when dealing with Markdown content and its metadata, can provide several benefits:
 

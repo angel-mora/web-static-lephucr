@@ -3,7 +3,11 @@ title: Managing Underperforming Family Employee
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Should I fire my nephew who is my current employee?
+  He's not very disciplined and don't deliver properly. He's still quite inmature,
+  not very organized and apart from being a developer, he doesn't have neither leadership
+  skills nor skills to get things done on its own. And he also struggles delivering
+  work logging. I am very desperate and don't know what to do."
 draft: false
 ---
 
@@ -33,13 +37,15 @@ draft: false
 - [ ] n no tienen todas las funcionalidades necesarias para hacer esto incorporadas de forma predeterminada, por lo que probablemente tendrías que desarrollar bastante código personalizado (o buscar complementos de terceros) para hacerlo posible.
 - [ ] n, la necesidad de utilizar Editor.js puede no ser tan clara. Markdown ya es un formato de texto sencillo que los usuarios pueden editar directamente, y Obsidian proporciona una excelente interfaz de usuario para editar archivos Markdown.
 
-## 📌 Summary
-Should I fire my nephew who is my current employee? He's not very disciplined and don't deliver properly. He's still quite inmature, not very organized and apart from being a developer, he doesn't have neither leadership skills nor skills to get things done on its own. And he also struggles delivering work logging. I am very desperate and don't know what to do.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Should I fire my nephew who is my current employee? He's not very disciplined and don't deliver properly. He's still quite inmature, not very organized and apart from being a developer, he doesn't have neither leadership skills nor skills to get things done on its own. And he also struggles delivering work logging. I am very desperate and don't know what to do.
+
+---
+
+🤖 **Assistant:**
 
 Deciding to let go of an employee, especially a family member, can be difficult. However, in a professional environment, performance is key. Here are a few steps you can consider:
 
@@ -57,7 +63,15 @@ Deciding to let go of an employee, especially a family member, can be difficult.
 
 Remember, you have a responsibility to your business and your other employees, and sometimes the best decision for the business can be the hardest one to make. Also, keep in mind that your relationship with your nephew might be affected, so be prepared for this and aim to manage the situation as kindly and professionally as possible.
 
+---
+
+🙋 **You:**
+
 Am I wrong asking for discipline? Is there any other way I can exploit his potential and build reliability in a different way?
+
+---
+
+🤖 **Assistant:**
 
 You are not wrong to expect discipline and productivity from your employees, family or not. Those are basic requirements in any professional environment. However, if you think there's untapped potential in your nephew and you'd like to help him grow, consider the following:
 
@@ -73,7 +87,15 @@ You are not wrong to expect discipline and productivity from your employees, fam
 
 Remember, it's important to foster an environment that accommodates different working styles while maintaining standards of productivity and accountability. However, if after exploring these alternative approaches, he still fails to meet your business requirements, it could be necessary to reconsider his position at the company.
 
+---
+
+🙋 **You:**
+
 Common bonuses for office workers to make them be more organized and disciplined. Include percentages. Example: Bonus for being on time, travel taxi aid, OKR goals…
+
+---
+
+🤖 **Assistant:**
 
 Incentives can indeed motivate employees to be more organized and disciplined. Here are a few examples with potential percentage values, though the actual figures can vary based on your company's policies and resources:
 
@@ -91,7 +113,15 @@ Incentives can indeed motivate employees to be more organized and disciplined. H
 
 Remember, the key is to align incentives with the behavior you want to encourage and to communicate clearly what the expectations are.
 
+---
+
+🙋 **You:**
+
 Bonus to cook and clean x day
+
+---
+
+🤖 **Assistant:**
 
 Offering a bonus for non-work related tasks like cooking or cleaning may seem unusual in a traditional work environment. However, given the shift towards remote work and increased emphasis on work-life balance, you could consider a "Life-Work Balance Bonus". Here's how it might work:
 
@@ -101,7 +131,15 @@ The intention here is to support employees in managing their work-life balance, 
 
 Always be sure to check with a human resources professional or a legal advisor to ensure that any bonus scheme you implement is fair, equitable, and compliant with local labor laws and regulations.
 
+---
+
+🙋 **You:**
+
 I like all your suggestions. Now add a fixed percentage to all of them as part of the areas that set the salary
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Here's how you might distribute percentages of an employee's overall compensation towards these various incentives:
 
@@ -123,7 +161,15 @@ Certainly! Here's how you might distribute percentages of an employee's overall 
 
 Please note that these are just example percentages and should be adjusted to fit the needs and resources of your specific company. They also should be regularly revisited and adjusted as needed based on feedback and efficacy.
 
+---
+
+🙋 **You:**
+
 Consider less fixed salary. Also, understand that my nephew works in my apartment, which is a 110m2 and has a kitchen where he could get more money by cooking and cleaning for the office (3 more people)
+
+---
+
+🤖 **Assistant:**
 
 Understood. With these details in mind, let's revise the compensation distribution:
 
@@ -147,7 +193,15 @@ Understood. With these details in mind, let's revise the compensation distributi
 
 Remember, these percentages are still examples and can be adjusted according to your company's capabilities and needs. Also, it's vital to ensure this compensation structure is clearly communicated and understood, and that it complies with local labor laws and regulations.
 
+---
+
+🙋 **You:**
+
 Ahora has un contrato de trabajo bajo la ley mexicana, que ponga valores específicos a ese salario propuesto. Salario total: 30,000 pesos. Añade todos los componentes que le de fe y legalidad como texto jurídico en México.
+
+---
+
+🤖 **Assistant:**
 
 Por supuesto, a continuación se muestra un ejemplo de un contrato de trabajo bajo la ley mexicana. Asegúrate de consultarlo con un abogado o un experto en recursos humanos antes de implementarlo. 
 
@@ -187,8 +241,16 @@ QUINTA: Este contrato se firma en dos ejemplares en la ciudad de [Ciudad], el d�
 
 Este es solo un ejemplo básico de un contrato laboral y no abarca todas las cláusulas posibles. Por favor, asegúrate de trabajar con un experto legal para personalizar el contrato a tu situación específica.
 
+---
+
+🙋 **You:**
+
 Agrega cláusulas aplicables de acuerdo con la Ley Federal del Trabajo.
 Agrega que el empleado debe demostrar los gastos. En el caso de la cocina de la oficina, agregar que debe participar 5 días al mes en la cocinada, acordando el día de cada semana con el resto del personal.
+
+---
+
+🤖 **Assistant:**
 
 A continuación, se presentan algunas cláusulas adicionales basadas en la Ley Federal del Trabajo y las especificaciones que mencionaste:
 
@@ -210,7 +272,15 @@ DÉCIMAPRIMERA: En caso de terminación del contrato, se seguirán las disposici
 
 Recuerda que este es solo un ejemplo y debe ser revisado y ajustado por un profesional legal para asegurarse de que cumple con todas las leyes laborales y las necesidades específicas de tu empresa.
 
+---
+
+🙋 **You:**
+
 Ahora darme los parámetros que te faltan para hacer el contrato más específico con el propósito de que iteres la versión a uno mejorado
+
+---
+
+🤖 **Assistant:**
 
 Para crear un contrato más específico y detallado, necesitaríamos más información, como:
 
@@ -236,7 +306,15 @@ Para crear un contrato más específico y detallado, necesitaríamos más inform
 
 Con esta información adicional, podríamos proporcionarte un ejemplo de contrato más específico. Sin embargo, siempre debes buscar asesoría legal antes de implementar cualquier contrato de trabajo.
 
+---
+
+🙋 **You:**
+
 Que opinión tiene la ley mexicana de propiedad intelectual sobre el código open source?
+
+---
+
+🤖 **Assistant:**
 
 La Ley de Propiedad Intelectual de México no hace una mención específica sobre el software de código abierto o open source. Sin embargo, como en muchos otros países, el software es considerado una obra literaria, y por lo tanto, está protegido por los derechos de autor. Esto incluye tanto el código fuente como el código objeto.
 
@@ -246,7 +324,15 @@ En México, como en otros lugares, el uso de software de código abierto se rige
 
 Por lo tanto, si estás trabajando con software de código abierto en México, debes adherirte a las condiciones de la licencia específica que se aplica al software que estás utilizando. Como siempre, es una buena idea buscar asesoría legal si tienes alguna pregunta o preocupación sobre la licencia de software de código abierto.
 
+---
+
+🙋 **You:**
+
 Hazme una entrevista sobre el tipo de licencia que más conviene para mi startup
+
+---
+
+🤖 **Assistant:**
 
 Por supuesto, a continuación te presento una serie de preguntas para entender mejor qué tipo de licencia podría ser la más adecuada para tu startup:
 
@@ -266,6 +352,10 @@ Por supuesto, a continuación te presento una serie de preguntas para entender m
 
 Las respuestas a estas preguntas pueden ayudarte a determinar qué tipo de licencia es la más adecuada para tu startup. Recuerda, siempre es importante buscar asesoría legal antes de tomar una decisión final.
 
+---
+
+🙋 **You:**
+
 1. El software es una red social de repositorios de git para compartir knowledge bases de markdowns compatibles con Obsidian. El objetivo es una red gratuita que vende asistencia de explotación y esquematización de los datos contenidos en los archivos de markdown, además de plug-ins específicos para exportar pdf, pedir code reviews, customizar reveal.js generados por markdown, etc.
 2. Quiero que la gente pueda hacer profit pero tenga que pagar un porcentaje a mi equipo como mantainers oficiales del proyecto.
 3. Ingresos indirectos a través de plug-ins/features del producto.
@@ -273,6 +363,10 @@ Las respuestas a estas preguntas pueden ayudarte a determinar qué tipo de licen
 5. Garantizar derivados abiertos
 6. Notificación de usos
 7. No responsabilidad
+
+---
+
+🤖 **Assistant:**
 
 Según tus respuestas, parece que podrías estar interesado en una licencia de código abierto que permita modificaciones y derivados, pero que también te permita obtener beneficios de los proyectos derivados de tu software. Una opción para este caso puede ser la Licencia Pública General Asequible (Affero General Public License, AGPL).
 
@@ -284,7 +378,15 @@ Es importante señalar que cualquier uso de software de terceros en tu propio so
 
 Ten en cuenta que todas las decisiones de licencia deben ser revisadas por un abogado, ya que este asunto es complejo y puede tener implicaciones legales a largo plazo.
 
+---
+
+🙋 **You:**
+
 La licencia que me propones cumple con la licencia MIT de mis softwares base?
+
+---
+
+🤖 **Assistant:**
 
 Las licencias de tipo MIT son permisivas y compatibles con una amplia variedad de licencias de software libre y de código abierto, incluyendo la licencia Affero General Public License (AGPL). Esto significa que puedes usar software con licencia MIT dentro de un proyecto que luego se distribuye bajo la AGPL.
 
@@ -292,7 +394,15 @@ La licencia MIT permite usar, copiar, modificar, fusionar, publicar, distribuir,
 
 De todas formas, siempre es una buena idea revisar cualquier implicación de licencia con un abogado especializado en leyes de propiedad intelectual y software. Asegúrate de que estás cumpliendo con todas las condiciones de las licencias de software que estás utilizando.
 
-Ahora hazme una consultoría para ver qué tipo de empresa me conviene más 
+---
+
+🙋 **You:**
+
+Ahora hazme una consultoría para ver qué tipo de empresa me conviene más
+
+---
+
+🤖 **Assistant:**
 
 Para ayudarte a elegir el tipo de empresa que más te conviene, necesito algunas respuestas a las siguientes preguntas:
 
@@ -312,6 +422,10 @@ Para ayudarte a elegir el tipo de empresa que más te conviene, necesito algunas
 
 Con estas respuestas, podré ofrecerte una recomendación más precisa basada en las estructuras empresariales comunes en México, como la Sociedad Anónima (S.A.), la Sociedad de Responsabilidad Limitada (S. de R.L.), entre otras. Por supuesto, también deberías consultar con un abogado o asesor financiero para obtener un consejo personalizado para tu situación específica.
 
+---
+
+🙋 **You:**
+
 1. Un propietario y al menos tres asociados que se irán incorporando con el tiempo.
 2. Yo invertiré 300,000 el primer año como socio mayoritario
 3. No
@@ -320,6 +434,9 @@ Con estas respuestas, podré ofrecerte una recomendación más precisa basada en
 6. Si alto riesgo, empresa que busca capital semilla
 7. Rentabilizarla y expandir la Gama de productos para  quizá venderla más tarde
 
+---
+
+🤖 **Assistant:**
 
 Dado que planeas ser el único propietario inicial con la posibilidad de incorporar más socios con el tiempo, podrías considerar comenzar con una estructura de Sociedad por Acciones Simplificada (S.A.S.) en México. Esta estructura es relativamente fácil y barata de establecer, permite un solo accionista y ofrece protección de responsabilidad personal. 
 
@@ -331,9 +448,17 @@ Si en el futuro, una vez que hayas obtenido inversión, puedes considerar cambia
 
 No obstante, estas son solo sugerencias iniciales. Es fundamental que busques el consejo de un abogado o un consultor financiero para entender las implicaciones de cada opción y tomar la decisión más adecuada para tu situación.
 
+---
+
+🙋 **You:**
+
 Es una empresa de software.
 
 Además, he escuchado qué hay gente que tiene sus finanzas a través de una empresa para evitar responsabilidades. Yo tengo todo a mi nombre y tengo excelente récord crediticio. Puedes hacerme una consultoría de qué estrategia de organización es lo que más me conviene?
+
+---
+
+🤖 **Assistant:**
 
 En términos generales, separar tus finanzas personales de las de tu negocio puede tener varios beneficios. Aquí están algunos puntos para considerar:
 
@@ -351,7 +476,15 @@ Dicho esto, hay algunos factores a considerar:
 
 En resumen, aunque hay ventajas claras en tener una empresa para manejar tus actividades de negocio, también hay complicaciones adicionales a considerar. Sería beneficioso discutir tus planes con un abogado y un contador para asegurarte de que estás tomando la mejor decisión para tu situación personal y tus objetivos de negocio.
 
+---
+
+🙋 **You:**
+
 Ahora dame todos los tips de ingeniería financiera y fiscal que se te ocurran de acuerdo con la información que te di
+
+---
+
+🤖 **Assistant:**
 
 Es importante aclarar que aunque puedo proporcionarte algunos consejos generales de finanzas y fiscalidad, no soy un asesor financiero ni fiscal, y mi conocimiento se basa en la información disponible hasta septiembre de 2021. Siempre debes consultar con un asesor profesional que esté al tanto de las últimas leyes y regulaciones para obtener un asesoramiento adecuado. Dicho esto, aquí te dejo algunos puntos a considerar:
 
@@ -371,7 +504,15 @@ Es importante aclarar que aunque puedo proporcionarte algunos consejos generales
 
 Estos son solo algunos puntos a considerar. Cada situación es única y hay muchos otros factores que pueden influir en tu estrategia financiera y fiscal. Recomiendo encarecidamente que busques el asesoramiento de un profesional para ayudarte a navegar por estas cuestiones complejas.
 
+---
+
+🙋 **You:**
+
 Con base en las recientes conversaciones, cuál sería el modelo de negocio bajo una licencia AGPL para una red social web-based que permitiría que crezca para que continúe su desarrollo incluso si fracasa tras N rondas de financiamiento
+
+---
+
+🤖 **Assistant:**
 
 Tu propuesta de modelo de negocio podría funcionar de la siguiente manera:
 
@@ -389,7 +530,15 @@ Tu propuesta de modelo de negocio podría funcionar de la siguiente manera:
 
 Este modelo de negocio podría ayudar a garantizar la sostenibilidad y el crecimiento continuo de tu proyecto, incluso si fracasa tras varias rondas de financiamiento. La licencia AGPL asegurará que cualquier mejora que hagan los usuarios del software sea compartida con la comunidad, permitiendo así que el software siga mejorando y expandiéndose con el tiempo.
 
+---
+
+🙋 **You:**
+
 Me convendría hacer esta red social como una instancia de mastodon que sea básicamente un parser de obsidian favored markdown y de plugins?? Que licencia tiene Mastodon? El approach de Gollum (git con ruby) se contrapone?
+
+---
+
+🤖 **Assistant:**
 
 Mastodon es una red social de código abierto descentralizada que utiliza la licencia AGPLv3, lo que significa que cualquier derivado de ese software también debe estar bajo la misma licencia. 
 
@@ -403,7 +552,15 @@ Gollum, por otro lado, es un wiki simple basado en Git y está licenciado bajo l
 
 En resumen, aunque basarse en Mastodon o Gollum podría ahorrarte tiempo y esfuerzo, también implica compromisos y desafíos que deberías considerar cuidadosamente. Es posible que aún puedas aprender de cómo estas plataformas están diseñadas e implementadas, incluso si finalmente decides desarrollar tu propia plataforma desde cero.
 
+---
+
+🙋 **You:**
+
 Como desarrollaría la posibilidad de pushear tu repo de markdown desde Obsidian y leer los cambios en mastodon? (Qué tendría que hacer desde Obsidian y que desde mastodon?
+
+---
+
+🤖 **Assistant:**
 
 Para implementar una funcionalidad de este tipo, tendrías que crear una especie de "puente" entre Obsidian y Mastodon. Aquí te dejo un esbozo general de cómo podría funcionar esto.
 
@@ -427,7 +584,15 @@ Desde el lado de Mastodon:
 
 Ten en cuenta que este es un esquema bastante simplificado y que la implementación real podría ser bastante más compleja, especialmente cuando se trata de manejar errores, seguridad, autenticación, y otros detalles. También es importante señalar que tanto Obsidian como Mastodon no tienen todas las funcionalidades necesarias para hacer esto incorporadas de forma predeterminada, por lo que probablemente tendrías que desarrollar bastante código personalizado (o buscar complementos de terceros) para hacerlo posible.
 
+---
+
+🙋 **You:**
+
 Tendría aquí algún sentido usar editor.js?
+
+---
+
+🤖 **Assistant:**
 
 Editor.js es un editor de bloques para la web que produce salida en formato JSON. Es un excelente editor que proporciona una interfaz de usuario muy limpia y amigable, y puede ser una gran herramienta si deseas que los usuarios tengan la capacidad de editar y crear contenido directamente en tu plataforma web, con un control preciso sobre el formato y la estructura del contenido.
 

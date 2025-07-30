@@ -3,24 +3,22 @@ title: Estilo chaca para Instagram
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Dame un estilo chaca para poner “YourWokeHustleBro”
+  en cursivas o algo cool en instagram, como usando Unicode o esas cosas cool"
 draft: false
 ---
 
 # Estilo chaca para Instagram
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Dame un estilo chaca para poner “YourWokeHustleBro” en cursivas o algo cool en instagram, como usando Unicode o esas cosas cool
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Dame un estilo chaca para poner “YourWokeHustleBro” en cursivas o algo cool en instagram, como usando Unicode o esas cosas cool 
+Dame un estilo chaca para poner “YourWokeHustleBro” en cursivas o algo cool en instagram, como usando Unicode o esas cosas cool
 
+---
 
+🤖 **Assistant:**
 
 Aquí tienes algunas opciones con estilo **chaca** para poner *YourWokeHustleBro* en Instagram usando Unicode y fuentes llamativas:  
 
@@ -34,7 +32,15 @@ Aquí tienes algunas opciones con estilo **chaca** para poner *YourWokeHustleBro
 
 Si quieres más estilos, dime qué vibes buscas (más barrio, más hacker, más místico).
 
+---
+
+🙋 **You:**
+
 Cómo conseguir plomero y cerrajero de confianza en Santa María la Ribera?
+
+---
+
+🤖 **Assistant:**
 
 Para encontrar plomeros y cerrajeros de confianza en la colonia Santa María la Ribera, puedes considerar las siguientes opciones:
 

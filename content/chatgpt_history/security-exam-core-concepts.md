@@ -4,23 +4,22 @@ tags:
 - comptia
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  #comptia-security"
 draft: false
 ---
 
 # Security+ Exam Core Concepts
 
-## ✅ TODOs
-
-
-## 📌 Summary
-#comptia-security
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 #comptia-security
-What are the core concepts that will work as pareto for me to pass the security+? I got a bootcamp in cybersecurity as well as microverse bootcamp (react + rails so I know more about web development than networking). Answer considering the different section weighting for the exam. Remember that implementation is 25% of the exam and this sort of things. 
+What are the core concepts that will work as pareto for me to pass the security+? I got a bootcamp in cybersecurity as well as microverse bootcamp (react + rails so I know more about web development than networking). Answer considering the different section weighting for the exam. Remember that implementation is 25% of the exam and this sort of things.
+
+---
+
+🤖 **Assistant:**
 
 To pass the CompTIA Security+ exam, focusing on core concepts that align with the exam's weighted sections is crucial. Given your background in web development and some exposure to cybersecurity through a bootcamp, it's essential to balance your existing knowledge with the areas emphasized in the Security+ exam. The Security+ exam (SY0-601) is structured around six domains, each with a specific weight contributing to your overall score:
 

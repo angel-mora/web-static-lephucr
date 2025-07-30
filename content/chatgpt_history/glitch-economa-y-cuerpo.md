@@ -3,22 +3,22 @@ title: Glitch, Economía y Cuerpo
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Texto sobre glitch, economía y cuerpo que sería leído
+  en Goldsmiths"
 draft: false
 ---
 
 # Glitch, Economía y Cuerpo
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Texto sobre glitch, economía y cuerpo que sería leído en Goldsmiths
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Texto sobre glitch, economía y cuerpo que sería leído en Goldsmiths
+
+---
+
+🤖 **Assistant:**
 
 **Glitch, Economía y Cuerpo en Goldsmiths**
 
@@ -32,7 +32,15 @@ Así, en Goldsmiths, al analizar la intersección de glitch, economía y cuerpo,
 
 Este enfoque crítico no sólo desafía las normas establecidas, sino que también ofrece un espacio para la reinvención y el descubrimiento, poniendo de manifiesto que, a veces, en el glitch se encuentra la más profunda de las verdades.
 
+---
+
+🙋 **You:**
+
 Me refiero a un texto publicado
+
+---
+
+🤖 **Assistant:**
 
 Lamento la confusión. Hasta mi última fecha de entrenamiento en enero de 2022, no tengo información sobre un texto específico relacionado con "glitch, economía y cuerpo" que haya sido publicado en o por Goldsmiths. Es posible que tal texto haya sido publicado después de mi última fecha de actualización o que no esté en mi base de datos.
 

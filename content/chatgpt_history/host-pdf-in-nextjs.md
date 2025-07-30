@@ -3,7 +3,8 @@ title: Host PDF in Next.js
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  where to put a pdf in my portfolio repo done with nextjs
+  so people can download it quickly and self hosted in the github repo"
 draft: false
 ---
 
@@ -12,13 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] wnload that PDF directly from your website, here's how you can do it:
 
-## 📌 Summary
-where to put a pdf in my portfolio repo done with nextjs so people can download it quickly and self hosted in the github repo
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 where to put a pdf in my portfolio repo done with nextjs so people can download it quickly and self hosted in the github repo
+
+---
+
+🤖 **Assistant:**
 
 If you're looking to include a PDF in your Next.js-based portfolio repository hosted on GitHub, and you want users to be able to download that PDF directly from your website, here's how you can do it:
 

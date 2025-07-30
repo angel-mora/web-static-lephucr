@@ -3,7 +3,7 @@ title: GitHub Issue Template
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  markdown template for project issue in github projects"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] | In Progress | Review | Done
 
-## 📌 Summary
-markdown template for project issue in github projects
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 markdown template for project issue in github projects
 
+---
 
+🤖 **Assistant:**
 
 Here's a markdown template for creating well-structured issues in GitHub Projects:
 

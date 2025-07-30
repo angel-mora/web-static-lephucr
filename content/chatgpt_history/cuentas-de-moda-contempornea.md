@@ -3,24 +3,22 @@ title: Cuentas de moda contemporánea
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  cuentas de instagram para estar a la moda en cdmx.
+  Tipo HiBye pero de NY, Londres, Tokio o asi. Moda contempo, cool"
 draft: false
 ---
 
 # Cuentas de moda contemporánea
 
-## ✅ TODOs
-
-
-## 📌 Summary
-cuentas de instagram para estar a la moda en cdmx. Tipo HiBye pero de NY, Londres, Tokio o asi. Moda contempo, cool
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 cuentas de instagram para estar a la moda en cdmx. Tipo HiBye pero de NY, Londres, Tokio o asi. Moda contempo, cool
 
+---
 
+🤖 **Assistant:**
 
 Aquí tienes algunas cuentas de Instagram que siguen tendencias contemporáneas y estilos "cool" en ciudades como Nueva York, Londres y Tokio. Estas cuentas se alinean con un estilo similar al de tiendas como HiBye en CDMX:
 

@@ -3,7 +3,9 @@ title: Execute .sh file from Windows download folder in Ubuntu WSL
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to execute a sh file in a Windows download folder
+  from Ubuntu WSL? If I `ls` it, only see a different directory but not the Windows
+  users'."
 draft: false
 ---
 
@@ -12,13 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] this, you can type `chmod +x <filename>.sh` in the Downloads folder in the Ubuntu terminal. This will give the file executable permissions.
 
-## 📌 Summary
-How to execute a sh file in a Windows download folder from Ubuntu WSL? If I `ls` it, only see a different directory but not the Windows users'.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to execute a sh file in a Windows download folder from Ubuntu WSL? If I `ls` it, only see a different directory but not the Windows users'.
+
+---
+
+🤖 **Assistant:**
 
 When you are using the Windows Subsystem for Linux (WSL) on Windows, you can access Windows files and folders from the Ubuntu terminal. However, you need to know the path to the folder in Windows where the file is located. Here are the steps to execute a shell script (.sh file) in a Windows download folder from Ubuntu WSL:
 

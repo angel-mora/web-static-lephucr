@@ -3,24 +3,22 @@ title: Auth0 Integration in Next.js
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What do I need to parse in the rails backend of a nextjs
+  app that has auth0 to authenticate?"
 draft: false
 ---
 
 # Auth0 Integration in Next.js
 
-## ✅ TODOs
-
-
-## 📌 Summary
-What do I need to parse in the rails backend of a nextjs app that has auth0 to authenticate?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What do I need to parse in the rails backend of a nextjs app that has auth0 to authenticate?
 
+---
 
+🤖 **Assistant:**
 
 To integrate Auth0 authentication in a Next.js application with a Rails backend, you will typically follow these steps:
 

@@ -3,24 +3,21 @@ title: Vault-Tec TV Series
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Fallout show about Voltec"
 draft: false
 ---
 
 # Vault-Tec TV Series
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Fallout show about Voltec
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Fallout show about Voltec
 
+---
 
+🤖 **Assistant:**
 
 The "Fallout" TV series, based on the popular post-apocalyptic video game franchise by Bethesda, is set to explore the world of Vault-Tec and its vaults. Vault-Tec is a key element in the Fallout universe, known for creating underground bunkers (vaults) designed to protect humanity from nuclear fallout. However, these vaults often had hidden, unethical experiments conducted on their inhabitants.
 

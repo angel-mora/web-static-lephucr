@@ -3,28 +3,37 @@ title: AI Thesis Audience Analysis
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I use AI existing tools to train a model into
+  my academic thesis so it helps me understand who my research is assuming as audience
+  and questions (like in scorecard app) to understand my audience based on my key
+  research points? I've heard about graph llm models but I am a total newbie in the
+  field"
 draft: false
 ---
 
 # AI Thesis Audience Analysis
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I use AI existing tools to train a model into my academic thesis so it helps me understand who my research is assuming as audience and questions (like in scorecard app) to understand my audience based on my key research points? I've heard about graph llm models but I am a total newbie in the field
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I use AI existing tools to train a model into my academic thesis so it helps me understand who my research is assuming as audience and questions (like in scorecard app) to understand my audience based on my key research points? I've heard about graph llm models but I am a total newbie in the field
 
+---
 
+🤖 **Assistant:**
 
 User is interested in using AI tools to analyze their academic thesis to understand the assumed audience and key research questions, and has heard of graph LLM models but is a newbie in the field.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 To use AI tools for analyzing your thesis, here’s a roadmap you can follow to understand your assumed audience and research questions:
 
@@ -65,9 +74,15 @@ To use AI tools for analyzing your thesis, here’s a roadmap you can follow to 
 
 Would you like detailed examples of how to implement any of these steps? Or perhaps guidance on a specific tool like Neo4j or LangChain?
 
+---
+
+🙋 **You:**
+
 But my trained model will be able to answer specific details? Like, page where a reference I'm talking about is. Or will it remember in a determinist way a list of items from one chapter?
 
+---
 
+🤖 **Assistant:**
 
 To achieve a trained model capable of answering specific details such as the page where a reference is mentioned or deterministically remembering a list of items, you need to combine several techniques and tools. Here’s how it works and what you can expect:
 
@@ -131,7 +146,15 @@ For tasks like consistently recalling a list of items from a chapter:
 
 Would you like help setting up any of these tools or processes? I can guide you through specific implementations!
 
+---
+
+🙋 **You:**
+
 Summarize a roadmap for an mvp, preferably using pre-existing tools so by just being a developer I will be able to implement them without understanding a lot of data science. Decide the best approach considering time and complexity caveats
+
+---
+
+🤖 **Assistant:**
 
 Here’s a simplified roadmap for building an MVP that uses AI tools to analyze your academic thesis and answer specific questions (like identifying assumed audience or pinpointing reference locations). The goal is to use pre-existing tools and frameworks, minimizing complexity and time investment:
 
@@ -219,6 +242,10 @@ Here’s a simplified roadmap for building an MVP that uses AI tools to analyze 
 
 Would you like a detailed code snippet or implementation guide for any of these steps?
 
+---
+
+🙋 **You:**
+
 Provide the best online articles to perform this that you suggested:
 Recommended Approach
 
@@ -226,6 +253,10 @@ Recommended Approach
 	•	Simplifies database integration and retrieval-augmented LLMs.
 	•	Scales easily for additional features.
 	•	Frontend: Start with Streamlit for a simple MVP interface.
+
+---
+
+🤖 **Assistant:**
 
 To assist you in implementing the recommended approach—using LangChain with Pinecone and OpenAI, and developing a frontend with Streamlit—here are some curated resources to guide you through each component:
 

@@ -3,24 +3,22 @@ title: Trabajo y visa EUA
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  No tener un trabajo estable afectaría mi aplicación
+  a la visa de eua?"
 draft: false
 ---
 
 # Trabajo y visa EUA
 
-## ✅ TODOs
-
-
-## 📌 Summary
-No tener un trabajo estable afectaría mi aplicación a la visa de eua?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 No tener un trabajo estable afectaría mi aplicación a la visa de eua?
 
+---
 
+🤖 **Assistant:**
 
 Sí, no tener un trabajo estable puede afectar tu solicitud de visa de EE. UU., especialmente si estás aplicando a una visa de turista (B1/B2). Uno de los factores clave que evalúan los oficiales consulares es si tienes razones suficientes para regresar a tu país después de tu viaje. Tener un empleo estable demuestra arraigo, lo que reduce la sospecha de que podrías quedarte en EE. UU. de manera ilegal.  
 

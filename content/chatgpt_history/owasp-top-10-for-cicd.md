@@ -3,22 +3,21 @@ title: OWASP Top 10 for CI/CD
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  summarize owasp top 10 for ci/cd"
 draft: false
 ---
 
 # OWASP Top 10 for CI/CD
 
-## ✅ TODOs
-
-
-## 📌 Summary
-summarize owasp top 10 for ci/cd
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 summarize owasp top 10 for ci/cd
+
+---
+
+🤖 **Assistant:**
 
 The OWASP (Open Web Application Security Project) Top 10 is a well-known list of the most critical web application security risks. While the standard OWASP Top 10 focuses on web applications, the principles can be adapted to Continuous Integration/Continuous Deployment (CI/CD) pipelines to ensure secure software delivery.
 
@@ -46,7 +45,15 @@ Here's a summary of the OWASP Top 10 as it might relate to CI/CD:
 
 In addition to the above, it's essential to integrate security tools and practices into the CI/CD pipeline, often referred to as "DevSecOps." This ensures that security is a continuous part of the software delivery process, rather than a one-time check.
 
+---
+
+🙋 **You:**
+
 shorten each to paste it in  a slide
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Here's a concise version of the OWASP Top 10 as it might relate to CI/CD, suitable for a slide:
 
@@ -63,7 +70,15 @@ Certainly! Here's a concise version of the OWASP Top 10 as it might relate to CI
 
 Remember, these are concise points and might require further elaboration during a presentation.
 
+---
+
+🙋 **You:**
+
 you are telling solutions, not the problems I think
+
+---
+
+🤖 **Assistant:**
 
 I apologize for the oversight. Here's a concise version of the OWASP Top 10 problems as they might relate to CI/CD:
 

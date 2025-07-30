@@ -3,7 +3,11 @@ title: Innovaciones eco y residuos
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Dile sobre los mejores inventos para limpiar el ecosistema
+  que existen, sobre todo si son a gran escala. Después responde si hay reacciones
+  químicas o innovaciones en el tratamiento de materiales/residuos que podrían escalar
+  y qué se necesita para acelerarla (organización burocrática, fondeo a la comercialización,
+  etc)"
 draft: false
 ---
 
@@ -12,13 +16,15 @@ draft: false
 ## ✅ TODOs
 - [ ] si son a gran escala. Después responde si hay reacciones químicas o innovaciones en el tratamiento de materiales/residuos que podrían escalar y qué se necesita para acelerarla (organización burocrática, fondeo a la comercialización, etc)
 
-## 📌 Summary
-Dile sobre los mejores inventos para limpiar el ecosistema que existen, sobre todo si son a gran escala. Después responde si hay reacciones químicas o innovaciones en el tratamiento de materiales/residuos que podrían escalar y qué se necesita para acelerarla (organización burocrática, fondeo a la comercialización, etc)
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Dile sobre los mejores inventos para limpiar el ecosistema que existen, sobre todo si son a gran escala. Después responde si hay reacciones químicas o innovaciones en el tratamiento de materiales/residuos que podrían escalar y qué se necesita para acelerarla (organización burocrática, fondeo a la comercialización, etc)
+
+---
+
+🤖 **Assistant:**
 
 **Mejores inventos para limpiar el ecosistema a gran escala:**
 

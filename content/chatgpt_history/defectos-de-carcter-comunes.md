@@ -3,7 +3,7 @@ title: Defectos de carácter comunes
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuáles son los defectos de carácter?"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s tenemos algún defecto de carácter, lo importante es identificarlos y trabajar en ellos para mejorar como personas. ¿Hay algún aspecto en el que estés reflexionando últimamente?
 
-## 📌 Summary
-Cuáles son los defectos de carácter?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cuáles son los defectos de carácter?
 
+---
 
+🤖 **Assistant:**
 
 Los **defectos de carácter** son rasgos negativos de la personalidad que pueden afectar nuestras relaciones, decisiones y bienestar. Suelen surgir de miedos, inseguridades o hábitos arraigados. Algunos de los más comunes son:
 

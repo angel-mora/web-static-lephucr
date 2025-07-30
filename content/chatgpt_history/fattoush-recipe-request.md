@@ -3,7 +3,7 @@ title: Fattoush Recipe Request
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Fatoushe"
 draft: false
 ---
 
@@ -12,21 +12,29 @@ draft: false
 ## ✅ TODOs
 - [ ] suavemente hasta que esté bien combinado.
 
-## 📌 Summary
-Fatoushe
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Fatoushe 
+Fatoushe
 
+---
 
+🤖 **Assistant:**
 
 It looks like you might be referring to "Fattoush," which is a traditional Levantine salad. It typically includes toasted or fried pieces of khubz (Arabic flatbread) combined with mixed greens and vegetables such as tomatoes, cucumbers, radishes, and onions, all seasoned with sumac, a tangy spice. The salad is often dressed with olive oil, lemon juice, and sometimes garlic.
 
 Would you like a recipe or more information on how to prepare Fattoush?
 
+---
+
+🙋 **You:**
+
 Recipe
+
+---
+
+🤖 **Assistant:**
 
 Here's a simple and delicious recipe for Fattoush:
 
@@ -69,7 +77,15 @@ Here's a simple and delicious recipe for Fattoush:
 
 Enjoy your fresh and flavorful Fattoush salad!
 
+---
+
+🙋 **You:**
+
 En español
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes una receta simple y deliciosa para Fattoush:
 

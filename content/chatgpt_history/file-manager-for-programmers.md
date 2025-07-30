@@ -3,22 +3,29 @@ title: File Manager for Programmers
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tell me a UI that helps manage files. What sort of
+  contents would it have? Consider it would be something like a filesystem assistant
+  that helps you deal with markdown based notes and all your media (photos, video,
+  etc) managed over markdown config files. I presume it would have colored folders
+  for most visited, it would show recently opened files, it would show  a calendar.
+  Tell me what kind of things it would need to be useful for programmer to unify the
+  management of their computers. Also tell me what it would need to be useful for
+  mobile web/files browsing and if there any project that are similar to Chromium/Obsidian(with
+  notes, calendars and kanbans)/OneTab, etc"
 draft: false
 ---
 
 # File Manager for Programmers
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Tell me a UI that helps manage files. What sort of contents would it have? Consider it would be something like a filesystem assistant that helps you deal with markdown based notes and all your media (photos, video, etc) managed over markdown config files. I presume it would have colored folders for most visited, it would show recently opened files, it would show  a calendar. Tell me what kind of things it would need to be useful for programmer to unify the management of their computers. Also tell me what it would need to be useful for mobile web/files browsing and if there any project that are similar to Chromium/Obsidian(with notes, calendars and kanbans)/OneTab, etc
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tell me a UI that helps manage files. What sort of contents would it have? Consider it would be something like a filesystem assistant that helps you deal with markdown based notes and all your media (photos, video, etc) managed over markdown config files. I presume it would have colored folders for most visited, it would show recently opened files, it would show  a calendar. Tell me what kind of things it would need to be useful for programmer to unify the management of their computers. Also tell me what it would need to be useful for mobile web/files browsing and if there any project that are similar to Chromium/Obsidian(with notes, calendars and kanbans)/OneTab, etc
+
+---
+
+🤖 **Assistant:**
 
 The UI you're describing for a filesystem assistant that manages markdown-based notes, media files, and other content seems quite comprehensive and user-friendly. To make it useful for a programmer and also adaptable for mobile web/files browsing, here are some key features and contents it would need:
 

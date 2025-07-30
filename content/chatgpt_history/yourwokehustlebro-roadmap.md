@@ -3,28 +3,27 @@ title: YourWokeHustleBro Roadmap
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Construye un roadmap basado en mis memorias para desarrollar
+  las temáticas de LEPHUCR y otras más mercantilizables basado en mi marca YourWokeHustleBro
+  como potencial blog de YouTube y en mi plan de mercantilizacion para dejar de trabajar
+  basado en monetizar mis múltiples saberes"
 draft: false
 ---
 
 # YourWokeHustleBro Roadmap
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Construye un roadmap basado en mis memorias para desarrollar las temáticas de LEPHUCR y otras más mercantilizables basado en mi marca YourWokeHustleBro como potencial blog de YouTube y en mi plan de mercantilizacion para dejar de trabajar basado en monetizar mis múltiples saberes
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Construye un roadmap basado en mis memorias para desarrollar las temáticas de LEPHUCR y otras más mercantilizables basado en mi marca YourWokeHustleBro como potencial blog de YouTube y en mi plan de mercantilizacion para dejar de trabajar basado en monetizar mis múltiples saberes
 
 YourWokeHustleBro >
     Be an agnostic senior developer
 
+---
 
-
+🤖 **Assistant:**
 
 Aquí tienes un **roadmap estratégico** basado en tu perfil, conocimientos y objetivos para desarrollar **LEPHUCR** junto con contenidos más comercializables dentro de **YourWokeHustleBro**. La idea es construir un ecosistema que monetice tu expertise en tecnología, política, diseño web, y negocios, alineado con tu plan para independizarte financieramente.  
 

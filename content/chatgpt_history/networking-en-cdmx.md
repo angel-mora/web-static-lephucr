@@ -3,7 +3,10 @@ title: Networking en CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Aceleracionista en CDMX originario de Veracruz ganando
+  10K USD al mes buscando ampliar mi network porque your network is net worth. Cómo
+  puedo expandir mi red con gente inteligente? Dime lugares y eventos. Gente refinada
+  que también haga su dinero de su trabajo"
 draft: false
 ---
 
@@ -13,19 +16,27 @@ draft: false
 - [ ] nde puedes encontrar gente que hace dinero de sus propios proyectos.
 - [ ] tipo.
 
-## 📌 Summary
-Aceleracionista en CDMX originario de Veracruz ganando 10K USD al mes buscando ampliar mi network porque your network is net worth. Cómo puedo expandir mi red con gente inteligente? Dime lugares y eventos. Gente refinada que también haga su dinero de su trabajo
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Aceleracionista en CDMX originario de Veracruz ganando 10K USD al mes buscando ampliar mi network porque your network is net worth. Cómo puedo expandir mi red con gente inteligente? Dime lugares y eventos. Gente refinada que también haga su dinero de su trabajo
 
+---
 
+🤖 **Assistant:**
 
 User is an accelerationist originally from Veracruz earning 10K USD a month and is looking to expand their network with intelligent, refined people who also make money from their work.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Para expandir tu red en la CDMX con gente inteligente y refinada que comparte una mentalidad similar, puedes enfocarte en asistir a eventos y lugares donde se reúna una comunidad profesional y creativa. Aquí algunas recomendaciones:
 
@@ -50,9 +61,15 @@ Para expandir tu red en la CDMX con gente inteligente y refinada que comparte un
 
 Conectar en estos círculos te ayudará a construir relaciones de calidad con personas que también valoran la inteligencia y el trabajo duro.
 
+---
+
+🙋 **You:**
+
 URLs a las páginas. Soy rails dev, me interesan eventos que promueven dinámicas concretas de networking y temas de impacto real
 
+---
 
+🤖 **Assistant:**
 
 To expand your network in CDMX and connect with intelligent, refined professionals who are also successful through their own work, you might want to consider attending these events and places:
 
@@ -62,7 +79,15 @@ To expand your network in CDMX and connect with intelligent, refined professiona
 
 For more information on upcoming events and networking opportunities, you can check out the [Endeavor México Events page](https://mexico.endeavor.org/events) or keep an eye on **Mexico Tech Week** through its dedicated site【15†source】.
 
-Eventos como cócteles del coworking Público o Haab Project, lugares que tengan eventos de networking, incluyendo fondos de inversión y temas de innovación 
+---
+
+🙋 **You:**
+
+Eventos como cócteles del coworking Público o Haab Project, lugares que tengan eventos de networking, incluyendo fondos de inversión y temas de innovación
+
+---
+
+🤖 **Assistant:**
 
 In CDMX, **Público Coworking** frequently organizes events like cocktail gatherings and networking opportunities, especially around topics of innovation and entrepreneurship. These events are often great for connecting with like-minded professionals. Similarly, **Haab Project** is known for hosting curated experiences, often mixing art and technology, which naturally draws a diverse, creative crowd. 
 
@@ -72,7 +97,15 @@ If you're interested in more niche tech events, look out for **hackathons** or *
 
 To stay updated, check coworking spaces’ event calendars or social media channels, as they usually promote these gatherings well in advance.
 
-Provide concrete examples of places and events to look up for 
+---
+
+🙋 **You:**
+
+Provide concrete examples of places and events to look up for
+
+---
+
+🤖 **Assistant:**
 
 Here are some concrete examples of places and events in CDMX for networking with professionals, innovators, and investors:
 
@@ -98,7 +131,15 @@ Here are some concrete examples of places and events in CDMX for networking with
 
 These are excellent starting points for building connections in innovation, entrepreneurship, and creative industries. Be sure to check individual websites and social media for up-to-date event listings.
 
+---
+
+🙋 **You:**
+
 Other places, provide more examples 500 startups and those kind of places
+
+---
+
+🤖 **Assistant:**
 
 Here are more specific examples of places and events to look for in CDMX, especially if you're interested in connecting with professionals in tech, startups, and investment circles:
 
@@ -157,15 +198,27 @@ Here are more specific examples of places and events to look for in CDMX, especi
 
 Each of these places is highly focused on innovation and entrepreneurship, making them perfect for expanding your network in both local and global startup ecosystems.
 
+---
+
+🙋 **You:**
+
 Busco ambientes de gente que tambien le guste el arte contemporaneo y el diseño, quiza platicas en Museo Jumex sobre arte y tecnologia o algo asi. Gente que le guste open ceremony y sean nuevos ricos
 
+---
 
-
-
+🤖 **Assistant:**
 
 User is looking for networking environments with people who are into contemporary art, design, open ceremony, and have a "new rich" vibe.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 To connect with people who share an interest in contemporary art, design, and possibly a “new rich” vibe, here are some places and events in CDMX that may align with your preferences:
 

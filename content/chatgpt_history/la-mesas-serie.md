@@ -3,24 +3,21 @@ title: La Mesías, serie.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  La mesias serie"
 draft: false
 ---
 
 # La Mesías, serie.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-La mesias serie
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 La mesias serie
 
+---
 
+🤖 **Assistant:**
 
 "La Mesías" es una serie española creada por Javier Ambrossi y Javier Calvo, conocidos como "Los Javis". Estrenada a finales de 2023 en Movistar Plus+ y disponible en HBO Max, la serie se ha destacado por su narrativa compleja y emocionalmente intensa, inspirada en hechos reales y con elementos de realismo mágico.
 
@@ -30,7 +27,15 @@ La serie aborda temas profundos como el trauma, la fe, el perdón y la redenció
 
 "La Mesías" ha sido aclamada por su dirección artística, fotografía y banda sonora, la cual incluye éxitos de los 80 y 90. La serie ha ganado varios premios, incluidos el Mejor Actor y Actriz en los Premios Feroz 2024, consolidándose como un hito en la televisión española【6†source】【10†source】.
 
+---
+
+🙋 **You:**
+
 Raised by wolves
+
+---
+
+🤖 **Assistant:**
 
 "Raised by Wolves" is a science fiction drama series created by Aaron Guzikowski and produced by Ridley Scott. The show premiered on HBO Max on September 3, 2020, and concluded with its second season on March 17, 2022. 
 

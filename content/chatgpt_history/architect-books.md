@@ -3,22 +3,22 @@ title: Architect Books
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Best books/courses to become a security architect (I
+  am rails/react dev with some aws knowledge)"
 draft: false
 ---
 
 # Architect Books
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Best books/courses to become a security architect (I am rails/react dev with some aws knowledge)
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Best books/courses to become a security architect (I am rails/react dev with some aws knowledge) 
+Best books/courses to become a security architect (I am rails/react dev with some aws knowledge)
+
+---
+
+🤖 **Assistant:**
 
 Transitioning to a security architect role from a development background is a smart move, especially with your Rails/React and AWS knowledge as a solid foundation. A security architect is responsible for designing, building, testing, and implementing security systems within an organization’s IT network. Here's a list of recommended resources to help you make this transition:
 

@@ -3,7 +3,14 @@ title: Platillos Saludables y Veganos
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Dame los siete platillos mas ricos y sencillos de preparar
+  bajos en grasas para mi dieta cotidiana. Dime si mis ejemplos no son tan healthies.
+  Chevre au chon (pan con jitomate, mozarella o queso de cabra, arugula o algo asi,
+  aceite de oliva), niguiris de salmón con una ensalada con aderezo de mostaza, curry
+  verde thailandes. Busco platillos faciles, con muchas verduras y de preferencia
+  veganos (como hummus o cosas con lentejas). Ingredientes que pueda comprar en un
+  super organico en cdmx. Aquí también hay super asiáticos entonces se puede comprar
+  gran variedad de cosas"
 draft: false
 ---
 
@@ -15,19 +22,27 @@ draft: false
 - [ ] s estos ingredientes en supermercados orgánicos y asiáticos en CDMX.
 - [ ] y espolvorea con queso parmesano.
 
-## 📌 Summary
-Dame los siete platillos mas ricos y sencillos de preparar bajos en grasas para mi dieta cotidiana. Dime si mis ejemplos no son tan healthies. Chevre au chon (pan con jitomate, mozarella o queso de cabra, arugula o algo asi, aceite de oliva), niguiris de salmón con una ensalada con aderezo de mostaza, curry verde thailandes. Busco platillos faciles, con muchas verduras y de preferencia veganos (como hummus o cosas con lentejas). Ingredientes que pueda comprar en un super organico en cdmx. Aquí también hay super asiáticos entonces se puede comprar gran variedad de cosas
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Dame los siete platillos mas ricos y sencillos de preparar bajos en grasas para mi dieta cotidiana. Dime si mis ejemplos no son tan healthies. Chevre au chon (pan con jitomate, mozarella o queso de cabra, arugula o algo asi, aceite de oliva), niguiris de salmón con una ensalada con aderezo de mostaza, curry verde thailandes. Busco platillos faciles, con muchas verduras y de preferencia veganos (como hummus o cosas con lentejas). Ingredientes que pueda comprar en un super organico en cdmx. Aquí también hay super asiáticos entonces se puede comprar gran variedad de cosas
 
+---
 
+🤖 **Assistant:**
 
 The user is interested in healthy, low-fat, easy-to-prepare meals, preferably vegan and rich in vegetables, and shops at organic and Asian supermarkets in CDMX.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes siete platillos ricos, bajos en grasas, y sencillos de preparar:
 
@@ -72,13 +87,27 @@ Aquí tienes siete platillos ricos, bajos en grasas, y sencillos de preparar:
 
 Puedes encontrar todos estos ingredientes en supermercados orgánicos y asiáticos en CDMX.
 
+---
+
+🙋 **You:**
+
 Otra iteracion pero ahora con pescado, huevo, pollo y dairy
 
+---
 
+🤖 **Assistant:**
 
 The user is open to including fish, eggs, chicken, and dairy in their meals.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes siete platillos saludables y fáciles de preparar que incluyen pescado, huevo, pollo y dairy:
 
@@ -121,9 +150,15 @@ Aquí tienes siete platillos saludables y fáciles de preparar que incluyen pesc
 3. **Curry verde tailandés**:
    - **Comentario**: Usa leche de coco light para reducir el contenido de grasa.
 
-Cuantas calorias y proteinas necesito consumir para subir musculos. 80 a 85kg. 175cm. Después, ratio de gramos de proteina y cuantos gramos de origen animal y veganos se necesitan para obtener esa cantidad 
+---
 
+🙋 **You:**
 
+Cuantas calorias y proteinas necesito consumir para subir musculos. 80 a 85kg. 175cm. Después, ratio de gramos de proteina y cuantos gramos de origen animal y veganos se necesitan para obtener esa cantidad
+
+---
+
+🤖 **Assistant:**
 
 Para determinar las necesidades calóricas y de proteínas para ganar músculo, se pueden usar las siguientes fórmulas y recomendaciones basadas en tus datos:
 
@@ -139,7 +174,9 @@ Para determinar las necesidades calóricas y de proteínas para ganar músculo, 
    - Multiplicar TMB por el factor de actividad física (FA):
      -
 
+---
 
+🤖 **Assistant:**
 
 Para aumentar la masa muscular, las necesidades calóricas y de proteínas pueden variar según tu nivel de actividad física, metabolismo y objetivos específicos. Aquí tienes una guía general:
 
@@ -189,7 +226,15 @@ Una buena estrategia es balancear la ingesta de proteínas de origen animal y ve
 
 **Nota**: Estos valores son aproximados y es importante ajustar según tu progreso, nivel de actividad física, y respuesta del cuerpo. Consulta con un nutricionista para un plan personalizado.
 
-Me refiero a cuantos gramos de pollo hacen 150 grsmos de proteina, cuantos de lentejas, etc 
+---
+
+🙋 **You:**
+
+Me refiero a cuantos gramos de pollo hacen 150 grsmos de proteina, cuantos de lentejas, etc
+
+---
+
+🤖 **Assistant:**
 
 Para alcanzar 150 gramos de proteína, aquí te indico cuántos gramos de diferentes fuentes de proteína (pollo, lentejas, etc.) necesitarías consumir:
 
@@ -250,13 +295,27 @@ Para alcanzar 150 gramos de proteína, aquí te indico cuántos gramos de difere
 
 Esto te da una idea clara de cuántos gramos de cada alimento necesitas consumir para alcanzar 150 gramos de proteína.
 
+---
+
+🙋 **You:**
+
 Cuanta fibra al dia necesito y que alimentos me la proporcionan en mayor cantidad en la cdmx
 
+---
 
+🤖 **Assistant:**
 
 The user is interested in their daily fiber intake and foods high in fiber available in CDMX.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Para mantener una dieta saludable, se recomienda una ingesta diaria de fibra de alrededor de 25-30 gramos para adultos. Aquí tienes una lista de alimentos ricos en fibra que puedes encontrar en supermercados orgánicos y asiáticos en CDMX:
 
@@ -264,16 +323,28 @@ Para mantener una dieta saludable, se recomienda una ingesta diaria de fibra de 
 
 1.
 
+---
+
+🙋 **You:**
+
 Cuanta fibra al dia necesito y que alimentos me la proporcionan en mayor cantidad en la cdmx
 https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/fiber/art-20043983
 
+---
 
-
-
+🤖 **Assistant:**
 
 The user is interested in their daily fiber intake and foods high in fiber available in CDMX.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 ### Cantidad Diaria Recomendada de Fibra:
 

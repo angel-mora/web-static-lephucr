@@ -3,24 +3,22 @@ title: Cuestionario sombra Jung
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hazme un cuestionario que me permita identificar e
+  integrar mi sobra desde el punto de vista de Carl Jung"
 draft: false
 ---
 
 # Cuestionario sombra Jung
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Hazme un cuestionario que me permita identificar e integrar mi sobra desde el punto de vista de Carl Jung
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Hazme un cuestionario que me permita identificar e integrar mi sobra desde el punto de vista de Carl Jung
 
+---
 
+🤖 **Assistant:**
 
 Aquí tienes un cuestionario inspirado en la psicología de Carl Jung para explorar e integrar tu sombra. Este cuestionario busca ayudarte a identificar aspectos ocultos de tu personalidad que podrían estar en tu inconsciente y fomentar su integración consciente.
 

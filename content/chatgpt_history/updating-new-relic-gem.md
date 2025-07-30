@@ -3,24 +3,22 @@ title: Updating New Relic Gem
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How should i update the newrelic gem for a ruby on
+  rails app? Following app instructions or just by updating the gem?"
 draft: false
 ---
 
 # Updating New Relic Gem
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How should i update the newrelic gem for a ruby on rails app? Following app instructions or just by updating the gem?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How should i update the newrelic gem for a ruby on rails app? Following app instructions or just by updating the gem?
 
+---
 
+🤖 **Assistant:**
 
 To update the New Relic gem for your Ruby on Rails app, follow these steps:
 

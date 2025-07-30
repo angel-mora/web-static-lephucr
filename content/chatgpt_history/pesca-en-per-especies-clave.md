@@ -3,22 +3,21 @@ title: 'Pesca en Perú: Especies clave'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Principales pescas de Perú"
 draft: false
 ---
 
 # Pesca en Perú: Especies clave
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Principales pescas de Perú
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Principales pescas de Perú 
+Principales pescas de Perú
+
+---
+
+🤖 **Assistant:**
 
 Perú es uno de los principales productores de pescado del mundo, gracias a su extensa costa sobre el océano Pacífico. La industria pesquera en Perú es vital tanto para el consumo interno como para la exportación. Aquí están algunas de las principales pescas de Perú:
 

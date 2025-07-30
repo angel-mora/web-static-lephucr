@@ -3,7 +3,7 @@ title: Mejores lentes para vlogging
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Mejores lentes para vlogging para sony zve10"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s lados. Su amplia apertura ayuda en condiciones de poca luz y su diseño compacto lo hace menos intrusivo, perfecto para vlogging discreto.
 
-## 📌 Summary
-Mejores lentes para vlogging para sony zve10
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Mejores lentes para vlogging para sony zve10 
+Mejores lentes para vlogging para sony zve10
 
+---
 
+🤖 **Assistant:**
 
 Para la cámara Sony ZV-E10, ideal para vlogging debido a su tamaño compacto y calidad de imagen, existen varios lentes que podrían ser excelentes opciones dependiendo de tus necesidades específicas y estilo de vlogging. Aquí te recomiendo algunos lentes que son bien valorados por su rendimiento en este tipo de aplicaciones:
 

@@ -3,34 +3,38 @@ title: Variedad de lentes Roma
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Dónde puedo encontrar más variedad de lentes en la
+  Roma norte?"
 draft: false
 ---
 
 # Variedad de lentes Roma
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Dónde puedo encontrar más variedad de lentes en la Roma norte?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Dónde puedo encontrar más variedad de lentes en la Roma norte?
 
+---
 
+🤖 **Assistant:**
 
 En la colonia Roma Norte de la Ciudad de México, puedes encontrar una amplia variedad de ópticas que ofrecen diversos estilos y marcas de lentes. A continuación, te presento algunas opciones destacadas:
 
 businesses_map{"name":"ZEISS Vision Center Roma","location":"Ciudad de México, México","description":"Ubicada en Calle de Durango 33, esta óptica ofrece tecnología avanzada para el cuidado de la visión y una amplia selección de armazones de alta calidad.","cite":"turn0search3"}{"name":"Visualia Óptica Roma Norte","location":"Ciudad de México, México","description":"Situada en Monterrey 170 local B, se especializa en exámenes de la vista, contactología y cuenta con una variedad de lentes oftálmicos y de contacto.","cite":"turn0search4"}{"name":"Grafton Óptica","location":"Ciudad de México, México","description":"Localizada en Tampico 21, ofrece una selección de armazones modernos y servicios de optometría profesional.","cite":"turn0search6"}{"name":"Escópica - Casa de Visión","location":"Ciudad de México, México","description":"Con una cuidada selección de piezas y marcas, esta óptica celebra la visión de grandes diseñadores y fabricantes de lentes.","cite":"turn0search2"}{"name":"Opticalia Roma Norte","location":"Ciudad de México, México","description":"Ubicada en Monterrey 170 B, ofrece una variedad de gafas de sol y armazones de diferentes estilos.","cite":"turn0search5"}{"name":"Dr. York","location":"Ciudad de México, México","description":"Ofrece servicios de optometría y una selección de armazones de calidad en la zona de Roma Norte.","cite":"turn0search1"}{"name":"Bamboo Life","location":"Ciudad de México, México","description":"Conocida por sus armazones ecológicos y estilos modernos, es una opción destacada en la colonia Roma Norte.","cite":"turn0search1"}{"name":"Óptica Verona","location":"Ciudad de México, México","description":"Ofrece una variedad de armazones y servicios de optometría en la zona de Roma Norte.","cite":"turn0search1"}
 
-Te recomiendo visitar estas ópticas para explorar sus colecciones y encontrar los lentes que mejor se adapten a tus necesidades y estilo. 
+Te recomiendo visitar estas ópticas para explorar sus colecciones y encontrar los lentes que mejor se adapten a tus necesidades y estilo.
+
+---
+
+🙋 **You:**
 
 Dónde puedo encontrar más variedad de gafas cool en la Roma norte?
 
+---
 
+🤖 **Assistant:**
 
 En la colonia Roma Norte de la Ciudad de México, puedes encontrar una variedad de tiendas que ofrecen gafas con estilos únicos y modernos. A continuación, te presento algunas opciones destacadas:
 

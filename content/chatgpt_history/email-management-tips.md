@@ -3,22 +3,23 @@ title: Email Management Tips
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Gmail and Outlook both have rules to better manage
+  emails? What other general tips do you have for most of commercial smtp clients?
+  Tags? Or those are only in Gmail?"
 draft: false
 ---
 
 # Email Management Tips
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Gmail and Outlook both have rules to better manage emails? What other general tips do you have for most of commercial smtp clients? Tags? Or those are only in Gmail?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Gmail and Outlook both have rules to better manage emails? What other general tips do you have for most of commercial smtp clients? Tags? Or those are only in Gmail? 
+Gmail and Outlook both have rules to better manage emails? What other general tips do you have for most of commercial smtp clients? Tags? Or those are only in Gmail?
+
+---
+
+🤖 **Assistant:**
 
 Gmail and Outlook both offer rules or filters to manage emails efficiently. Many commercial email clients have similar features. Here are some general tips that apply to most of them:
 

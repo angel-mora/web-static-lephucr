@@ -3,22 +3,21 @@ title: Update Stylelint in Yarn.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  how to update stylelint in yarn?"
 draft: false
 ---
 
 # Update Stylelint in Yarn.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-how to update stylelint in yarn?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 how to update stylelint in yarn?
+
+---
+
+🤖 **Assistant:**
 
 To update `stylelint` in a project that uses Yarn as its package manager, you can follow these steps:
 

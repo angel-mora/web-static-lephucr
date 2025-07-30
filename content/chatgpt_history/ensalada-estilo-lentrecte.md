@@ -3,24 +3,21 @@ title: Ensalada estilo L'Entrecôte
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Donde puedo comer una ensalada como la del entrecote?"
 draft: false
 ---
 
 # Ensalada estilo L'Entrecôte
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Donde puedo comer una ensalada como la del entrecote?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Donde puedo comer una ensalada como la del entrecote?
 
+---
 
+🤖 **Assistant:**
 
 En la Ciudad de México, el restaurante L'Entrecôte, ubicado en Polanco, es reconocido por su menú que incluye una ensalada verde con nueces y una vinagreta de mostaza, similar a la que mencionas. Este establecimiento se especializa en un único platillo: entrecôte acompañado de papas fritas y la mencionada ensalada. citeturn0search0
 

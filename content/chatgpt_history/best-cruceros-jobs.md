@@ -3,24 +3,21 @@ title: Best Cruceros Jobs
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Browse best jobs for cruceros"
 draft: false
 ---
 
 # Best Cruceros Jobs
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Browse best jobs for cruceros
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Browse best jobs for cruceros 
+Browse best jobs for cruceros
 
+---
 
+🤖 **Assistant:**
 
 When looking for jobs on cruise ships, there are various roles across different departments that cater to a wide range of skills and interests. Here are some of the best job categories currently available:
 

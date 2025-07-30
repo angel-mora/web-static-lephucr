@@ -3,7 +3,10 @@ title: Professional Writing
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hi, make a cover letter for me using the word \"PLACEHOLDER\"
+  for the parts I should replace with my data. I am applying for a position as a Senior
+  Ruby on Rails Developer. Then, please tell me the params I should add to sound more
+  personal."
 draft: false
 ---
 
@@ -12,13 +15,15 @@ draft: false
 ## ✅ TODOs
 - [ ] so:
 
-## 📌 Summary
-Hi, make a cover letter for me using the word "PLACEHOLDER" for the parts I should replace with my data. I am applying for a position as a Senior Ruby on Rails Developer. Then, please tell me the params I should add to sound more personal.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Hi, make a cover letter for me using the word "PLACEHOLDER" for the parts I should replace with my data. I am applying for a position as a Senior Ruby on Rails Developer. Then, please tell me the params I should add to sound more personal.
+
+---
+
+🤖 **Assistant:**
 
 Dear Hiring Manager,
 
@@ -41,6 +46,9 @@ To make the letter more personal, you can add the following information:
 - The reason why you are interested in working for the company specifically
 - A closing statement that reiterates your interest and enthusiasm for the role.
 
+---
+
+🤖 **Assistant:**
 
 Dear Hiring Manager,
 
@@ -62,8 +70,15 @@ To make the cover letter more personal, you can add:
 -Your specific career goals and how the position aligns with them
 -Your contact information
 
+---
+
+🙋 **You:**
 
 Give me the same letter but now as markdown with a yaml header with a variable name for each PLACEHOLDER I should fill. Also yaml variable names for the parameters to make my letter more personal.
+
+---
+
+🤖 **Assistant:**
 
 ```
 ---
@@ -98,8 +113,15 @@ Sincerely,
 ```
 In this markdown, each place holder is a yaml variable that you can replace with your personal data, and it will be rendered as a cover letter.
 
+---
+
+🙋 **You:**
 
 Now give me a script to transform that to pdf from vscode once I have filled those values.
+
+---
+
+🤖 **Assistant:**
 
 You can use a Visual Studio Code extension called "Markdown PDF" to convert your markdown file to PDF. 
 
@@ -128,6 +150,9 @@ You can use a Visual Studio Code extension called "Markdown PDF" to convert your
 
 Note: The extension uses the markdown-it library to parse the markdown, so it should work with most standard markdown syntax.
 
+---
+
+🙋 **You:**
 
 Please add emojis to the following message whenever it's cool to do so:
 
@@ -138,6 +163,10 @@ Reason for joining the bootcamp: Certification. Compliance for international mar
 What do you like: Obsidian.md, Knowledge Management, wiki, contemporary art. Engineering and Critical Theory. Networking. Artificial Intelligence.
 Your birthday: May 23th
 Linkedin:  https://www.linkedin.com/in/angelmoradev/
+
+---
+
+🤖 **Assistant:**
 
 👋 Hi there! 
 

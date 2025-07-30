@@ -3,22 +3,21 @@ title: Centralize PDFs in Obsidian.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Can I use obsidian to centralize all my pdfs?"
 draft: false
 ---
 
 # Centralize PDFs in Obsidian.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Can I use obsidian to centralize all my pdfs?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Can I use obsidian to centralize all my pdfs?
+
+---
+
+🤖 **Assistant:**
 
 Yes, you can use Obsidian to centralize all your PDFs. Obsidian is a powerful note-taking and knowledge management tool that allows you to link and organize various types of files, including PDFs. Here's how you can use it for your PDFs:
 
@@ -34,9 +33,21 @@ Yes, you can use Obsidian to centralize all your PDFs. Obsidian is a powerful no
 
 Remember to regularly back up your Obsidian vault, as it stores all your notes and files, including your centralized PDFs.
 
-If I am using git, would git-lfs work? How? 
+---
+
+🙋 **You:**
+
+If I am using git, would git-lfs work? How?
+
+---
+
+🤖 **Assistant:**
 
 Yes, Git Large File Storage (Git LFS) can work effectively with Obsidian, especially if you're dealing with large PDFs. Git LFS is an extension for Git that allows
+
+---
+
+🤖 **Assistant:**
 
 Yes, Git Large File Storage (Git LFS) is a great solution for handling large files, like PDFs, within a Git repository. Git LFS replaces large files in your repository with small, pointer files, while storing the actual file contents on a remote server. This way, your repository remains lightweight and fast. Here's how to use Git LFS, particularly if you are managing PDFs in an Obsidian vault:
 
@@ -54,7 +65,15 @@ Yes, Git Large File Storage (Git LFS) is a great solution for handling large fil
 
 Using Git LFS with your Obsidian vault can be a powerful way to manage large PDFs and other
 
-But if I also use Obsidian sync it will also store files in that side, right? 
+---
+
+🙋 **You:**
+
+But if I also use Obsidian sync it will also store files in that side, right?
+
+---
+
+🤖 **Assistant:**
 
 Yes, if you are using Obsidian Sync along with Git (and Git LFS) for your Obsidian vault, your files will be stored in both systems. Here's how this setup would work:
 
@@ -74,7 +93,15 @@ Yes, if you are using Obsidian Sync along with Git (and Git LFS) for your Obsidi
 
 In summary, using both Obsidian Sync and Git with Git LFS is feasible, but it requires careful management to ensure efficient use of resources and to avoid conflicts.
 
-Can I update a obsidian json file to better manage tracked files? 
+---
+
+🙋 **You:**
+
+Can I update a obsidian json file to better manage tracked files?
+
+---
+
+🤖 **Assistant:**
 
 Yes, you can manually update an Obsidian JSON configuration file to manage how files are tracked or handled within the Obsidian app. However, there are a few important considerations:
 

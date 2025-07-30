@@ -3,24 +3,23 @@ title: Transición de gata sola
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Me voy a separar de mi pareja y una de mis tres gatas
+  se queda conmigo mientras sus hermanos se van. Que debo esperar? Cómo puedo hacer
+  más fácil la transición para mi gata?"
 draft: false
 ---
 
 # Transición de gata sola
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Me voy a separar de mi pareja y una de mis tres gatas se queda conmigo mientras sus hermanos se van. Que debo esperar? Cómo puedo hacer más fácil la transición para mi gata?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Me voy a separar de mi pareja y una de mis tres gatas se queda conmigo mientras sus hermanos se van. Que debo esperar? Cómo puedo hacer más fácil la transición para mi gata?
 
+---
 
+🤖 **Assistant:**
 
 Lamento escuchar sobre tu separación. En cuanto a tu gata, el cambio de ambiente y separación de sus hermanos puede ser estresante para ella. Aquí hay algunas recomendaciones para ayudarla a adaptarse:
 
@@ -36,7 +35,15 @@ Lamento escuchar sobre tu separación. En cuanto a tu gata, el cambio de ambient
 
 Con el tiempo, tu gata debería adaptarse a su nuevo entorno y a estar sin sus hermanos. Bríndale mucho cariño y paciencia durante este proceso.
 
+---
+
+🙋 **You:**
+
 Y si tengo que salir como hago para que no esté triste estando solita?
+
+---
+
+🤖 **Assistant:**
 
 Cuando tengas que salir y tu gata se quede sola, hay varias formas de ayudarla a sentirse más tranquila y evitar que se sienta triste:
 

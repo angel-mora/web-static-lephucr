@@ -3,24 +3,21 @@ title: 'Book Search: Horror Philosophy'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Starry speculative corps"
 draft: false
 ---
 
 # Book Search: Horror Philosophy
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Starry speculative corps
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Starry speculative corps 
+Starry speculative corps
 
+---
 
+🤖 **Assistant:**
 
 "Starry Speculative Corps" could be a fascinating concept for a sci-fi or fantasy narrative. Here’s a brief overview and potential ideas to expand upon:
 
@@ -45,11 +42,27 @@ The "Starry Speculative Corps" is a clandestine organization comprised of vision
 4. **Challenges**:
    - **Hostile Environments
 
-It's a book 
+---
+
+🙋 **You:**
+
+It's a book
+
+---
+
+🤖 **Assistant:**
 
 User is writing a book titled "Starry Speculative Corps."
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 ### Book Concept: Starry Speculative Corps
 
@@ -67,7 +80,15 @@ In the near future, humanity's insatiable curiosity and drive for exploration le
 4. **Dr. Kael Arion** - A quantum physicist with a penchant for unraveling the mysteries of parallel dimensions.
 5.
 
+---
+
+🙋 **You:**
+
 Existing book, search for it
+
+---
+
+🤖 **Assistant:**
 
 The book "Starry Speculative Corpse" is authored by Eugene Thacker and is the second volume in his "Horror of Philosophy" trilogy. This series combines philosophy with elements of horror to explore existential themes and the human condition. Thacker delves into philosophical topics through the lens of horror, examining how thinkers like Descartes and Kant grapple with concepts of existence, the unknown, and the limits of human knowledge.
 

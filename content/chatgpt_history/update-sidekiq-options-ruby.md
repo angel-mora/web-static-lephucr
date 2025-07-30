@@ -3,7 +3,10 @@ title: Update Sidekiq Options Ruby
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I select the name of a class, make it snake
+  case and put it as the last of sidekiq_options, having the key lock_prefix: and
+  the value being the snake case name of the class, for all .rb files having the word
+  'lock:'"
 draft: false
 ---
 
@@ -13,16 +16,16 @@ draft: false
 - [ ] this using Ruby and a bash script. Ruby would be more suitable here, as it gives you more control over parsing Ruby files.
 - [ ] it appending it after the lock statement (end of line), check if there is a comma
 
-## 📌 Summary
-How can I select the name of a class, make it snake case and put it as the last of sidekiq_options, having the key lock_prefix: and the value being the snake case name of the class, for all .rb files having the word 'lock:'
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I select the name of a class, make it snake case and put it as the last of sidekiq_options, having the key lock_prefix: and the value being the snake case name of the class, for all .rb files having the word 'lock:' 
 I can use vscode, bash, ruby script or wathever is most accurate for this purpose
 
+---
 
+🤖 **Assistant:**
 
 You can achieve this by writing a Ruby script that performs the following steps:
 
@@ -101,7 +104,15 @@ end
 
 This script is flexible, and you can further customize it if needed. Let me know if you'd like to refine it!
 
+---
+
+🙋 **You:**
+
 it doesnt necessarily start with class, can start with module or with frozen string literal comment
+
+---
+
+🤖 **Assistant:**
 
 Got it! Since your Ruby files may contain `module` declarations, or start with a frozen string literal comment, I'll update the script to account for these cases.
 
@@ -186,7 +197,15 @@ This script will now appropriately handle files starting with `module`, `class`,
 
 Let me know if you need further adjustments!
 
+---
+
+🙋 **You:**
+
 I want to have the module appended to the snake case string if there are class and module, is your script doing that?
+
+---
+
+🤖 **Assistant:**
 
 Ah, I see! You want the snake case conversion to account for both the `module` and `class` if both exist. So, if a file defines a `module` and then a `class` within it, the `lock_prefix` should use the combined snake case name of both the `module` and `class`. For example, if the file defines:
 
@@ -314,7 +333,15 @@ sidekiq_options lock_prefix: 'my_namespace_my_worker'
 
 Let me know if this version works as expected!
 
+---
+
+🙋 **You:**
+
 you missed only rb files and only those that have the lock: option
+
+---
+
+🤖 **Assistant:**
 
 Thank you for pointing that out! Let's refine the script to ensure that it:
 
@@ -414,11 +441,19 @@ This should now handle only `.rb` files that contain the `lock:` option, and it 
 
 Let me know if this resolves the issue!
 
+---
+
+🙋 **You:**
+
 This is an example of the output, I want to do it appending it after the lock statement (end of line), check if there is a comma
     sidekiq_options queue: :inksoft_stores,, lock_prefix: 'inksoft/printable_inksoft_order_details_worker' }
       lock: :until_executed,
       lock_args_method: ->(args) { args[0..1] }
 what you provided is adding a closing bracket and an extra comma
+
+---
+
+🤖 **Assistant:**
 
 Thank you for the clarification! Now that I understand your goal is to **append the `lock_prefix` after the `lock:` line** (or another line containing `lock`), and check whether there's already a trailing comma, we can fine-tune the script. Specifically, the script will:
 
@@ -526,7 +561,15 @@ lock_args_method: ->(args) { args[0..1] }
 
 This should now append `lock_prefix` in the correct place, checking for commas and ensuring there are no extra closing brackets. Let me know if it works as expected!
 
+---
+
+🙋 **You:**
+
 you missed added a jumpspace and a comma for the next argument when there is one
+
+---
+
+🤖 **Assistant:**
 
 Got it! I understand that you need the `lock_prefix` to be appended after the `lock:` line, while ensuring proper formatting—specifically, adding the correct comma and a space if there's another argument on the next line.
 
@@ -641,8 +684,15 @@ This version should now correctly append `lock_prefix` after the `lock:` line, e
 
 Let me know if this works for your setup!
 
+---
+
+🙋 **You:**
+
 it shoudl append the lock_prefix in a different line tho
 
+---
+
+🤖 **Assistant:**
 
 Ah, I see! If you want the `lock_prefix` to be appended **in a new line** after the `lock:` option while ensuring proper formatting (commas and indentation), here's how we can modify the script:
 

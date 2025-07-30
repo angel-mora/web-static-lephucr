@@ -3,22 +3,23 @@ title: Include Missing Tailwind Classes
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  In tailwind I have a few css classes that are not built
+  because I don't reference them explicitly in a gem that has view_components (rails).
+  How can I pass in the missing tailwind properly? It's called aria-group-expanded:block"
 draft: false
 ---
 
 # Include Missing Tailwind Classes
 
-## ✅ TODOs
-
-
-## 📌 Summary
-In tailwind I have a few css classes that are not built because I don't reference them explicitly in a gem that has view_components (rails). How can I pass in the missing tailwind properly? It's called aria-group-expanded:block
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 In tailwind I have a few css classes that are not built because I don't reference them explicitly in a gem that has view_components (rails). How can I pass in the missing tailwind properly? It's called aria-group-expanded:block
+
+---
+
+🤖 **Assistant:**
 
 If you're using Tailwind CSS with a Rails application and some of the utility classes aren't getting generated because they aren't detected in your templates, there are several ways to ensure they're included in the final build:
 
@@ -85,6 +86,10 @@ If you're using Tailwind CSS with a Rails application and some of the utility cl
 
 Pick the method that makes the most sense for your application. The comment method in the CSS files is straightforward and works best if you have just a handful of classes that are not detected. If you find yourself adding more and more classes this way, you might want to consider using the configuration methods for better maintainability.
 
+---
+
+🙋 **You:**
+
 it seems like this is the aria attributes plugin. How can I add a block config?
   plugins: [
     pluginAriaAtts,
@@ -101,6 +106,9 @@ it seems like this is the aria attributes plugin. How can I add a block config?
     })
   ]
 
+---
+
+🤖 **Assistant:**
 
 The ARIA attributes plugin for Tailwind is a custom plugin, and if you're trying to add a utility for `aria-group-expanded` that sets the `display` property to `block`, you can do so by extending your existing plugin configuration.
 

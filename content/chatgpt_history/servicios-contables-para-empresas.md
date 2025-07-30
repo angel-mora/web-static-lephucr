@@ -3,7 +3,8 @@ title: Servicios Contables para Empresas
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  servicio contable en Mexico tipo konta.com pero para
+  empresas normales que tienen empleados y pagan impuestos/nominas/IMSS/ISSSTE/etc"
 draft: false
 ---
 
@@ -12,13 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s despachos contables y un software contable que podrían adaptarse a tus necesidades:
 
-## 📌 Summary
-servicio contable en Mexico tipo konta.com pero para empresas normales que tienen empleados y pagan impuestos/nominas/IMSS/ISSSTE/etc
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 servicio contable en Mexico tipo konta.com pero para empresas normales que tienen empleados y pagan impuestos/nominas/IMSS/ISSSTE/etc
+
+---
+
+🤖 **Assistant:**
 
 En México, hay varias opciones de servicios contables especializados en empresas que manejan empleados, impuestos, nóminas, IMSS, ISSSTE, entre otros. Aquí te presento dos despachos contables y un software contable que podrían adaptarse a tus necesidades:
 

@@ -3,24 +3,25 @@ title: Relación abierta comunicación efectiva
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  dime cosas concretas para acordar una relacion abierta
+  cuando ambos estamos enculadxs y un poco en modo pareja. Ejemplo: Usar bumble, hablar
+  con gente que nos gustó en algún lugar, salir con gente que nos parece atractiva
+  o interesante, tener relaciones orales sin protección, cómo garantizar la comunicación
+  efectiva cuando las personas pueden tender a evadir el conflicto"
 draft: false
 ---
 
 # Relación abierta comunicación efectiva
 
-## ✅ TODOs
-
-
-## 📌 Summary
-dime cosas concretas para acordar una relacion abierta cuando ambos estamos enculadxs y un poco en modo pareja. Ejemplo: Usar bumble, hablar con gente que nos gustó en algún lugar, salir con gente que nos parece atractiva o interesante, tener relaciones orales sin protección, cómo garantizar la comunicación efectiva cuando las personas pueden tender a evadir el conflicto
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 dime cosas concretas para acordar una relacion abierta cuando ambos estamos enculadxs y un poco en modo pareja. Ejemplo: Usar bumble, hablar con gente que nos gustó en algún lugar, salir con gente que nos parece atractiva o interesante, tener relaciones orales sin protección, cómo garantizar la comunicación efectiva cuando las personas pueden tender a evadir el conflicto
 
+---
 
+🤖 **Assistant:**
 
 Para acordar una relación abierta cuando ambos están muy involucradxs emocionalmente y funcionando en modo pareja, es clave establecer límites claros y mecanismos de comunicación efectiva. Aquí tienes puntos concretos a discutir y acordar:  
 

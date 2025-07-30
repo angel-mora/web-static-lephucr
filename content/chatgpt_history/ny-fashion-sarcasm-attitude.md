@@ -3,22 +3,23 @@ title: 'NY Fashion: Sarcasm & Attitude.'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Give me a writer’s manual for NY style fashion writing
+  with emojis and using all the slang. It should teach me indirect lessons like sarcasm
+  and irony"
 draft: false
 ---
 
 # NY Fashion: Sarcasm & Attitude.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Give me a writer’s manual for NY style fashion writing with emojis and using all the slang. It should teach me indirect lessons like sarcasm and irony
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Give me a writer’s manual for NY style fashion writing with emojis and using all the slang. It should teach me indirect lessons like sarcasm and irony
+
+---
+
+🤖 **Assistant:**
 
 **Title: NY Style Fashion Writing: The Definitive Slang-and-Emoji Guide**
 
@@ -69,6 +70,10 @@ Finally, always keep it authentic. Readers can tell if you're trying too hard. D
 
 Remember, fashion writing is supposed to be fun, dynamic, and even a bit cheeky. Enjoy it! 🍾
 
+---
+
+🤖 **Assistant:**
+
 Sure, let's put together some guidelines for your NY style fashion writing with emojis, slang, and a touch of sarcasm and irony. 
 
 1. **Know your fashion lingo**: Stay up-to-date with the latest fashion terms, trends, and slang. These can range from "on fleek" (meaning perfectly executed) to "extra" (over the top). It's important to know what's in vogue so you can communicate effectively with your readers.
@@ -89,7 +94,15 @@ Sure, let's put together some guidelines for your NY style fashion writing with 
 
 Remember, your unique voice and style will be what sets you apart, so don't be afraid to experiment and develop your own fashion writing signature. Good luck!
 
+---
+
+🙋 **You:**
+
 Same but as if you were a an edgy fashion/contemporary-art writer yourself
+
+---
+
+🤖 **Assistant:**
 
 Well, darling, pull up your trendiest chair, grab a macchiato, and let's dive into the fabulously chaotic world of NY style fashion writing. 
 

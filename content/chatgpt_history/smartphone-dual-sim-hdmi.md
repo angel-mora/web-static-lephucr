@@ -3,24 +3,21 @@ title: Smartphone Dual SIM HDMI
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Celular dual sim usb c hdmi"
 draft: false
 ---
 
 # Smartphone Dual SIM HDMI
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Celular dual sim usb c hdmi
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Celular dual sim usb c hdmi
 
+---
 
+🤖 **Assistant:**
 
 If you're looking for a smartphone that supports dual SIM, USB-C, and HDMI output, there are a few options to consider. Here are some features to look for and some recommendations:
 

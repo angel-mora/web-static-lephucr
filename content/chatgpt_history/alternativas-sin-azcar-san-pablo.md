@@ -3,24 +3,23 @@ title: Alternativas Sin Azúcar San Pablo
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Alternativas al Metamucil para comprar en farmacia
+  san Pablo en la CDMX que no tengan azúcar añadida, de la mejor calidad y FDA/Union
+  Europea compliant. Navega"
 draft: false
 ---
 
 # Alternativas Sin Azúcar San Pablo
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Alternativas al Metamucil para comprar en farmacia san Pablo en la CDMX que no tengan azúcar añadida, de la mejor calidad y FDA/Union Europea compliant. Navega
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Alternativas al Metamucil para comprar en farmacia san Pablo en la CDMX que no tengan azúcar añadida, de la mejor calidad y FDA/Union Europea compliant. Navega 
+Alternativas al Metamucil para comprar en farmacia san Pablo en la CDMX que no tengan azúcar añadida, de la mejor calidad y FDA/Union Europea compliant. Navega
 
+---
 
+🤖 **Assistant:**
 
 En Farmacias San Pablo en la CDMX, puedes encontrar varias alternativas al Metamucil sin azúcar añadida que cumplen con los estándares de la FDA y la Unión Europea. Aquí te dejo algunas opciones de alta calidad disponibles:
 
@@ -34,7 +33,15 @@ Para encontrar estos productos, puedes visitar las distintas sucursales de Farma
 
 Si prefieres comprar en línea, Farmacias San Pablo también ofrece la opción de pedido y envío a domicilio a través de su sitio web [farmaciasanpablo.com.mx](https://www.farmaciasanpablo.com.mx/)【6†source】.
 
-Alimentos con más fibra en cdmx 
+---
+
+🙋 **You:**
+
+Alimentos con más fibra en cdmx
+
+---
+
+🤖 **Assistant:**
 
 Para aumentar tu ingesta de fibra en la Ciudad de México, aquí tienes una lista de alimentos ricos en fibra que puedes encontrar en supermercados orgánicos y asiáticos:
 

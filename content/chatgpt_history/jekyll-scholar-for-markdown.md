@@ -3,7 +3,8 @@ title: Jekyll-Scholar for Markdown.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I visualize bibtex references within github
+  markdown pages?"
 draft: false
 ---
 
@@ -12,13 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] it in the github files themselves and not through a deployed page?
 
-## 📌 Summary
-How can I visualize bibtex references within github markdown pages?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I visualize bibtex references within github markdown pages?
+
+---
+
+🤖 **Assistant:**
 
 You can visualize BibTeX references within GitHub Markdown pages by using a third-party tool called Jekyll-Scholar. Jekyll-Scholar is a Ruby gem that provides a BibTeX parser and bibliography renderer for Jekyll sites.
 
@@ -45,7 +48,15 @@ title: My Bibliography
 
 For more information on using Jekyll-Scholar, see the [official documentation](https://github.com/inukshuk/jekyll-scholar).
 
+---
+
+🙋 **You:**
+
 Is it possible to do it in the github files themselves and not through a deployed page?
+
+---
+
+🤖 **Assistant:**
 
 GitHub Markdown pages do not support rendering BibTeX references natively. However, there are a few workarounds you can use to display your references in GitHub Markdown files.
 
@@ -67,7 +78,15 @@ You can then include the HTML output in your GitHub Markdown file using an `<ifr
 
 Note that this approach has some limitations, such as the need to manually update the HTML file each time you make changes to your BibTeX references. If you need a more robust solution, you may want to consider using a Jekyll site with Jekyll-Scholar, as described in my previous answer.
 
+---
+
+🙋 **You:**
+
 If I wanted to use that jekyll scholar library, how could I parse obsidian markdown wikilinks?
+
+---
+
+🤖 **Assistant:**
 
 Jekyll-Scholar supports parsing BibTeX references from Markdown files, including Markdown files that use Obsidian-style wikilinks. To parse Obsidian wikilinks, you'll need to use a modified version of Jekyll-Scholar that includes a custom parser for Obsidian-style links.
 
@@ -107,7 +126,15 @@ Here's how you can set up Jekyll-Scholar to parse Obsidian wikilinks:
 
 That's it! With these steps, you can use Jekyll-Scholar to parse BibTeX references from your Markdown files, including Obsidian-style wikilinks.
 
+---
+
+🙋 **You:**
+
 Awesome. In another entry a few days ago, I asked you about Gollum wiki within a Rails app with authentication/authorization. If I had developed that the way you suggested, having a subdomain for each user, how could I do it so it produces a jekyll scholar page from the gollum wiki? My main concerns are how to render Obsidian wikilinks and bibtex.
+
+---
+
+🤖 **Assistant:**
 
 If you're using Gollum to manage user-specific wikis within a Rails app, you can set up each user's wiki as a Jekyll site with Jekyll-Scholar to render BibTeX references and Obsidian-style wikilinks.
 

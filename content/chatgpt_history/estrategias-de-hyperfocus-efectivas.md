@@ -3,28 +3,38 @@ title: Estrategias de hyperfocus efectivas
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tips para hyperfocus, estoy overemployed. Quiero tener
+  sesiones de 30 minutos MUY efectivas. Normalmente mi problema es que pienso mucho
+  y me cuesta trabajo empezar a codear. También me triggerea el PMO sentir que no
+  entiendo el código y me cuesta trabajo concentrarme para leer. He estado intentando
+  lo de leer en voz alta pero en general ocupo los mejores tips de productividad para
+  estas situaciones excepcionales."
 draft: false
 ---
 
 # Estrategias de hyperfocus efectivas
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Tips para hyperfocus, estoy overemployed. Quiero tener sesiones de 30 minutos MUY efectivas. Normalmente mi problema es que pienso mucho y me cuesta trabajo empezar a codear. También me triggerea el PMO sentir que no entiendo el código y me cuesta trabajo concentrarme para leer. He estado intentando lo de leer en voz alta pero en general ocupo los mejores tips de productividad para estas situaciones excepcionales.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tips para hyperfocus, estoy overemployed. Quiero tener sesiones de 30 minutos MUY efectivas. Normalmente mi problema es que pienso mucho y me cuesta trabajo empezar a codear. También me triggerea el PMO sentir que no entiendo el código y me cuesta trabajo concentrarme para leer. He estado intentando lo de leer en voz alta pero en general ocupo los mejores tips de productividad para estas situaciones excepcionales.
 
+---
 
+🤖 **Assistant:**
 
 User is overemployed and struggles to begin coding due to overthinking. They are triggered by PMO when feeling like they don't understand the code and have difficulty concentrating to read. They have been trying reading aloud as a strategy but seek the best productivity tips for these exceptional situations.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Here are some hyperfocus strategies tailored to your situation:
 

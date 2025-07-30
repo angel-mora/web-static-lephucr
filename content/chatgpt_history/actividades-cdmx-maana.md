@@ -4,24 +4,21 @@ tags:
 - '22'
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  After CDMX 5am"
 draft: false
 ---
 
 # Actividades CDMX mañana
 
-## ✅ TODOs
-
-
-## 📌 Summary
-After CDMX 5am
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 After CDMX 5am
 
+---
 
+🤖 **Assistant:**
 
 Good morning! It's currently 4:34 AM on Sunday, December 1, 2024, in Mexico City. Here's the weather forecast for today:
 
@@ -45,9 +42,17 @@ As the day unfolds, here are some events and activities you might consider:
 
 - **Talk & Play #22:** Starting at 7:30 PM, engage in interactive discussions and activities at Wooftop Beer Garden & Canine Club. citeturn0search0
 
-Please verify event details and availability in advance, as schedules may change. Have a wonderful day exploring Mexico City! 
+Please verify event details and availability in advance, as schedules may change. Have a wonderful day exploring Mexico City!
+
+---
+
+🙋 **You:**
 
 After CDMX 5am
+
+---
+
+🤖 **Assistant:**
 
 Good morning! It's currently 4:34 AM on Sunday, December 1, 2024, in Mexico City. Here's the weather forecast for today:
 
@@ -71,9 +76,17 @@ As the day unfolds, here are some events and activities you might consider:
 
 - **Talk & Play #22:** Starting at 7:30 PM, engage in interactive discussions and activities at Wooftop Beer Garden & Canine Club.
 
-Please verify event details and availability in advance, as schedules may change. Have a wonderful day exploring Mexico City! 
+Please verify event details and availability in advance, as schedules may change. Have a wonderful day exploring Mexico City!
+
+---
+
+🙋 **You:**
 
 I meat after party
+
+---
+
+🤖 **Assistant:**
 
 I understand you're looking for after-party events in Mexico City. As it's currently 4:35 AM on Sunday, December 1, 2024, most events have concluded for the night. However, here are some upcoming events later today that you might be interested in:
 

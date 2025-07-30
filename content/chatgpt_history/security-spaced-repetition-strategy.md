@@ -3,22 +3,21 @@ title: Security+ Spaced Repetition Strategy
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Spaced repetition strategy for CompTIA Security+ prep"
 draft: false
 ---
 
 # Security+ Spaced Repetition Strategy
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Spaced repetition strategy for CompTIA Security+ prep
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Spaced repetition strategy for CompTIA Security+ prep 
+Spaced repetition strategy for CompTIA Security+ prep
+
+---
+
+🤖 **Assistant:**
 
 Spaced repetition is a highly effective technique for retaining information. Here's a strategy tailored to preparing for the CompTIA Security+ exam using spaced repetition:
 

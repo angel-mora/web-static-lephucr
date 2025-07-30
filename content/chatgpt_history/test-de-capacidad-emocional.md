@@ -3,24 +3,22 @@ title: Test de capacidad emocional
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hay algo así como el test de 12 personalidades pero
+  de capacidad emocional?"
 draft: false
 ---
 
 # Test de capacidad emocional
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Hay algo así como el test de 12 personalidades pero de capacidad emocional?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Hay algo así como el test de 12 personalidades pero de capacidad emocional? 
+Hay algo así como el test de 12 personalidades pero de capacidad emocional?
 
+---
 
+🤖 **Assistant:**
 
 Sí, hay varios tests y cuestionarios diseñados para evaluar la inteligencia emocional y la capacidad emocional de las personas. Algunos de los más conocidos son:
 
@@ -34,7 +32,15 @@ Sí, hay varios tests y cuestionarios diseñados para evaluar la inteligencia em
 
 Cada uno de estos tests tiene un enfoque diferente y puede ser útil dependiendo de lo que estés buscando evaluar. ¿Te gustaría saber más sobre alguno de estos tests en particular?
 
-Websites? 
+---
+
+🙋 **You:**
+
+Websites?
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes algunos sitios web donde puedes encontrar y realizar tests de inteligencia emocional:
 
@@ -50,7 +56,15 @@ Aquí tienes algunos sitios web donde puedes encontrar y realizar tests de intel
 
 Estos sitios ofrecen una variedad de tests que pueden ayudarte a evaluar y mejorar tu inteligencia emocional.
 
-Hay tests online de machismo? 
+---
+
+🙋 **You:**
+
+Hay tests online de machismo?
+
+---
+
+🤖 **Assistant:**
 
 Sí, hay varios tests online que están diseñados para evaluar actitudes y creencias machistas. Estos tests pueden ser útiles para identificar y reflexionar sobre posibles sesgos de género. Aquí te dejo algunos ejemplos:
 

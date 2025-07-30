@@ -3,28 +3,34 @@ title: Rails Blog with Raindrop
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Best approach to build a rails blog that will potentially
+  pull from raindrop but should be able to handle obsidian compatible markdown"
 draft: false
 ---
 
 # Rails Blog with Raindrop
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Best approach to build a rails blog that will potentially pull from raindrop but should be able to handle obsidian compatible markdown
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Best approach to build a rails blog that will potentially pull from raindrop but should be able to handle obsidian compatible markdown
 
+---
 
+🤖 **Assistant:**
 
 User is interested in building a Rails blog that will potentially pull content from Raindrop and handle Obsidian-compatible Markdown.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 To build a Rails blog that pulls content from Raindrop and handles Obsidian-compatible Markdown, you can follow this approach:
 
@@ -80,15 +86,29 @@ To build a Rails blog that pulls content from Raindrop and handles Obsidian-comp
 
 This setup will allow you to create a robust blog that integrates Raindrop content and maintains compatibility with Obsidian's Markdown.
 
+---
+
+🙋 **You:**
+
 Consider options like this article and golem to handle the article as a git repo
 
 https://dev.to/stripe/rendering-markdown-with-markdoc-in-rails-3bp0
 
+---
 
+🤖 **Assistant:**
 
 User is considering using options like handling the article as a Git repo, including using tools like Markdoc, as mentioned in the Stripe article on Dev.to, and Golem for rendering Markdown in Rails.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 To integrate options like handling articles as a Git repository, along with tools like Markdoc and Golem for rendering Markdown, here's an enhanced approach for your Rails blog:
 
@@ -137,9 +157,15 @@ To integrate options like handling articles as a Git repository, along with tool
 
 This setup not only enhances the flexibility and robustness of your blog but also allows you to maintain a structured and version-controlled content system with advanced Markdown rendering.
 
+---
+
+🙋 **You:**
+
 So tell me the technical gems we will be using and how you plan to address the obsidian compatible markdown rendering. Are you using a parser just within the app or it will enable internal links within the rails app?
 
+---
 
+🤖 **Assistant:**
 
 ### Technical Gems to Use
 
@@ -198,7 +224,15 @@ So tell me the technical gems we will be using and how you plan to address the o
 
 This setup ensures that your blog fully supports Obsidian’s Markdown features, particularly the internal linking, while also taking advantage of version control with Git and advanced Markdown rendering with Markdoc.
 
+---
+
+🙋 **You:**
+
 How about keeping it backend and using obsidiosaurus GitHub repo? Browse
+
+---
+
+🤖 **Assistant:**
 
 Using the **Obsidiosaurus** tool could be a solid backend approach for your Rails blog project that needs to handle Obsidian-compatible Markdown. Obsidiosaurus acts as a converter that bridges Obsidian's unique Markdown syntax with the Docusaurus static site generator. While still in development, it supports a wide range of Markdown features—like links, tables, code blocks, and images—making it well-suited for integrating complex notes directly into your Rails app.
 
@@ -215,7 +249,15 @@ Using Obsidiosaurus offers a robust solution for your needs, ensuring that your 
 
 For more details on Obsidiosaurus, you can check the [official documentation](https://cimsta.github.io/obsidiosaurus-docs/docs/main/Introduction)【21†source】.
 
-Explain implementation 
+---
+
+🙋 **You:**
+
+Explain implementation
+
+---
+
+🤖 **Assistant:**
 
 To implement a Rails blog that uses Obsidiosaurus to handle Obsidian-compatible Markdown, you can follow these steps:
 

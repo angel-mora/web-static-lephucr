@@ -3,24 +3,22 @@ title: Comparación Hipoteca vs Inversión
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Haz una gráfica comparando el gasto en una hipoteca
+  a tasa aproximada de 12.5% vs invertir ese dinero en el SP500 durante 20 años"
 draft: false
 ---
 
 # Comparación Hipoteca vs Inversión
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Haz una gráfica comparando el gasto en una hipoteca a tasa aproximada de 12.5% vs invertir ese dinero en el SP500 durante 20 años
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Haz una gráfica comparando el gasto en una hipoteca a tasa aproximada de 12.5% vs invertir ese dinero en el SP500 durante 20 años
 
+---
 
+🤖 **Assistant:**
 
 Para crear una gráfica comparativa del gasto en una hipoteca con una tasa de interés del 12.5% versus invertir ese dinero en el S&P 500 durante 20 años, necesitamos algunos datos y suposiciones:
 
@@ -54,7 +52,9 @@ Luego, calculamos el valor futuro de una inversión mensual igual a \( M \) en e
 
 Voy a calcular estos valores y generar la gráfica.
 
+---
 
+🤖 **Assistant:**
 
 Para realizar esta comparación, primero establezcamos algunos supuestos básicos para la hipoteca y la inversión en el S&P 500.
 
@@ -93,6 +93,10 @@ donde:
 - \( n \) es el número de años (20)
 
 Vamos a calcular estos valores y graficar los resultados.
+
+---
+
+🤖 **Assistant:**
 
 ### Resultados:
 

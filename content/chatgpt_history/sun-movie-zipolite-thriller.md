@@ -3,22 +3,21 @@ title: 'Sun Movie: Zipolite Thriller'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Yarvin intellectual profile"
 draft: false
 ---
 
 # Sun Movie: Zipolite Thriller
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Yarvin intellectual profile
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Yarvin intellectual profile
+
+---
+
+🤖 **Assistant:**
 
 Curtis Yarvin, also known by the pen name Mencius Moldbug, is a controversial figure known for his writings on philosophy, politics, and technology. He is often associated with the Dark Enlightenment or neoreactionary movement (NRx), a loosely connected group that critiques democratic governance, egalitarianism, and modern liberal ideologies. Yarvin's work is characterized by a deep skepticism of democracy, a preference for non-democratic forms of governance such as monarchy or neocameralism, and an interest in technology and its potential to reshape society.
 
@@ -38,7 +37,15 @@ Key aspects of Yarvin's intellectual profile include:
 
 Yarvin's work is complex and multifaceted, spanning across political theory, technology, and software engineering. His ideas have sparked debate
 
+---
+
+🙋 **You:**
+
 Candace Owens
+
+---
+
+🤖 **Assistant:**
 
 Candace Owens is a prominent American conservative author, commentator, and political activist known for her outspoken support of conservative and right-wing policies. Her rise to prominence began in the mid-2010s, and since then, she has become a significant figure in American political discourse, especially on social media and as a speaker at various political events. Owens is known for her criticism of the Democratic Party and her opposition to what she perceives as its negative impact on the African American community. She advocates for conservative viewpoints and supports various policies aligned with the Republican Party.
 
@@ -48,6 +55,14 @@ Key aspects of Candace Owens's profile include:
 
 2. **Role in the
 
+---
+
+🙋 **You:**
+
 Roating in the sun movie in Zipolite
+
+---
+
+🤖 **Assistant:**
 
 The movie you're referring to is "Rotting in the Sun," a 2023 black comedy thriller directed by Sebastián Silva, who co-wrote the screenplay with Pedro Peirano. It stars Jordan Firstman, Silva himself, and Catalina Saavedra. The film had its world premiere at the Sundance Film Festival on January 22, 2023, and was later released theatrically in the United States on September 8, 2023, before streaming on Mubi on September 15, 2023【7:0†source】.

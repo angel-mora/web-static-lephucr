@@ -3,24 +3,22 @@ title: Desayuno pre entreno Ayurveda
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Mejor desayuno pre entreno del gym. Que cumpla no ser
+  sugar spike y bueno desde la Ayurveda"
 draft: false
 ---
 
 # Desayuno pre entreno Ayurveda
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Mejor desayuno pre entreno del gym. Que cumpla no ser sugar spike y bueno desde la Ayurveda
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Mejor desayuno pre entreno del gym. Que cumpla no ser sugar spike y bueno desde la Ayurveda 
+Mejor desayuno pre entreno del gym. Que cumpla no ser sugar spike y bueno desde la Ayurveda
 
+---
 
+🤖 **Assistant:**
 
 Para un desayuno pre-entreno que no cause picos de glucosa y sea compatible con Ayurveda, puedes probar:  
 

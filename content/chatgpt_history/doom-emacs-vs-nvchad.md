@@ -3,7 +3,7 @@ title: Doom Emacs vs NvChad
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  doom emacs vs nvchad"
 draft: false
 ---
 
@@ -12,13 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] - [ ] Prepare presentation slides for the next meeting.
 
-## 📌 Summary
-doom emacs vs nvchad
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 doom emacs vs nvchad
+
+---
+
+🤖 **Assistant:**
 
 Comparing Doom Emacs and NvChad involves looking at different aspects such as customization, performance, user experience, and community support. Here's a breakdown:
 
@@ -44,7 +46,15 @@ Comparing Doom Emacs and NvChad involves looking at different aspects such as cu
 
 In summary, the choice between Doom Emacs and NvChad depends on personal preferences and requirements. If you are inclined towards deep customization, extensive features, and are willing to climb a steeper learning curve, Doom Emacs is a great choice. On the other hand, if you prefer a lighter, more accessible, and Vim-centric experience, NvChad would be more suitable.
 
+---
+
+🙋 **You:**
+
 Common and differential shortcuts
+
+---
+
+🤖 **Assistant:**
 
 When comparing Doom Emacs and NvChad, we find that both have unique shortcuts and keybindings that reflect their respective philosophies and workflows. However, due to their roots in Emacs and Vim, respectively, there are some commonalities as well as differences in their shortcuts. Let's explore them:
 
@@ -80,7 +90,15 @@ The key differences in shortcuts stem from the fundamental differences between E
 
 Ultimately, the choice of shortcuts and keybindings often reflects the broader design philosophy and user experience goals of each environment. Doom Emacs offers a rich, Emacs-centric approach with a focus on extensibility and integration, while NvChad emphasizes efficiency, simplicity, and the power of Vim's modal editing.
 
+---
+
+🙋 **You:**
+
 Core difference between Obsidian and Logseq. Tell abstract differences and then show code samples
+
+---
+
+🤖 **Assistant:**
 
 The core differences between Obsidian and Logseq revolve around their approach to note-taking, data storage, and user interface. Both are tools designed for knowledge management and personal knowledge bases, but they have distinct philosophies and features.
 

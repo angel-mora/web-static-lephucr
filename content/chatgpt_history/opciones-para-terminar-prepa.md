@@ -3,24 +3,22 @@ title: Opciones para terminar prepa
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuál es la manera más fácil de terminar la prepa en
+  CDMX? Persona de 22 años"
 draft: false
 ---
 
 # Opciones para terminar prepa
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cuál es la manera más fácil de terminar la prepa en CDMX? Persona de 22 años
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cuál es la manera más fácil de terminar la prepa en CDMX? Persona de 22 años
 
+---
 
+🤖 **Assistant:**
 
 La manera más fácil para una persona de 22 años de terminar la prepa en CDMX es a través de la modalidad de preparatoria abierta o por medio del INEA (Instituto Nacional para la Educación de los Adultos). Estas opciones ofrecen flexibilidad para estudiar y presentar exámenes en tiempos ajustados a la conveniencia del alumno. Aquí te dejo un resumen de las opciones más accesibles:
 
@@ -34,7 +32,15 @@ La manera más fácil para una persona de 22 años de terminar la prepa en CDMX 
 
 Cada opción tiene diferentes requisitos y costos (excepto el INEA, que es gratuito). Dependiendo del tiempo disponible y de la forma de estudio que prefieras, puedes elegir la que mejor se ajuste a tus necesidades.
 
+---
+
+🙋 **You:**
+
 Referencia de certificado de prepa del INEA
+
+---
+
+🤖 **Assistant:**
 
 El INEA ofrece un programa de **Educación Media Superior (Preparatoria)** a través del "Bachillerato INEA", dirigido a adultos que no han terminado la educación básica. Aunque históricamente el INEA ha sido más conocido por ofrecer alfabetización y estudios de primaria y secundaria, también colabora con instituciones para facilitar el acceso a la preparatoria abierta o en línea.
 

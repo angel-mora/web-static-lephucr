@@ -3,22 +3,22 @@ title: Declare Array of Strings
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  how can i declare an array of strings using let(:)
+  in rspec"
 draft: false
 ---
 
 # Declare Array of Strings
 
-## ✅ TODOs
-
-
-## 📌 Summary
-how can i declare an array of strings using let(:) in rspec
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 how can i declare an array of strings using let(:) in rspec
+
+---
+
+🤖 **Assistant:**
 
 In RSpec, `let` is used to define a memoized helper method. The purpose of using `let` is to create a memoized variable that you want to use across multiple examples in a spec file. When you want to declare an array of strings using `let`, you can do it like this:
 

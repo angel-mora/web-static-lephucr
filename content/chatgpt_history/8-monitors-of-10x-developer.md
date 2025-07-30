@@ -3,22 +3,24 @@ title: 8 Monitors of 10x Developer
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  A 10x developer has 8 monitors with multiple things
+  happening at the same time. Since being a 10x developer means having multiple things
+  happening at once that you can interact with for a few mins and then let them run
+  for a long time, what are those 8 monitors displaying?"
 draft: false
 ---
 
 # 8 Monitors of 10x Developer
 
-## ✅ TODOs
-
-
-## 📌 Summary
-A 10x developer has 8 monitors with multiple things happening at the same time. Since being a 10x developer means having multiple things happening at once that you can interact with for a few mins and then let them run for a long time, what are those 8 monitors displaying?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 A 10x developer has 8 monitors with multiple things happening at the same time. Since being a 10x developer means having multiple things happening at once that you can interact with for a few mins and then let them run for a long time, what are those 8 monitors displaying?
+
+---
+
+🤖 **Assistant:**
 
 The term "10x developer" is often used somewhat facetiously to describe a developer who is perceived as being ten times more productive than an average developer. This perception can stem from various factors like experience, efficiency, multitasking, or using advanced tools and techniques. The concept is highly debated, and many argue that such a stark difference in productivity isn't realistic.
 
@@ -42,7 +44,15 @@ However, for the sake of the question, let's imagine a highly productive develop
 
 Note that having so many monitors and trying to actively engage with all of them may not always lead to increased productivity. Depending on the individual and the tasks at hand, it might lead to increased cognitive load and distractions. Efficient multitasking often requires a balance and the ability to focus on the right things at the right time.
 
+---
+
+🙋 **You:**
+
 So let's say this developer uses all those monitors to watch logs from multiple places. Being that developer a DevSecOps and also a Ruby on Rails hacker, what concrete things are displayed in those monitors? (E.g. one of them shows production and staging logs through capistrano, another one the processes of the computer using htop, an IDS tool for their multiple services, a screen with multiple cameras, what else?) Provide concrete instances of programs running in each of those screens
+
+---
+
+🤖 **Assistant:**
 
 Certainly! In the scenario you've described, where a DevSecOps developer focusing on Ruby on Rails is using eight monitors mainly to observe various logs and system states, here's a concrete breakdown:
 
@@ -64,7 +74,15 @@ Certainly! In the scenario you've described, where a DevSecOps developer focusin
 
 These tools and displays provide a comprehensive overview of various aspects of development, security, and operations, giving the developer a broad control panel from which to manage the technology landscape they are responsible for. Again, while the multitasking ability this setup affords might seem beneficial, it requires considerable skill to manage effectively without becoming overwhelmed or distracted.
 
+---
+
+🙋 **You:**
+
 Do devs actually have this sort of setup? What they use it for in real life?
+
+---
+
+🤖 **Assistant:**
 
 While the setup described with eight monitors and various specialized tools running simultaneously might be somewhat exaggerated, there are indeed developers and other IT professionals who utilize multiple monitors for increased efficiency. The exact configuration and usage will vary widely based on the role, responsibilities, and personal preferences of the individual.
 
@@ -88,7 +106,15 @@ In general, the use of multiple monitors aims to improve efficiency by reducing 
 
 However, not every developer or IT professional will find such a setup beneficial. Some might prefer a more focused approach with fewer distractions, and thus fewer screens. The 'ideal' setup can vary widely between individuals and is often a matter of personal preference and specific job requirements. In practice, a setup with two to three monitors is more common and usually provides a good balance between accessibility and focus.
 
+---
+
+🙋 **You:**
+
 I've seen traders have many screens open at once, do they really use them all?
+
+---
+
+🤖 **Assistant:**
 
 Yes, many traders do indeed use multiple screens in their daily work, and there are several reasons why this setup is prevalent in the trading world:
 
@@ -108,7 +134,15 @@ The use of multiple screens allows traders to absorb a large amount of informati
 
 So yes, while the number of screens and the exact setup may vary widely, the use of multiple monitors is a common and practical aspect of the trading profession.
 
+---
+
+🙋 **You:**
+
 Now tell me concrete software that runs in each of the traders' screens. Which of them have open source alternatives?
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Here's a breakdown of the types of software a trader might have running on different screens, along with some examples of proprietary and open-source alternatives where applicable:
 

@@ -3,24 +3,22 @@ title: Universidades en Orizaba, Veracruz
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  dime todas las universidades cerca y en Orizaba, Veracruz,
+  donde tengan una carrera de donde pueda reclutar web developers"
 draft: false
 ---
 
 # Universidades en Orizaba, Veracruz
 
-## ✅ TODOs
-
-
-## 📌 Summary
-dime todas las universidades cerca y en Orizaba, Veracruz, donde tengan una carrera de donde pueda reclutar web developers
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 dime todas las universidades cerca y en Orizaba, Veracruz, donde tengan una carrera de donde pueda reclutar web developers
 
+---
 
+🤖 **Assistant:**
 
 Aquí tienes una lista de universidades en Orizaba, Veracruz, y cercanías que podrían tener carreras relacionadas con el desarrollo web:
 

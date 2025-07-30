@@ -3,23 +3,22 @@ title: Leap Year x86-64 Assembly
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Please solve and explain to me the following exercise:"
 draft: false
 ---
 
 # Leap Year x86-64 Assembly
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Please solve and explain to me the following exercise:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Please solve and explain to me the following exercise:
 https://exercism.org/tracks/x86-64-assembly/exercises/leap/
+
+---
+
+🤖 **Assistant:**
 
 This exercise requires you to write an x86-64 Assembly language program to determine if a given year is a leap year.
 
@@ -39,7 +38,15 @@ Here's a high-level explanation of how the solution might look:
 
 Note that this is just a high-level explanation and the actual code will be more complex.
 
+---
+
+🙋 **You:**
+
 How would the code look like?
+
+---
+
+🤖 **Assistant:**
 
 Here is an example implementation of the algorithm in x86-64 Assembly language:
 
@@ -94,6 +101,10 @@ end:
 
 Note that in this example, the year is defined as a constant value `YEAR`. Replace this value with the year you want to check.
 
+---
+
+🙋 **You:**
+
 This is what I need to adapt the algorithm to
 section .text
 global leap_year
@@ -104,6 +115,10 @@ leap_year:
 %ifidn __OUTPUT_FORMAT__,elf64
 section .note.GNU-stack noalloc noexec nowrite progbits
 %endif
+
+---
+
+🤖 **Assistant:**
 
 Here's an example of the code adapted to the provided format:
 
@@ -156,6 +171,10 @@ section .note.GNU-stack noalloc noexec nowrite progbits
 
 In this code, the year is passed to the function as an argument on the stack. The argument is loaded into the RAX register using `movq 8(%rsp), %rax`, where `8(%rsp)` is the memory address of the argument on the stack. The function returns either 0 or 1 in the RAX register, indicating whether the year is a leap year or not.
 
+---
+
+🙋 **You:**
+
 section .text
 global leap_year
 
@@ -201,5 +220,8 @@ leap:
 section .note.GNU-stack noalloc noexec nowrite progbits
 %endif
 
+---
+
+🤖 **Assistant:**
 
 That looks correct! This code implements the algorithm to determine if a given year is a leap year or not. The year is passed as an argument on the stack and is loaded into the RAX register using `movq 8(%rsp), %rax`. The function then uses the division and testing operations to determine if the year is a leap year or not. If the year is a leap year, the function returns 1 in the RAX register. If it is not a leap year, the function returns 0. The code is also equipped with the `%ifidn` directive to ensure that the stack is properly configured for the output format.

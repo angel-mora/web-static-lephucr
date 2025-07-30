@@ -3,24 +3,22 @@ title: Sony ZV-E10 vs Blue Yeti
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  sony zve10 vs blue yeti. Which is better for the sound
+  of a vlog?"
 draft: false
 ---
 
 # Sony ZV-E10 vs Blue Yeti
 
-## ✅ TODOs
-
-
-## 📌 Summary
-sony zve10 vs blue yeti. Which is better for the sound of a vlog?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 sony zve10 vs blue yeti. Which is better for the sound of a vlog?
 
+---
 
+🤖 **Assistant:**
 
 When deciding between the Sony ZV-E10 and the Blue Yeti for vlogging sound quality, it's important to understand the strengths and intended uses of each device.
 

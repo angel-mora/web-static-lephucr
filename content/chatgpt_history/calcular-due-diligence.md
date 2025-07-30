@@ -3,24 +3,21 @@ title: Calcular due diligence.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Calcular due diligence"
 draft: false
 ---
 
 # Calcular due diligence.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Calcular due diligence
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Calcular due diligence 
+Calcular due diligence
 
+---
 
+🤖 **Assistant:**
 
 El due diligence (o diligencia debida) es un proceso integral que se lleva a cabo antes de realizar una inversión, adquirir una empresa o formalizar un acuerdo importante. Su objetivo es evaluar la viabilidad y los riesgos asociados con la transacción. A continuación, se describen los pasos generales para realizar un due diligence:
 

@@ -4,20 +4,15 @@ tags:
 - ff471a
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  const defaultTheme = require('tailwindcss/defaultTheme')"
 draft: false
 ---
 
 # Change Font to Inconsolata
 
-## ✅ TODOs
-
-
-## 📌 Summary
-const defaultTheme = require('tailwindcss/defaultTheme')
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 const defaultTheme = require('tailwindcss/defaultTheme')
 
@@ -70,6 +65,10 @@ module.exports = {
 }
 
 How can I change the font to Inconsolata?
+
+---
+
+🤖 **Assistant:**
 
 To change the font to Inconsolata in your Tailwind CSS configuration, you would update the `fontFamily` section of the `theme` object. Specifically, you would replace `'Inter'` with `'Inconsolata'` for the `sans` fontFamily, and you can also set it for the `display` fontFamily if you want to use Inconsolata there as well.
 

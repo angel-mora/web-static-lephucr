@@ -3,24 +3,22 @@ title: Art Venture Capital Models
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Example of something like a Venture Capital fund but
+  for contemporary art​​​​​​​​​​​​​​​​, provide urls"
 draft: false
 ---
 
 # Art Venture Capital Models
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Example of something like a Venture Capital fund but for contemporary art​​​​​​​​​​​​​​​​, provide urls
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Example of something like a Venture Capital fund but for contemporary art​​​​​​​​​​​​​​​​, provide urls 
+Example of something like a Venture Capital fund but for contemporary art​​​​​​​​​​​​​​​​, provide urls
 
+---
 
+🤖 **Assistant:**
 
 Here are a few examples of initiatives and organizations that operate somewhat like venture capital funds, but for contemporary art:
 
@@ -45,6 +43,10 @@ Here are a few examples of initiatives and organizations that operate somewhat l
    - [Outset Contemporary Art Fund](https://outset.org.uk/)
 
 These organizations support contemporary artists and projects by providing funding and resources, similar to how a VC fund supports startups.
+
+---
+
+🙋 **You:**
 
 URLs for these
 
@@ -86,6 +88,10 @@ These combine art investment with blockchain technology for transparency and fra
 However, a true "Venture Capital for Contemporary Art" model - one that combines significant funding, active support for artists' careers, and a portfolio approach - is still relatively rare. Most existing models focus either on artwork as a pure investment or on supporting artists without the explicit goal of financial returns.
 
 Would you like more details on any of these existing models, or should we explore how a more comprehensive "Art VC" could be developed?​​​​​​​​​​​​​​​​
+
+---
+
+🤖 **Assistant:**
 
 Here are the URLs for the mentioned examples:
 

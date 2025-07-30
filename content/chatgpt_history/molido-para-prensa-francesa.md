@@ -3,24 +3,21 @@ title: Molido para prensa francesa
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  ¿Cuál es el molido para prensa francesa?"
 draft: false
 ---
 
 # Molido para prensa francesa
 
-## ✅ TODOs
-
-
-## 📌 Summary
-¿Cuál es el molido para prensa francesa?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 ¿Cuál es el molido para prensa francesa?
 
+---
 
+🤖 **Assistant:**
 
 El molido ideal para una **prensa francesa** es **grueso**, similar a la textura de la sal gruesa o pan molido. Este tipo de molido permite que el agua pase a través del café de manera uniforme durante el tiempo de inmersión (generalmente entre 4 y 5 minutos), evitando que los granos finos pasen por el filtro de malla metálica.
 

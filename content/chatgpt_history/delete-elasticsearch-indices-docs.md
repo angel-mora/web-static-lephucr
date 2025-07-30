@@ -3,20 +3,15 @@ title: Delete Elasticsearch Indices & Docs
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I delete a record by company? Im trying to"
 draft: false
 ---
 
 # Delete Elasticsearch Indices & Docs
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I delete a record by company? Im trying to
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I delete a record by company? Im trying to
 ElasticIndexer.new.send(:client).get(index: 'mypolicies-production-documents-133-demo15_3ecd71257d97895d9946dbda4d3df5f6', id: 1)
@@ -197,6 +192,10 @@ end
 
 I want to delete all the records that match the pattern 'mypolicies-production-documents-133-* to delete the indices, how can I do it? Provide answer and then explain
 
+---
+
+🤖 **Assistant:**
+
 To delete all records that match the pattern `mypolicies-production-documents-133-*` in Elasticsearch, you need to perform a few steps:
 
 1. **Delete by Query**: Use the "delete by query" API to delete documents that match a certain condition. This is useful when you want to delete documents based on document content rather than deleting an entire index.
@@ -241,8 +240,16 @@ end
 
 You can integrate these methods into your `ElasticIndexer` service and call them as needed. Remember to handle exceptions and logging appropriately, as these operations can have significant impacts on your Elasticsearch data.
 
+---
+
+🙋 **You:**
+
 Is it possible to put the and inside the slug conditions?
  @company.settings.exists?(slug: 'search') && @company.settings.exists?(slug: 'disabled')
+
+---
+
+🤖 **Assistant:**
 
 Yes, it's possible to consolidate your conditions into a single query, but it requires a slightly different approach. In the code snippet you provided:
 

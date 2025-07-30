@@ -3,24 +3,22 @@ title: Risk Frameworks for VC
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  are there top edge books better than venture deals
+  for a quantifiable framework to understand risk and generate vc contracts?"
 draft: false
 ---
 
 # Risk Frameworks for VC
 
-## ✅ TODOs
-
-
-## 📌 Summary
-are there top edge books better than venture deals for a quantifiable framework to understand risk and generate vc contracts?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 are there top edge books better than venture deals for a quantifiable framework to understand risk and generate vc contracts?
 
+---
 
+🤖 **Assistant:**
 
 While "Venture Deals" by Brad Feld and Jason Mendelson is a cornerstone for understanding venture capital, there are several other notable books that provide a quantitative framework for assessing risk and structuring VC contracts:
 

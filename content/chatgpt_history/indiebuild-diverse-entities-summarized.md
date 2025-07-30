@@ -3,22 +3,21 @@ title: 'IndieBuild: Diverse Entities Summarized'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Busca en la web IndieBuild"
 draft: false
 ---
 
 # IndieBuild: Diverse Entities Summarized
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Busca en la web IndieBuild
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Busca en la web IndieBuild
+
+---
+
+🤖 **Assistant:**
 
 IndieBuild parece referirse a varios conceptos y entidades diferentes según el contexto:
 

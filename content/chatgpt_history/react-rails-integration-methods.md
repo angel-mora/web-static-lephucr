@@ -3,22 +3,22 @@ title: React + Rails Integration Methods
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tell me all the ways we can connect React + Rails and
+  what is the regular preferred way."
 draft: false
 ---
 
 # React + Rails Integration Methods
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Tell me all the ways we can connect React + Rails and what is the regular preferred way.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tell me all the ways we can connect React + Rails and what is the regular preferred way.
+
+---
+
+🤖 **Assistant:**
 
 Connecting React with Rails can be achieved in several ways, each suited for different needs and preferences. Here are the common methods:
 

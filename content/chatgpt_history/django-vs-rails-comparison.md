@@ -3,22 +3,21 @@ title: Django vs. Rails Comparison
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Explain diffs Django and Rails"
 draft: false
 ---
 
 # Django vs. Rails Comparison
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Explain diffs Django and Rails
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Explain diffs Django and Rails
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Django and Rails are both web frameworks, but they cater to different programming languages and offer some distinct features. Here's a brief comparison:
 

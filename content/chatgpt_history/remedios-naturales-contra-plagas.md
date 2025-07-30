@@ -3,24 +3,22 @@ title: Remedios naturales contra plagas
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Mi planta tiene escama y puntitos blancos, algún remedio
+  natural?"
 draft: false
 ---
 
 # Remedios naturales contra plagas
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Mi planta tiene escama y puntitos blancos, algún remedio natural?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Mi planta tiene escama y puntitos blancos, algún remedio natural?
 
+---
 
+🤖 **Assistant:**
 
 Sí, parece que tu planta tiene una plaga de **cochinilla** o **pulgón harinoso**. Aquí tienes algunos remedios naturales:  
 
@@ -43,7 +41,15 @@ Sí, parece que tu planta tiene una plaga de **cochinilla** o **pulgón harinoso
 
 Si la plaga es grave, retira manualmente los insectos con un algodón con alcohol antes de aplicar estos remedios. ¿Sabes qué tipo de planta es? Algunas pueden ser más sensibles a ciertos tratamientos.
 
-Creo es dacena angustifobia 
+---
+
+🙋 **You:**
+
+Creo es dacena angustifobia
+
+---
+
+🤖 **Assistant:**
 
 Parece que te refieres a la **Dracaena angustifolia** (o alguna variedad de Dracaena). Esta planta es resistente, pero puede ser atacada por cochinilla, pulgón o ácaros, que suelen dejar puntitos blancos y una textura escamosa en las hojas o tallos.  
 

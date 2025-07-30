@@ -3,7 +3,8 @@ title: Kanban Plugin Setup Guide
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What things should I have in my obsidian kanban plugin
+  markdown file so it's fully clear for freelancers I'll hire over Fiverr"
 draft: false
 ---
 
@@ -13,13 +14,15 @@ draft: false
 - [ ] **: List all tasks that need to be started.
 - [ ] , In Progress, Review, Revisions, Completed]
 
-## 📌 Summary
-What things should I have in my obsidian kanban plugin markdown file so it's fully clear for freelancers I'll hire over Fiverr
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What things should I have in my obsidian kanban plugin markdown file so it's fully clear for freelancers I'll hire over Fiverr
+
+---
+
+🤖 **Assistant:**
 
 Creating a clear and effective Kanban board in your Obsidian markdown file for managing freelancers you hire over platforms like Fiverr can greatly improve project communication, expectations, and overall workflow. Here's a comprehensive guide to setting up your Kanban board:
 
@@ -82,7 +85,15 @@ Encourage freelancers to provide feedback on the project process for continuous 
 
 This structure will help keep your projects organized and ensure that all freelancers have the information they need to succeed. Adjustments might be necessary based on specific project requirements or preferences.
 
-What things I should be careful of if I want to make it open source? 
+---
+
+🙋 **You:**
+
+What things I should be careful of if I want to make it open source?
+
+---
+
+🤖 **Assistant:**
 
 Making your Obsidian Kanban plugin setup or any project open source is a fantastic way to contribute to the community, encourage collaboration, and improve the project with contributions from others. However, there are several important considerations to keep in mind to ensure a smooth transition to open source and to manage the project effectively thereafter:
 
@@ -101,9 +112,15 @@ Making your Obsidian Kanban plugin setup or any project open source is a fantast
 ### 4. **Consider Privacy and Security**
 - **Sensitive Data**: Ensure no sensitive data (
 
+---
+
+🙋 **You:**
+
 Summarize all the advice. The one for obsidian tickets return a yml. For the other advice, summarize your recommendations with keywords if possible.
 
+---
 
+🤖 **Assistant:**
 
 Certainly, here's a concise summary of the advice for setting up your Obsidian Kanban plugin for freelancers and making your project open source:
 
@@ -164,7 +181,15 @@ Feedback_and_Suggestions: {}
 
 This structured approach and keyword summary aim to streamline the setup of your Obsidian Kanban for freelancer management and provide a clear roadmap for making your project open source while ensuring it's well-documented, legally protected, and community-friendly.
 
+---
+
+🙋 **You:**
+
 provide the yml that should be in the card only, and then tell me which of the rest items in the yml shared above that are not in the card are attributes of the project definition itself
+
+---
+
+🤖 **Assistant:**
 
 Here's a YAML snippet that represents what might be included in an individual card for a task within your Obsidian Kanban board:
 

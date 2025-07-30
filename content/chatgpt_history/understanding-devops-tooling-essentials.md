@@ -3,26 +3,25 @@ title: Understanding DevOps Tooling Essentials
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Title: DevOps Conversation"
 draft: false
 ---
 
 # Understanding DevOps Tooling Essentials
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Title: DevOps Conversation
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Title: DevOps Conversation
 Difference between Terraform and Ansible.
 Are those conflicting with docker-compose and kubernetes?
 Are those tools useful for me as a rails developer?
 I'd like to understand the relation of those things in the context of DevOps.
+
+---
+
+🤖 **Assistant:**
 
 Sure, let's break this down.
 

@@ -3,28 +3,34 @@ title: Restaurantes Saludables Cuauhtémoc CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Donde cenar en la delegación Cuauhtémoc en la CDMX
+  que tenga verduras encurtidas o algo más saludable y que cierren después de 11pm"
 draft: false
 ---
 
 # Restaurantes Saludables Cuauhtémoc CDMX
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Donde cenar en la delegación Cuauhtémoc en la CDMX que tenga verduras encurtidas o algo más saludable y que cierren después de 11pm
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Donde cenar en la delegación Cuauhtémoc en la CDMX que tenga verduras encurtidas o algo más saludable y que cierren después de 11pm
 
+---
 
+🤖 **Assistant:**
 
 User is looking for healthy dining options in the Cuauhtémoc delegation of CDMX, especially places that offer pickled vegetables and stay open past 11 pm.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes algunas opciones de restaurantes en la delegación Cuauhtémoc que ofrecen opciones saludables y cierran después de las 11 pm:
 
@@ -55,13 +61,27 @@ Aquí tienes algunas opciones de restaurantes en la delegación Cuauhtémoc que 
 
 Estas opciones ofrecen menús saludables y cierran después de las 11 pm, ideales para una cena tardía en la delegación Cuauhtémoc.
 
+---
+
+🙋 **You:**
+
 Donde cenar en la delegación Cuauhtémoc en la CDMX que tenga verduras encurtidas o algo más saludable y que cierren después de 11pm, que sea cómodo sacar mi computadora
 
+---
 
+🤖 **Assistant:**
 
 User is looking for healthy dining options in the Cuauhtémoc delegation of CDMX, especially places that offer pickled vegetables, stay open past 11 pm, and are comfortable for using a computer.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes algunas opciones en la delegación Cuauhtémoc que ofrecen opciones saludables, cierran después de las 11 pm y son cómodas para usar tu computadora:
 

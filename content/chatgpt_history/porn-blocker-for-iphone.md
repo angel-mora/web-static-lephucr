@@ -3,24 +3,21 @@ title: Porn Blocker for iPhone
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Porn blocker for iPhone"
 draft: false
 ---
 
 # Porn Blocker for iPhone
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Porn blocker for iPhone
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Porn blocker for iPhone 
+Porn blocker for iPhone
 
+---
 
+🤖 **Assistant:**
 
 To block adult content on an iPhone, you can use the built-in Screen Time settings or install a third-party app. Here's how to use both methods:
 
@@ -43,7 +40,15 @@ You can find these apps on the App Store and follow their installation instructi
 
 Would you like more detailed instructions for any of these steps?
 
-For latest os 
+---
+
+🙋 **You:**
+
+For latest os
+
+---
+
+🤖 **Assistant:**
 
 Here are updated steps for using Screen Time on the latest iOS to block adult content:
 

@@ -3,7 +3,10 @@ title: Ingresos pasivos foodie cool
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  dame un plan de ingresos pasivos para mi situacion
+  personal, considerando todos los potenciales negocios que podría realizar. Básate
+  en la idea de Peter Thiel de que el monopolio siempre es lo mejor. Recuerda también
+  que soy foodie y cool"
 draft: false
 ---
 
@@ -12,19 +15,27 @@ draft: false
 ## ✅ TODOs
 - [ ] s los potenciales negocios que podría realizar. Básate en la idea de Peter Thiel de que el monopolio siempre es lo mejor. Recuerda también que soy foodie y cool
 
-## 📌 Summary
-dame un plan de ingresos pasivos para mi situacion personal, considerando todos los potenciales negocios que podría realizar. Básate en la idea de Peter Thiel de que el monopolio siempre es lo mejor. Recuerda también que soy foodie y cool
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 dame un plan de ingresos pasivos para mi situacion personal, considerando todos los potenciales negocios que podría realizar. Básate en la idea de Peter Thiel de que el monopolio siempre es lo mejor. Recuerda también que soy foodie y cool
 
+---
 
+🤖 **Assistant:**
 
 User is a foodie and identifies with a "cool" style.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes un plan de ingresos pasivos enfocado en tu perfil y preferencias:
 

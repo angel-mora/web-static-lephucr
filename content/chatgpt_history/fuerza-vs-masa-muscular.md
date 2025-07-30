@@ -3,7 +3,7 @@ title: Fuerza vs Masa Muscular
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Repeticiones fuerza vs masa muscular"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s pueden complementarse para obtener beneficios tanto en fuerza como en hipertrofia, pero ajustar las repeticiones y el peso es clave para enfocar el entrenamiento según el objetivo específico.
 
-## 📌 Summary
-Repeticiones fuerza vs masa muscular
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Repeticiones fuerza vs masa muscular 
+Repeticiones fuerza vs masa muscular
 
+---
 
+🤖 **Assistant:**
 
 La cantidad de repeticiones en una rutina de ejercicios puede influir significativamente en los resultados deseados, ya sea fuerza o masa muscular. Aquí hay una guía básica sobre cómo se diferencian:
 

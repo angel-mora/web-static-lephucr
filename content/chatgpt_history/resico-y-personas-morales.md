@@ -3,24 +3,21 @@ title: Resico y personas morales
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Resico en persona moral"
 draft: false
 ---
 
 # Resico y personas morales
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Resico en persona moral
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Resico en persona moral
 
+---
 
+🤖 **Assistant:**
 
 El régimen de RESICO (Régimen Simplificado de Confianza) está diseñado para personas físicas con actividades empresariales, profesionales, u otros ingresos. Por lo tanto, no aplica para personas morales.
 

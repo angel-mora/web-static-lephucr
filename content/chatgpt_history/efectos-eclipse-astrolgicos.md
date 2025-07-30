@@ -3,7 +3,7 @@ title: Efectos eclipse astrológicos
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Platícame los efectos del eclipse de hoy según la astrología"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] lo realizado hasta ahora cobra protagonismo y es visto por todos, requiriendo valentía para aceptar críticas y halagos. citeturn0search10
 
-## 📌 Summary
-Platícame los efectos del eclipse de hoy según la astrología
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Platícame los efectos del eclipse de hoy según la astrología 
+Platícame los efectos del eclipse de hoy según la astrología
 
+---
 
+🤖 **Assistant:**
 
 El 14 de marzo de 2025, se producirá un eclipse lunar total conocido como "Luna de Sangre" debido al tono rojizo que adquiere la Luna durante el fenómeno. Este evento astronómico coincide con la Luna llena en el signo de Virgo, lo que, según la astrología, amplifica su influencia en nuestras vidas.
 

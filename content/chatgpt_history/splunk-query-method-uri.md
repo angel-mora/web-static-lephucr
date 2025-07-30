@@ -3,22 +3,22 @@ title: 'Splunk Query: Method & URI'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I want to make a splunk query to see method and uri_path
+  in a timechart span=1h that shows me the method and the route"
 draft: false
 ---
 
 # Splunk Query: Method & URI
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I want to make a splunk query to see method and uri_path in a timechart span=1h that shows me the method and the route
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I want to make a splunk query to see method and uri_path in a timechart span=1h that shows me the method and the route
+
+---
+
+🤖 **Assistant:**
 
 To create a Splunk query that shows the method and uri_path in a timechart with 1-hour spans, you first need to know the names of the fields in your Splunk data that hold the HTTP method and URI path information.
 
@@ -41,7 +41,15 @@ index="your_index" sourcetype="your_sourcetype"
 
 This will create a new field `method_uri` combining the method and uri_path, and then build a timechart with 1-hour spans counting the occurrences of each `method_uri` combination.
 
+---
+
+🙋 **You:**
+
 Whois XML IP Geolocation API for Splunk benefits of that add-on.
+
+---
+
+🤖 **Assistant:**
 
 The Whois XML IP Geolocation API for Splunk is an add-on that provides IP geolocation information by integrating with the Whois XML API. It can help Splunk users to enrich their logs and events with geolocation data, offering several benefits:
 

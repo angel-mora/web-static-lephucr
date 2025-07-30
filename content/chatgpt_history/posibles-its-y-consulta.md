@@ -3,24 +3,25 @@ title: Posibles ITS y consulta
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tengo grietas en el pene y puntitos blancos y puntitos
+  solo con aros en el exterior. Me duele una bolita en la parte de abajo y atrás de
+  la lengua. Puede ser esto una ITS? Recién me hice pruebas y no me aparece nada pero
+  temo que sea algo más local que tengo tanto en el pene como en la lengua. Cómo implico
+  a mi pareja en los estudios que tenemos que hacernos?"
 draft: false
 ---
 
 # Posibles ITS y consulta
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Tengo grietas en el pene y puntitos blancos y puntitos solo con aros en el exterior. Me duele una bolita en la parte de abajo y atrás de la lengua. Puede ser esto una ITS? Recién me hice pruebas y no me aparece nada pero temo que sea algo más local que tengo tanto en el pene como en la lengua. Cómo implico a mi pareja en los estudios que tenemos que hacernos?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tengo grietas en el pene y puntitos blancos y puntitos solo con aros en el exterior. Me duele una bolita en la parte de abajo y atrás de la lengua. Puede ser esto una ITS? Recién me hice pruebas y no me aparece nada pero temo que sea algo más local que tengo tanto en el pene como en la lengua. Cómo implico a mi pareja en los estudios que tenemos que hacernos?
 
+---
 
+🤖 **Assistant:**
 
 No soy médico, pero lo que describes—grietas en el pene, puntitos blancos con aros alrededor, y dolor en la lengua—podría deberse a varias causas, incluidas infecciones locales, irritaciones, o incluso una ITS que no se haya detectado en los estudios recientes. Algunas ITS pueden no aparecer de inmediato en los análisis o requerir pruebas específicas (como cultivos o PCR) en lugar de pruebas serológicas estándar.
 
@@ -45,7 +46,15 @@ No soy médico, pero lo que describes—grietas en el pene, puntitos blancos con
 
 Si necesitas ayuda con opciones de clínicas o pruebas en CDMX, dime y te puedo orientar.
 
+---
+
+🙋 **You:**
+
 son grietas y puntitos pero en el glande, perdón
+
+---
+
+🤖 **Assistant:**
 
 Si las grietas y puntitos blancos con aros están en el **glande**, podrían estar relacionadas con varias causas, incluyendo infecciones, irritaciones, o enfermedades de transmisión sexual (ITS). Como ya te realizaste pruebas y salieron negativas, hay que considerar otras posibilidades.  
 
@@ -84,7 +93,15 @@ Si las grietas y puntitos blancos con aros están en el **glande**, podrían est
 
 Si necesitas opciones de médicos o clínicas en CDMX que atiendan ITS y salud sexual, dime y te ayudo a encontrarlas.
 
+---
+
+🙋 **You:**
+
 Combinar saliva con fluido vaginal puede generar infecciones o causar algun problema?
+
+---
+
+🤖 **Assistant:**
 
 Sí, combinar saliva con fluido vaginal **puede aumentar el riesgo de infecciones**, aunque en la mayoría de los casos el cuerpo maneja bien la exposición a bacterias y microorganismos normales de cada zona.  
 

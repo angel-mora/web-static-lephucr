@@ -3,20 +3,15 @@ title: Debase Gem Installation Error
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  gem install debase -v 0.2.4.1"
 draft: false
 ---
 
 # Debase Gem Installation Error
 
-## ✅ TODOs
-
-
-## 📌 Summary
-gem install debase -v 0.2.4.1
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 gem install debase -v 0.2.4.1
 Building native extensions. This could take a while...
@@ -85,7 +80,9 @@ extconf failed, exit code 1
 Gem files will remain installed in /Users/spectech/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/gems/debase-0.2.4.1 for inspection.
 Results logged to /Users/spectech/.rbenv/versions/3.2.2/lib/ruby/gems/3.2.0/extensions/arm64-darwin-23/3.2.0/debase-0.2.4.1/gem_make.out
 
+---
 
+🤖 **Assistant:**
 
 This error often occurs because the `debase` gem does not fully support Ruby versions beyond 3.0, especially in systems like Apple Silicon. Here are some steps to resolve it:
 
@@ -113,7 +110,15 @@ This error often occurs because the `debase` gem does not fully support Ruby ver
 
 If these suggestions don’t resolve the issue, let me know so we can look deeper into the specific `mkmf.log` details or other debugging alternatives.
 
+---
+
+🙋 **You:**
+
 debase dependencies for mac
+
+---
+
+🤖 **Assistant:**
 
 For installing `debase` on macOS, especially on newer systems like Apple Silicon, here are some dependencies and steps to help ensure a smoother installation:
 

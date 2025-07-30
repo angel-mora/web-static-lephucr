@@ -3,7 +3,8 @@ title: Huevo cósmico en budismo
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hay un concepto que es algo así como un huevo cósmico
+  en el budismo, no sé si en particular en el tibetano o en el Dzogchen"
 draft: false
 ---
 
@@ -13,15 +14,15 @@ draft: false
 - [ ] s los potenciales del ser, tanto en el microcosmos (individuo) como en el macrocosmos (universo).
 - [ ] .
 
-## 📌 Summary
-Hay un concepto que es algo así como un huevo cósmico en el budismo, no sé si en particular en el tibetano o en el Dzogchen
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Hay un concepto que es algo así como un huevo cósmico en el budismo, no sé si en particular en el tibetano o en el Dzogchen 
+Hay un concepto que es algo así como un huevo cósmico en el budismo, no sé si en particular en el tibetano o en el Dzogchen
 
+---
 
+🤖 **Assistant:**
 
 El concepto al que te refieres podría estar relacionado con el *Garbhodaka* o "huevo cósmico" dentro del budismo y algunas tradiciones hindúes, aunque en el budismo tibetano y en Dzogchen, este tema toma formas más simbólicas y filosóficas.
 

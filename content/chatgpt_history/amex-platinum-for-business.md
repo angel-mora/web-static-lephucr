@@ -3,22 +3,25 @@ title: '"AMEX Platinum for Business"'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I got offered an AMEX platinum card. Tell me what you
+  need to know to provide a good financial advise about it. i am ruby on rails dev
+  and want to make more money. Wondering if having such an amount of credit could
+  help me for my business and how. E.g. I could hire Fiverr devs but not sure about
+  the risk of being able to pay back straigh away from mvp'ing a few products"
 draft: false
 ---
 
 # "AMEX Platinum for Business"
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I got offered an AMEX platinum card. Tell me what you need to know to provide a good financial advise about it. i am ruby on rails dev and want to make more money. Wondering if having such an amount of credit could help me for my business and how. E.g. I could hire Fiverr devs but not sure about the risk of being able to pay back straigh away from mvp'ing a few products
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I got offered an AMEX platinum card. Tell me what you need to know to provide a good financial advise about it. i am ruby on rails dev and want to make more money. Wondering if having such an amount of credit could help me for my business and how. E.g. I could hire Fiverr devs but not sure about the risk of being able to pay back straigh away from mvp'ing a few products
+
+---
+
+🤖 **Assistant:**
 
 To provide you with the best advice, I would need to know a few more details about your financial situation and your business plans. Here are some questions that could help me understand your situation better:
 

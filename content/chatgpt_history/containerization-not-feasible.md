@@ -3,22 +3,22 @@ title: Containerization Not Feasible.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  In my job they use Mac and invoker to handle multiple
+  repositories. They say containerization is not an option for them, why?"
 draft: false
 ---
 
 # Containerization Not Feasible.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-In my job they use Mac and invoker to handle multiple repositories. They say containerization is not an option for them, why?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 In my job they use Mac and invoker to handle multiple repositories. They say containerization is not an option for them, why?
+
+---
+
+🤖 **Assistant:**
 
 It's hard to say exactly why your job is not considering containerization without more context, but here are some possible reasons:
 
@@ -34,7 +34,15 @@ It's hard to say exactly why your job is not considering containerization withou
 
 It's worth noting that containerization can offer a number of benefits, including easier deployment and scaling, better resource utilization, and improved developer productivity. However, every company is different and may have its own unique set of constraints and priorities that influence technology decisions.
 
+---
+
+🙋 **You:**
+
 We work with Ruby on Rails. What else would you need to know to provide a more technical answer?
+
+---
+
+🤖 **Assistant:**
 
 Thanks for the additional context! Here are a few technical considerations related to Ruby on Rails and containerization:
 
@@ -48,7 +56,15 @@ Thanks for the additional context! Here are a few technical considerations relat
 
 Overall, while there may be some challenges involved in containerizing Ruby on Rails applications (such as ensuring compatibility with specific gems or system libraries), the benefits can often outweigh the costs. Containerization can help ensure consistent and reproducible environments, simplify deployment and scaling, and improve overall application performance.
 
+---
+
+🙋 **You:**
+
 Does invoker https://invoker.codemancers.com/ conflict with docker containerization then?
+
+---
+
+🤖 **Assistant:**
 
 Invoker and Docker containerization are not necessarily mutually exclusive, but they serve different purposes and can be used together in different ways.
 

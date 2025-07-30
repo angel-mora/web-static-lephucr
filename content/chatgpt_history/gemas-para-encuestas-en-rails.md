@@ -3,22 +3,22 @@ title: Gemas para Encuestas en Rails
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que gemas puedo usar para crear una encuestadora con
+  ruby on rails?"
 draft: false
 ---
 
 # Gemas para Encuestas en Rails
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Que gemas puedo usar para crear una encuestadora con ruby on rails?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que gemas puedo usar para crear una encuestadora con ruby on rails?
+
+---
+
+🤖 **Assistant:**
 
 Si estás buscando construir una aplicación de encuestas usando Ruby on Rails, hay una serie de gemas que te pueden ayudar a crear y administrar encuestas de manera eficiente. Aquí te presento algunas gemas recomendadas para diferentes aspectos de la creación de una encuestadora:
 

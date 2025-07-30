@@ -3,22 +3,21 @@ title: Best Civil Eng. Books
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  best civil engineering books"
 draft: false
 ---
 
 # Best Civil Eng. Books
 
-## ✅ TODOs
-
-
-## 📌 Summary
-best civil engineering books
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 best civil engineering books
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Here's a list of some highly regarded books in the field of civil engineering, suitable for different levels of study and specialization:
 

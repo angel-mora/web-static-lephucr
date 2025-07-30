@@ -3,7 +3,7 @@ title: Test and Debug Callback
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I have this callbacks in the"
 draft: false
 ---
 
@@ -12,11 +12,9 @@ draft: false
 ## ✅ TODOs
 - [ ] . This method is called after a `CompanySetting` record is created or destroyed, and it seems to call a dynamically determined method on a `Company` instance based on the `setting.slug`.
 
-## 📌 Summary
-I have this callbacks in the
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I have this callbacks in the 
 class CompanySetting < ApplicationRecord
@@ -37,6 +35,10 @@ class CompanySetting < ApplicationRecord
 end
 
 specifically is giving me issues, how can I test it and fix it
+
+---
+
+🤖 **Assistant:**
 
 Testing and debugging the `reset_company_setting` callback in your `CompanySetting` model requires a few steps. First, let's outline a strategy for testing, and then discuss potential issues and solutions.
 
@@ -106,10 +108,18 @@ end
 
 This is a basic example and might need adjustments based on your actual model definitions and factory setups. The key here is to ensure that the expected methods are called and produce the desired effects.
 
+---
+
+🙋 **You:**
+
 No i need to debug these two callbacks as it is creating some isses with the 
   after_create :reset_company_setting
   after_destroy :reset_company_setting
 to records once it is been created or deleted
+
+---
+
+🤖 **Assistant:**
 
 Debugging the `after_create` and `after_destroy` callbacks in your `CompanySetting` model can be approached in several ways. Here are some steps and techniques you can use to identify and fix the issues:
 
@@ -144,6 +154,10 @@ company_setting.destroy
 
 ### 5. Review Association and Model States
 Ensure that the `
+
+---
+
+🤖 **Assistant:**
 
 Debugging the `after_create` and `after_destroy` callbacks in your `CompanySetting` model involves several steps. Let's break down the process to identify and fix the issues you're facing:
 

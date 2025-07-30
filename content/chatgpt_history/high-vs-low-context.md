@@ -3,22 +3,21 @@ title: High vs low context
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  High context vs low context communication"
 draft: false
 ---
 
 # High vs low context
 
-## ✅ TODOs
-
-
-## 📌 Summary
-High context vs low context communication
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-High context vs low context communication 
+High context vs low context communication
+
+---
+
+🤖 **Assistant:**
 
 High-context and low-context communication refer to a cultural classification by anthropologist Edward T. Hall. This classification helps to understand different communication styles across cultures. 
 
@@ -28,7 +27,15 @@ High-context and low-context communication refer to a cultural classification by
 
 The understanding of high-context versus low-context communication is essential for effective cross-cultural communication, as it can help anticipate misunderstandings and adjust communication styles accordingly.
 
-How this applies to tech companies? 
+---
+
+🙋 **You:**
+
+How this applies to tech companies?
+
+---
+
+🤖 **Assistant:**
 
 In tech companies, especially those operating on a global scale, understanding the differences between high-context and low-context communication is crucial for several reasons:
 

@@ -3,22 +3,22 @@ title: Everyday Holiness in Judaism
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Everyday Holiness tell me about it and the branch of
+  judaism"
 draft: false
 ---
 
 # Everyday Holiness in Judaism
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Everyday Holiness tell me about it and the branch of judaism
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Everyday Holiness tell me about it and the branch of judaism
+
+---
+
+🤖 **Assistant:**
 
 "Everyday Holiness" is a book by Alan Morinis that explores the Jewish spiritual tradition of Mussar. Mussar is a branch of Judaism focused on ethics, personal growth, and spiritual development. It emphasizes the cultivation of personal qualities such as humility, patience, gratitude, and compassion, aiming to improve one's moral character and relationships with others.
 

@@ -3,22 +3,23 @@ title: Cristera War & Military Families
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Háblame sobre la guerra cristera y que familias en
+  el ejército/marina/ fuerza aérea mexicanos fueron anti catolicismo y cuáles persisten
+  en el ejército actualmente y en que rangos."
 draft: false
 ---
 
 # Cristera War & Military Families
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Háblame sobre la guerra cristera y que familias en el ejército/marina/ fuerza aérea mexicanos fueron anti catolicismo y cuáles persisten en el ejército actualmente y en que rangos.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Háblame sobre la guerra cristera y que familias en el ejército/marina/ fuerza aérea mexicanos fueron anti catolicismo y cuáles persisten en el ejército actualmente y en que rangos.
+
+---
+
+🤖 **Assistant:**
 
 La Guerra Cristera (también conocida como La Cristiada) fue un conflicto armado que ocurrió entre 1926 y 1929 en México, entre el gobierno mexicano y grupos católicos que se oponían a las políticas anticlericales del gobierno post-revolucionario. Estas políticas buscaban reducir el poder de la Iglesia Católica en la vida política y social del país.
 

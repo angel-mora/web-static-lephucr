@@ -3,25 +3,23 @@ title: Deel vs American Express
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I have a financial question. Is it better to borrow
+  from Deel or from American Express Platinum Card (services, not credit). Remember,
+  Mexico City. Browse the interests or changes for each one of them"
 draft: false
 ---
 
 # Deel vs American Express
 
-## ✅ TODOs
-
-
-## 📌 Summary
-
-
 ## 🧠 Full Chat
 
-
+🙋 **You:**
 
 I have a financial question. Is it better to borrow from Deel or from American Express Platinum Card (services, not credit). Remember, Mexico City. Browse the interests or changes for each one of them
 
+---
 
+🤖 **Assistant:**
 
 To compare borrowing from Deel versus using services from the American Express Platinum Card in Mexico City, here's a general overview based on available information:
 
@@ -42,9 +40,17 @@ To compare borrowing from Deel versus using services from the American Express P
 
 For a specific breakdown, you’d need to evaluate the rates offered by Deel (if available for borrowing) versus the Pay Over Time rates on your Platinum card and consider what additional benefits you prioritize (such as travel perks or business management).
 
+---
+
+🙋 **You:**
+
 I want you to browse that information
 Check deel advance
 and https://www.americanexpress.com/es-mx/tarjetas-de-servicio/pagos-diferidos/
+
+---
+
+🤖 **Assistant:**
 
 When comparing borrowing from Deel and using the American Express Platinum Card in Mexico City, here’s what you should consider:
 
@@ -63,7 +69,15 @@ When comparing borrowing from Deel and using the American Express Platinum Card 
 
 Your decision would depend on whether you prioritize cost savings (Deel) or additional lifestyle perks (AmEx).
 
+---
+
+🙋 **You:**
+
 Cost savings. Is there any case where it worths more to use Amex? If so, provide a graph from a function to visualize it. Consider minimum amount to bottow
+
+---
+
+🤖 **Assistant:**
 
 The graph above compares the total repayment amounts for borrowing $100 from Deel versus the American Express Platinum Card over 12 months:
 
@@ -76,7 +90,15 @@ The graph above compares the total repayment amounts for borrowing $100 from Dee
 
 For cost savings alone, Deel is generally the better option unless you can take advantage of Amex benefits that justify the higher borrowing cost.
 
+---
+
+🙋 **You:**
+
 Credit score for US credit card as a mexican
+
+---
+
+🤖 **Assistant:**
 
 As a Mexican resident, obtaining a U.S. credit card like the American Express Platinum requires navigating several specific requirements, particularly around your credit score and U.S. residency status. Here's what you need to know:
 
@@ -97,11 +119,27 @@ As a Mexican resident, obtaining a U.S. credit card like the American Express Pl
 
 In summary, while it’s possible to get a U.S. credit card as a Mexican citizen, you'll either need to build a U.S. credit history or rely on international banking relationships and programs like American Express’s *Global Transfer*.
 
+---
+
+🙋 **You:**
+
 I think there is something like Clerky but to get US Visa for YC entrepreneurs
+
+---
+
+🤖 **Assistant:**
 
 User is looking for a service similar to Clerky to help YC entrepreneurs obtain a U.S. visa.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 There isn't a specific service exactly like Clerky for obtaining U.S. visas, but there are options tailored for entrepreneurs, especially those involved with startups like those in Y Combinator. Here are some paths:
 

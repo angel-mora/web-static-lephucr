@@ -3,7 +3,9 @@ title: Robo de Celular en México
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  que hacer si alguien me robo mi celular y me llaman
+  para pedir mis datos e ingresarlos en una pagina apocrifa, como puedo mandarles
+  a la policia en mexico"
 draft: false
 ---
 
@@ -12,13 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] lo que puedas: números de teléfono, correos electrónicos, mensajes de texto o cualquier otro tipo de comunicación.
 
-## 📌 Summary
-que hacer si alguien me robo mi celular y me llaman para pedir mis datos e ingresarlos en una pagina apocrifa, como puedo mandarles a la policia en mexico
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 que hacer si alguien me robo mi celular y me llaman para pedir mis datos e ingresarlos en una pagina apocrifa, como puedo mandarles a la policia en mexico
+
+---
+
+🤖 **Assistant:**
 
 Si te roban tu celular en México y luego te contactan pidiéndote tus datos personales o para ingresar a una página falsa (phishing), aquí hay varios pasos que puedes seguir para involucrar a las autoridades y proteger tu información personal:
 
@@ -50,7 +54,15 @@ Si te roban tu celular en México y luego te contactan pidiéndote tus datos per
 
 Recuerda, es importante actuar rápidamente en situaciones como esta. La pronta notificación a las autoridades no solo ayuda a proteger tu información personal sino que también aumenta las posibilidades de recuperar tu dispositivo y capturar a los delincuentes.
 
-ya hice el reporte pero estan tratando de que pase mis contrasenas 
+---
+
+🙋 **You:**
+
+ya hice el reporte pero estan tratando de que pase mis contrasenas
+
+---
+
+🤖 **Assistant:**
 
 Es fundamental que bajo ninguna circunstancia compartas tus contraseñas o cualquier otra información personal con quien te contacte. Los delincuentes suelen presionar a las víctimas para que actúen rápidamente y sin pensar, aprovechando la ansiedad y el estrés que generan estas situaciones.
 

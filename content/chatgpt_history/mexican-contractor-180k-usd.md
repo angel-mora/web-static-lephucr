@@ -3,22 +3,23 @@ title: 'Mexican Contractor: $180K USD'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I reach a 180K / year USD salary as a Mexican
+  contractor? What US companies are looking for in that range? I’m rails developer
+  with CompTIA Security+"
 draft: false
 ---
 
 # Mexican Contractor: $180K USD
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I reach a 180K / year USD salary as a Mexican contractor? What US companies are looking for in that range? I’m rails developer with CompTIA Security+
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I reach a 180K / year USD salary as a Mexican contractor? What US companies are looking for in that range? I’m rails developer with CompTIA Security+
+
+---
+
+🤖 **Assistant:**
 
 Reaching a salary of $180K/year as a Mexican contractor focusing on Rails development and with a CompTIA Security+ certification is ambitious but achievable. Here's a step-by-step guide tailored for you:
 

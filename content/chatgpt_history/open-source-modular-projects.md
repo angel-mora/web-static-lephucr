@@ -3,22 +3,22 @@ title: Open Source Modular Projects
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  what other kind of values a website can create apart
+  from money? Like votes and views."
 draft: false
 ---
 
 # Open Source Modular Projects
 
-## ✅ TODOs
-
-
-## 📌 Summary
-what other kind of values a website can create apart from money? Like votes and views.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 what other kind of values a website can create apart from money? Like votes and views.
+
+---
+
+🤖 **Assistant:**
 
 Websites can create and capture a wide variety of values beyond just monetary ones. Here are some of the values that websites can generate or harness:
 
@@ -56,7 +56,15 @@ Websites can create and capture a wide variety of values beyond just monetary on
 
 Each website's value proposition will be determined by its goals, target audience, and functionality. While some may prioritize monetary gains, others may focus on one or more of the values listed above.
 
+---
+
+🙋 **You:**
+
 Tell me numerical sort of values, like leads, sales, votes (from prolesilist websites)? They shouldn’t belong to a generic category (leads, sales and votes are all different CTAs)
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Here are various numerical values or metrics that websites can generate or capture:
 
@@ -104,7 +112,15 @@ Certainly! Here are various numerical values or metrics that websites can genera
 
 Each of these metrics can be valuable in its own right and can provide insights into user behavior, preferences, and engagement levels.
 
+---
+
+🙋 **You:**
+
 Give me Ruby gems, js/ts libraries and third parties for each of those 21
+
+---
+
+🤖 **Assistant:**
 
 Certainly! For each of those 21 numerical values or metrics, I'll provide a suitable Ruby gem, JavaScript/TypeScript library, and a third-party service where applicable:
 
@@ -215,7 +231,15 @@ Certainly! For each of those 21 numerical values or metrics, I'll provide a suit
 
 Note: Not all metrics map perfectly to existing gems, libraries, or third parties. Some of the tools mentioned might need to be customized to cater specifically to the metric in question.
 
+---
+
+🙋 **You:**
+
 Tell me about some other cool and useful open source projects like Decidim that has a bunch of different modules for a complex system.
+
+---
+
+🤖 **Assistant:**
 
 Absolutely! Open-source projects with a modular approach have been thriving due to their flexibility and adaptability. Here are some popular open-source projects with a variety of modules for building complex systems:
 
@@ -261,7 +285,15 @@ Absolutely! Open-source projects with a modular approach have been thriving due 
 
 Each of these systems offers core functionalities and has an ecosystem of modules or plugins that allow users to tailor the system according to their specific needs. They also have active communities, ensuring continuous improvements and support.
 
+---
+
+🙋 **You:**
+
 Provide url for those projects as well as the languages those are written on
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Here are the open-source projects along with their primary programming languages and URLs:
 

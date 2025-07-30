@@ -3,22 +3,22 @@ title: Senior Sec Eng Rails Prep
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Security Engineer with Rails interview questions so
+  I can prepare for it"
 draft: false
 ---
 
 # Senior Sec Eng Rails Prep
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Security Engineer with Rails interview questions so I can prepare for it
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Security Engineer with Rails interview questions so I can prepare for it
+
+---
+
+🤖 **Assistant:**
 
 Certainly! If you're preparing for an interview for a Security Engineer position that specializes in Rails (Ruby on Rails), it's vital to understand both Rails-specific security issues and general security principles. Below are some potential interview questions divided into Rails-specific and general security categories:
 
@@ -88,9 +88,17 @@ Certainly! If you're preparing for an interview for a Security Engineer position
 
 Remember, these questions only serve as a starting point. Tailor your preparation based on the specific requirements and nuances of the position you're applying for. Good luck with your interview!
 
+---
+
+🙋 **You:**
+
 # 3 Months Senior Turbo Enhancer
 Over the next 3 months (12 weeks, 6 sprints), we are leveraging all the requirements to be a 10x top developer. The focus will be in Ruby, Typescript and a bit of C just to get the basics of how computing actually works.
 We are organizing this program in such a way that 6 sprints allow us to get a great level to answer these questions:
+
+---
+
+🤖 **Assistant:**
 
 If you're organizing a three-month program to become a significantly better developer with a focus on Ruby, TypeScript, and C, you'll want a structured and balanced approach. Let's break down the program into 6 sprints with specific focuses and outcomes for each sprint. 
 
@@ -150,13 +158,29 @@ For each sprint, make sure you have:
 
 By the end of these 6 sprints, you should be well-equipped to answer a broad range of questions related to each of these languages, their respective frameworks, and associated best practices.
 
+---
+
+🙋 **You:**
+
 como se dice en ingles cuando alguien ve el trabajo de tu computadora para aprender? shadowing o screening?
+
+---
+
+🤖 **Assistant:**
 
 En inglés, cuando alguien observa el trabajo de otra persona para aprender, especialmente en un contexto laboral o profesional, se le llama "shadowing". Por lo tanto, la respuesta correcta es "shadowing". 
 
 "Screening" tiene un significado diferente y generalmente se refiere a un proceso de evaluación o selección, como la revisión de candidatos para un trabajo o la proyección de una película en un cine.
 
+---
+
+🙋 **You:**
+
 How can I get money from my hacking and ruby on rails skills quickly and in an ethical way?
+
+---
+
+🤖 **Assistant:**
 
 Using hacking skills and expertise in Ruby on Rails ethically and productively can be rewarding both personally and financially. Here are some legitimate avenues to explore:
 

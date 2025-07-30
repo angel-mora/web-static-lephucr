@@ -3,27 +3,24 @@ title: GraphQL LineItem Status Query
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Following this documentation, how can I make the GraphQL
+  query for LineItem status?"
 draft: false
 ---
 
 # GraphQL LineItem Status Query
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Following this documentation, how can I make the GraphQL query for LineItem status?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Following this documentation, how can I make the GraphQL query for LineItem status?
 https://www.printavo.com/docs/api/v2/operation/query/
 https://www.printavo.com/docs/api/v2/enum/lineitemstatus
 
+---
 
-
+🤖 **Assistant:**
 
 To query the status of a **LineItem** in Printavo's GraphQL API, you need to use the `lineItem` query and request the `status` field.
 

@@ -3,24 +3,21 @@ title: Ayurveda y diagnóstico lingual
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Ayurveda y lengua"
 draft: false
 ---
 
 # Ayurveda y diagnóstico lingual
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Ayurveda y lengua
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Ayurveda y lengua 
+Ayurveda y lengua
 
+---
 
+🤖 **Assistant:**
 
 ¿Te refieres a la relación entre el Ayurveda y la lengua como herramienta de diagnóstico, o al vínculo entre el Ayurveda y los idiomas en los que se transmite (sánscrito, traducciones, etc.)?  
 
@@ -28,7 +25,15 @@ Si es lo primero, en Ayurveda la lengua es clave para el diagnóstico (Jihva Par
 
 Si es lo segundo, el Ayurveda tradicionalmente se transmite en sánscrito, pero hay muchas traducciones y adaptaciones en distintos idiomas.
 
+---
+
+🙋 **You:**
+
 Lo primero
+
+---
+
+🤖 **Assistant:**
 
 En Ayurveda, la lengua es una herramienta clave de diagnóstico (Jihva Pariksha) porque refleja el estado interno del cuerpo, especialmente del sistema digestivo y los doshas (Vata, Pitta, Kapha). Aquí te explico algunos signos comunes y sus interpretaciones:  
 
@@ -58,7 +63,15 @@ El examen de la lengua se complementa con otros diagnósticos ayurvédicos, como
 
 ¿Quieres saber cómo mejorar el estado de la lengua según el Ayurveda?
 
+---
+
+🙋 **You:**
+
 Vinagre y PH del cuerpo
+
+---
+
+🤖 **Assistant:**
 
 El vinagre, especialmente el vinagre de sidra de manzana, es ácido en su estado natural, con un pH entre 2.5 y 3.5. Sin embargo, en el cuerpo, su efecto puede ser alcalinizante después del metabolismo.  
 

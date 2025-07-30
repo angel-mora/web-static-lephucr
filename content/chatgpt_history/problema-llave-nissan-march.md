@@ -3,24 +3,22 @@ title: Problema Llave Nissan March
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Nissan march tiene icono rojo con llave que persiste
+  al cerrar y poner llave, qué es?"
 draft: false
 ---
 
 # Problema Llave Nissan March
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Nissan march tiene icono rojo con llave que persiste al cerrar y poner llave, qué es?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Nissan march tiene icono rojo con llave que persiste al cerrar y poner llave, qué es? 
+Nissan march tiene icono rojo con llave que persiste al cerrar y poner llave, qué es?
 
+---
 
+🤖 **Assistant:**
 
 El icono rojo con una llave en el tablero de un Nissan March indica generalmente un problema con el sistema de inmovilizador del vehículo. Este sistema es parte del mecanismo antirrobo y evita que el coche se arranque sin la llave correcta. Si el icono persiste incluso cuando usas la llave habitual, podría ser un indicativo de varios problemas, como:
 

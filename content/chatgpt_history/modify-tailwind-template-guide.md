@@ -5,24 +5,21 @@ tags:
 - e5e7eb
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to modify a tailwind template?"
 draft: false
 ---
 
 # Modify Tailwind Template Guide
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How to modify a tailwind template?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-How to modify a tailwind template? 
+How to modify a tailwind template?
 
+---
 
+🤖 **Assistant:**
 
 Modifying a Tailwind CSS template involves several steps. Here’s a guide to help you get started:
 

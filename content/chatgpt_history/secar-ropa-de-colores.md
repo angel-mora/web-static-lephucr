@@ -3,24 +3,22 @@ title: Secar ropa de colores
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Se puede meter a la secadora ropa de color, negra y
+  blanca?"
 draft: false
 ---
 
 # Secar ropa de colores
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Se puede meter a la secadora ropa de color, negra y blanca?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Se puede meter a la secadora ropa de color, negra y blanca?
 
+---
 
+🤖 **Assistant:**
 
 Sí, puedes meter ropa de color, negra y blanca en la secadora, pero es recomendable seguir estos consejos para evitar daños:
 

@@ -4,7 +4,7 @@ tags:
 - update
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Error in decoration provider treesitter/highlighter.win:"
 draft: false
 ---
 
@@ -16,11 +16,9 @@ draft: false
 - [ ] so
 - [ ] wnload the font you want. For this example, I'll use the "FiraCode Nerd Font," but you can choose any other font from the Nerd Fonts collection.
 
-## 📌 Summary
-Error in decoration provider treesitter/highlighter.win:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Error in decoration provider treesitter/highlighter.win:
 Error executing lua: /usr/local/share/nvim/runtime/lua/vim/treesitter/query.lua:248: Query error at 9:4. Invalid node type "heredoc_end":
@@ -37,6 +35,10 @@ stack traceback:
         ...l/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:388: in function '_add_injections'
         ...l/share/nvim/runtime/lua/vim/treesitter/languagetree.lua:440: in function 'parse'
         ...al/share/nvim/runtime/lua/vim/treesitter/highlighter.lua:328: in function <...al/share/nvim/runtime/lua/vim/treesitter/highlighter.lua
+
+---
+
+🤖 **Assistant:**
 
 The error you're seeing is related to Neovim's Tree-sitter integration, specifically the highlighting module. The error message indicates that there's an issue with a Tree-sitter query that's trying to match a node type named "heredoc_end", which apparently doesn't exist or isn't recognized in the grammar of the language you're working with.
 
@@ -56,7 +58,15 @@ Here's how you can troubleshoot and potentially fix the issue:
 
 Remember, the Tree-sitter integration in Neovim is powerful and offers great syntax highlighting and other features, but it relies on a combination of Neovim's implementation, Tree-sitter grammars for various languages, and possibly custom queries. Any of these components can introduce issues, so it's a matter of identifying which component is causing the problem and addressing it.
 
+---
+
+🙋 **You:**
+
 I'm usign WSL. I think it uses lazy as package manager
+
+---
+
+🤖 **Assistant:**
 
 If you're using WSL (Windows Subsystem for Linux), it doesn't come with a package manager named "lazy." WSL allows you to run a Linux distribution alongside your existing Windows installation. Each Linux distribution has its own package manager:
 
@@ -77,7 +87,15 @@ sudo apt upgrade
 
 If you're referring to something else or have a different question related to WSL, please clarify, and I'll do my best to assist you!
 
+---
+
+🙋 **You:**
+
 How can I update nvim-lua?
+
+---
+
+🤖 **Assistant:**
 
 If you're referring to updating Neovim with its Lua integration or plugins related to Lua in Neovim, here's what you can do:
 
@@ -130,7 +148,15 @@ If you're referring to updating Neovim with its Lua integration or plugins relat
 
 If you have a more specific aspect of "nvim-lua" you're referring to, or if there's a particular issue you're facing, please provide more details, and I'll be happy to help further!
 
+---
+
+🙋 **You:**
+
 I want to do it from the github repository
+
+---
+
+🤖 **Assistant:**
 
 If you want to update Neovim from the GitHub repository, you're essentially looking to build Neovim from source. Here's a step-by-step guide on how to do this:
 
@@ -181,7 +207,15 @@ If you want to update Neovim from the GitHub repository, you're essentially look
 
 Remember, when you build from source, you're getting the absolute latest version, which might include changes that are not yet in stable releases. While this means you get the latest features and fixes, it also means you might encounter new bugs or issues. Always check the Neovim GitHub repository for any known issues or updates.
 
+---
+
+🙋 **You:**
+
 I just want to pull nvim-lua github repo
+
+---
+
+🤖 **Assistant:**
 
 Ah, I see. If you're referring to a specific GitHub repository related to Neovim's Lua functionality or a plugin, and you want to update it by pulling the latest changes, here's a general approach:
 
@@ -219,7 +253,15 @@ Ah, I see. If you're referring to a specific GitHub repository related to Neovim
 
 If you're referring to a specific GitHub repository and need more tailored instructions, please provide the exact repository URL or name, and I can guide you further.
 
+---
+
+🙋 **You:**
+
 what is the actual path in nvchad?
+
+---
+
+🤖 **Assistant:**
 
 [NvChad](https://github.com/NvChad/NvChad) is an opinionated Neovim configuration that uses Lua for configuration and extension. If you've installed NvChad, it will typically reside in the Neovim configuration directory.
 
@@ -267,7 +309,15 @@ This will ensure that all plugins are also updated to their latest versions.
 
 Remember to check NvChad's official documentation or GitHub repository for any additional update instructions or changes.
 
+---
+
+🙋 **You:**
+
 I see nvim lua not loaded
+
+---
+
+🤖 **Assistant:**
 
 If you're seeing an issue where Neovim's Lua integration isn't working or "Lua not loaded" with NvChad or any other configuration, there could be several reasons. Here's how you can troubleshoot and potentially resolve the issue:
 
@@ -315,7 +365,15 @@ If you're seeing an issue where Neovim's Lua integration isn't working or "Lua n
 
 Remember, when troubleshooting, it's essential to make changes incrementally and test after each change. This way, you can pinpoint the exact cause of the issue.
 
+---
+
+🙋 **You:**
+
 the error only happens under a typescript folder
+
+---
+
+🤖 **Assistant:**
 
 If the error is specific to a TypeScript folder, it's likely related to a TypeScript-specific plugin or configuration in Neovim. Here's how you can narrow down and potentially resolve the issue:
 
@@ -361,7 +419,15 @@ If the error is specific to a TypeScript folder, it's likely related to a TypeSc
 
 By narrowing down the potential sources of
 
+---
+
+🙋 **You:**
+
 fixed it with TSInstall all. Now, I want to install a font that renders all kinds of icons from nvchad in wsl. Provide commands to do so
+
+---
+
+🤖 **Assistant:**
 
 To render icons properly in Neovim (like those used by NvChad), you'll typically need a patched font that includes the necessary glyphs. One popular choice is the Nerd Fonts collection, which patches multiple fonts to include a variety of glyphs.
 
@@ -410,7 +476,15 @@ Here's how you can install a Nerd Font for use in WSL:
 
 Now, when you open Neovim with NvChad in WSL, it should correctly display all icons and glyphs. If some icons still don't render correctly, ensure that the specific icons are part of the Nerd Font you chose, or consider trying a different Nerd Font.
 
+---
+
+🙋 **You:**
+
 how to verify the font used in wsl (ubuntu command)
+
+---
+
+🤖 **Assistant:**
 
 In WSL (Windows Subsystem for Linux), the font used to display the terminal's content is determined by the terminal emulator you're using on Windows, not by WSL or Ubuntu itself. For example, if you're using Windows Terminal, Alacritty, ConEmu, or any other terminal emulator, the font settings will be in that specific application.
 
@@ -439,7 +513,15 @@ If you're trying to verify the font settings of a specific application within WS
 
 Remember, in most cases, the font you see in WSL is determined by the Windows-side terminal emulator, not by any setting within WSL or Ubuntu itself.
 
+---
+
+🙋 **You:**
+
 why do I have two profiles for ubuntu? Can I delete one? One of them goes to C:\WINDOWS\system32\wsl.exe -d Ubuntu and the other to ubuntu.exe
+
+---
+
+🤖 **Assistant:**
 
 If you see two profiles for Ubuntu in your terminal emulator (e.g., Windows Terminal), it's likely because:
 
@@ -462,7 +544,15 @@ Yes, you can delete one of the profiles if you find it redundant. Here's how you
 
 Remember to be careful while editing the `settings.json` file. Any syntax errors (like missing commas or extra commas) can cause Windows Terminal to not load correctly. Always keep a backup of the file before making changes.
 
+---
+
+🙋 **You:**
+
 but which is the one I could safely remove?
+
+---
+
+🤖 **Assistant:**
 
 Both `wsl.exe -d Ubuntu` and `ubuntu.exe` are essentially different entry points to the same Ubuntu distribution in WSL. Therefore, from a functionality standpoint, you can safely remove either profile without affecting the underlying WSL Ubuntu distribution.
 

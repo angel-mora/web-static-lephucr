@@ -3,22 +3,22 @@ title: 'Mac M3: Screen & Face Recording.'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How big a QuickTime screen and face recording can get
+  for 2 hours sessions"
 draft: false
 ---
 
 # Mac M3: Screen & Face Recording.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How big a QuickTime screen and face recording can get for 2 hours sessions
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How big a QuickTime screen and face recording can get for 2 hours sessions
+
+---
+
+🤖 **Assistant:**
 
 The size of a QuickTime screen and face recording for a 2-hour session can vary significantly depending on several factors:
 
@@ -27,9 +27,15 @@ The size of a QuickTime screen and face recording for a 2-hour session can vary 
 3. **Frame Rate**: Videos recorded at higher frame rates (more frames per second) will be larger than those recorded at lower frame rates.
 4. **Compression**: QuickTime uses compression to
 
+---
+
+🙋 **You:**
+
 How big a QuickTime screen and face recording can get for 2 hours sessions for a Mac M3
 
+---
 
+🤖 **Assistant:**
 
 The file size of a 2-hour QuickTime screen and face recording on a Mac (regardless of model, including an M3 if that were a hypothetical future chip) depends on several factors including the screen resolution, the codec used for encoding (H.264 or HEVC/H.265), the complexity of the screen content, and whether audio is included.
 
@@ -52,6 +58,10 @@ The formula to calculate file size is:
 \[ \text{File Size (in MB)} = \frac{\text{Bitrate (in Mbps)} \times \text{Time (in seconds)}}{8} \]
 
 Let's do the calculations.
+
+---
+
+🤖 **Assistant:**
 
 Based on the calculations:
 

@@ -3,24 +3,22 @@ title: Ojos hinchados y cansancio
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que pasa cuando lloras mucho?? Por que tengo ojos hinchados
+  y cansancio?"
 draft: false
 ---
 
 # Ojos hinchados y cansancio
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Que pasa cuando lloras mucho?? Por que tengo ojos hinchados y cansancio?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Que pasa cuando lloras mucho?? Por que tengo ojos hinchados y cansancio? 
+Que pasa cuando lloras mucho?? Por que tengo ojos hinchados y cansancio?
 
+---
 
+🤖 **Assistant:**
 
 Llorar mucho puede tener varios efectos físicos y emocionales. Aquí hay algunas razones por las que puedes experimentar ojos hinchados y cansancio:
 

@@ -3,7 +3,8 @@ title: 'CV Enfermería México: Estructura'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Como debe verse un cv para un trabajo de enfermeria
+  en Mexico?"
 draft: false
 ---
 
@@ -13,15 +14,15 @@ draft: false
 - [ ] s contables deben ser aplicados de manera consistente de un período a otro.
 - [ ] s de Contabilidad
 
-## 📌 Summary
-Como debe verse un cv para un trabajo de enfermeria en Mexico?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Como debe verse un cv para un trabajo de enfermeria en Mexico?
 
+---
 
+🤖 **Assistant:**
 
 Un currículum vitae (CV) para un trabajo de enfermería en México debe ser claro, conciso y profesional. Aquí tienes una guía sobre cómo estructurarlo:
 
@@ -115,7 +116,15 @@ Indica que las referencias están disponibles a solicitud o incluye nombres y co
 
 Este formato es una guía básica y puedes ajustarlo según tu experiencia y las especificaciones del trabajo al que estás aplicando.
 
+---
+
+🙋 **You:**
+
 Que diferencias tiene con un cv de una persona administrativa que usa software de adminstracion y contables como GSuite, Office 365, ERP SAP, Salesforce, etc
+
+---
+
+🤖 **Assistant:**
 
 Las diferencias entre un currículum vitae (CV) para un trabajo de enfermería y uno para una posición administrativa que utiliza software de administración y contabilidad son principalmente en cuanto al contenido específico de la experiencia y las habilidades requeridas. Aquí hay una comparación detallada entre ambos tipos de CV:
 
@@ -219,7 +228,15 @@ Las diferencias entre un currículum vitae (CV) para un trabajo de enfermería y
 
 Este formato resalta las habilidades técnicas y la experiencia en software relevante para una posición administrativa, diferenciándose del enfoque clínico y de atención al paciente que tiene un CV de enfermería.
 
+---
+
+🙋 **You:**
+
 sumario ejecutivo de conceptos basicos de contabilidad para adminstracion de empresas
+
+---
+
+🤖 **Assistant:**
 
 ### Sumario Ejecutivo: Conceptos Básicos de Contabilidad para la Administración de Empresas
 
@@ -277,7 +294,15 @@ La contabilidad es esencial para la administración eficaz de una empresa, propo
 
 Este sumario ejecutivo proporciona una visión general de los conceptos clave de contabilidad que son fundamentales para la administración de empresas, ayudando a garantizar una gestión financiera sólida y sostenible.
 
+---
+
+🙋 **You:**
+
 principales formulas matematicas que se usan en la contabilidad y en excel
+
+---
+
+🤖 **Assistant:**
 
 ### Principales Fórmulas Matemáticas en Contabilidad y su Uso en Excel
 
@@ -415,7 +440,15 @@ principales formulas matematicas que se usan en la contabilidad y en excel
 
 Estas fórmulas y funciones son fundamentales tanto para la contabilidad como para el análisis financiero y administrativo en Excel, permitiendo a los profesionales gestionar y analizar los datos financieros de manera eficiente.
 
+---
+
+🙋 **You:**
+
 que conceptos de contabilidad se usan mas en una afore
+
+---
+
+🤖 **Assistant:**
 
 En una Administradora de Fondos para el Retiro (Afore), se utilizan varios conceptos contables específicos debido a la naturaleza de su operación y la responsabilidad fiduciaria que tienen con los fondos de retiro de los trabajadores. A continuación, se presentan los conceptos contables más relevantes en una Afore:
 

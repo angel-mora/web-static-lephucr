@@ -3,7 +3,10 @@ title: DNS Configuration Issues Solved
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  My OpenDNS settings for an ip only work for my Huawei
+  router extension, not for the main ZTE one despite I configured it there. What could
+  I be doing wrong? Do I have to specify how many ports in the last octet in OpenDNS
+  config?"
 draft: false
 ---
 
@@ -12,13 +15,15 @@ draft: false
 ## ✅ TODOs
 - [ ] so.
 
-## 📌 Summary
-My OpenDNS settings for an ip only work for my Huawei router extension, not for the main ZTE one despite I configured it there. What could I be doing wrong? Do I have to specify how many ports in the last octet in OpenDNS config?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 My OpenDNS settings for an ip only work for my Huawei router extension, not for the main ZTE one despite I configured it there. What could I be doing wrong? Do I have to specify how many ports in the last octet in OpenDNS config?
+
+---
+
+🤖 **Assistant:**
 
 It sounds like you're encountering a configuration issue where OpenDNS settings are working correctly on a Huawei router extension but not on the main ZTE router. Here are a few things to consider and check:
 
@@ -38,7 +43,15 @@ It sounds like you're encountering a configuration issue where OpenDNS settings 
 
 If after checking these elements the problem persists, it may be helpful to look into specific forums or support resources for your ZTE router model, as there might be model-specific issues or quirks with DNS handling.
 
+---
+
+🙋 **You:**
+
 I mean the config in opendns website that says ip and settings. That one has a range from 32 to 1 bits for the last octet. If I put it in 31 it will allow both routers to enforce the opendns checkup? Currently it only blocks my extension router, not the main one
+
+---
+
+🤖 **Assistant:**
 
 Ah, I understand now—you're referring to the network settings within your OpenDNS account where you specify the IP address range for DNS filtering.
 
@@ -64,12 +77,16 @@ If your main ZTE router and your Huawei extension have IP addresses that are wit
 
 Adjusting the CIDR to a broader range should help ensure that both your routers (and by extension, all connected devices) are covered by OpenDNS’s DNS filtering. This setup is crucial for consistent policy enforcement across your network.
 
+---
+
+🙋 **You:**
+
 My ip is 187.189.87.35 and when I wan to set the CIDR to 28 it tells me 
 Network IP given is not the base address, did you mean to to use 187.189.87.32/28?
 
+---
 
-
-
+🤖 **Assistant:**
 
 The error message you're encountering is because when using CIDR notation, the network address must be the base address for that subnet range. For a /28 subnet, the base address must be a multiple of 16 within that specific octet.
 

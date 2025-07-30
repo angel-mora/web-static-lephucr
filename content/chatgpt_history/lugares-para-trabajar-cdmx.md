@@ -3,24 +3,21 @@ title: Lugares para trabajar CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Lugares para trabajar como Blend Station o Haab Project"
 draft: false
 ---
 
 # Lugares para trabajar CDMX
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Lugares para trabajar como Blend Station o Haab Project
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Lugares para trabajar como Blend Station o Haab Project
 
+---
 
+🤖 **Assistant:**
 
 Aquí te dejo algunos lugares en CDMX que son buenos para trabajar, similares a Blend Station y Haab Project:
 

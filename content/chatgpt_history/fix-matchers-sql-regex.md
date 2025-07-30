@@ -3,7 +3,7 @@ title: 'Fix Matchers: SQL Regex'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Fix this couple of matchers for partial matching"
 draft: false
 ---
 
@@ -12,11 +12,9 @@ draft: false
 ## ✅ TODOs
 - [ ] it on a per-record basis or across all instances during a certain condition like testing.
 
-## 📌 Summary
-Fix this couple of matchers for partial matching
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Fix this couple of matchers for partial matching
 
@@ -31,6 +29,10 @@ Fix this couple of matchers for partial matching
     end
 
 Then explain
+
+---
+
+🤖 **Assistant:**
 
 To fix the matchers for partial matching in the provided RSpec tests and ensure they work as intended, let's revise each matcher:
 
@@ -71,7 +73,15 @@ Explanation: This matcher dynamically calculates `expiration.days.ago` and forma
 
 Please note: The exact formatting of `expiration_time` might need to be adjusted depending on the database you're using and its date formatting in SQL queries. The example uses `:db` symbol for formatting, which is a common Rails convention for database-compatible datetime formats.
 
+---
+
+🙋 **You:**
+
 fix that regexp escape for expiration variable, remove utc
+
+---
+
+🤖 **Assistant:**
 
 If the goal is to fix the regular expression escape for the `expiration` variable in the `.older_than` matcher and ensure the date comparison doesn't specifically reference UTC or any timezone formatting in the regex, we can approach this by simplifying the date comparison to focus on the structure of the query itself without embedding a specific datetime string. This means we won't directly interpolate the exact datetime string into the regex but rather ensure the structure of the SQL query matches the expected pattern.
 
@@ -101,6 +111,10 @@ Explanation:
 - This approach checks for the presence of a `created_at < '...'` pattern in the SQL query, indicating that there's a condition filtering records older than a certain datetime. The `'.+'` part of the regex represents any character one or more times, serving as a placeholder for the actual datetime calculation part of the SQL query. This way, the test focuses on the structure of the query rather than the exact values, which can vary.
 
 Please note, this approach makes the test less precise in terms of matching the exact datetime calculation, as it no longer verifies the specific datetime value being compared. This might be acceptable depending on the level of precision required for your tests. If you specifically need to verify the datetime calculation, you would need to inject the calculated datetime string into the regex, ensuring it matches the format used in your SQL queries, and possibly handling timezone conversions explicitly if necessary.
+
+---
+
+🙋 **You:**
 
 How skip the after_save callback even if it is a class method
 # frozen_string_literal: true
@@ -154,6 +168,9 @@ FactoryBot.define do
   end
 end
 
+---
+
+🤖 **Assistant:**
 
 Skipping an `after_save` callback in Rails, especially when the callback is a class method, requires careful handling to ensure that the callback is skipped only under the right conditions without affecting other parts of the application that rely on this callback.
 
@@ -227,7 +244,15 @@ This approach is more global and affects all instances where the callback might 
 
 Both of these solutions provide a way to conditionally skip `after_save` callbacks in Rails, depending on whether you need the flexibility to do it on a per-record basis or across all instances during a certain condition like testing.
 
+---
+
+🙋 **You:**
+
 You should learn it is easier to just pass unless Rails.env.test? in the callback
+
+---
+
+🤖 **Assistant:**
 
 Indeed, using `unless Rails.env.test?` directly within the callback condition is a straightforward and simple approach to skip executing a callback during test runs in a Rails environment. This technique is particularly useful when you want to avoid certain behaviors, such as external API calls, email sending, or in this case, deleting old logs, that are unnecessary or undesirable during automated tests.
 

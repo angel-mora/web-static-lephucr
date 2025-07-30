@@ -3,24 +3,22 @@ title: Herramientas de análisis contenido
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hay alguna herramienta que te haga un análisis de audiencia/mercado/comunicación
+  sobre un contenido en markdown para que lo posiciones en redes sociales?"
 draft: false
 ---
 
 # Herramientas de análisis contenido
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Hay alguna herramienta que te haga un análisis de audiencia/mercado/comunicación sobre un contenido en markdown para que lo posiciones en redes sociales?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Hay alguna herramienta que te haga un análisis de audiencia/mercado/comunicación sobre un contenido en markdown para que lo posiciones en redes sociales?
 
+---
 
+🤖 **Assistant:**
 
 Sí, existen herramientas y estrategias que pueden ayudarte a analizar y optimizar tu contenido en Markdown para posicionarlo en redes sociales. A continuación, te menciono algunas opciones:
 
@@ -62,7 +60,15 @@ Sí, existen herramientas y estrategias que pueden ayudarte a analizar y optimiz
 
 Si quieres que analicemos un archivo Markdown específico, puedo ayudarte con un ejemplo en tiempo real. ¿Tienes uno en mente?
 
-Un buen curso de marketing en un vibe tipo superhi 
+---
+
+🙋 **You:**
+
+Un buen curso de marketing en un vibe tipo superhi
+
+---
+
+🤖 **Assistant:**
 
 Si estás buscando un curso de marketing con un enfoque práctico y creativo similar al de SuperHi, aquí te presento algunas opciones que podrían interesarte:
 
@@ -96,9 +102,17 @@ Un buen curso de marketing en un vibe tipo superhi
 Si prefieres una experiencia presencial, este taller en Ciudad de México ofrece una introducción a los fundamentos del marketing en línea. Es una oportunidad para aprender estrategias digitales en un entorno interactivo. citeturn0search10
 :::
 
-Estas opciones ofrecen enfoques prácticos y creativos en el ámbito del marketing, similares al estilo de SuperHi. Dependiendo de tus intereses específicos y objetivos profesionales, puedes elegir el curso que mejor se adapte a tus necesidades. 
+Estas opciones ofrecen enfoques prácticos y creativos en el ámbito del marketing, similares al estilo de SuperHi. Dependiendo de tus intereses específicos y objetivos profesionales, puedes elegir el curso que mejor se adapte a tus necesidades.
+
+---
+
+🙋 **You:**
 
 Sería marketing de libros. Tu recomendación tiene que ser algo que leería gente de SuperHi entonces no recursos cualquiera
+
+---
+
+🤖 **Assistant:**
 
 Entendido. Para marketing de libros, y con el "vibe" de SuperHi en mente (práctico, creativo y moderno), te recomendaría estos recursos y enfoques que combinan diseño y marketing con un enfoque fresco y funcional:
 

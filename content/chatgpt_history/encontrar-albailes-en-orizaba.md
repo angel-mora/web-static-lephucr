@@ -3,22 +3,21 @@ title: Encontrar Albañiles en Orizaba
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Como encontrar buenos albañiles en Orizaba Veracruz"
 draft: false
 ---
 
 # Encontrar Albañiles en Orizaba
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Como encontrar buenos albañiles en Orizaba Veracruz
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Como encontrar buenos albañiles en Orizaba Veracruz 
+Como encontrar buenos albañiles en Orizaba Veracruz
+
+---
+
+🤖 **Assistant:**
 
 Para encontrar buenos albañiles en Orizaba, Veracruz, tienes varias opciones:
 

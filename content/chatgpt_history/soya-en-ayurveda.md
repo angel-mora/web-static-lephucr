@@ -3,7 +3,7 @@ title: Soya en Ayurveda
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Es mala la soya desde el Ayurveda?"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s de preparación como la fermentación (por ejemplo, en el miso y el tempeh) y el remojo.
 
-## 📌 Summary
-Es mala la soya desde el Ayurveda?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Es mala la soya desde el Ayurveda?
 
+---
 
+🤖 **Assistant:**
 
 En el Ayurveda, la soja no se considera inherentemente mala, pero su valoración depende de varios factores, incluyendo la constitución individual (dosha), la calidad de la soja y cómo se prepara y consume.
 
@@ -35,7 +35,15 @@ En el Ayurveda, la soja no se considera inherentemente mala, pero su valoración
 
 En resumen, la soja no es inherentemente mala desde la perspectiva ayurvédica, pero su idoneidad depende del tipo de dosha, la calidad de la soja y cómo se prepare y consuma.
 
-Mi médico me indica que la producción de soja actual hace que la soja sea un alimento difícil de digerir para los humanos y por tanto no tan saludable  
+---
+
+🙋 **You:**
+
+Mi médico me indica que la producción de soja actual hace que la soja sea un alimento difícil de digerir para los humanos y por tanto no tan saludable
+
+---
+
+🤖 **Assistant:**
 
 Es cierto que la producción moderna de soja puede influir en su digestibilidad y, en consecuencia, en su impacto en la salud. Aquí hay algunas razones y consideraciones a tener en cuenta:
 

@@ -3,7 +3,7 @@ title: Generación de ingresos hackathon.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Como hago dinero de organizar un hackaton?"
 draft: false
 ---
 
@@ -12,13 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] mientras opera de manera sostenible desde el punto de vista financiero.
 
-## 📌 Summary
-Como hago dinero de organizar un hackaton?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Como hago dinero de organizar un hackaton? 
+Como hago dinero de organizar un hackaton?
+
+---
+
+🤖 **Assistant:**
 
 Organizar un hackathon puede ser una manera excelente de generar ingresos, además de fomentar la innovación y la colaboración en la comunidad tecnológica. Aquí te dejo algunas formas de monetizar un hackathon:
 
@@ -32,7 +34,15 @@ Organizar un hackathon puede ser una manera excelente de generar ingresos, adem�
 
 5. **Publicidad y Promoción:** Además del patrocinio tradicional, puedes ofrecer oportunidades de publicidad dentro del espacio del evento, en materiales promocionales,
 
+---
+
+🙋 **You:**
+
 Continua
+
+---
+
+🤖 **Assistant:**
 
 en la página web del evento, y en las comunicaciones por correo electrónico. Esto puede incluir banners, inserciones en newsletters, menciones en redes sociales, o incluso anuncios en aplicaciones móviles relacionadas con el evento.
 
@@ -46,7 +56,15 @@ en la página web del evento, y en las comunicaciones por correo electrónico. E
 
 Al implementar estas estrategias, es crucial mantener un equilibrio entre generar ingresos y ofrecer valor a los participantes, patrocinadores y a la comunidad tecnológica en general. Un evento exitoso debe fomentar la innovación, el aprendizaje y la creación de redes de contacto, todo mientras opera de manera sostenible desde el punto de vista financiero.
 
-Haz un estimado cuantitativo de utilidad y el número de personas para la logística del evento. Asume un numero determinado de participantes apropiado para un primer evento 
+---
+
+🙋 **You:**
+
+Haz un estimado cuantitativo de utilidad y el número de personas para la logística del evento. Asume un numero determinado de participantes apropiado para un primer evento
+
+---
+
+🤖 **Assistant:**
 
 Para hacer un estimado cuantitativo de la utilidad y definir el número de personas necesarias para la logística de un hackathon, necesitamos hacer algunas suposiciones y cálculos básicos. Asumiremos que este es un hackathon pequeño a mediano, ideal para un primer evento, con alrededor de 100 participantes. 
 

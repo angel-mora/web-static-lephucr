@@ -3,24 +3,22 @@ title: Renovación de INE, Documentos Originales
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Necesito llevar copias para renovar mi INE? O con los
+  puros originales?"
 draft: false
 ---
 
 # Renovación de INE, Documentos Originales
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Necesito llevar copias para renovar mi INE? O con los puros originales?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Necesito llevar copias para renovar mi INE? O con los puros originales? 
+Necesito llevar copias para renovar mi INE? O con los puros originales?
 
+---
 
+🤖 **Assistant:**
 
 Para renovar tu INE (Instituto Nacional Electoral) en México, generalmente necesitas llevar los documentos originales, no es necesario llevar copias. Los documentos que usualmente te piden son:
 

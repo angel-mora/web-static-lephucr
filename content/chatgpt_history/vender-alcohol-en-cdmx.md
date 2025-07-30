@@ -3,26 +3,34 @@ title: Vender alcohol en CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Necesito un permiso para vender alcohol por rappi en
+  México? Consulta web"
 draft: false
 ---
 
 # Vender alcohol en CDMX
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Necesito un permiso para vender alcohol por rappi en México? Consulta web
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Necesito un permiso para vender alcohol por rappi en México? Consulta web
+
+---
+
+🤖 **Assistant:**
 
 Para vender alcohol por Rappi en
 
-En CDMX? 
+---
+
+🙋 **You:**
+
+En CDMX?
+
+---
+
+🤖 **Assistant:**
 
 Para vender alcohol por Rappi en la Ciudad de México (CDMX), necesitas seguir las regulaciones y leyes locales específicas para la venta de bebidas alcohólicas. Aquí te resumo los pasos y consideraciones importantes basados en la información disponible:
 

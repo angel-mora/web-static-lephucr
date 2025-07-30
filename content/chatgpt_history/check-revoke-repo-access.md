@@ -3,7 +3,8 @@ title: Check & Revoke Repo Access
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I fired an employee who had access to multiple personal
+  repos. How can I see which of my repos he still has access to?"
 draft: false
 ---
 
@@ -12,13 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] the same.
 
-## 📌 Summary
-I fired an employee who had access to multiple personal repos. How can I see which of my repos he still has access to?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I fired an employee who had access to multiple personal repos. How can I see which of my repos he still has access to?
+
+---
+
+🤖 **Assistant:**
 
 If the employee had access to your repositories on a platform like GitHub, GitLab, or Bitbucket, you'll need to review the permissions on each platform to ensure that they no longer have access. I'll provide a general guide using GitHub as an example, but the general steps are similar for other platforms:
 
@@ -60,7 +63,15 @@ If the employee had access to your repositories on a platform like GitHub, GitLa
 
 Lastly, always remember that communication is key. If you're unsure about access or any changes, reach out to your team and collaborators to verify.
 
+---
+
+🙋 **You:**
+
 How can I see watchers of my repo?
+
+---
+
+🤖 **Assistant:**
 
 On GitHub, "watchers" are users who have chosen to "Watch" your repository, which means they receive notifications for new issues, pull requests, and comments. If you want to see the list of watchers for your repo, you can do so through the GitHub interface or the GitHub API.
 
@@ -90,7 +101,15 @@ This will return a JSON list of users who are watching the repository. Note that
 
 Remember, the list of watchers is public information for public repositories. If the repository is private, only collaborators with the necessary permissions can view the list of watchers.
 
+---
+
+🙋 **You:**
+
 What a VC would like to see in my personal github?
+
+---
+
+🤖 **Assistant:**
 
 When venture capitalists (VCs) or investors look at your personal GitHub profile, they're typically not diving deep into the code but rather are looking for signs of your technical skill, commitment, and broader engagement with the tech community. Here are some aspects they might consider:
 

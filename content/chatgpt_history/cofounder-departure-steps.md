@@ -3,7 +3,9 @@ title: Cofounder Departure Steps
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I completed post-incorporation in clerky but one of
+  my cofounders left. Can I handle that over Clerky or what should I do? Just create
+  another company?"
 draft: false
 ---
 
@@ -12,15 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] legal paperwork with my LLC to associate it with my GitHub open source license? I chose Affero GPL (AGPL) but is that the most suitable for my TinaCMS based (jamstack) publishing platform?
 
-## 📌 Summary
-I completed post-incorporation in clerky but one of my cofounders left. Can I handle that over Clerky or what should I do? Just create another company?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I completed post-incorporation in clerky but one of my cofounders left. Can I handle that over Clerky or what should I do? Just create another company?
 
+---
 
+🤖 **Assistant:**
 
 If one of your cofounders left after completing post-incorporation on Clerky, you don’t necessarily need to create a new company. You can handle this situation by modifying the company’s structure accordingly. Here’s what you should do:  
 
@@ -54,7 +56,15 @@ Probably not—unless:
 
 Otherwise, updating your current company is usually more efficient. Let me know if you need help with specific documents!
 
+---
+
+🙋 **You:**
+
 Can I buy a copyright with my LLC?
+
+---
+
+🤖 **Assistant:**
 
 Yes, your **LLC can purchase a copyright** just like it can own other intellectual property (IP). Here’s how:  
 
@@ -80,7 +90,15 @@ Owning copyrights through your LLC can:
 
 Would you like a **template for a Copyright Assignment Agreement** or **guidance on registration**?
 
+---
+
+🙋 **You:**
+
 is that something that Clerky will handle for me?
+
+---
+
+🤖 **Assistant:**
 
 No, **Clerky does not handle copyright transfers or intellectual property (IP) assignments**. Clerky is primarily designed for startup legal paperwork like incorporation, equity, and fundraising—**not IP transactions**.  
 
@@ -102,7 +120,15 @@ If the copyright is valuable or the transaction is complex (e.g., multiple parti
 
 Would you like help reviewing a **Copyright Assignment Agreement** before using it?
 
+---
+
+🙋 **You:**
+
 Do I need to do legal paperwork with my LLC to associate it with my GitHub open source license? I chose Affero GPL (AGPL) but is that the most suitable for my TinaCMS based (jamstack) publishing platform?
+
+---
+
+🤖 **Assistant:**
 
 ### **1. Associating Your LLC with Your Open Source Project**  
 If you want your **LLC to officially own** the open-source project, you should take legal steps to formalize that ownership. GitHub itself doesn’t require this, but for clarity and protection, consider:  

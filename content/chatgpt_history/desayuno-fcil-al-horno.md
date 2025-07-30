@@ -3,29 +3,31 @@ title: Desayuno fácil al horno
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que es lo más fácil, rico y nutritivo que me puedo
+  preparar en el desayuno? De preferencia un plato que pueda meter al horno para no
+  tener que lavar sartén. Obvio muy completo, con verduras y todo"
 draft: false
 ---
 
 # Desayuno fácil al horno
 
 ## ✅ TODOs
-- [ ] Una excelente opción para un desayuno fácil, completo y nutritivo es un **frittata de verduras al horno**. Es rico en proteínas, vegetales y puedes personalizarlo según lo que tengas disponible. Aquí te dejo la receta:
+- [ ] ---
 - [ ] en el mismo recipiente que usas para hornear.
 - [ ] junto.
 - [ ] para tacos en una sola tanda y luego solo tendrás que armarlo.
 - [ ] por separado en el refrigerador y monta tus tacos cuando los necesites.
 - [ ] s los días.
 
-## 📌 Summary
-Que es lo más fácil, rico y nutritivo que me puedo preparar en el desayuno? De preferencia un plato que pueda meter al horno para no tener que lavar sartén. Obvio muy completo, con verduras y todo
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que es lo más fácil, rico y nutritivo que me puedo preparar en el desayuno? De preferencia un plato que pueda meter al horno para no tener que lavar sartén. Obvio muy completo, con verduras y todo
 
+---
 
+🤖 **Assistant:**
 
 Una excelente opción para un desayuno fácil, completo y nutritivo es un **frittata de verduras al horno**. Es rico en proteínas, vegetales y puedes personalizarlo según lo que tengas disponible. Aquí te dejo la receta:
 
@@ -58,7 +60,15 @@ Una excelente opción para un desayuno fácil, completo y nutritivo es un **frit
 
 Es una receta que puedes preparar en menos de 10 minutos y meter al horno mientras te alistas para tu día.
 
+---
+
+🙋 **You:**
+
 Ideas para cocinar súper fácil y rápido, cocinar solo dos veces a la semana. High in protein
+
+---
+
+🤖 **Assistant:**
 
 Si quieres cocinar solo dos veces por semana, lo ideal es preparar platos que puedas almacenar y recalentar sin que pierdan sabor o textura, y que estén llenos de proteínas. Aquí van algunas ideas fáciles, rápidas y nutritivas:
 

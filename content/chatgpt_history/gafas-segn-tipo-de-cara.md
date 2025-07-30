@@ -3,24 +3,22 @@ title: Gafas según tipo de cara
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  escoger las mejores gafas según mi tipo de cara, de
+  preferencia interactivo"
 draft: false
 ---
 
 # Gafas según tipo de cara
 
-## ✅ TODOs
-
-
-## 📌 Summary
-escoger las mejores gafas según mi tipo de cara, de preferencia interactivo
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 escoger las mejores gafas según mi tipo de cara, de preferencia interactivo
 
+---
 
+🤖 **Assistant:**
 
 Para elegir las mejores gafas según tu tipo de cara, puedes usar herramientas interactivas en línea que te permiten subir una foto y probar diferentes estilos virtualmente. Aquí te comparto algunas opciones que pueden ayudarte:
 

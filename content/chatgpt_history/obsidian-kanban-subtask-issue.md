@@ -43,7 +43,10 @@ tags:
 - business
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I am showing you a desktop and a mobile view of the
+  same obsidian kanban file, one in mac and one in iphone. Why it doesn't display
+  substasks in iPhone? I will also provide the markdown. I will upload files from
+  devices and only when I'm done you reply, ok?"
 draft: false
 ---
 
@@ -54,20 +57,23 @@ draft: false
 - [ ] Escribir documentación de Academia
 - [ ] Put INE in my calendar of tasks to do
 
-## 📌 Summary
-I am showing you a desktop and a mobile view of the same obsidian kanban file, one in mac and one in iphone. Why it doesn't display substasks in iPhone? I will also provide the markdown. I will upload files from devices and only when I'm done you reply, ok?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I am showing you a desktop and a mobile view of the same obsidian kanban file, one in mac and one in iphone. Why it doesn't display substasks in iPhone? I will also provide the markdown. I will upload files from devices and only when I'm done you reply, ok?
 
+---
 
+🤖 **Assistant:**
 
 Got it! Go ahead and upload the files from both devices, and let me know when you're done. I'll analyze them and provide an answer.
 
-{"content_type"=>"image_asset_pointer", "asset_pointer"=>"file-service://file-U1gKyjHFsqmvfJzJ2Crg8R", "size_bytes"=>402125, "width"=>989, "height"=>704, "fovea"=>nil, "metadata"=>{"dalle"=>nil, "gizmo"=>nil, "generation"=>nil, "container_pixel_height"=>nil, "container_pixel_width"=>nil, "emu_omit_glimpse_image"=>nil, "emu_patches_override"=>nil, "sanitized"=>true, "asset_pointer_link"=>nil}}
+---
 
+🙋 **You:**
+
+{"content_type"=>"image_asset_pointer", "asset_pointer"=>"file-service://file-U1gKyjHFsqmvfJzJ2Crg8R", "size_bytes"=>402125, "width"=>989, "height"=>704, "fovea"=>nil, "metadata"=>{"dalle"=>nil, "gizmo"=>nil, "generation"=>nil, "container_pixel_height"=>nil, "container_pixel_width"=>nil, "emu_omit_glimpse_image"=>nil, "emu_patches_override"=>nil, "sanitized"=>true, "asset_pointer_link"=>nil}}
 ---
 
 kanban-plugin: board
@@ -213,18 +219,33 @@ kanban-plugin: board
 ```
 %%
 
+---
+
+🤖 **Assistant:**
 
 I see the desktop version. Now please upload the iPhone version so I can compare them.
 
+---
+
+🙋 **You:**
+
 {"content_type"=>"image_asset_pointer", "asset_pointer"=>"file-service://file-HYJ8HXYTKbR54LA1dpmfoE", "size_bytes"=>152420, "width"=>1536, "height"=>708, "fovea"=>nil, "metadata"=>{"dalle"=>nil, "gizmo"=>nil, "generation"=>nil, "container_pixel_height"=>nil, "container_pixel_width"=>nil, "emu_omit_glimpse_image"=>nil, "emu_patches_override"=>nil, "sanitized"=>true, "asset_pointer_link"=>nil}}
 
+---
 
-
-
+🤖 **Assistant:**
 
 I can see both the desktop and iPhone versions now. What specific issue are you facing between the two? Are there layout inconsistencies, missing elements, or functionality differences? Let me know so I can help troubleshoot.
 
-The mobile version won’t show the subtasks 
+---
+
+🙋 **You:**
+
+The mobile version won’t show the subtasks
+
+---
+
+🤖 **Assistant:**
 
 It looks like you're using a Kanban-style project management tool (possibly Notion or another similar app). If subtasks aren’t showing in the mobile version but are visible on desktop, here are a few things to check and try:
 
@@ -248,7 +269,15 @@ It looks like you're using a Kanban-style project management tool (possibly Noti
 
 Let me know if any of these work or if you'd like a more app-specific solution!
 
-Using Obsidian and Obsidian Sync 
+---
+
+🙋 **You:**
+
+Using Obsidian and Obsidian Sync
+
+---
+
+🤖 **Assistant:**
 
 Since you're using **Obsidian** with **Obsidian Sync**, here are some things to check and try to get your subtasks to show properly on mobile:
 
@@ -285,7 +314,15 @@ If you're using the **Obsidian Kanban Plugin**, subtasks may not be visible in t
 
 Let me know if any of these steps help!
 
-Compared them and think iPhone version can’t show sublists for some reason. Browse a similar bug in Obsidian forums 
+---
+
+🙋 **You:**
+
+Compared them and think iPhone version can’t show sublists for some reason. Browse a similar bug in Obsidian forums
+
+---
+
+🤖 **Assistant:**
 
 I understand that you're experiencing an issue where subtasks (nested lists) are not displaying correctly on your iPhone in Obsidian. This problem can arise due to differences in how nested lists are rendered between the desktop and mobile versions of Obsidian.
 
@@ -311,8 +348,16 @@ I understand that you're experiencing an issue where subtasks (nested lists) are
 
 This thread discusses issues related to nested lists and provides insights that might be helpful in resolving your problem.
 
-If after trying these steps the issue persists, please provide more details, and I'll be happy to assist further. 
+If after trying these steps the issue persists, please provide more details, and I'll be happy to assist further.
+
+---
+
+🙋 **You:**
 
 Awesome, thanks a bunch!!
+
+---
+
+🤖 **Assistant:**
 
 You're very welcome! Glad I could help. If you run into any other Obsidian quirks or need more troubleshooting, feel free to ask. Happy organizing!

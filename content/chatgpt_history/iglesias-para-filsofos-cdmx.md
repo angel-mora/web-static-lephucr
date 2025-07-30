@@ -3,7 +3,9 @@ title: Iglesias para filósofos CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  A que iglesia puedo ir en CDMX que me satisfaga considerando
+  que soy filosofo entonces quisiera una eucaristia y posibilidad de formación desde
+  un punto de vista educado y refinado"
 draft: false
 ---
 
@@ -12,15 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] mingo (Centro Histórico)**
 
-## 📌 Summary
-A que iglesia puedo ir en CDMX que me satisfaga considerando que soy filosofo entonces quisiera una eucaristia y posibilidad de formación desde un punto de vista educado y refinado
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 A que iglesia puedo ir en CDMX que me satisfaga considerando que soy filosofo entonces quisiera una eucaristia y posibilidad de formación desde un punto de vista educado y refinado
 
+---
 
+🤖 **Assistant:**
 
 En la Ciudad de México, hay varias iglesias y comunidades que ofrecen un ambiente que podría satisfacer tu interés por una eucaristía y formación religiosa desde un enfoque educado y reflexivo, considerando tu trasfondo filosófico. Aquí te sugiero algunas opciones:
 

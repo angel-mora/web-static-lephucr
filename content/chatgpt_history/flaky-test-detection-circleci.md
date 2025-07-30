@@ -3,24 +3,22 @@ title: Flaky Test Detection CircleCI
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to see all flaky specs in a pipeline? I'm using
+  CircleCI and Rails. Please provide just most up-to-date information"
 draft: false
 ---
 
 # Flaky Test Detection CircleCI
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How to see all flaky specs in a pipeline? I'm using CircleCI and Rails. Please provide just most up-to-date information
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to see all flaky specs in a pipeline? I'm using CircleCI and Rails. Please provide just most up-to-date information
 
+---
 
+🤖 **Assistant:**
 
 To identify all flaky tests in your CircleCI pipeline for a Rails project, you can utilize CircleCI's Test Insights feature, which offers detailed analysis of your test performance, including flaky test detection. Here's how you can access and use this feature:
 
@@ -51,10 +49,18 @@ How to see all flaky specs in a pipeline? I'm using CircleCI and Rails. Please p
 
 For more information on using the CircleCI API for test data, refer to the [CircleCI Support Center](https://support.circleci.com/hc/en-us/articles/360057708991-How-to-get-information-about-flaky-and-slowest-tests-via-the-insights-API).
 
-By leveraging these tools, you can effectively identify and manage flaky tests in your CircleCI pipeline, ensuring a more stable and reliable test suite for your Rails application. 
+By leveraging these tools, you can effectively identify and manage flaky tests in your CircleCI pipeline, ensuring a more stable and reliable test suite for your Rails application.
+
+---
+
+🙋 **You:**
 
 How can I see the store_test_results output for our last week's run?
-https://circleci.com/docs/collect-test-data/ 
+https://circleci.com/docs/collect-test-data/
+
+---
+
+🤖 **Assistant:**
 
 To see the `store_test_results` output for your last week's run on CircleCI, follow these steps:  
 

@@ -3,40 +3,56 @@ title: Moda alternativa CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Dime cuentas como HiBye, Filia o Wavey en CDMX para
+  topar los últimos trends de moda (cosas super cool, nada tan normie). No sé, tipo
+  Purple Magazine o cosas incluso más under, tipo la inspo comercial de proyectitos
+  como Tacubaby. Todas mis referencias tienen instagram o google maps"
 draft: false
 ---
 
 # Moda alternativa CDMX
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Dime cuentas como HiBye, Filia o Wavey en CDMX para topar los últimos trends de moda (cosas super cool, nada tan normie). No sé, tipo Purple Magazine o cosas incluso más under, tipo la inspo comercial de proyectitos como Tacubaby. Todas mis referencias tienen instagram o google maps
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Dime cuentas como HiBye, Filia o Wavey en CDMX para topar los últimos trends de moda (cosas super cool, nada tan normie). No sé, tipo Purple Magazine o cosas incluso más under, tipo la inspo comercial de proyectitos como Tacubaby. Todas mis referencias tienen instagram o google maps
 
+---
 
+🤖 **Assistant:**
 
 ¡Claro! Si estás buscando tiendas en la Ciudad de México que ofrezcan moda vanguardista y alejada de lo convencional, similares a HiBye, Filia o Wavey, aquí te presento algunas opciones destacadas:
 
 businesses_map{"name":"Goodbye Folk","location":"Ciudad de México, México","description":"Ubicada en Roma Norte, esta tienda combina una boutique de moda urbana con un estudio de peluquería. Ofrece prendas y accesorios únicos, además de la posibilidad de personalizar zapatos y confeccionar ropa a medida con telas vintage.","cite":"turn0search0"}{"name":"Viejo Amor","location":"Ciudad de México, México","description":"Situada en la Condesa, esta boutique ofrece una selección de prendas vintage en excelente estado, así como piezas contemporáneas hechas con materiales orgánicos. Es ideal para quienes buscan moda sostenible y exclusiva.","cite":"turn0search0"}{"name":"Mvndo Varón","location":"Ciudad de México, México","description":"Esta tienda se especializa en moda alternativa con una curaduría de lujo. Ofrece piezas de alta calidad y estilo, destacando especialmente en accesorios y joyería que aportan originalidad a cualquier atuendo.","cite":"turn0search1"}{"name":"Ppaayys","location":"Ciudad de México, México","description":"Recientemente inaugurada en la Condesa, Ppaayys se ha ganado reconocimiento por su curaduría de streetwear alternativo. Es ideal para quienes buscan estilos urbanos con un toque único.","cite":"turn0search1"}{"name":"Headquarters","location":"Ciudad de México, México","description":"Ubicada en la colonia Roma, es una de las tiendas más importantes para el streetwear en la ciudad. Ofrece una variedad de marcas de streetwear premium con propuestas de autor a la vanguardia de las tendencias globales.","cite":"turn0search1"}{"name":"Tiempos Shop","location":"Ciudad de México, México","description":"Esta tienda ofrece una mezcla de streetwear alternativo premium, fusionando las últimas tendencias con lujo y diseño de autor. Ideal para quienes buscan moda de vanguardia con un toque de exclusividad.","cite":"turn0search1"}
 
-Estas tiendas destacan por ofrecer propuestas de moda únicas y alejadas de lo convencional, perfectas para quienes buscan tendencias vanguardistas en la Ciudad de México. 
+Estas tiendas destacan por ofrecer propuestas de moda únicas y alejadas de lo convencional, perfectas para quienes buscan tendencias vanguardistas en la Ciudad de México.
+
+---
+
+🙋 **You:**
 
 estoy buscando cuentas de instagram, más bien
+
+---
+
+🤖 **Assistant:**
 
 ¡Por supuesto! Si estás buscando cuentas de Instagram en la Ciudad de México que ofrecen moda vanguardista y alejada de lo convencional, aquí tienes algunas opciones destacadas:
 
 businesses_map{"name":"Loop Mood","location":"Ciudad de México, México","description":"Tienda de moda sustentable ubicada en la colonia Narvarte. Se especializan en la recirculación de prendas, ofreciendo una selección curada de ropa y accesorios únicos.","cite":"turn0search0"}{"name":"Columpio Ropa y Complementos","location":"Ciudad de México, México","description":"Espacio que celebra la creatividad y originalidad de diseñadores mexicanos. Ofrece creaciones únicas en su tienda ubicada en Atlixco 71, Condesa.","cite":"turn0search1"}{"name":"Fashion Revolution México","location":"Ciudad de México, México","description":"Movimiento que promueve la moda sostenible, conectando con técnicas artesanales y materiales ecológicos. Ideal para quienes buscan inspiración en tendencias responsables.","cite":"turn0search2"}{"name":"Haruka Cos Wi","location":"Ciudad de México, México","description":"Ubicada estratégicamente para conectar con una comunidad apasionada por la moda alternativa, ofreciendo un ambiente creativo y colaborativo para marcas emergentes.","cite":"turn0search3"}{"name":"ROCA Boutique","location":"Ciudad de México, México","description":"Con tres sucursales en la CDMX, esta boutique ofrece ropa y accesorios con un enfoque en tendencias actuales y estilos únicos.","cite":"turn0search4"}{"name":"Moisés Molina (@moisesmolina)","location":"Ciudad de México, México","description":"Influencer que modela ropa de segunda mano, mostrando cómo lucir increíble sin gastar mucho. Comparte outfits y consejos de moda alternativa en su cuenta de TikTok.","cite":"turn0search5"}
 
-Estas cuentas te mantendrán al día con las últimas tendencias de moda alternativa y sostenible en la Ciudad de México. 
+Estas cuentas te mantendrán al día con las últimas tendencias de moda alternativa y sostenible en la Ciudad de México.
+
+---
+
+🙋 **You:**
 
 quiero algo más international
+
+---
+
+🤖 **Assistant:**
 
 ¡Por supuesto! Si estás buscando cuentas de Instagram internacionales que ofrecen contenido de moda vanguardista y alejado de lo convencional, aquí tienes algunas recomendaciones:
 
@@ -70,9 +86,17 @@ quiero algo más international
 Empresaria y diseñadora italiana, Chiara es una de las influencers más destacadas a nivel mundial. Su cuenta ofrece una visión de su estilo personal, colaboraciones con marcas de lujo y tendencias actuales. citeturn0search1
 :::
 
-Estas cuentas te mantendrán al día con las últimas tendencias de moda internacional y te ofrecerán una perspectiva fresca y vanguardista del mundo fashion. 
+Estas cuentas te mantendrán al día con las últimas tendencias de moda internacional y te ofrecerán una perspectiva fresca y vanguardista del mundo fashion.
+
+---
+
+🙋 **You:**
 
 something more queer?
+
+---
+
+🤖 **Assistant:**
 
 Certainly! If you're seeking international Instagram accounts that showcase queer fashion and style, here are some notable profiles to explore:
 
@@ -106,9 +130,17 @@ Certainly! If you're seeking international Instagram accounts that showcase quee
 Known for engaging and politically charged content, Matt aims to make young queer individuals feel less alone through his thought-provoking posts. citeturn0news10
 :::
 
-These accounts provide a diverse range of queer fashion inspirations from around the globe, reflecting the vibrant and inclusive nature of the LGBTQ+ community. 
+These accounts provide a diverse range of queer fashion inspirations from around the globe, reflecting the vibrant and inclusive nature of the LGBTQ+ community.
 
-are those really cool? 
+---
+
+🙋 **You:**
+
+are those really cool?
+
+---
+
+🤖 **Assistant:**
 
 Not really the vibe you're looking for, huh? Let me refine the list with accounts that are more cutting-edge, artsy, and aligned with the avant-garde queer fashion scene—think underground, editorial, and boundary-pushing. Here are some truly cool and international queer fashion accounts worth following:  
 
@@ -144,7 +176,15 @@ A luxury label with a bold, gender-fluid, and Caribbean-influenced aesthetic. Th
 
 Would you like something even more niche, like accounts for emerging underground designers or queer fashion zines?
 
+---
+
+🙋 **You:**
+
 provide actual instagram urls
+
+---
+
+🤖 **Assistant:**
 
 Apologies for any confusion in my previous messages. Here are the Instagram profiles I mentioned earlier:
 
@@ -178,9 +218,17 @@ Apologies for any confusion in my previous messages. Here are the Instagram prof
 10. **Botter Paris (@botterparis)**  
     [https://www.instagram.com/botterparis/](https://www.instagram.com/botterparis/)
 
-These accounts showcase a range of avant-garde, queer fashion from various international perspectives. Exploring their content should provide you with a diverse array of styles and inspirations. 
+These accounts showcase a range of avant-garde, queer fashion from various international perspectives. Exploring their content should provide you with a diverse array of styles and inspirations.
+
+---
+
+🙋 **You:**
 
 3,5,6,7,8 are the only that work
+
+---
+
+🤖 **Assistant:**
 
 Got it! Here are some additional **working** Instagram accounts with avant-garde, queer, and underground fashion aesthetics:  
 
@@ -211,7 +259,15 @@ Got it! Here are some additional **working** Instagram accounts with avant-garde
 
 These should fit more within the **cool, underground, non-normie** aesthetic you're looking for. Let me know if you want something even more niche!
 
+---
+
+🙋 **You:**
+
 now search for cool suit inspo for 2025, I'll attend a wedding
+
+---
+
+🤖 **Assistant:**
 
 iturn0image0turn0image1turn0image2turn0image4Attending a wedding in 2025 offers a fantastic opportunity to showcase your style with contemporary trends. Here are some suit inspirations to consider:
 
@@ -239,9 +295,17 @@ now search for cool suit inspo for 2025, I'll attend a wedding
 
 For spring and summer weddings, soft pastel tones such as soft pink, soft purple, muted rust, and sandy hues are trending. For those who prefer deeper shades, taupe and chocolate brown are also popular choices during spring. citeturn0search7
 
-When selecting your suit, consider the wedding theme, season, and personal style to ensure a cohesive and fashionable look. 
+When selecting your suit, consider the wedding theme, season, and personal style to ensure a cohesive and fashionable look.
+
+---
+
+🙋 **You:**
 
 shoes
+
+---
+
+🤖 **Assistant:**
 
 iturn0image0turn0image1turn0image2turn0image4Selecting the perfect shoes for a wedding in 2025 allows you to blend contemporary trends with personal style. Here are some notable trends to consider:
 
@@ -269,9 +333,17 @@ shoes
 
 Embracing individuality, some are choosing bold block heels or even stylish boots for their wedding attire. These options provide stability and a modern edge to traditional wedding ensembles. citeturn0search6
 
-When selecting your shoes, consider the venue, season, and overall theme of the wedding to ensure your choice complements your suit and provides comfort throughout the event. 
+When selecting your shoes, consider the venue, season, and overall theme of the wedding to ensure your choice complements your suit and provides comfort throughout the event.
+
+---
+
+🙋 **You:**
 
 men shoes
+
+---
+
+🤖 **Assistant:**
 
 iturn0image0turn0image1turn0image2turn0image4Selecting the right shoes for a wedding in 2025 allows you to blend timeless elegance with contemporary trends. Here are some top styles to consider:
 

@@ -3,24 +3,21 @@ title: Books for Chrome Engineers
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Best books about chrome to be a better engineer"
 draft: false
 ---
 
 # Books for Chrome Engineers
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Best books about chrome to be a better engineer
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Best books about chrome to be a better engineer 
+Best books about chrome to be a better engineer
 
+---
 
+🤖 **Assistant:**
 
 Here are some highly recommended books about Google Chrome and related web development technologies that can help you become a better engineer:
 

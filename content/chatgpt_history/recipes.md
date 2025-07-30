@@ -3,22 +3,21 @@ title: Recipes
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Receta ensalada nicoise"
 draft: false
 ---
 
 # Recipes
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Receta ensalada nicoise
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Receta ensalada nicoise 
+Receta ensalada nicoise
+
+---
+
+🤖 **Assistant:**
 
 ¡Claro! La ensalada Niçoise es una ensalada clásica originaria de Niza, Francia. Aquí tienes una receta típica para 4 personas:
 
@@ -54,7 +53,15 @@ Receta ensalada nicoise
 
 ¡Espero que disfrutes de esta deliciosa ensalada Niçoise!
 
+---
+
+🙋 **You:**
+
 Tell me the cheapest, fastest and most complete meals for a week, I live in Mexico City so it’s easy to find multiple ingredients.
+
+---
+
+🤖 **Assistant:**
 
 ¡Claro! En Ciudad de México hay una gran variedad de ingredientes disponibles y a buen precio. Aquí te dejo una lista de comidas económicas, rápidas y completas para una semana:
 

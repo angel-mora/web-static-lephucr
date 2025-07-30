@@ -3,24 +3,23 @@ title: Identificación de market gap
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cómo puedo saber que market gap puede tener mi proyecto
+  que busca ayudar a simplificar la publicación de sitios web basados en markdown
+  y a tener features como los frontends de templates de obsidian"
 draft: false
 ---
 
 # Identificación de market gap
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cómo puedo saber que market gap puede tener mi proyecto que busca ayudar a simplificar la publicación de sitios web basados en markdown y a tener features como los frontends de templates de obsidian
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cómo puedo saber que market gap puede tener mi proyecto que busca ayudar a simplificar la publicación de sitios web basados en markdown y a tener features como los frontends de templates de obsidian
 
+---
 
+🤖 **Assistant:**
 
 Identificar el **market gap** para tu proyecto que simplifica la publicación de sitios basados en Markdown y agrega características como las de Obsidian implica analizar tanto las necesidades de los usuarios potenciales como las soluciones existentes. Aquí te dejo una guía práctica:
 
@@ -104,7 +103,15 @@ Una vez identificado el gap, construye un **producto mínimo viable (MVP)** que 
 
 Si encuentras un nicho insatisfecho o problemas comunes en las herramientas existentes, tu proyecto puede convertirse en una solución única en el mercado. ¿Te gustaría ayuda con el MVP o una estrategia más específica?
 
+---
+
+🙋 **You:**
+
 Programadores y creadores de contenido que usen sistemas de referencias como bibtex . Cuántos usuarios tienen obsidian, roam research, notion o GitHub pages? Responde cantidades aprox y justifica.
+
+---
+
+🤖 **Assistant:**
 
 Determinar el número exacto de usuarios de herramientas como Obsidian, Roam Research, Notion o GitHub Pages es desafiante, ya que las empresas detrás de estas plataformas no suelen publicar cifras oficiales de usuarios. Sin embargo, se pueden hacer estimaciones aproximadas basadas en la información disponible y las tendencias del mercado.
 
@@ -124,9 +131,17 @@ En cuanto al uso de sistemas de referencias como BibTeX entre los usuarios de es
 
 - **GitHub Pages**: El uso de BibTeX dependerá del contenido del sitio alojado; por ejemplo, blogs académicos o documentación técnica pueden incorporarlo, pero no es una característica inherente al servicio.
 
-Estas estimaciones son aproximadas y deben interpretarse con cautela, ya que las dinámicas de uso y las bases de usuarios pueden cambiar con el tiempo. 
+Estas estimaciones son aproximadas y deben interpretarse con cautela, ya que las dinámicas de uso y las bases de usuarios pueden cambiar con el tiempo.
 
-Dime un número estimado de potenciales usuarios 
+---
+
+🙋 **You:**
+
+Dime un número estimado de potenciales usuarios
+
+---
+
+🤖 **Assistant:**
 
 Con base en las estimaciones de usuarios y considerando el uso potencial de herramientas de referencias como BibTeX, el número aproximado de **usuarios potenciales** para un sistema que combine características de Markdown, publicación simplificada y funcionalidades avanzadas como las de Obsidian o Roam Research podría ser:
 

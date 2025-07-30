@@ -3,24 +3,21 @@ title: Nextjs Authentication for Blog
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Nextjs authentication for a blog"
 draft: false
 ---
 
 # Nextjs Authentication for Blog
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Nextjs authentication for a blog
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Nextjs authentication for a blog 
+Nextjs authentication for a blog
 
+---
 
+🤖 **Assistant:**
 
 Implementing authentication in a Next.js blog involves a few key steps, including setting up a user authentication system and protecting certain routes. Here's a step-by-step guide to help you get started:
 

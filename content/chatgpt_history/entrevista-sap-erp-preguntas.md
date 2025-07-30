@@ -3,7 +3,7 @@ title: 'Entrevista SAP ERP: Preguntas'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Preguntas de entrevista de software de erp sap"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s los stakeholders estén informados y puedan contribuir eficazmente."
 
-## 📌 Summary
-Preguntas de entrevista de software de erp sap
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Preguntas de entrevista de software de erp sap
 
+---
 
+🤖 **Assistant:**
 
 Las entrevistas para posiciones relacionadas con el software ERP SAP pueden variar mucho según el rol específico, pero aquí te dejo algunas preguntas generales que podrían surgir durante una entrevista para un puesto relacionado con SAP:
 
@@ -48,7 +48,15 @@ Las entrevistas para posiciones relacionadas con el software ERP SAP pueden vari
 
 Estas preguntas están diseñadas para explorar tu conocimiento técnico de SAP, tu experiencia práctica, tu habilidad para resolver problemas y tu capacidad para trabajar en un ambiente de equipo y gestionar proyectos.
 
-Respuestas básicas 
+---
+
+🙋 **You:**
+
+Respuestas básicas
+
+---
+
+🤖 **Assistant:**
 
 Para las preguntas generales sobre entrevistas de ERP SAP que mencioné antes, aquí hay respuestas básicas que podrías adaptar según tu experiencia y conocimiento:
 

@@ -3,22 +3,21 @@ title: WiFi Tethering in HP
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Comando para powershell en HP para thetering por wifi"
 draft: false
 ---
 
 # WiFi Tethering in HP
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Comando para powershell en HP para thetering por wifi
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Comando para powershell en HP para thetering por wifi
+
+---
+
+🤖 **Assistant:**
 
 El tethering por WiFi generalmente se refiere a compartir la conexión a Internet de un dispositivo con otros dispositivos a través de una conexión inalámbrica. Normalmente, esto se hace a través de la configuración del sistema operativo, no a través de PowerShell. 
 

@@ -3,7 +3,8 @@ title: Renombrar función Ruby
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  cambia estos nombres a unos más amigables y no tan
+  de ejemplo:"
 draft: false
 ---
 
@@ -14,11 +15,9 @@ draft: false
 - [ ] refactorizado, lo cual es una buena práctica.
 - [ ] para consultas de lectura al evitar carga de objetos innecesaria.
 
-## 📌 Summary
-cambia estos nombres a unos más amigables y no tan de ejemplo:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 cambia estos nombres a unos más amigables y no tan de ejemplo:
 
@@ -33,8 +32,9 @@ cambia estos nombres a unos más amigables y no tan de ejemplo:
     orders.where(orderstatus_id: quote_id).limit(affected_rows)
   end
 
+---
 
-
+🤖 **Assistant:**
 
 Aquí tienes una versión con nombres más descriptivos y fáciles de entender:
 
@@ -58,6 +58,10 @@ end
 4. `affected_rows` -> `updated_orders_count`: Más descriptivo de que se trata del conteo de pedidos actualizados. 
 
 Con estos cambios, la función debería ser más intuitiva y clara en su propósito.
+
+---
+
+🙋 **You:**
 
 cambia estos nombres de esta funcion que esta refactorizada
 
@@ -88,7 +92,11 @@ cambia estos nombres de esta funcion que esta refactorizada
   # end
 
 
-utiliza esta funcion comentada para que sean nombres que hagan la misma función 
+utiliza esta funcion comentada para que sean nombres que hagan la misma función
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes una versión con nombres más amigables y consistentes, basada en la función comentada:
 
@@ -116,6 +124,10 @@ end
 3. `fixed_orders` -> `updated_orders`: Describe claramente que se trata de los pedidos que han sido actualizados.
 
 Con estos nombres, la función refleja mejor su propósito de asignar un estado por defecto a los pedidos sin estado.
+
+---
+
+🙋 **You:**
 
 tengo esta funcion que ya no usaré:
 
@@ -149,9 +161,11 @@ y esta es la nueva funcion:
     orders.where(orderstatus_id: default_status_id).limit(updated_orders_count)
   end
 
-puedes cambiarle los nombres a mi nueva funcion pero basandote en la vieja? 
+puedes cambiarle los nombres a mi nueva funcion pero basandote en la vieja?
 
+---
 
+🤖 **Assistant:**
 
 Aquí tienes una versión renombrada de tu función nueva, siguiendo el estilo de la función anterior:
 
@@ -169,6 +183,10 @@ end
 ```
 
 Este nombre refleja el estilo de la función anterior.
+
+---
+
+🙋 **You:**
 
 Mejora esta query para hacerla lo más eficiente posible
 [2] pry(main)> Benchmark.bm do |x| { account.fix_orders_where_an_orderstatus_is_nil_refactored }
@@ -211,6 +229,10 @@ El código de ruby:
 
     orders.where(orderstatus_id: default_status_id).limit(updated_orders_count)
   end
+
+---
+
+🤖 **Assistant:**
 
 Para mejorar aún más la eficiencia de esta consulta, podemos hacer algunos ajustes:
 

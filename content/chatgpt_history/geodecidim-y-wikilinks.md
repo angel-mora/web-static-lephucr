@@ -3,7 +3,7 @@ title: Geodecidim y wikilinks
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Geodecidim con wikilinks, como sería??"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] |format|
 
-## 📌 Summary
-Geodecidim con wikilinks, como sería??
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Geodecidim con wikilinks, como sería??
 
+---
 
+🤖 **Assistant:**
 
 Geodecidim con *wikilinks* sería una adaptación del sistema de participación y toma de decisiones de Decidim que integra la funcionalidad de *wikilinks* para mejorar la navegación y el acceso al contenido relacionado dentro de la plataforma.
 
@@ -39,7 +39,15 @@ Esto podría fomentar una participación más informada y profunda, ya que los p
 
 ¿Te gustaría desarrollar más esta idea o explorar cómo integrarlo técnicamente en una plataforma basada en Rails?
 
+---
+
+🙋 **You:**
+
 Dame un detalle más técnico considerando Rails + visualización con Kepler.gl
+
+---
+
+🤖 **Assistant:**
 
 Para desarrollar una versión de **Geodecidim con *wikilinks* y visualización con Kepler.gl** en Rails, el proyecto tendría dos aspectos principales: (1) la funcionalidad de *wikilinks* en el flujo de propuestas y (2) la integración de Kepler.gl para la visualización geoespacial de datos. A continuación, te doy un desglose técnico:
 

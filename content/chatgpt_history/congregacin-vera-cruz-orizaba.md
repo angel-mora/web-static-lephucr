@@ -3,24 +3,22 @@ title: Congregación Vera Cruz Orizaba
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuál es la congregación del Instituto de la Vera Cruz
+  en Orizab"
 draft: false
 ---
 
 # Congregación Vera Cruz Orizaba
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cuál es la congregación del Instituto de la Vera Cruz en Orizab
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cuál es la congregación del Instituto de la Vera Cruz en Orizab
 
+---
 
+🤖 **Assistant:**
 
 tlwmInstituto de la Vera CruzInstituto de la Vera Cruz Orizaba
 

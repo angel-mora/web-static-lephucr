@@ -3,23 +3,22 @@ title: Neovim vs Vim
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Conversation Title: Vim"
 draft: false
 ---
 
 # Neovim vs Vim
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Conversation Title: Vim
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Conversation Title: Vim
 Is nvim easier than vim?
+
+---
+
+🤖 **Assistant:**
 
 **Conversation Title: Vim**
 

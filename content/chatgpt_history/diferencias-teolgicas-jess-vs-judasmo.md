@@ -3,24 +3,22 @@ title: 'Diferencias Teológicas: Jesús vs. Judaísmo'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuales son las diferencias teologicas entre la doctrina
+  de Jesus y la doctrina judía (en ese entonces y ahora)?"
 draft: false
 ---
 
 # Diferencias Teológicas: Jesús vs. Judaísmo
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cuales son las diferencias teologicas entre la doctrina de Jesus y la doctrina judía (en ese entonces y ahora)?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Cuales son las diferencias teologicas entre la doctrina de Jesus y la doctrina judía (en ese entonces y ahora)? 
+Cuales son las diferencias teologicas entre la doctrina de Jesus y la doctrina judía (en ese entonces y ahora)?
 
+---
 
+🤖 **Assistant:**
 
 Las diferencias teológicas entre la doctrina de Jesús y la doctrina judía de su tiempo, así como las diferencias actuales, son profundas y se centran en varios puntos clave:
 

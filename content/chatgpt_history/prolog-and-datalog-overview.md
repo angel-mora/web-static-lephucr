@@ -3,22 +3,21 @@ title: Prolog and Datalog Overview
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Give me a overview of prolog and datalog"
 draft: false
 ---
 
 # Prolog and Datalog Overview
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Give me a overview of prolog and datalog
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Give me a overview of prolog and datalog
+
+---
+
+🤖 **Assistant:**
 
 Sure, I'd be happy to give you an overview of Prolog and Datalog. Both of these are declarative programming languages, which express the logic of a computation without describing its control flow. They are often used in artificial intelligence and database management systems.
 

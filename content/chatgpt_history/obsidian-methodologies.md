@@ -3,23 +3,22 @@ title: Obsidian Methodologies
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Title of the conversation: Obsidian Methodologies"
 draft: false
 ---
 
 # Obsidian Methodologies
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Title of the conversation: Obsidian Methodologies
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Title of the conversation: Obsidian Methodologies
 Tell me all the Obsidian methodologies you know, separating them by use cases. E.g. for Obsidian as a PKM use Tiago Forte's PARA method.
+
+---
+
+🤖 **Assistant:**
 
 As an AI developed by OpenAI, my training only extends up to September 2021. As of my last training data, I can share the following methodologies commonly used with Obsidian. Keep in mind that these methodologies are not exclusive to Obsidian but can be adapted for use in various PKM (Personal Knowledge Management) systems. 
 
@@ -42,7 +41,15 @@ As an AI developed by OpenAI, my training only extends up to September 2021. As 
 
 Remember that the value in these methodologies comes from customizing and combining them to fit your needs. As new methodologies may have emerged since my last update, I recommend checking the Obsidian forums or other resources for the most recent information.
 
+---
+
+🙋 **You:**
+
 Now, provide a tutorial for each of the methodologies grouped by use cases. Make sure to show a file tree and an explanation of the workflow.
+
+---
+
+🤖 **Assistant:**
 
 Sure, let's break this down for each use case. I'll provide a simplified tutorial for the main methodologies in each category.
 

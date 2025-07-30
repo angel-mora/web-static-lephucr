@@ -3,24 +3,22 @@ title: Compartir comunidades Reddit
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Puedo compartir todas mis comunidades de Reddit a una
+  persona?"
 draft: false
 ---
 
 # Compartir comunidades Reddit
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Puedo compartir todas mis comunidades de Reddit a una persona?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Puedo compartir todas mis comunidades de Reddit a una persona?
 
+---
 
+🤖 **Assistant:**
 
 No existe una función nativa en Reddit para compartir directamente todas tus comunidades suscritas a otra persona, pero hay algunas formas manuales o semiautomáticas de hacerlo:
 

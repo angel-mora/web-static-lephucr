@@ -3,24 +3,23 @@ title: 'Retro: H3L & SSK'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Provide guiding questions for Highlights, Learned,
+  Lacked and Longed For. I'll be leading this retro. Also guideline questions for
+  Start, Stop and Keep doing"
 draft: false
 ---
 
 # Retro: H3L & SSK
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Provide guiding questions for Highlights, Learned, Lacked and Longed For. I'll be leading this retro. Also guideline questions for Start, Stop and Keep doing
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Provide guiding questions for Highlights, Learned, Lacked and Longed For. I'll be leading this retro. Also guideline questions for Start, Stop and Keep doing
 
+---
 
+🤖 **Assistant:**
 
 For a retrospective meeting, having clear and insightful guiding questions can really help facilitate meaningful discussion and actionable outcomes. Here are some suggested questions for each segment you mentioned:
 

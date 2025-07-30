@@ -3,24 +3,24 @@ title: Request for Work Break
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Doing bad at my job and want to drop out. Before doing
+  so, since I'm a contractor, I'd like to request a month as an emergency since I
+  no longer feel capable of working in it but don't want to make that decision now
+  so asking to start again january 15th would be good enough."
 draft: false
 ---
 
 # Request for Work Break
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Doing bad at my job and want to drop out. Before doing so, since I'm a contractor, I'd like to request a month as an emergency since I no longer feel capable of working in it but don't want to make that decision now so asking to start again january 15th would be good enough.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Doing bad at my job and want to drop out. Before doing so, since I'm a contractor, I'd like to request a month as an emergency since I no longer feel capable of working in it but don't want to make that decision now so asking to start again january 15th would be good enough.
 
+---
 
+🤖 **Assistant:**
 
 If you’re considering stepping back but want to leave room to reassess in January, here's a way to frame the request thoughtfully:
 
@@ -34,7 +34,15 @@ If you’re considering stepping back but want to leave room to reassess in Janu
 
 Would you like help drafting this into an email or proposal format?
 
+---
+
+🙋 **You:**
+
 No later than the end of this sprint. Now, communicate an email for me
+
+---
+
+🤖 **Assistant:**
 
 Here's a draft email that communicates your need for a break effectively and professionally:
 

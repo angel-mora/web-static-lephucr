@@ -3,24 +3,21 @@ title: Calculo de Riesgos con Python
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Calculo de riesgos para emprendedores con python"
 draft: false
 ---
 
 # Calculo de Riesgos con Python
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Calculo de riesgos para emprendedores con python
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Calculo de riesgos para emprendedores con python
 
+---
 
+🤖 **Assistant:**
 
 Para calcular riesgos en un emprendimiento utilizando Python, puedes seguir estos pasos básicos:
 
@@ -85,7 +82,15 @@ Este código realiza lo siguiente:
 
 Puedes ajustar las probabilidades, impactos y el número de simulaciones según tus necesidades específicas.
 
+---
+
+🙋 **You:**
+
 Para micronegocios
+
+---
+
+🤖 **Assistant:**
 
 Para micronegocios, los cálculos de riesgos pueden adaptarse a una escala más pequeña y considerar factores específicos como flujo de caja, dependencia de proveedores, y cambios en la demanda local. Aquí hay una versión simplificada y más específica del código para micronegocios:
 

@@ -3,22 +3,23 @@ title: Tab Management Plugin Alternatives
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  plugin like one-tab.com to handle all my bookmarks
+  and groups. I like one-tab but it lacks sorting by domain and other features like
+  history analytics"
 draft: false
 ---
 
 # Tab Management Plugin Alternatives
 
-## ✅ TODOs
-
-
-## 📌 Summary
-plugin like one-tab.com to handle all my bookmarks and groups. I like one-tab but it lacks sorting by domain and other features like history analytics
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 plugin like one-tab.com to handle all my bookmarks and groups. I like one-tab but it lacks sorting by domain and other features like history analytics
+
+---
+
+🤖 **Assistant:**
 
 If you're looking for a browser extension or plugin similar to OneTab but with more features, there are several options available. Here are some popular alternatives that offer a variety of features, including sorting by domain, history analytics, and more:
 
@@ -38,6 +39,14 @@ If none of these options provide the exact features you're looking for, you migh
 
 Lastly, if you're technically inclined, you could also consider creating your own browser extension tailored to your specific needs. There are many resources and tutorials available online to help you get started with browser extension development.
 
+---
+
+🙋 **You:**
+
 is workona open source?
+
+---
+
+🤖 **Assistant:**
 
 No, as of my last update in January 2022, Workona is not open source. It's a commercial product with both free and premium tiers. If you're specifically looking for open-source solutions, you might need to explore other options or consider building a custom solution based on your requirements. Always remember to check the official website or repositories of tools and applications for the most up-to-date information.

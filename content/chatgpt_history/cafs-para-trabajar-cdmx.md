@@ -3,7 +3,8 @@ title: Cafés para Trabajar CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Mejores cafés para trabajar fuera en CDMX. Tipo Coffeefy
+  en la Juárez, Blend Station o Chez Vouz"
 draft: false
 ---
 
@@ -12,19 +13,27 @@ draft: false
 ## ✅ TODOs
 - [ ] el tiempo que necesites.
 
-## 📌 Summary
-Mejores cafés para trabajar fuera en CDMX. Tipo Coffeefy en la Juárez, Blend Station o Chez Vouz
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Mejores cafés para trabajar fuera en CDMX. Tipo Coffeefy en la Juárez, Blend Station o Chez Vouz
 
+---
 
+🤖 **Assistant:**
 
 User is looking for cafés in CDMX suitable for working outside, similar to Coffeefy in Juárez, Blend Station, or Chez Vous.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes algunos cafés en CDMX ideales para trabajar:
 
@@ -46,13 +55,27 @@ Aquí tienes algunos cafés en CDMX ideales para trabajar:
 
 Estos lugares son conocidos por tener un buen ambiente para trabajar, con WiFi disponible y enchufes para dispositivos electrónicos.
 
+---
+
+🙋 **You:**
+
 Algunos de esos lugares son muy inquisitivos respecto al tiempo de estancia. Otro muy tolerante y cómodo es Haab Project. Incluye espacios públicos como la Biblioteca Vasconcelos, AEROMOTO o la Ciudadela
 
+---
 
+🤖 **Assistant:**
 
 User prefers work-friendly cafés or public spaces in CDMX that are tolerant regarding the time of stay, like Haab Project, Biblioteca Vasconcelos, AEROMOTO, or Ciudadela.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Gracias por la aclaración. Aquí tienes algunos lugares adicionales en CDMX donde puedes trabajar cómodamente y sin la presión de limitar tu tiempo de estancia:
 
@@ -70,9 +93,15 @@ Gracias por la aclaración. Aquí tienes algunos lugares adicionales en CDMX don
 
 Estos lugares son conocidos por ser más tolerantes con el tiempo de permanencia, permitiéndote trabajar o estudiar sin interrupciones.
 
-Busco algo para largas estancias con equipo de cómputo, conexiones eléctricas y mesas cómodas 
+---
 
+🙋 **You:**
 
+Busco algo para largas estancias con equipo de cómputo, conexiones eléctricas y mesas cómodas
+
+---
+
+🤖 **Assistant:**
 
 Para largas estancias con equipo de cómputo, conexiones eléctricas, y mesas cómodas, aquí tienes algunas opciones en CDMX:
 

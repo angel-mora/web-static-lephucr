@@ -3,24 +3,23 @@ title: Rails ngrok config fix
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Fix this rails error"
 draft: false
 ---
 
 # Rails ngrok config fix
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Fix this rails error
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Fix this rails error
 To allow requests to 23ec-189-217-94-223.ngrok-free.app, add the following to your environment configuration:
 config.hosts << "23ec-189-217-94-223.ngrok-free.app"
+
+---
+
+🤖 **Assistant:**
 
 The error you're seeing is due to a security feature introduced in Rails 6 that prevents against DNS rebinding attacks. By default, Rails will only allow requests from `localhost` to prevent against these types of attacks. When you're using services like `ngrok` to expose your local development server to the web, you'll need to whitelist the `ngrok` domain in your Rails configuration.
 

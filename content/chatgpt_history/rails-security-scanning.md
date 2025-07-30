@@ -3,7 +3,7 @@ title: Rails Security & Scanning
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Conversation: ruby on rails security"
 draft: false
 ---
 
@@ -13,15 +13,17 @@ draft: false
 - [ ] it manually for now
 - [ ] this regularly, you might want to consider scripting this process or using additional tooling to automate parts of it.
 
-## 📌 Summary
-Conversation: ruby on rails security
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Conversation: ruby on rails security
 How can I use breakman to perform security scanning in pull requests?
 What other resources can I do analyze safety in pull requests?
+
+---
+
+🤖 **Assistant:**
 
 Sure, I can provide information on using Brakeman to perform security scanning in pull requests and also introduce some other tools and resources that can be utilized to analyze safety in pull requests.
 
@@ -73,7 +75,15 @@ Sure, I can provide information on using Brakeman to perform security scanning i
 
 By integrating these tools into your development and review processes, you can make sure that your Ruby on Rails application follows best practices for security and that vulnerabilities are caught early in the development cycle.
 
+---
+
+🙋 **You:**
+
 I want to do it manually for now
+
+---
+
+🤖 **Assistant:**
 
 Sure! Running Brakeman manually is simple and gives you control over when and how you scan your Ruby on Rails application. Here's how you can do it:
 
@@ -107,7 +117,15 @@ Sure! Running Brakeman manually is simple and gives you control over when and ho
 
 Running Brakeman manually gives you flexibility and control, but it does require consistent discipline to ensure that scans are run regularly and that identified issues are addressed promptly. If you plan to scale your project or collaborate with a team, consider setting up an automated system down the road to maintain a strong security posture.
 
+---
+
+🙋 **You:**
+
 I want to use breakman but only for current branch changes
+
+---
+
+🤖 **Assistant:**
 
 Running Brakeman only on the changes made in the current branch isn't something Brakeman natively supports, as it's designed to analyze the whole Rails application. However, you can somewhat work around this limitation by following these steps:
 

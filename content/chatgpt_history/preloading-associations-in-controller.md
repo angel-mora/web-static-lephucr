@@ -3,7 +3,8 @@ title: Preloading Associations in Controller
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to preload the following associations under a show
+  controller action?"
 draft: false
 ---
 
@@ -12,11 +13,9 @@ draft: false
 ## ✅ TODOs
 - [ ] |format|
 
-## 📌 Summary
-How to preload the following associations under a show controller action?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to preload the following associations under a show controller action?
 def show
@@ -59,7 +58,9 @@ def show
     end
   end
 
+---
 
+🤖 **Assistant:**
 
 To preload the necessary associations for your `show` action in the controller, you can modify the queries to include `includes` and eager loading wherever possible. This will reduce the number of database queries by loading the associated records in a single query.
 
@@ -141,7 +142,15 @@ end
 ### Final Note:
 Ensure your `includes` match the associations defined in your models. For example, if `:parent_customer` is not an association on `Customer`, modify the preloading accordingly.
 
+---
+
+🙋 **You:**
+
 sorry, I meant lazy loading
+
+---
+
+🤖 **Assistant:**
 
 Lazy loading is the opposite of preloading—data is only fetched when it is accessed. By default, Active Record uses lazy loading unless you explicitly use methods like `includes`, `joins`, or `preload`. This means that if you are not seeing explicit database queries until the data is accessed, lazy loading is already happening.
 
@@ -215,7 +224,15 @@ end
 - **N+1 Query Problem**: Lazy loading can inadvertently cause multiple queries when associations are accessed in loops. Use `bullet` or `rack-mini-profiler` gems to detect such issues.
 - **Performance Implications**: If you access many associated records, consider whether preloading might actually be more efficient for those cases.
 
+---
+
+🙋 **You:**
+
 show me the diff of your suggestion
+
+---
+
+🤖 **Assistant:**
 
 Here’s the diff between the initial suggestion (eager loading) and the adjusted lazy loading approach:
 
@@ -289,6 +306,10 @@ end
 
 This ensures data is only fetched when accessed, adhering to lazy loading principles.
 
+---
+
+🙋 **You:**
+
 como harías este mensaje más explicito pero así muy corot:
 
 Friday:
@@ -297,6 +318,10 @@ Working on PT-1645
 Today:
 Continue with PT-697
 Working on PT-1645
+
+---
+
+🤖 **Assistant:**
 
 **Friday:**  
 - Troubleshot specs for PT-697  

@@ -3,7 +3,8 @@ title: Hack Your Finances.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Best books to break old ideas about money and help
+  to hack the financial system on your favor"
 draft: false
 ---
 
@@ -13,13 +14,15 @@ draft: false
 - [ ] Nothing: Resisting the Attention Economy" by Jenny Odell: This book redefines what we think of as productivity, arguing for the importance of observation, sustainability, and enjoyment.
 - [ ] business in the US)? I’m thinking about personal finance, some understanding of math, getting things done methodologies, self-organization, be able to write contracts, knowing some bare minimum things about the law, accelerated learning, etc.
 
-## 📌 Summary
-Best books to break old ideas about money and help to hack the financial system on your favor
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Best books to break old ideas about money and help to hack the financial system on your favor
+
+---
+
+🤖 **Assistant:**
 
 1. "Rich Dad Poor Dad" by Robert Kiyosaki: This book explores the concept of financial education and promotes financial independence through investing, real estate, owning businesses, and the use of finance protection tactics.
 
@@ -43,7 +46,15 @@ Best books to break old ideas about money and help to hack the financial system 
 
 Remember, understanding and mastering personal finance is a journey that involves both learning and practice. While these books offer valuable insights, it's also important to stay updated with the latest financial trends and strategies.
 
+---
+
+🙋 **You:**
+
 Summary of the 4 hour workweek
+
+---
+
+🤖 **Assistant:**
 
 "The 4-Hour Workweek" by Tim Ferriss is a guide to escaping the traditional nine-to-five grind, optimizing work-life balance, and living more efficiently. 
 
@@ -61,7 +72,15 @@ Here's a brief summary of its main ideas:
 
 Overall, "The 4-Hour Workweek" promotes a lifestyle that maximizes personal freedom and self-determination. It challenges traditional views of work and career and provides unconventional strategies to achieve an optimal work-life balance.
 
+---
+
+🙋 **You:**
+
 More edgy and contemporary and less common book recommendations
+
+---
+
+🤖 **Assistant:**
 
 Sure, if you're looking for some cutting-edge, contemporary books that challenge conventional wisdom or offer new perspectives, here are a few recommendations:
 
@@ -87,7 +106,15 @@ Sure, if you're looking for some cutting-edge, contemporary books that challenge
 
 These books offer unique insights into a wide variety of topics, from the internet economy to race relations, from personal development to societal inequality.
 
+---
+
+🙋 **You:**
+
 Are those helping me to hack the financial system to my favor?
+
+---
+
+🤖 **Assistant:**
 
 The books I listed are generally focused on broadening your perspective on contemporary issues and themes, but they're not specifically designed to help you 'hack' the financial system. However, understanding these broader contexts can indirectly help you make better financial decisions.
 
@@ -115,8 +142,15 @@ If you're looking for more finance-specific books that can help you understand a
 
 These books offer insight into investing, behavioral economics, and the workings of the financial system, which may empower you to 'hack' the financial system to your advantage.
 
+---
+
+🙋 **You:**
 
 And how about the book be your own bank? Is that a good one?
+
+---
+
+🤖 **Assistant:**
 
 As of my last training cut-off in September 2021, I don't have specific information about a book titled "Be Your Own Bank." There might be a book with this title that has been published after my last training update. However, the concept of being your own bank typically refers to managing your own money effectively, often tied into ideas around cryptocurrency and decentralized finance.
 
@@ -124,8 +158,16 @@ The concept implies taking full control of your financial matters - from transac
 
 If the book "Be Your Own Bank" deals with these subjects and comes from a reputable author, it might provide valuable insights into how you can manage your own finances more effectively and take advantage of new financial technologies. As with any financial advice, it's important to evaluate the information critically and consider seeking advice from financial professionals.
 
+---
+
+🙋 **You:**
+
 What are the most critical things I need to know if I want to succeed as a businessman in Mexico (and looking to be able to do business in the US)? I’m thinking about personal finance, some understanding of math, getting things done methodologies, self-organization, be able to write contracts, knowing some bare minimum things about the law, accelerated learning, etc.
 List them and provide a critical path to learn them the best way, i.e. the best pedagogical approach
+
+---
+
+🤖 **Assistant:**
 
 Being a successful businessman requires a broad range of skills, knowledge, and attitudes. Here's a roadmap with key areas you should focus on, along with some resources and strategies to acquire these skills.
 

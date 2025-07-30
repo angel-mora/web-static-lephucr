@@ -3,24 +3,22 @@ title: Update dependency in Gemfile
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  MYP-3962: How do I update a dependency in a gemfile.lock?
+  I'm trying to update ruby-saml from omniauth-saml"
 draft: false
 ---
 
 # Update dependency in Gemfile
 
-## ✅ TODOs
-
-
-## 📌 Summary
-MYP-3962: How do I update a dependency in a gemfile.lock? I'm trying to update ruby-saml from omniauth-saml
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 MYP-3962: How do I update a dependency in a gemfile.lock? I'm trying to update ruby-saml from omniauth-saml
 
+---
 
+🤖 **Assistant:**
 
 To update a dependency in your `Gemfile.lock`, such as `ruby-saml` from `omniauth-saml`, you need to follow these steps:
 

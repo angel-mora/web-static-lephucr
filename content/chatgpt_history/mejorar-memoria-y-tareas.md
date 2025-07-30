@@ -3,24 +3,23 @@ title: Mejorar memoria y tareas
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  como mejorar memoria y temas en conversacion contigo,
+  chatgpt? Que LLMs o productos puedo usar para que me puedas recordar mis conversaciones
+  principales y temas que debo recordar de tareas específicas"
 draft: false
 ---
 
 # Mejorar memoria y tareas
 
-## ✅ TODOs
-
-
-## 📌 Summary
-como mejorar memoria y temas en conversacion contigo, chatgpt? Que LLMs o productos puedo usar para que me puedas recordar mis conversaciones principales y temas que debo recordar de tareas específicas
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 como mejorar memoria y temas en conversacion contigo, chatgpt? Que LLMs o productos puedo usar para que me puedas recordar mis conversaciones principales y temas que debo recordar de tareas específicas
 
+---
 
+🤖 **Assistant:**
 
 Para mejorar la memoria en nuestras conversaciones y permitir que recuerde detalles importantes de tareas específicas, puedes utilizar la función de memoria de ChatGPT. Esta característica permite que el modelo retenga información relevante entre interacciones, adaptando sus respuestas según tus preferencias y necesidades. Por ejemplo, si le indicas que te gusta cierto estilo de música o que prefieres un formato específico para tus notas, ChatGPT puede recordar estos detalles para futuras conversaciones, haciendo la interacción más personalizada y eficiente. citeturn0search0
 

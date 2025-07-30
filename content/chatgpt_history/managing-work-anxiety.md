@@ -3,22 +3,22 @@ title: Managing Work Anxiety
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tell me good reasons to quit porn (what they call PMO)
+  and weed so I can recall them every time I crave"
 draft: false
 ---
 
 # Managing Work Anxiety
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Tell me good reasons to quit porn (what they call PMO) and weed so I can recall them every time I crave
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tell me good reasons to quit porn (what they call PMO) and weed so I can recall them every time I crave
+
+---
+
+🤖 **Assistant:**
 
 Sure, here are some reasons for quitting PMO (Pornography, Masturbation, and Orgasm) and weed that you can recall when you have cravings.
 
@@ -36,13 +36,29 @@ Quitting Weed:
 
 Always remember, it's crucial to seek professional help if you're struggling with addiction. These steps can be challenging, and a professional can provide guidance and resources to make the journey easier.
 
+---
+
+🙋 **You:**
+
 Tips to handle porn craving
+
+---
+
+🤖 **Assistant:**
 
 Handling cravings for pornography can be challenging, but here are some strategies you might find helpful:
 
 1. **Mindfulness:** Be aware of your triggers and emotions. When a craving hits, take a moment to pause, breathe, and observe your feelings
 
+---
+
+🙋 **You:**
+
 I am a programmer so I tend to spend a lot of time in front of a computer and smartphone
+
+---
+
+🤖 **Assistant:**
 
 That's understandable. As a programmer, you're often required to spend long hours in front of screens which can make the situation a bit more challenging. However, there are strategies you can implement:
 
@@ -60,7 +76,15 @@ That's understandable. As a programmer, you're often required to spend long hour
 
 7. **Professional Help:** If cravings become overwhelming, it might be helpful to speak to a mental health professional who can provide strategies and techniques tailored to your needs.
 
+---
+
+🙋 **You:**
+
 Provide concrete conductual strategies to handle the craving
+
+---
+
+🤖 **Assistant:**
 
 Absolutely, here are some concrete behavioral strategies to manage cravings:
 
@@ -82,7 +106,15 @@ Absolutely, here are some concrete behavioral strategies to manage cravings:
 
 These are all strategies you can try, but remember, everyone is different. What works best for you may take some time and experimentation to figure out. If your cravings are severe or causing distress, seeking professional help can be a very effective step.
 
+---
+
+🙋 **You:**
+
 Make a no fap no PMO reminder I can hold whenever I go to resist temptation and change my thoughts
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Here's a suggestion for a compact, motivating reminder you can keep with you:
 
@@ -117,7 +149,15 @@ Certainly! Here's a suggestion for a compact, motivating reminder you can keep w
 
 You could print this out and keep it in your wallet or save it as an image on your phone. It could be a quick go-to resource to help you stay focused on your path whenever you feel tempted.
 
+---
+
+🙋 **You:**
+
 What are the beliefs I need to build and how I build them. My urges regularly come from work-related anxiety
+
+---
+
+🤖 **Assistant:**
 
 Building beliefs that can help you manage urges stemming from work-related anxiety involves recognizing the underlying causes and working to create a mindset that supports positive coping strategies. Here's how you might approach it:
 

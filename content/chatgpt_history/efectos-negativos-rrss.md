@@ -3,24 +3,22 @@ title: Efectos negativos RRSS
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que efectos nocivos tienen las RRSS y en particular
+  Instagram sobre nuestro cerebro y nuestras emociones?"
 draft: false
 ---
 
 # Efectos negativos RRSS
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Que efectos nocivos tienen las RRSS y en particular Instagram sobre nuestro cerebro y nuestras emociones?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que efectos nocivos tienen las RRSS y en particular Instagram sobre nuestro cerebro y nuestras emociones?
 
+---
 
+🤖 **Assistant:**
 
 Las redes sociales, especialmente Instagram, pueden tener varios efectos nocivos en nuestro cerebro y emociones debido a cómo están diseñadas para captar y mantener nuestra atención. Algunos de los principales efectos incluyen:
 

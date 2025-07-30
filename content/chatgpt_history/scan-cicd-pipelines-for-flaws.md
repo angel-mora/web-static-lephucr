@@ -3,22 +3,21 @@ title: Scan CI/CD Pipelines for Flaws
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  CI/CD Owasp 10 risks"
 draft: false
 ---
 
 # Scan CI/CD Pipelines for Flaws
 
-## ✅ TODOs
-
-
-## 📌 Summary
-CI/CD Owasp 10 risks
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 CI/CD Owasp 10 risks
+
+---
+
+🤖 **Assistant:**
 
 Continuous Integration/Continuous Deployment (CI/CD) is a modern software development and delivery practice. However, like other processes, it can be vulnerable to security threats. The OWASP Top Ten is a list of the most critical web application security risks. If we were to contextualize these risks in a CI/CD environment, here's how they might play out:
 
@@ -65,7 +64,15 @@ To mitigate these risks in CI/CD:
 - Ensure sensitive data is encrypted and secrets are managed securely (e.g., using secret management tools).
 - Educate the development team about security best practices.
 
+---
+
+🙋 **You:**
+
 How to scan cicd for vulns
+
+---
+
+🤖 **Assistant:**
 
 To scan your CI/CD pipeline for vulnerabilities, you can integrate various security tools and best practices at different stages of your development and deployment process. Here are some steps to consider:
 
@@ -113,7 +120,15 @@ To scan your CI/CD pipeline for vulnerabilities, you can integrate various secur
 
 By integrating security checks and tools at multiple points in your CI/CD pipeline, you ensure that vulnerabilities are caught and addressed early in the development process, reducing the risk of deploying insecure applications or infrastructure.
 
+---
+
+🙋 **You:**
+
 Scan cicd pipelines for flaws
+
+---
+
+🤖 **Assistant:**
 
 Scanning CI/CD pipelines for flaws requires a systematic approach. By identifying potential flaws and vulnerabilities in your pipeline, you can improve the overall security and reliability of your software delivery process. Here's how you can scan and address potential issues:
 

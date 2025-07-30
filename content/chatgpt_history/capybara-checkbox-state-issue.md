@@ -4,20 +4,16 @@ tags:
 - byebug
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How it could be possible that capybara shows me as
+  not checked elements that are checked when I say save_and_open_page?"
 draft: false
 ---
 
 # Capybara Checkbox State Issue
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How it could be possible that capybara shows me as not checked elements that are checked when I say save_and_open_page?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How it could be possible that capybara shows me as not checked elements that are checked when I say save_and_open_page?
     context 'when company goes soft closed' do
@@ -64,6 +60,10 @@ Actual modal:
           </div>
         <% end %>
 ...
+
+---
+
+🤖 **Assistant:**
 
 The issue you're encountering with Capybara's `save_and_open_page` showing checkboxes as unchecked, even though they've been checked in your test, could be due to a few different reasons. Let's explore some potential causes and solutions:
 

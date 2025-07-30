@@ -3,22 +3,22 @@ title: JavaScript Transpilation with esbuild
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Does esbuild transpile code? How can I find if my js
+  is transpiled?"
 draft: false
 ---
 
 # JavaScript Transpilation with esbuild
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Does esbuild transpile code? How can I find if my js is transpiled?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Does esbuild transpile code? How can I find if my js is transpiled?
+
+---
+
+🤖 **Assistant:**
 
 Yes, `esbuild` can transpile code. It is a fast JavaScript bundler and minifier that supports transforming newer JavaScript syntax to older syntax to ensure compatibility with older browsers. This process is known as transpilation. `esbuild` can handle ES6+ syntax and JSX, among other things, and convert them into a version of JavaScript that can run in environments that do not support the latest features natively.
 

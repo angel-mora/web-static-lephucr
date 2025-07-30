@@ -3,22 +3,23 @@ title: Cloudflare DNS Setup Tips
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I have a vercel application that points to a cloudflare
+  dns. It works under www but not through the dns. 1) What is that proxy option in
+  cloudlfare dns? 2)  How can I set the domain without www to work properly?"
 draft: false
 ---
 
 # Cloudflare DNS Setup Tips
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I have a vercel application that points to a cloudflare dns. It works under www but not through the dns. 1) What is that proxy option in cloudlfare dns? 2)  How can I set the domain without www to work properly?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I have a vercel application that points to a cloudflare dns. It works under www but not through the dns. 1) What is that proxy option in cloudlfare dns? 2)  How can I set the domain without www to work properly?
+
+---
+
+🤖 **Assistant:**
 
 Alright, let's break this down step by step:
 

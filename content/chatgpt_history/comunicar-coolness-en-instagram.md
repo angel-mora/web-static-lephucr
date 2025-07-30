@@ -3,24 +3,21 @@ title: Comunicar coolness en Instagram
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cómo comunicar coolness en Instagram?"
 draft: false
 ---
 
 # Comunicar coolness en Instagram
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cómo comunicar coolness en Instagram?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cómo comunicar coolness en Instagram?
 
+---
 
+🤖 **Assistant:**
 
 Para comunicar "coolness" en Instagram y proyectar una imagen atractiva y auténtica, puedes seguir estas estrategias:
 

@@ -3,27 +3,24 @@ title: Git Commit Amend Error
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  ➜  Printavo git:(angel/PT-1778-remove-stripe-specs-for-old-flow-without-defaulted-tax-collection)
+  git commit --amend 'PT-1778: Safely remove old Stripe implementation' a3c51ce256241b2f70077d395449ae9401ecb7b4"
 draft: false
 ---
 
 # Git Commit Amend Error
 
-## ✅ TODOs
-
-
-## 📌 Summary
-➜  Printavo git:(angel/PT-1778-remove-stripe-specs-for-old-flow-without-defaulted-tax-collection) git commit --amend 'PT-1778: Safely remove old Stripe implementation' a3c51ce256241b2f70077d395449ae9401ecb7b4
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 ➜  Printavo git:(angel/PT-1778-remove-stripe-specs-for-old-flow-without-defaulted-tax-collection) git commit --amend 'PT-1778: Safely remove old Stripe implementation' a3c51ce256241b2f70077d395449ae9401ecb7b4
 error: pathspec 'PT-1778: Safely remove old Stripe implementation' did not match any file(s) known to git
 error: pathspec 'a3c51ce256241b2f70077d395449ae9401ecb7b4' did not match any file(s) known to git
 
+---
 
-
+🤖 **Assistant:**
 
 The command you're using has some issues in its syntax. To amend the previous commit with a new commit message, you can use the following command instead:
 
@@ -42,7 +39,15 @@ git commit --amend -m 'PT-1778: Safely remove old Stripe implementation'
 
 Let me know if this helps or if you're looking to achieve something slightly different!
 
+---
+
+🙋 **You:**
+
 not the last commit but the one matching that id
+
+---
+
+🤖 **Assistant:**
 
 To change the message of a specific commit by its hash (like `a3c51ce256241b2f70077d395449ae9401ecb7b4`), you’ll need to use an interactive rebase. Here’s how:
 

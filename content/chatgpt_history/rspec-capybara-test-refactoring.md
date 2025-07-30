@@ -4,22 +4,17 @@ tags:
 - save
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  it 'Disable company' do"
 draft: false
 ---
 
 # RSpec Capybara Test Refactoring
 
-## ✅ TODOs
-
-
-## 📌 Summary
-it 'Disable company' do
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-  it 'Disable company' do
+it 'Disable company' do
     expect(
       find('.disabled-setting-checkbox').click
       find('#save').click
@@ -34,6 +29,10 @@ it 'Disable company' do
   end
 
 Please make this functional in the latest rspec capybara syntax
+
+---
+
+🤖 **Assistant:**
 
 The code snippets you provided are written in Ruby with RSpec and Capybara for testing web applications. However, the syntax and structure need some adjustments to adhere to the latest best practices and syntax for RSpec and Capybara. Here's how you can refactor these tests:
 

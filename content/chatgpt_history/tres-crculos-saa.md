@@ -3,7 +3,9 @@ title: Tres círculos SAA
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Ayúdame a definir mis tres círculos de acuerdo a la
+  metodología de 12 pasos de SAA. Mi problema es con el PMO y con consumir tanto porno
+  como mota en el trabajo"
 draft: false
 ---
 
@@ -12,15 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] logía de 12 pasos de SAA. Mi problema es con el PMO y con consumir tanto porno como mota en el trabajo
 
-## 📌 Summary
-Ayúdame a definir mis tres círculos de acuerdo a la metodología de 12 pasos de SAA. Mi problema es con el PMO y con consumir tanto porno como mota en el trabajo
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Ayúdame a definir mis tres círculos de acuerdo a la metodología de 12 pasos de SAA. Mi problema es con el PMO y con consumir tanto porno como mota en el trabajo
 
+---
 
+🤖 **Assistant:**
 
 Claro, definir tus **tres círculos** es una herramienta clave en el programa de recuperación de SAA para identificar conductas problemáticas, comportamientos saludables y zonas grises que requieren atención. A continuación te propongo una guía inicial para estructurar tus círculos. Esto se puede ajustar con tu padrino o terapeuta:
 
@@ -66,9 +68,15 @@ Aquí van las actividades que fortalecen tu recuperación y te ayudan a reemplaz
 
 ¿Te sientes cómodo con esta estructura o quisieras ajustar algo?
 
-Ayúdame a construir círculo medio basado en triggers de pmo para gente que pasa mucho tiempo en la compu y círculo externo basado en las cosas que sabes que me interesan 
+---
 
+🙋 **You:**
 
+Ayúdame a construir círculo medio basado en triggers de pmo para gente que pasa mucho tiempo en la compu y círculo externo basado en las cosas que sabes que me interesan
+
+---
+
+🤖 **Assistant:**
 
 Claro, vamos a estructurar tus **círculos medio y exterior** considerando que pasas mucho tiempo en la computadora y con base en tus intereses.  
 

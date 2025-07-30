@@ -3,28 +3,34 @@ title: Best Investment Banking Courses
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  which is the best investment banking course for me
+  as a rails developer?"
 draft: false
 ---
 
 # Best Investment Banking Courses
 
-## ✅ TODOs
-
-
-## 📌 Summary
-which is the best investment banking course for me as a rails developer?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 which is the best investment banking course for me as a rails developer?
 
+---
 
+🤖 **Assistant:**
 
 User is interested in finding the best investment banking course as a Rails developer.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 As a Rails developer interested in investment banking, you'll want a course that combines finance fundamentals with technical skills relevant to your background. Here are a few options to consider:
 
@@ -40,9 +46,15 @@ As a Rails developer interested in investment banking, you'll want a course that
 
 Since you already have a technical background, courses that offer a blend of finance theory and practical modeling skills will be most beneficial. These programs often include case studies and hands-on projects, helping bridge the gap between software development and financial analysis.
 
+---
+
+🙋 **You:**
+
 provide urls
 
+---
 
+🤖 **Assistant:**
 
 Here are the URLs for the investment banking courses I mentioned:
 

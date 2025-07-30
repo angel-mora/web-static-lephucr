@@ -3,7 +3,8 @@ title: Escuchar en ASA
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que se le dice a alguien que quiere compartir en el
+  grupo de adictos al sexo anónimos? O solo es escuchar?"
 draft: false
 ---
 
@@ -12,15 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] lo que se comparte en el grupo debe mantenerse dentro de él. Esto es crucial para generar confianza.
 
-## 📌 Summary
-Que se le dice a alguien que quiere compartir en el grupo de adictos al sexo anónimos? O solo es escuchar?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que se le dice a alguien que quiere compartir en el grupo de adictos al sexo anónimos? O solo es escuchar?
 
+---
 
+🤖 **Assistant:**
 
 En los grupos de Adictos al Sexo Anónimos (ASA), la participación está guiada por principios básicos de anonimato, respeto y apoyo mutuo. Si alguien quiere compartir, lo más importante es crear un espacio seguro para que esa persona se exprese sin interrupciones ni juicios. Aquí hay algunas ideas sobre cómo puedes responder o actuar:
 

@@ -3,22 +3,26 @@ title: '"Obsidian NAS Data Management"'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I want to use an obsidian knowledge base as the index
+  for all my data under a NAS. Tell me scripts/libraries in any language to cleanup
+  my media (eliminate duplicated data, standardize multiple formats to markdown, index
+  books and academic papers, make backups, name files properly in order to reference
+  them in obsidian wiki links and a tool to sync up those links if any file changes
+  its name or other metadata)"
 draft: false
 ---
 
 # "Obsidian NAS Data Management"
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I want to use an obsidian knowledge base as the index for all my data under a NAS. Tell me scripts/libraries in any language to cleanup my media (eliminate duplicated data, standardize multiple formats to markdown, index books and academic papers, make backups, name files properly in order to reference them in obsidian wiki links and a tool to sync up those links if any file changes its name or other metadata)
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I want to use an obsidian knowledge base as the index for all my data under a NAS. Tell me scripts/libraries in any language to cleanup my media (eliminate duplicated data, standardize multiple formats to markdown, index books and academic papers, make backups, name files properly in order to reference them in obsidian wiki links and a tool to sync up those links if any file changes its name or other metadata)
+
+---
+
+🤖 **Assistant:**
 
 To achieve your goal of using Obsidian as the index for your data under a NAS and perform various tasks like media cleanup, file standardization, indexing books and academic papers, backups, proper file naming for referencing in Obsidian, and syncing up links, you can utilize a combination of scripting languages and tools. Here are some suggestions:
 
@@ -56,7 +60,15 @@ To achieve your goal of using Obsidian as the index for your data under a NAS an
 
 Note: The specific implementation details will depend on your exact requirements and the structure of your data. You may need to combine multiple scripts or tools to achieve a comprehensive solution.
 
+---
+
+🙋 **You:**
+
 Similar scripts functionality but with rust. I’ll say continue and then same ask but with ruby
+
+---
+
+🤖 **Assistant:**
 
 Sure! Here's how you can achieve similar functionality using Rust and Ruby:
 

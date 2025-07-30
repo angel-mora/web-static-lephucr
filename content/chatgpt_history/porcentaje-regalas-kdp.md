@@ -3,24 +3,22 @@ title: Porcentaje regalías KDP
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  cuanto cobra amazon de porcentaje por publicacion de
+  libro en amazon?"
 draft: false
 ---
 
 # Porcentaje regalías KDP
 
-## ✅ TODOs
-
-
-## 📌 Summary
-cuanto cobra amazon de porcentaje por publicacion de libro en amazon?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 cuanto cobra amazon de porcentaje por publicacion de libro en amazon?
 
+---
 
+🤖 **Assistant:**
 
 Amazon cobra un porcentaje del precio de venta de los libros autopublicados a través de su plataforma Kindle Direct Publishing (KDP). Los costos dependen del **rango de regalías que elijas** (35% o 70%) y del mercado al que vendas. A continuación, te detallo los principales aspectos:
 

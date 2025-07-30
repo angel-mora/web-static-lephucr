@@ -3,24 +3,21 @@ title: Apps para creencias limitantes
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Apps para detectar creencias auto limitantes y superarlas"
 draft: false
 ---
 
 # Apps para creencias limitantes
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Apps para detectar creencias auto limitantes y superarlas
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Apps para detectar creencias auto limitantes y superarlas 
+Apps para detectar creencias auto limitantes y superarlas
 
+---
 
+🤖 **Assistant:**
 
 Aquí tienes algunas aplicaciones que te pueden ayudar a detectar creencias auto limitantes y trabajar en superarlas:
 

@@ -3,7 +3,8 @@ title: iPhone robado en CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Me robaron un iPhone en la CDMX y me llamaron dando
+  el Numero de teléfono y mi nombre, como lo supieron?"
 draft: false
 ---
 
@@ -12,13 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s de recuperación de cuenta o phishing.
 
-## 📌 Summary
-Me robaron un iPhone en la CDMX y me llamaron dando el Numero de teléfono y mi nombre, como lo supieron?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Me robaron un iPhone en la CDMX y me llamaron dando el Numero de teléfono y mi nombre, como lo supieron? 
+Me robaron un iPhone en la CDMX y me llamaron dando el Numero de teléfono y mi nombre, como lo supieron?
+
+---
+
+🤖 **Assistant:**
 
 Es posible que quien te llamó haya obtenido tu número y nombre de varias maneras:
 

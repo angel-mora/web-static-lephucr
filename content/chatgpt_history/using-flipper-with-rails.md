@@ -3,22 +3,22 @@ title: Using Flipper with Rails
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Flipper gem allows to have separate routing and controllers
+  for a new version of an existing page? How easy it is to use? Show code"
 draft: false
 ---
 
 # Using Flipper with Rails
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Flipper gem allows to have separate routing and controllers for a new version of an existing page? How easy it is to use? Show code
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Flipper gem allows to have separate routing and controllers for a new version of an existing page? How easy it is to use? Show code
+
+---
+
+🤖 **Assistant:**
 
 The Flipper gem is primarily used for feature flagging, which means turning features on and off for specific users, groups, percentages, etc. It doesn't natively provide separate routing or controllers for different versions of a page; however, you can certainly use Flipper to control which version of a page a user sees.
 
@@ -97,7 +97,15 @@ Flipper.enable_percentage_of_actors(:new_version, 10) # 10% of users
 
 Remember, while Flipper can help in controlling which version of a page to render, the responsibility of maintaining separate routes, views, and controllers still falls on you. If you truly need multiple versions of an API or page, consider using versioning techniques in Rails.
 
+---
+
+🙋 **You:**
+
 How it helps in the db side? What those migrations do?
+
+---
+
+🤖 **Assistant:**
 
 Flipper, when combined with `flipper-active_record`, uses the database to store the feature flags and their states. This allows for persistence across application restarts and provides an easy way to manage and check feature flag states.
 

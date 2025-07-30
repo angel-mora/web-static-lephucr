@@ -3,22 +3,23 @@ title: 'Kant''s Quote: Concepts and Intuitions'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hay una frase de Kant que dice “intuiciones sin conceptos
+  son vacías, conceptos sin experiencia son banales” o algo así, te acuerdas bien
+  de la frase y la referencia ?"
 draft: false
 ---
 
 # Kant's Quote: Concepts and Intuitions
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Hay una frase de Kant que dice “intuiciones sin conceptos son vacías, conceptos sin experiencia son banales” o algo así, te acuerdas bien de la frase y la referencia ?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Hay una frase de Kant que dice “intuiciones sin conceptos son vacías, conceptos sin experiencia son banales” o algo así, te acuerdas bien de la frase y la referencia ?
+
+---
+
+🤖 **Assistant:**
 
 Sí, estás citando a Immanuel Kant, filósofo de la Ilustración, y su obra "Crítica de la Razón Pura". La cita completa es: "Los pensamientos sin contenido son vacíos; las intuiciones sin conceptos, ciegas". 
 

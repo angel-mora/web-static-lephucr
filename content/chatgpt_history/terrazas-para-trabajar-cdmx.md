@@ -3,24 +3,22 @@ title: Terrazas para trabajar CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Terraza bonita donde trabajar en la CDMX esta tarde.
+  Busco comodidad y estética"
 draft: false
 ---
 
 # Terrazas para trabajar CDMX
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Terraza bonita donde trabajar en la CDMX esta tarde. Busco comodidad y estética
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Terraza bonita donde trabajar en la CDMX esta tarde. Busco comodidad y estética 
+Terraza bonita donde trabajar en la CDMX esta tarde. Busco comodidad y estética
 
+---
 
+🤖 **Assistant:**
 
 Te sugiero algunas terrazas en CDMX que podrían ser perfectas para trabajar esta tarde, con un buen balance entre comodidad y estética:
 
@@ -36,7 +34,15 @@ Te sugiero algunas terrazas en CDMX que podrían ser perfectas para trabajar est
 
 Cualquiera de estos lugares tiene una buena atmósfera para trabajar y disfrutar de la tarde.
 
+---
+
+🙋 **You:**
+
 Con que acompañar una tabla de quesos si no puedo tomar vino
+
+---
+
+🤖 **Assistant:**
 
 Si no puedes acompañar la tabla de quesos con vino, hay varias opciones igualmente deliciosas y complementarias:
 

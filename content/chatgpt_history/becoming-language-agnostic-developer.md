@@ -3,24 +3,21 @@ title: Becoming Language-Agnostic Developer
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to form myself as a language-agnostic developer?"
 draft: false
 ---
 
 # Becoming Language-Agnostic Developer
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How to form myself as a language-agnostic developer?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to form myself as a language-agnostic developer?
 
+---
 
+🤖 **Assistant:**
 
 To become a **language-agnostic developer**, you need to shift your focus from specific programming languages to **core principles of software development, architecture, and problem-solving**. Here’s a structured approach:  
 

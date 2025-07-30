@@ -3,24 +3,22 @@ title: Plataformas de inversión startups
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hay algo tipo Timeleft pero hacer match de investors
+  en proyectos atractivos"
 draft: false
 ---
 
 # Plataformas de inversión startups
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Hay algo tipo Timeleft pero hacer match de investors en proyectos atractivos
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Hay algo tipo Timeleft pero hacer match de investors en proyectos atractivos
 
+---
 
+🤖 **Assistant:**
 
 Existen algunas plataformas que buscan hacer "match" entre inversionistas y proyectos atractivos, similares en espíritu a Timeleft pero enfocadas en conectar a inversores con oportunidades de inversión específicas. Aquí tienes algunas opciones que podrías considerar:
 
@@ -40,7 +38,15 @@ Existen algunas plataformas que buscan hacer "match" entre inversionistas y proy
 
 Para proyectos de nicho, también podrías considerar plataformas regionales o de sectores específicos, como de tecnología limpia o proyectos de impacto social, que pueden atraer a inversionistas interesados en áreas más especializadas.
 
+---
+
+🙋 **You:**
+
 Tú que me conoces dime dónde me convendría más aplicar
+
+---
+
+🤖 **Assistant:**
 
 Entiendo que buscas plataformas que conecten inversionistas con proyectos atractivos, similares a Timeleft. A continuación, te presento algunas opciones en México que podrían ser de tu interés:
 

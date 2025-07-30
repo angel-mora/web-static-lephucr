@@ -3,24 +3,22 @@ title: Tagliatelle con proteínas y pesto
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  con que podria hacer el tagliatelle? Pavo, pollo, atún
+  de lata o sardinas? Tengo pesto rojo y verde y varias verduras"
 draft: false
 ---
 
 # Tagliatelle con proteínas y pesto
 
-## ✅ TODOs
-
-
-## 📌 Summary
-con que podria hacer el tagliatelle? Pavo, pollo, atún de lata o sardinas? Tengo pesto rojo y verde y varias verduras
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 con que podria hacer el tagliatelle? Pavo, pollo, atún de lata o sardinas? Tengo pesto rojo y verde y varias verduras
 
+---
 
+🤖 **Assistant:**
 
 ¡Tienes una base increíble para preparar algo delicioso! Aquí tienes algunas ideas para combinar el tagliatelle con lo que tienes:
 

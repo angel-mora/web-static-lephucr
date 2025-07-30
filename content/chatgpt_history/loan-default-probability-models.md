@@ -3,22 +3,22 @@ title: Loan Default Probability Models
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What probabily models to use to calculate the default
+  of a loan?"
 draft: false
 ---
 
 # Loan Default Probability Models
 
-## ✅ TODOs
-
-
-## 📌 Summary
-What probabily models to use to calculate the default of a loan?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What probabily models to use to calculate the default of a loan?
+
+---
+
+🤖 **Assistant:**
 
 When calculating the probability of default (PD) for a loan, several models and techniques can be applied, depending on the complexity of the data, the specific characteristics of the loan, and the requirements of the financial institution. Below are some of the commonly used models and approaches:
 
@@ -44,7 +44,15 @@ When calculating the probability of default (PD) for a loan, several models and 
 
 The choice of model depends on the specific use case, the quality and quantity of available data, regulatory requirements, and the need for interpretability. In practice, financial institutions often use a combination of these models to get a more accurate and robust estimate of the probability of default.
 
+---
+
+🙋 **You:**
+
 Do GBM, Random Forest and Decision Tree return a probability from 0-1?
+
+---
+
+🤖 **Assistant:**
 
 Yes, Gradient Boosting Machines (GBM), Random Forest, and Decision Trees can return a probability estimate between 0 and 1 for binary classification tasks, such as predicting the probability of loan default. Here's how each model does it:
 
@@ -56,7 +64,15 @@ Yes, Gradient Boosting Machines (GBM), Random Forest, and Decision Trees can ret
 
 In summary, while the internal mechanisms differ, all three models can provide a probability estimate for the likelihood of an event (such as loan default) occurring, with the output value being between 0 (event definitely does not occur) and 1 (event definitely occurs).
 
+---
+
+🙋 **You:**
+
 which of the initial models require training and which doesnt
+
+---
+
+🤖 **Assistant:**
 
 All the models mentioned in the initial list for calculating the probability of default of a loan require some form of training on historical data. Here's a breakdown:
 
@@ -86,7 +102,15 @@ All the models mentioned in the initial list for calculating the probability of 
 
 In essence, the development and effectiveness of these models are contingent on training with historical data to understand the patterns and relationships between the input variables and the outcome (e.g., default). However, some models like credit scoring systems and the Altman Z-Score use predefined formulas based on historical analysis and do not adapt or learn from new data in real-time as machine learning models do.
 
+---
+
+🙋 **You:**
+
 SHAP and LIME strategies for data science. Explain
+
+---
+
+🤖 **Assistant:**
 
 SHAP (SHapley Additive exPlanations) and LIME (Local Interpretable Model-agnostic Explanations) are two powerful strategies for explaining the predictions made by machine learning models. These techniques are part of a broader effort in the field of explainable AI (XAI), which aims to make the outcomes of complex models understandable to humans. Both methods provide insights into how individual features contribute to a model's prediction for a particular instance, though they do so in slightly different ways.
 

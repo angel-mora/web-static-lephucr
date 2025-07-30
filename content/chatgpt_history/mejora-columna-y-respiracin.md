@@ -3,25 +3,22 @@ title: Mejora columna y respiración.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  1) Ejercicios para recuperar forma de la columna"
 draft: false
 ---
 
 # Mejora columna y respiración.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-1) Ejercicios para recuperar forma de la columna
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 1) Ejercicios para recuperar forma de la columna
-2) Ejercicios Dzogchen para poder respirar con profundidad frecuentemente 
+2) Ejercicios Dzogchen para poder respirar con profundidad frecuentemente
 
+---
 
+🤖 **Assistant:**
 
 Para mejorar la forma de la columna y respirar más profundamente, aquí tienes algunas recomendaciones:
 

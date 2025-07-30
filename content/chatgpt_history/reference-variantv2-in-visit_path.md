@@ -4,22 +4,23 @@ tags:
 - show
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I have a variant that is reachable over variant=v2
+  in the  query params of my rails route. How can I reference it in the visit model_path(model)
+  of my rspec feature test?"
 draft: false
 ---
 
 # Reference 'variant=v2' in visit_path
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I have a variant that is reachable over variant=v2 in the  query params of my rails route. How can I reference it in the visit model_path(model) of my rspec feature test?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I have a variant that is reachable over variant=v2 in the  query params of my rails route. How can I reference it in the visit model_path(model) of my rspec feature test?
+
+---
+
+🤖 **Assistant:**
 
 In Rails, when you want to pass additional query parameters to a route in a feature test using RSpec's `visit` method, you can do so by passing a hash containing the query parameters as the second argument to `model_path`. To reference the `variant` parameter with a value of `v2`, you can use the following approach:
 

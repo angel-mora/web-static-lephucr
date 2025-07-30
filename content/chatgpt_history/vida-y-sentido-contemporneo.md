@@ -3,24 +3,21 @@ title: Vida y sentido contemporáneo.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Textos contemporaneos sobre cual es el sentido de vivir"
 draft: false
 ---
 
 # Vida y sentido contemporáneo.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Textos contemporaneos sobre cual es el sentido de vivir
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Textos contemporaneos sobre cual es el sentido de vivir
 
+---
 
+🤖 **Assistant:**
 
 La pregunta sobre el sentido de la vida es tan antigua como la humanidad misma, pero sigue siendo un tema de gran interés en la filosofía y la literatura contemporáneas. Aquí tienes algunos textos y autores contemporáneos que exploran esta cuestión desde diferentes ángulos:
 

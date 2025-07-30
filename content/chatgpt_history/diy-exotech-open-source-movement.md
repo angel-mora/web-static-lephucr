@@ -3,22 +3,21 @@ title: DIY ExoTech Open-source Movement
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  DIY open source technologies to build exo scheleton"
 draft: false
 ---
 
 # DIY ExoTech Open-source Movement
 
-## ✅ TODOs
-
-
-## 📌 Summary
-DIY open source technologies to build exo scheleton
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 DIY open source technologies to build exo scheleton
+
+---
+
+🤖 **Assistant:**
 
 DIY open-source technologies for building exoskeletons are an emerging area of interest for hobbyists, researchers, and engineers alike. Exoskeletons, which are wearable devices that work in tandem with the user, can augment human capabilities by providing additional strength, endurance, and support. Here's an overview of some key components and resources you might explore if you're interested in developing your own open-source exoskeleton:
 
@@ -52,7 +51,15 @@ When building an exoskeleton, it's crucial to consider safety. This includes ens
 
 Building a DIY exoskeleton is a complex project that requires interdisciplinary knowledge, including mechanics, electronics, and software engineering. It's also a field where innovation can have profound implications, not just for enhancing human capabilities but also for rehabilitation and assisting those with mobility issues.
 
-Provide e-stores to buy all required components and then a list of most items for a exoskeleton to integrate people with bycicles. Dont forget to mention if there are similar projects (and their urls) 
+---
+
+🙋 **You:**
+
+Provide e-stores to buy all required components and then a list of most items for a exoskeleton to integrate people with bycicles. Dont forget to mention if there are similar projects (and their urls)
+
+---
+
+🤖 **Assistant:**
 
 Building an exoskeleton for bicycling involves integrating technology that can assist with pedaling, enhance endurance, or support the rider's posture and safety. To source the components necessary for such a project, several e-stores are pivotal for acquiring electronics, mechanical parts, and other materials. Here's a breakdown of where to buy these components and a list of most items you'll need for an exoskeleton aimed at integrating with bicycles. I'll also mention similar projects for reference.
 

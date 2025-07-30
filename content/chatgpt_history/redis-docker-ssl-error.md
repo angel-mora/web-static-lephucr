@@ -3,24 +3,21 @@ title: Redis Docker SSL Error
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  redis docker  error:0A00010B:SSL"
 draft: false
 ---
 
 # Redis Docker SSL Error
 
-## ✅ TODOs
-
-
-## 📌 Summary
-redis docker  error:0A00010B:SSL
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 redis docker  error:0A00010B:SSL
 
+---
 
+🤖 **Assistant:**
 
 The error `error:0A00010B:SSL` in a Redis Docker environment usually points to an SSL/TLS-related issue. Redis itself doesn't natively enforce SSL but can be configured to use SSL through proxies like `stunnel` or via Redis' native SSL support (from version 6.0 onward). Here’s how to address this error:
 
@@ -110,6 +107,10 @@ redis-cli --tls --cert /path/to/redis.crt --key /path/to/redis.key --cacert /pat
 ---
 
 Let me know if you want assistance debugging further or adjusting configurations!
+
+---
+
+🙋 **You:**
 
 docker compose
 x-app: &app
@@ -442,6 +443,10 @@ services:
 I now run only dip up web -d
 and dip infra up but not all the containers and it's been failing. What can I do?
 
+---
+
+🤖 **Assistant:**
+
 To resolve the issue with your `dip up web -d` and `dip infra up` commands not starting all containers properly, follow these steps for troubleshooting and resolution:
 
 ---
@@ -605,8 +610,15 @@ DIP_DEBUG=true dip up web
 
 Let me know the results or if you'd like further help interpreting logs or resolving specific issues!
 
+---
+
+🙋 **You:**
+
 unable to bring up Mutagen Compose sidecar service: network printavo-shared declared as external, but could not be found
 
+---
+
+🤖 **Assistant:**
 
 The error "network `printavo-shared` declared as external, but could not be found" indicates that the `printavo-shared` network is declared as an external network in your `docker-compose.yml`, but it hasn't been created or isn't accessible to your Docker setup.
 
@@ -695,7 +707,15 @@ dip infra up
 
 If you continue to encounter errors, share the updated `docker-compose.yml` or additional error messages, and I can help further.
 
- Error accepting a client connection: error:0A00010B:SSL routines::wrong version number (addr=192.168.65.1:20472 laddr=172.18.0.7:6379)
+---
+
+🙋 **You:**
+
+Error accepting a client connection: error:0A00010B:SSL routines::wrong version number (addr=192.168.65.1:20472 laddr=172.18.0.7:6379)
+
+---
+
+🤖 **Assistant:**
 
 The error `error:0A00010B:SSL routines::wrong version number` suggests that there's a mismatch in SSL/TLS settings between the client and the Redis server. Here's how to troubleshoot and resolve this issue:
 

@@ -3,7 +3,12 @@ title: Modelo financiero banco MVP
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Eres un inversionista y experimentado inversionista/empresario
+  de Silicon Valley. Me vas a asesorar para hacer un modelo financiero que pueda usar
+  para un mvp. El negocio es un banco que te presta 12000 dolares por un año (1000
+  al mes) y te empieza a cobrar después de un año a 15% de interés anual y te ofrece
+  descontarte desde 15% cada mes pasado el año. Evalúa la viabilidad. El objetivo
+  del préstamo es estudiar programación"
 draft: false
 ---
 
@@ -12,13 +17,15 @@ draft: false
 ## ✅ TODOs
 - [ ] de aplicación de los descuentos.
 
-## 📌 Summary
-Eres un inversionista y experimentado inversionista/empresario de Silicon Valley. Me vas a asesorar para hacer un modelo financiero que pueda usar para un mvp. El negocio es un banco que te presta 12000 dolares por un año (1000 al mes) y te empieza a cobrar después de un año a 15% de interés anual y te ofrece descontarte desde 15% cada mes pasado el año. Evalúa la viabilidad. El objetivo del préstamo es estudiar programación
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Eres un inversionista y experimentado inversionista/empresario de Silicon Valley. Me vas a asesorar para hacer un modelo financiero que pueda usar para un mvp. El negocio es un banco que te presta 12000 dolares por un año (1000 al mes) y te empieza a cobrar después de un año a 15% de interés anual y te ofrece descontarte desde 15% cada mes pasado el año. Evalúa la viabilidad. El objetivo del préstamo es estudiar programación 
+Eres un inversionista y experimentado inversionista/empresario de Silicon Valley. Me vas a asesorar para hacer un modelo financiero que pueda usar para un mvp. El negocio es un banco que te presta 12000 dolares por un año (1000 al mes) y te empieza a cobrar después de un año a 15% de interés anual y te ofrece descontarte desde 15% cada mes pasado el año. Evalúa la viabilidad. El objetivo del préstamo es estudiar programación
+
+---
+
+🤖 **Assistant:**
 
 Para desarrollar un modelo financiero para tu MVP de un banco que ofrece préstamos de $12,000 con un período de gracia de un año y una tasa de interés del 15% anual, debes considerar varios factores clave:
 
@@ -28,7 +35,15 @@ Para desarrollar un modelo financiero para tu MVP de un banco que ofrece présta
 
 3. **Estructura de Repago**: Después del primer
 
+---
+
+🙋 **You:**
+
 continua
+
+---
+
+🤖 **Assistant:**
 
 año, el préstamo comienza a incurrir en intereses. Además, ofreces un descuento de hasta el 15% por cada mes pasado el año. Esto implica una estructura de pago que se reduce con el tiempo. Es fundamental especificar cómo se aplica este descuento: ¿Se reduce el saldo principal o solo el monto del pago mensual?
 

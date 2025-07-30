@@ -3,20 +3,15 @@ title: Redis Connection Error Troubleshooting
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I am in RubyMine and saw the following Failures:"
 draft: false
 ---
 
 # Redis Connection Error Troubleshooting
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I am in RubyMine and saw the following Failures:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I am in RubyMine and saw the following Failures:
 Failures:
@@ -36,11 +31,21 @@ Failures:
 
 Why it could be? I am using dip and did dip up -d and dip infra up and still getting this error
 
+---
 
+🤖 **Assistant:**
 
 User is using RubyMine for development and has encountered a Redis connection error while running tests in a `Accounts::FeesController` spec. They are using `dip` for their environment setup and have tried `dip up -d` and `dip infra up` commands.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 The `Redis::ConnectionError` and `ECONNRESET` indicate a lost connection between your application and Redis, despite using `dip` to start the environment. Here are some steps to troubleshoot:
 

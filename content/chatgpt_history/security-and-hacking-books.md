@@ -3,22 +3,22 @@ title: Security and Hacking Books
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I want to read books about physical installations hacking
+  to start up a company for cybersecurity and physical security for big factories."
 draft: false
 ---
 
 # Security and Hacking Books
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I want to read books about physical installations hacking to start up a company for cybersecurity and physical security for big factories.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I want to read books about physical installations hacking to start up a company for cybersecurity and physical security for big factories.
+
+---
+
+🤖 **Assistant:**
 
 Physical security is a critical component of comprehensive security strategies, especially for industries and organizations where assets are at risk from physical tampering or unauthorized access. If you're looking to understand physical installations hacking and beef up the security of big factories or similar installations, here's a list of recommended books to help you get started:
 
@@ -47,7 +47,15 @@ When diving into these books, it's essential to maintain an ethical stance. Reme
 
 Lastly, consider supplementing your reading with hands-on training and courses in the realm of physical security and penetration testing. This practical experience will be invaluable when starting your cybersecurity and physical security company.
 
+---
+
+🙋 **You:**
+
 Books about hacking heuristics? It can be technical (for programmers) and non-technicals
+
+---
+
+🤖 **Assistant:**
 
 Hacking heuristics generally involve cognitive shortcuts or rules of thumb used to simplify decision-making in cybersecurity or penetration testing scenarios. A comprehensive understanding of hacking heuristics can help both technical and non-technical individuals make faster decisions when identifying vulnerabilities, threats, or potential attack vectors. Here are some books that discuss hacking, both from technical and non-technical perspectives:
 
@@ -84,7 +92,15 @@ Hacking heuristics generally involve cognitive shortcuts or rules of thumb used 
 
 When studying hacking heuristics, remember that the goal is to improve security, ensure ethical practices, and understand the mindset of potential adversaries. Always approach this knowledge with a commitment to ethical standards and the intent to protect and inform.
 
+---
+
+🙋 **You:**
+
 Now some books from critical theory about hacking
+
+---
+
+🤖 **Assistant:**
 
 Critical theory, a philosophical approach to culture, literature, and art, intersects with hacking in interesting ways. It critiques the societal structures and values that produce and are produced by technological practices. When applied to hacking, critical theory delves into power dynamics, the role of technology in society, and the ethical implications of digital practices. Here are some texts that use a critical theory lens to discuss hacking:
 

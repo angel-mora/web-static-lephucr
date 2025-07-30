@@ -3,24 +3,21 @@ title: Tareas empleada doméstica
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  tareas comunes para una empleada domestica"
 draft: false
 ---
 
 # Tareas empleada doméstica
 
-## ✅ TODOs
-
-
-## 📌 Summary
-tareas comunes para una empleada domestica
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 tareas comunes para una empleada domestica
 
+---
 
+🤖 **Assistant:**
 
 Las tareas comunes que realiza una empleada doméstica suelen incluir las siguientes:
 
@@ -59,9 +56,15 @@ Las tareas comunes que realiza una empleada doméstica suelen incluir las siguie
 
 Estas tareas varían según las necesidades y acuerdo con los empleadores.
 
+---
+
+🙋 **You:**
+
 Podria dejarla sola el primer dia? Que podria hacer para comunicarle que podria regresar en cualquier momento?
 
+---
 
+🤖 **Assistant:**
 
 Dejar a una empleada doméstica sola el primer día depende mucho de la confianza que sientas y de la claridad con la que se le hayan explicado sus responsabilidades. Aquí te dejo algunas recomendaciones si decides hacerlo:
 

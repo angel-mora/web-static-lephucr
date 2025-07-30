@@ -3,7 +3,16 @@ title: Personal Finance
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Debo 150,000 MXN en tarjetas de credito. Siento que
+  no estoy tan al control de cuanto tengo que pagar al mes, cuanto son rentas/suscripciones
+  y cuanto es de compras a meses sin intereses. Tengo un trabajo y gano 110,000. Soy
+  Ruby on Rails intermediate developer en entrevistas para senior. Mi novia se quedo
+  sin empleo. Usamos chatgpt para simplificar nuestra vida lo mas que podemos. Ella
+  debe 50,000 en TDC tambien. Le propuse que reestructuremos la deuda con un credito
+  de 200,000 para que yo pueda pagarle la mitad de mi salario mientras esta en job
+  search. Ella trabajara al menos un mes conmigo mientras desarrollamos un producto
+  de software con una comunidad de 9,000 personas. Debemos pedir un credito? La tasa
+  promedio seria 25% anual."
 draft: false
 ---
 
@@ -15,13 +24,15 @@ draft: false
 - [ ] logía de presupuesto basada en asignar cada peso ganado a una categoría específica, ayudándoles a priorizar sus gastos y ahorrar dinero.
 - [ ] s los factores relevantes al crear un plan de pagos. Además, la tabla aquí presentada no tiene en cuenta las posibles comisiones, seguros u otros costos asociados con el crédito. Por lo tanto, es fundamental que verifique los términos y condiciones del crédito antes de tomar una decisión.
 
-## 📌 Summary
-Debo 150,000 MXN en tarjetas de credito. Siento que no estoy tan al control de cuanto tengo que pagar al mes, cuanto son rentas/suscripciones y cuanto es de compras a meses sin intereses. Tengo un trabajo y gano 110,000. Soy Ruby on Rails intermediate developer en entrevistas para senior. Mi novia se quedo sin empleo. Usamos chatgpt para simplificar nuestra vida lo mas que podemos. Ella debe 50,000 en TDC tambien. Le propuse que reestructuremos la deuda con un credito de 200,000 para que yo pueda pagarle la mitad de mi salario mientras esta en job search. Ella trabajara al menos un mes conmigo mientras desarrollamos un producto de software con una comunidad de 9,000 personas. Debemos pedir un credito? La tasa promedio seria 25% anual.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Debo 150,000 MXN en tarjetas de credito. Siento que no estoy tan al control de cuanto tengo que pagar al mes, cuanto son rentas/suscripciones y cuanto es de compras a meses sin intereses. Tengo un trabajo y gano 110,000. Soy Ruby on Rails intermediate developer en entrevistas para senior. Mi novia se quedo sin empleo. Usamos chatgpt para simplificar nuestra vida lo mas que podemos. Ella debe 50,000 en TDC tambien. Le propuse que reestructuremos la deuda con un credito de 200,000 para que yo pueda pagarle la mitad de mi salario mientras esta en job search. Ella trabajara al menos un mes conmigo mientras desarrollamos un producto de software con una comunidad de 9,000 personas. Debemos pedir un credito? La tasa promedio seria 25% anual.
+
+---
+
+🤖 **Assistant:**
 
 Antes de tomar una decisión sobre si solicitar un crédito o no, es importante analizar su situación financiera y considerar todas las opciones disponibles. Aquí hay algunos puntos a tener en cuenta:
 
@@ -39,8 +50,16 @@ Antes de tomar una decisión sobre si solicitar un crédito o no, es importante 
 
 Si después de considerar todos estos puntos, creen que solicitar un crédito es la mejor opción, asegúrense de hacerlo de manera responsable y con un plan sólido para pagar la deuda en el plazo acordado. Además, sigan trabajando en mejorar sus hábitos financieros y buscar oportunidades para aumentar sus ingresos.
 
+---
+
+🙋 **You:**
+
 Mi novia tenia dos trabajos de junior-intermediate developer y ganaba 70,000 MXN en total con los dos. La tasa de interes de nuestras TDCs es de 60-80% en promedio.
 Seria bueno que yo pagara el 75% y ella 25%?
+
+---
+
+🤖 **Assistant:**
 
 Dado que las tasas de interés de sus tarjetas de crédito son significativamente más altas que la tasa de interés del crédito que están considerando, podría ser una buena opción consolidar la deuda y obtener un crédito con una tasa de interés más baja. Esto podría facilitarles el pago de la deuda y reducir la carga financiera a largo plazo.
 
@@ -50,7 +69,15 @@ Una opción podría ser que usted pague una proporción mayor de la deuda mientr
 
 Recuerden que es crucial mantener una comunicación abierta y trabajar juntos para enfrentar la situación financiera. También es importante continuar mejorando sus hábitos financieros y buscar formas de aumentar sus ingresos para pagar la deuda lo más rápido posible.
 
+---
+
+🙋 **You:**
+
 Dame los mejores recursos que tengas para realizar el presupuesto y una proyeccion financiera, considerando que vamos a iniciar un negocio y que ella probablemente tendra un nuevo trabajo en 6 meses.
+
+---
+
+🤖 **Assistant:**
 
 Crear un presupuesto y una proyección financiera es esencial para gestionar sus finanzas personales y planificar el futuro de su negocio. Aquí hay una lista de recursos y herramientas que pueden ayudarles en este proceso:
 
@@ -75,7 +102,15 @@ Crear un presupuesto y una proyección financiera es esencial para gestionar sus
 
 Recuerden que al crear su presupuesto y proyección financiera, es importante ser realistas en cuanto a sus ingresos y gastos, y ajustarlos periódicamente a medida que su situación financiera cambie.
 
+---
+
+🙋 **You:**
+
 Dame un plan de pagos en una tabla de markdown, con una columna de la tasa de 25% de interes.
+
+---
+
+🤖 **Assistant:**
 
 Aquí hay una tabla de ejemplo en formato Markdown que muestra un plan de pagos para un crédito de 200,000 MXN con una tasa de interés del 25% anual. Supongamos que el plazo del crédito es de 24 meses (2 años).
 
@@ -90,7 +125,15 @@ Aquí hay una tabla de ejemplo en formato Markdown que muestra un plan de pagos 
 
 Por favor, tenga en cuenta que esta tabla es solo un ejemplo y puede no representar su situación financiera real. Es importante que adapte los números a su situación específica y considere todos los factores relevantes al crear un plan de pagos. Además, la tabla aquí presentada no tiene en cuenta las posibles comisiones, seguros u otros costos asociados con el crédito. Por lo tanto, es fundamental que verifique los términos y condiciones del crédito antes de tomar una decisión.
 
-A un anio 
+---
+
+🙋 **You:**
+
+A un anio
+
+---
+
+🤖 **Assistant:**
 
 Aquí hay una tabla de ejemplo en formato Markdown que muestra un plan de pagos para un crédito de 200,000 MXN con una tasa de interés del 25% anual. Supongamos que el plazo del crédito es de 12 meses (1 año).
 

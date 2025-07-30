@@ -6,24 +6,22 @@ tags:
 - index
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What is the best way to have a jekyll blog inside a
+  rails app?"
 draft: false
 ---
 
 # Integrating Jekyll into Rails
 
-## ✅ TODOs
-
-
-## 📌 Summary
-What is the best way to have a jekyll blog inside a rails app?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-What is the best way to have a jekyll blog inside a rails app? 
+What is the best way to have a jekyll blog inside a rails app?
 
+---
 
+🤖 **Assistant:**
 
 To integrate a Jekyll blog inside a Rails app, you can follow these steps:
 
@@ -116,7 +114,15 @@ This route will redirect all `/blog/*` requests to the corresponding static file
 
 With these steps, you should have a Jekyll blog integrated into your Rails application, allowing you to manage both your Rails app and Jekyll blog together seamlessly.
 
-Can I still put it behind a devise login? 
+---
+
+🙋 **You:**
+
+Can I still put it behind a devise login?
+
+---
+
+🤖 **Assistant:**
 
 Yes, you can put your Jekyll blog behind a Devise login in your Rails application. To achieve this, you need to serve the Jekyll files through Rails controllers and apply Devise's authentication filters. Here's how you can do it:
 
@@ -185,7 +191,15 @@ Start your Rails server and navigate to `/blog`. You should be prompted to log i
 
 By following these steps, you've configured your Jekyll blog to be served through Rails controllers, allowing you to leverage Devise for authentication. This way, the blog pages will be protected and only accessible to logged-in users.
 
-And how about urls that links to other parts of the rails app? How should we handle those? 
+---
+
+🙋 **You:**
+
+And how about urls that links to other parts of the rails app? How should we handle those?
+
+---
+
+🤖 **Assistant:**
 
 To handle URLs that link to other parts of your Rails app from within the Jekyll blog, you need to ensure that your Jekyll blog generates the correct URLs and that Rails can properly route these requests. Here's how to manage this:
 
@@ -286,7 +300,15 @@ In a Jekyll layout file (e.g., `_layouts/default.html`):
 
 By using absolute URLs and ensuring that your Jekyll configuration aligns with your Rails routing, you can seamlessly link to other parts of your Rails app from your Jekyll blog. This approach maintains consistency in navigation and ensures that authenticated sections are properly protected.
 
+---
+
+🙋 **You:**
+
 Continue
+
+---
+
+🤖 **Assistant:**
 
 ### Step 6: Handle Relative URLs in Jekyll
 

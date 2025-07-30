@@ -3,24 +3,21 @@ title: PR Changelog Template
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Basic changelog template for a pr description in github"
 draft: false
 ---
 
 # PR Changelog Template
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Basic changelog template for a pr description in github
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Basic changelog template for a pr description in github
 
+---
 
+🤖 **Assistant:**
 
 Here’s a simple changelog template you can use for a pull request (PR) description on GitHub:
 
@@ -53,7 +50,15 @@ Additional information or context relevant to the changes.
 
 You can modify the structure based on your team’s needs, such as adding sections for specific types of changes or external dependencies.
 
+---
+
+🙋 **You:**
+
 emojis for the titles
+
+---
+
+🤖 **Assistant:**
 
 Here’s the same template with emoji enhancements for the titles:
 

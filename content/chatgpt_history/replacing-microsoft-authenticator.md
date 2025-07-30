@@ -3,24 +3,22 @@ title: Replacing Microsoft Authenticator
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I want to stop using smartphone but not sure if I can
+  replace Microsoft Authenticator with a desktop app or a web version"
 draft: false
 ---
 
 # Replacing Microsoft Authenticator
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I want to stop using smartphone but not sure if I can replace Microsoft Authenticator with a desktop app or a web version
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I want to stop using smartphone but not sure if I can replace Microsoft Authenticator with a desktop app or a web version
 
+---
 
+🤖 **Assistant:**
 
 It's challenging to completely replace Microsoft Authenticator with a desktop app or web version because most two-factor authentication (2FA) apps, including Microsoft Authenticator, are designed to be used on smartphones for added security. They rely on the fact that your phone is separate from your computer, providing an extra layer of protection.
 

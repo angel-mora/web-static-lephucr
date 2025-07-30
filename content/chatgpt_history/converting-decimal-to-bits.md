@@ -3,22 +3,21 @@ title: Converting Decimal to Bits
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  3 decimal to bits, how many i would need?"
 draft: false
 ---
 
 # Converting Decimal to Bits
 
-## ✅ TODOs
-
-
-## 📌 Summary
-3 decimal to bits, how many i would need?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 3 decimal to bits, how many i would need?
+
+---
+
+🤖 **Assistant:**
 
 To convert 3 decimal digits to bits, you need to determine the range of decimal numbers you want to represent. If you want to represent all possible values from 0 to 3, you would need at least 2 bits.
 
@@ -30,7 +29,15 @@ With 2 bits, you can represent four different values: 00, 01, 10, and 11.
 
 Since you have three decimal digits, you would need at least 2 bits to represent all possible values from 0 to 3.
 
+---
+
+🙋 **You:**
+
 only the number 3
+
+---
+
+🤖 **Assistant:**
 
 If you want to represent only the decimal number 3, you would still need at least 2 bits.
 
@@ -40,7 +47,15 @@ Using 2 bits, you can represent four different values: 00, 01, 10, and 11.
 
 Therefore, to represent the decimal number 3, you would need at least 2 bits.
 
+---
+
+🙋 **You:**
+
 time complexity of binary search
+
+---
+
+🤖 **Assistant:**
 
 The time complexity of binary search is O(log n), where n represents the number of elements in the sorted array.
 

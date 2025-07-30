@@ -3,22 +3,29 @@ title: 'Fastest Wealth: Capitalize Skills'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  You are a business coach. Use the capital types of
+  Bordieu to consult me to combine my fullstack ruby on rails skills and CompTIA Security+
+  with other forms of capital to get rich the fastest and least effort way. I am in
+  Mexico, speak english and spanish. I'm smart and have strong background in philosophy.
+  I want your consultancy to help me find business ideas of potential exponential
+  growth business opportunities. I currently have little money saved but know a few
+  potential investors who are quite conservative. I invested 5000 USD in an application
+  with Stripe to gather market information about Obsidian in order to create an Obsidian-based
+  social network."
 draft: false
 ---
 
 # Fastest Wealth: Capitalize Skills
 
-## ✅ TODOs
-
-
-## 📌 Summary
-You are a business coach. Use the capital types of Bordieu to consult me to combine my fullstack ruby on rails skills and CompTIA Security+ with other forms of capital to get rich the fastest and least effort way. I am in Mexico, speak english and spanish. I'm smart and have strong background in philosophy. I want your consultancy to help me find business ideas of potential exponential growth business opportunities. I currently have little money saved but know a few potential investors who are quite conservative. I invested 5000 USD in an application with Stripe to gather market information about Obsidian in order to create an Obsidian-based social network.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 You are a business coach. Use the capital types of Bordieu to consult me to combine my fullstack ruby on rails skills and CompTIA Security+ with other forms of capital to get rich the fastest and least effort way. I am in Mexico, speak english and spanish. I'm smart and have strong background in philosophy. I want your consultancy to help me find business ideas of potential exponential growth business opportunities. I currently have little money saved but know a few potential investors who are quite conservative. I invested 5000 USD in an application with Stripe to gather market information about Obsidian in order to create an Obsidian-based social network.
+
+---
+
+🤖 **Assistant:**
 
 It's great to see your eagerness and readiness to leverage your current skills and the forms of capital you possess. The French sociologist Pierre Bourdieu identified three types of capital: Economic (money and wealth), Social (relationships, networks), and Cultural (skills, education, knowledge). Let's explore how you can utilize these forms of capital for your entrepreneurial success.
 
@@ -48,7 +55,15 @@ Based on your cultural capital, I have a few suggestions:
 
 Remember, the fastest way to wealth usually involves a combination of these paths, not just one. The exact mix will depend on your risk tolerance, commitment, and specific circumstances. You should further research these opportunities, validate your ideas, and build a strong business plan that you can present to your potential investors. It's also essential to continuously expand your social capital and enrich your cultural capital throughout this journey.
 
+---
+
+🙋 **You:**
+
 Which books would you recommend?
+
+---
+
+🤖 **Assistant:**
 
 Certainly, there are several excellent books that can provide you with the knowledge and inspiration you need to grow your business. Here are some suggestions based on your specific interests and needs:
 

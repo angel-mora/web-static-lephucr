@@ -3,22 +3,22 @@ title: Venture Deals Book Summary
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hazme un resume del libro venture deals, cada vez que
+  diga continue tu resumen sera más especifico en un apartado especifico"
 draft: false
 ---
 
 # Venture Deals Book Summary
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Hazme un resume del libro venture deals, cada vez que diga continue tu resumen sera más especifico en un apartado especifico
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Hazme un resume del libro venture deals, cada vez que diga continue tu resumen sera más especifico en un apartado especifico
+
+---
+
+🤖 **Assistant:**
 
 "Venture Deals" es un libro escrito por Brad Feld y Jason Mendelson que ofrece una guía detallada sobre cómo funcionan las negociaciones de capital de riesgo, proporcionando información esencial para empresarios y startups que buscan financiación. El libro aborda temas como la estructura de las ofertas de capital de riesgo, cómo valorar startups, los distintos tipos de inversores y cómo interactuar con ellos, y consejos prácticos para negociar términos de inversión.
 
@@ -36,7 +36,15 @@ El contenido se divide en varias secciones clave:
 
 Dime sobre qué aspecto específico te gustaría que continúe el resumen.
 
+---
+
+🙋 **You:**
+
 Continua
+
+---
+
+🤖 **Assistant:**
 
 Centrándonos en la sección de **Estructura de las Ofertas** en "Venture Deals":
 
@@ -52,7 +60,15 @@ Centrándonos en la sección de **Estructura de las Ofertas** en "Venture Deals"
 
 Esta sección es crucial para entender cómo se estructuran las inversiones de capital de riesgo y cómo estos acuerdos pueden afectar el futuro de una startup. ¿Hay algún aspecto específico de esta sección sobre el que te gustaría que profundice más?
 
-Continúa 
+---
+
+🙋 **You:**
+
+Continúa
+
+---
+
+🤖 **Assistant:**
 
 Profundizando en la sección sobre **Términos Contractuales Clave** en "Venture Deals":
 

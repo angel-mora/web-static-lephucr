@@ -3,20 +3,16 @@ title: Migración Polimórfica Rails
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  como hago una migracion polimorfica en ruby on rails
+  que se llame instances esta almacenara repositorios de github, sera como :"
 draft: false
 ---
 
 # Migración Polimórfica Rails
 
-## ✅ TODOs
-
-
-## 📌 Summary
-como hago una migracion polimorfica en ruby on rails que se llame instances esta almacenara repositorios de github, sera como :
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 como hago una migracion polimorfica en ruby on rails que se llame instances esta almacenara repositorios de github, sera como :
 
@@ -34,8 +30,9 @@ end
 
 pero quiero que sea polimorfica
 
+---
 
-
+🤖 **Assistant:**
 
 Para hacer una migración polimórfica en Ruby on Rails, debes agregar una referencia polimórfica en la tabla de `instances`. Esto se logra usando `t.references` con las opciones `polymorphic: true`.  
 
@@ -93,6 +90,10 @@ repo = org.instances.create(repo_url: "https://github.com/org/repo.git", local_p
 
 Esto te permite que un `Instance` pertenezca tanto a un `User` como a una `Organization`, o a cualquier otro modelo que definas. 🚀
 
+---
+
+🙋 **You:**
+
 como hago una migracion polimorfica en ruby on rails que se llame instances esta almacenara repositorios de github, sera como :
 
 class CreateQuartzInstances < ActiveRecord::Migration[7.0]
@@ -109,8 +110,9 @@ end
 
 pero quiero que sea polimorfica y evitar palabras reservadas
 
+---
 
-
+🤖 **Assistant:**
 
 Para hacer que la migración sea polimórfica y evitar palabras reservadas, puedes usar un nombre más descriptivo como `instantiable`. Aquí tienes la migración polimórfica corregida:  
 

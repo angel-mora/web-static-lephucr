@@ -3,24 +3,22 @@ title: Pruebas y vacunas ITS CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  tuve sexo sin proteccion. Periodos para hacerme tests
+  de enfermedades y vacunas que puedo conseguir en la CDMX"
 draft: false
 ---
 
 # Pruebas y vacunas ITS CDMX
 
-## ✅ TODOs
-
-
-## 📌 Summary
-tuve sexo sin proteccion. Periodos para hacerme tests de enfermedades y vacunas que puedo conseguir en la CDMX
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 tuve sexo sin proteccion. Periodos para hacerme tests de enfermedades y vacunas que puedo conseguir en la CDMX
 
+---
 
+🤖 **Assistant:**
 
 Después de haber tenido relaciones sexuales sin protección, es fundamental realizarse pruebas para detectar posibles infecciones de transmisión sexual (ITS) y considerar las vacunas disponibles para prevenir algunas de ellas.
 
@@ -48,9 +46,17 @@ tuve sexo sin proteccion. Periodos para hacerme tests de enfermedades y vacunas 
 
 Para recibir estas vacunas, puedes acudir a las unidades de vacunación de la Secretaría de Salud de la Ciudad de México. Una de las ubicaciones es el Centro de Salud T-III Dr. Manuel Escontría, ubicado en Frontera 15, Colonia San Ángel, C.P. 01000. Puedes comunicarte a los teléfonos 55-12857104, 55-12852954 o 55-12857100 para más información. citeturn0search5
 
-Recuerda que la prevención y detección temprana son clave para mantener una buena salud sexual. Si tienes dudas o necesitas asesoría, es recomendable consultar con un profesional de la salud. 
+Recuerda que la prevención y detección temprana son clave para mantener una buena salud sexual. Si tienes dudas o necesitas asesoría, es recomendable consultar con un profesional de la salud.
+
+---
+
+🙋 **You:**
 
 puedo recibir sexo oral sin proteccion de la otra persona?
+
+---
+
+🤖 **Assistant:**
 
 El sexo oral sin protección implica ciertos riesgos de transmisión de infecciones de transmisión sexual (ITS), aunque el riesgo puede variar dependiendo de la infección específica. Aquí te detallo algunos puntos importantes sobre las ITS que pueden transmitirse a través del sexo oral:
 
@@ -76,7 +82,15 @@ El sexo oral sin protección implica ciertos riesgos de transmisión de infeccio
 
 Es importante tener en cuenta que muchas ITS pueden ser asintomáticas, por lo que hacerse pruebas regulares es una buena práctica para mantener una salud sexual segura.
 
+---
+
+🙋 **You:**
+
 Cuales pueden dar los primeros sintomas?
+
+---
+
+🤖 **Assistant:**
 
 Algunas infecciones de transmisión sexual (ITS) pueden manifestar síntomas rápidamente después de la exposición, mientras que otras pueden permanecer asintomáticas durante mucho tiempo. Aquí tienes una guía sobre los síntomas iniciales y cuánto tiempo después del contagio pueden aparecer, aunque muchas ITS también pueden ser asintomáticas:
 

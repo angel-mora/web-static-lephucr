@@ -3,22 +3,22 @@ title: 'Replace :: with \n'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to search and replace :: for \\n (it inserts \\n
+  instead of a new line). nvchad"
 draft: false
 ---
 
 # Replace :: with \n
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How to search and replace :: for \n (it inserts \n instead of a new line). nvchad
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to search and replace :: for \n (it inserts \n instead of a new line). nvchad
+
+---
+
+🤖 **Assistant:**
 
 To search and replace `::` with `\n` in NVChad, which is a Neovim configuration, you would typically use a command in the Neovim command mode. However, it's important to clarify that replacing `::` with `\n` (which represents a newline character) in the text will not actually insert new lines; it will just replace `::` with the literal string `\n`.
 
@@ -36,7 +36,15 @@ The `%s` command in Neovim is for search and replace. `%` means the entire file,
 
 Remember, this will replace `::` with the characters `\n`, not with actual new lines. If you want to insert actual new lines, that's a bit more complex and might require a different approach, possibly involving scripting within Neovim.
 
+---
+
+🙋 **You:**
+
 I want to insert a new line
+
+---
+
+🤖 **Assistant:**
 
 If you want to replace `::` with an actual newline in NVChad (a configuration for Neovim), you can use a slightly different command in Neovim. Here's how you can do it:
 

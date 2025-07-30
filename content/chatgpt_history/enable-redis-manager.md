@@ -3,20 +3,16 @@ title: Enable Redis Manager
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  sudo xattr -rd com.apple.quarantine /Applications/Another\\
+  Redis\\ Desktop\\ Manager.app"
 draft: false
 ---
 
 # Enable Redis Manager
 
-## ✅ TODOs
-
-
-## 📌 Summary
-sudo xattr -rd com.apple.quarantine /Applications/Another\ Redis\ Desktop\ Manager.app
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 sudo xattr -rd com.apple.quarantine /Applications/Another\ Redis\ Desktop\ Manager.app
 
@@ -41,6 +37,10 @@ options:
   -z: compress or decompress (if compressed) attribute value in zip format
 
 Option -r used to be here but not anymore. I want to enable redis manager
+
+---
+
+🤖 **Assistant:**
 
 It seems like the `xattr` command no longer supports the `-r` option for recursive operations. Instead, you can use the `find` command along with `xargs` to achieve the recursive behavior. Here's an example:
 

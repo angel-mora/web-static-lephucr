@@ -3,24 +3,21 @@ title: DataviewJS and SQLite Integration
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  relation between dataviewjs and sqlite"
 draft: false
 ---
 
 # DataviewJS and SQLite Integration
 
-## ✅ TODOs
-
-
-## 📌 Summary
-relation between dataviewjs and sqlite
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 relation between dataviewjs and sqlite
 
+---
 
+🤖 **Assistant:**
 
 The relationship between `DataviewJS` and `SQLite` can be particularly useful when managing and querying structured data in applications like Obsidian. Here’s how they complement each other:
 

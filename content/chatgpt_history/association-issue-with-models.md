@@ -3,23 +3,23 @@ title: Association issue with models.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Failure/Error: it { is_expected.to have_one(:offering_including_deleted).class_name('Offering').with_foreign_key('id').with_primary_key('offering_id').inverse_of(:offering_categories)
+  }"
 draft: false
 ---
 
 # Association issue with models.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Failure/Error: it { is_expected.to have_one(:offering_including_deleted).class_name('Offering').with_foreign_key('id').with_primary_key('offering_id').inverse_of(:offering_categories) }
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-     Failure/Error: it { is_expected.to have_one(:offering_including_deleted).class_name('Offering').with_foreign_key('id').with_primary_key('offering_id').inverse_of(:offering_categories) }
+Failure/Error: it { is_expected.to have_one(:offering_including_deleted).class_name('Offering').with_foreign_key('id').with_primary_key('offering_id').inverse_of(:offering_categories) }
        Expected OfferingCategory to have a has_one association called offering_including_deleted (Offering does not have a offering_id foreign key.)
+
+---
+
+🤖 **Assistant:**
 
 This error message indicates that there is an issue with the association between the `OfferingCategory` and `Offering` models. 
 
@@ -31,12 +31,20 @@ To resolve this issue, you can check the database schema to ensure that the `Off
 
 Additionally, you may want to check that the model classes are defined correctly and that the associations are being called with the correct names and parameters.
 
+---
+
+🙋 **You:**
+
 this my offering_categories model:
   has_one :offering_including_deleted, -> { with_deleted },
           class_name: 'Offering',
           foreign_key: 'id',
           primary_key: 'offering_id',
           inverse_of: :offering_categories
+
+---
+
+🤖 **Assistant:**
 
 Based on the code snippet you provided, the `OfferingCategory` model has a `has_one` association called `offering_including_deleted` with the `Offering` model.
 
@@ -50,7 +58,15 @@ Finally, the `inverse_of` option specifies the name of the association on the as
 
 Overall, the `has_one` association looks to be set up correctly. However, if you are encountering an error message related to this association, you may need to investigate further to determine the cause of the error.
 
-       Expected OfferingCategory to have a has_one association called offering_including_deleted (Offering does not have a offering_id foreign key.)
+---
+
+🙋 **You:**
+
+Expected OfferingCategory to have a has_one association called offering_including_deleted (Offering does not have a offering_id foreign key.)
+
+---
+
+🤖 **Assistant:**
 
 The error message suggests that there is an issue with the foreign key used in the `has_one` association between the `OfferingCategory` and `Offering` models. 
 

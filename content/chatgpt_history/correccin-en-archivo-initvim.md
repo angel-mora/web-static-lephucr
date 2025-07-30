@@ -3,20 +3,16 @@ title: Corrección en archivo init.vim
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  nvim bootstrap with support for multiple languages.
+  It returns the following error"
 draft: false
 ---
 
 # Corrección en archivo init.vim
 
-## ✅ TODOs
-
-
-## 📌 Summary
-nvim bootstrap with support for multiple languages. It returns the following error
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 nvim bootstrap with support for multiple languages. It returns the following error
 664 " ocaml
@@ -28,6 +24,10 @@ nvim bootstrap with support for multiple languages. It returns the following err
 Error detected while processing /Users/angel.mora.mx/.config/nvim/init.vim:
 line  667:
 E518: Unknown option: command
+
+---
+
+🤖 **Assistant:**
 
 The error message you're seeing (`E518: Unknown option: command`) indicates that there's an issue with the command being executed on line 667 of your `init.vim` file.
 
@@ -48,7 +48,15 @@ let g:opamshare = substitute(system('opam var share'),'\n$','','')
 
 So, update your `init.vim` file to use the corrected line, and that should resolve the error.
 
+---
+
+🙋 **You:**
+
 it is nvim, would it be the same?
+
+---
+
+🤖 **Assistant:**
 
 Yes, Neovim (`nvim`) is a fork of Vim, and they share a lot of the same Vimscript syntax and functionality, especially for basic operations like the `substitute` function.
 
@@ -61,7 +69,15 @@ let g:opamshare = substitute(system('opam var share'),'\n$','','')
 
 After making this change, try reloading your Neovim configuration or restarting Neovim to see if the error is resolved.
 
+---
+
+🙋 **You:**
+
 E319: No "python3" provider found. Run ":checkhealth provider"
+
+---
+
+🤖 **Assistant:**
 
 The error `E319: No "python3" provider found` indicates that Neovim cannot find a suitable Python 3 provider. This is often required for certain plugins or features that rely on Python 3 support.
 

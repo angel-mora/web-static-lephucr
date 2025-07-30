@@ -3,7 +3,7 @@ title: Remedios caseros para fiebre
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Bajar temperatura remedios caseros"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s efectivos como compresas frías, hidratación y ropa ligera.
 
-## 📌 Summary
-Bajar temperatura remedios caseros
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Bajar temperatura remedios caseros 
+Bajar temperatura remedios caseros
 
+---
 
+🤖 **Assistant:**
 
 Si buscas bajar la temperatura corporal de forma natural, aquí tienes algunos remedios caseros efectivos:  
 
@@ -43,7 +43,15 @@ Si buscas bajar la temperatura corporal de forma natural, aquí tienes algunos r
 
 Si la fiebre es alta (más de 39°C) o persiste por más de dos días, consulta a un médico.
 
-El Vick vaporub funciona para bajar la fiebre 
+---
+
+🙋 **You:**
+
+El Vick vaporub funciona para bajar la fiebre
+
+---
+
+🤖 **Assistant:**
 
 El **Vicks VapoRub** no está diseñado para bajar la fiebre. Su fórmula contiene **mentol, alcanfor y eucalipto**, que pueden dar una sensación de frescura en la piel, pero no reducen la temperatura corporal real.  
 

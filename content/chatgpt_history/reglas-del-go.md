@@ -3,7 +3,7 @@ title: Reglas del Go.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Reglas del go"
 draft: false
 ---
 
@@ -12,13 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] nde se cruzan las líneas. El jugador con las piedras negras comienza.
 
-## 📌 Summary
-Reglas del go
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Reglas del go
+
+---
+
+🤖 **Assistant:**
 
 El juego de Go es un juego de mesa de estrategia para dos jugadores que se originó en China hace más de 4.000 años. Aquí tienes las reglas básicas:
 

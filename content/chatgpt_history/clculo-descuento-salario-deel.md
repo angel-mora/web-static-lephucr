@@ -3,24 +3,22 @@ title: Cálculo descuento salario Deel
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  como calcular descuento en deel para salario mensual
+  contando días off"
 draft: false
 ---
 
 # Cálculo descuento salario Deel
 
-## ✅ TODOs
-
-
-## 📌 Summary
-como calcular descuento en deel para salario mensual contando días off
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 como calcular descuento en deel para salario mensual contando días off
 
+---
 
+🤖 **Assistant:**
 
 Para calcular un descuento en **Deel** cuando tienes días "off" en un salario mensual, sigue estos pasos:
 

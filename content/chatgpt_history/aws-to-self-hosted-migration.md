@@ -3,22 +3,22 @@ title: AWS to Self-hosted migration.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I replace my aws infrastructure to self hosted
+  servers? What technology should I use?"
 draft: false
 ---
 
 # AWS to Self-hosted migration.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I replace my aws infrastructure to self hosted servers? What technology should I use?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I replace my aws infrastructure to self hosted servers? What technology should I use?
+
+---
+
+🤖 **Assistant:**
 
 Migrating from AWS infrastructure to self-hosted servers can be a complex and challenging task, but there are several technologies and approaches you can use to make the transition smoother. Here are some steps to consider:
 

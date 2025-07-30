@@ -3,22 +3,23 @@ title: Filtering Multiple Email Domains
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I want to filter a bunch of emails in mysql. I now
+  for one I can do users.email NOT LIKE \"%@domain.com\". How would I do it for NOT
+  LIKE (\"%@domain.com\",\"%@domain2.com\")?"
 draft: false
 ---
 
 # Filtering Multiple Email Domains
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I want to filter a bunch of emails in mysql. I now for one I can do users.email NOT LIKE "%@domain.com". How would I do it for NOT LIKE ("%@domain.com","%@domain2.com")?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I want to filter a bunch of emails in mysql. I now for one I can do users.email NOT LIKE "%@domain.com". How would I do it for NOT LIKE ("%@domain.com","%@domain2.com")?
+
+---
+
+🤖 **Assistant:**
 
 In MySQL, you can't use the `NOT LIKE` operator with multiple patterns directly in the way you've shown. Instead, you'll need to use multiple `NOT LIKE` conditions combined with the `AND` operator.
 
@@ -33,7 +34,15 @@ AND email NOT LIKE "%@domain2.com";
 
 If you have a lot of domains to exclude, you can extend the `WHERE` clause with additional `AND email NOT LIKE "%@anotherdomain.com"` conditions as needed.
 
+---
+
+🙋 **You:**
+
 can't I use NOT IN ?
+
+---
+
+🤖 **Assistant:**
 
 Yes, you can use `NOT IN` for exact matches, but not for pattern matching with wildcards like `%`.
 

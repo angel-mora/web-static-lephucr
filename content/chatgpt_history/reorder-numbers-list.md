@@ -3,20 +3,17 @@ title: Reorder Numbers List
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  adjust the numbers so they keep their sequence but
+  just remove empty numbers in between. Example if there is no 024, then 025 should
+  be 024, 026 should be 025 and so on"
 draft: false
 ---
 
 # Reorder Numbers List
 
-## ✅ TODOs
-
-
-## 📌 Summary
-adjust the numbers so they keep their sequence but just remove empty numbers in between. Example if there is no 024, then 025 should be 024, 026 should be 025 and so on
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 adjust the numbers so they keep their sequence but just remove empty numbers in between. Example if there is no 024, then 025 should be 024, 026 should be 025 and so on
 [[LEPHUCR-015]]
@@ -42,7 +39,9 @@ adjust the numbers so they keep their sequence but just remove empty numbers in 
 [[LEPHUCR-004]]
 [[LEPHUCR-003]]
 
+---
 
+🤖 **Assistant:**
 
 First, let's sort the numbers in your list to get the sequence in order:
 

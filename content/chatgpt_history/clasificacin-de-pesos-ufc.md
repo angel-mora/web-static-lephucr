@@ -3,24 +3,21 @@ title: Clasificación de pesos UFC
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Clasificación de pesos en la UFC"
 draft: false
 ---
 
 # Clasificación de pesos UFC
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Clasificación de pesos en la UFC
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Clasificación de pesos en la UFC
 
+---
 
+🤖 **Assistant:**
 
 La UFC (Ultimate Fighting Championship) clasifica a sus luchadores en diferentes categorías de peso tanto para hombres como para mujeres. Aquí están las categorías actuales:
 

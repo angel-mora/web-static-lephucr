@@ -3,24 +3,23 @@ title: Certificaciones para Administradores de Empresas
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Technical skills for Business Administrators, like
+  Salesforce or Excel. Provide the best certifications so my profile is attractive
+  in LinkedIn for mexican employers"
 draft: false
 ---
 
 # Certificaciones para Administradores de Empresas
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Technical skills for Business Administrators, like Salesforce or Excel. Provide the best certifications so my profile is attractive in LinkedIn for mexican employers
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Technical skills for Business Administrators, like Salesforce or Excel. Provide the best certifications so my profile is attractive in LinkedIn for mexican employers
 
+---
 
+🤖 **Assistant:**
 
 To make your LinkedIn profile attractive to Mexican employers as a Business Administrator, obtaining certifications in widely recognized technical skills can be highly beneficial. Here are some of the best certifications to consider:
 

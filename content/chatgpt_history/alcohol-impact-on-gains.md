@@ -3,38 +3,54 @@ title: Alcohol Impact on Gains
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Como afecta el alcohol a mis gains del gym. Contempla
+  ultimas investigaciones al respecto"
 draft: false
 ---
 
 # Alcohol Impact on Gains
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Como afecta el alcohol a mis gains del gym. Contempla ultimas investigaciones al respecto
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Como afecta el alcohol a mis gains del gym. Contempla ultimas investigaciones al respecto
 
+---
 
+🤖 **Assistant:**
 
 El usuario está interesado en cómo el alcohol afecta sus ganancias en el gimnasio y quiere considerar las últimas investigaciones al respecto.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 El consumo de alcohol puede afectar negativamente tus ganancias musculares en el gimnasio de varias formas, según investigaciones recientes.
 
 1. **Inhibición de la Síntesis de Proteínas Musculares (MPS)**: El alcohol reduce la tasa de síntesis de proteínas musculares, fundamental para la reparación y crecimiento muscular. Estudios muestran que consumir alcohol después del ejercicio puede disminuir la MPS hasta en un 37%, incluso cuando se consume proteína junto con alcohol
 
+---
 
+🤖 **Assistant:**
 
 The user is interested in the effects of alcohol on their gym gains and the latest research on the topic.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Alcohol consumption can significantly affect your muscle gains, primarily by disrupting muscle protein synthesis (MPS) and increasing muscle protein breakdown (MPB). Here are some key findings from recent research:
 

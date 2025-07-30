@@ -3,22 +3,22 @@ title: Managing Guilt and Relapse
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I suffer PMO and weed addiction. How can I react in
+  front of relapse? Feel guilty"
 draft: false
 ---
 
 # Managing Guilt and Relapse
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I suffer PMO and weed addiction. How can I react in front of relapse? Feel guilty
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I suffer PMO and weed addiction. How can I react in front of relapse? Feel guilty
+
+---
+
+🤖 **Assistant:**
 
 I'm sorry to hear that you're struggling with addiction. Remember, I'm not a therapist, but if you're looking for some general advice in the event of a relapse:
 
@@ -44,7 +44,15 @@ I'm sorry to hear that you're struggling with addiction. Remember, I'm not a the
 
 Finally, remember that you're not alone in this journey. Many people face similar challenges, and there's a wide network of support available to help you navigate the road to recovery.
 
-How to hack guiltiness 
+---
+
+🙋 **You:**
+
+How to hack guiltiness
+
+---
+
+🤖 **Assistant:**
 
 It sounds like you're seeking ways to manage or "hack" feelings of guilt. It's essential to approach guilt in a constructive manner, as it's a natural emotion that can help us reflect on our actions and behaviors. Here are some steps to manage feelings of guilt:
 

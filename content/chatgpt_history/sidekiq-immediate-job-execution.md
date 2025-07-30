@@ -3,24 +3,22 @@ title: Sidekiq Immediate Job Execution
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I make a sidekiq class to perform now, I tried
+  that way and it doesn't work"
 draft: false
 ---
 
 # Sidekiq Immediate Job Execution
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I make a sidekiq class to perform now, I tried that way and it doesn't work
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I make a sidekiq class to perform now, I tried that way and it doesn't work
 
+---
 
+🤖 **Assistant:**
 
 To make a Sidekiq worker perform a job immediately, you typically use the `perform_async` or `perform_in` methods, depending on whether you want to run it immediately or after a certain delay. Here's an example of how to set it up:
 

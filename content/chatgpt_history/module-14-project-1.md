@@ -3,20 +3,15 @@ title: Module 14 Project 1
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Title: Module 14 Project 1"
 draft: false
 ---
 
 # Module 14 Project 1
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Title: Module 14 Project 1
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Title: Module 14 Project 1
 Replace the following params:
@@ -94,6 +89,10 @@ Replace the following params:
     </section>
 </body>
 
+---
+
+🤖 **Assistant:**
+
 Sure, I can help you replace the parameters in your HTML code. However, you didn't specify what parameters you want to replace. 
 
 Here's an example of how you might want to replace some parameters:
@@ -169,6 +168,10 @@ Here's an example of how you might want to replace some parameters:
 In this example, I replaced the name "Robert Smith" with "John Doe", changed the email address, updated the LinkedIn URL, changed the about section text, and updated the blog post titles, keywords, and descriptions. I also changed the CSS file reference.
 
 Please provide more specific details if you want to replace other parameters.
+
+---
+
+🙋 **You:**
 
 Title: Module 14 Project 1
 Replace the following params:
@@ -256,6 +259,10 @@ Replace the two blog posts mocks with 1) technical article about flipper zero, 2
 </body>
 ```
 
+---
+
+🤖 **Assistant:**
+
 Here is the updated HTML code with the requested changes:
 
 ```html
@@ -327,6 +334,10 @@ Here is the updated HTML code with the requested changes:
 </html>
 ```
 This updated HTML code includes the changes you requested, such as updating the name, email, LinkedIn link, profile photo, introduction, and blog posts. The blog posts now feature technical articles about Flipper Zero and Pwnagotchi, as per your request.
+
+---
+
+🙋 **You:**
 
 Title: Module 14 Project 1
 Replace the following params:
@@ -414,6 +425,10 @@ Replace the two blog posts mocks with 1) technical article about PCI-DSS for cre
 </body>
 ```
 
+---
+
+🤖 **Assistant:**
+
 Here is the updated HTML code with the requested changes:
 
 ```html
@@ -486,7 +501,15 @@ Here is the updated HTML code with the requested changes:
 ```
 This updated HTML code includes the changes you requested, such as updating the name, email, LinkedIn link, profile photo, introduction, and blog posts. The blog posts now feature technical articles about PCI-DSS for credit cards and ISO-27000, as per your request.
 
+---
+
+🙋 **You:**
+
 Get the ip from a domain
+
+---
+
+🤖 **Assistant:**
 
 To get the IP address from a domain, you can use the `ping` command in your terminal or command prompt. Here's how you can do it:
 
@@ -504,7 +527,15 @@ In this example, `216.58.217.36` is the IP address of `www.google.com`.
 
 Please note that some servers may not respond to ping requests due to their security settings. In such cases, you may not be able to retrieve the IP address using this method.
 
+---
+
+🙋 **You:**
+
 nslookup?
+
+---
+
+🤖 **Assistant:**
 
 Yes, you can also use the `nslookup` command to find the IP address of a domain. Here's how:
 
@@ -528,8 +559,16 @@ In this example, `172.217.6.4` is the IPv4 address of `www.google.com`, and `260
 
 Please note that the actual IP addresses you see will likely be different, as Google uses a variety of IP addresses that can change over time.
 
+---
+
+🙋 **You:**
+
 How to get the location? From the dns or from the ip?
 20.119.0.38
+
+---
+
+🤖 **Assistant:**
 
 To get the location of an IP address, you can use a process called IP geolocation. This process involves using a database that maps IP addresses to geographical locations. There are many online services that provide this functionality, such as IPinfo, IP2Location, and MaxMind's GeoIP.
 
@@ -545,7 +584,15 @@ Please note that the accuracy of IP geolocation can vary. In general, it should 
 
 As for DNS, it is a system used to translate domain names into IP addresses. It doesn't provide location information directly, but once you have an IP address from a DNS lookup, you can use IP geolocation to find the location.
 
+---
+
+🙋 **You:**
+
 with terminal tools?
+
+---
+
+🤖 **Assistant:**
 
 Yes, you can use terminal tools to get the location of an IP address. One such tool is `whois`. Here's how you can use it:
 
@@ -559,7 +606,15 @@ Please note that the `whois` command may not be installed by default on your sys
 
 Also, keep in mind that the location you get from `whois` is typically the location of the organization that owns the IP address, not the location of the device currently using the IP address. For more precise geolocation, you would typically use a dedicated geolocation service, as mentioned in the previous response.
 
+---
+
+🙋 **You:**
+
 is it going to return coordinates?
+
+---
+
+🤖 **Assistant:**
 
 The `whois` command in the terminal does not typically return geographic coordinates (latitude and longitude). It usually provides information about the organization that owns the IP address, including their contact information and sometimes a physical address, but not specific geographic coordinates.
 
@@ -575,7 +630,15 @@ This will return a JSON object with information about the IP address, including 
 
 Please note that the accuracy of IP geolocation can vary, and the location provided is usually approximate, not exact. Also, keep in mind that using some of these services may require an API key, especially for a large number of requests.
 
+---
+
+🙋 **You:**
+
 dns lookup ns
+
+---
+
+🤖 **Assistant:**
 
 The `nslookup` command is a network administration tool for querying the Domain Name System (DNS) to obtain domain name or IP address mapping or other DNS records. 
 
@@ -597,7 +660,15 @@ If you only have `nslookup` available, you can use it to find the NS records lik
 
 This will display the NS records for the domain.
 
+---
+
+🙋 **You:**
+
 my nslookup doesn't give me the authoritative answer. I'm using wsl
+
+---
+
+🤖 **Assistant:**
 
 If you're using Windows Subsystem for Linux (WSL) and `nslookup` isn't giving you the authoritative answer, you might want to try using the `dig` command instead. `dig` is a DNS lookup utility that's often more reliable and detailed than `nslookup`.
 
@@ -619,6 +690,10 @@ This "AUTHORITY SECTION" lists the authoritative name servers for the domain.
 
 If you still want to use `nslookup`, you can try specifying a DNS server. For example, you can use Google's public DNS server by running `nslookup -query=ns domain.com 8.8.8.8`. This might give you more reliable results.
 
+---
+
+🙋 **You:**
+
 What are the similarities and differences between Azure Web Application Gateway and Azure Front Door?
 
 In Azure, a feature of the Web Application Gateway and Front Door is “SSL Offloading.” What is SSL offloading? What are its benefits?
@@ -626,6 +701,10 @@ In Azure, a feature of the Web Application Gateway and Front Door is “SSL Offl
 Select one of the WAF managed rules (e.g., directory traversal, SQL injection, etc.), and define it.
 
 Hypothetically, say that you create a custom WAF rule to block all traffic from Canada. Does that mean that anyone who resides in Canada would not be able to access your website? Why or why not?
+
+---
+
+🤖 **Assistant:**
 
 ### Similarities and Differences between Azure Web Application Gateway and Azure Front Door
 

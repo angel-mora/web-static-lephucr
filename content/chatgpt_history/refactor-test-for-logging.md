@@ -4,7 +4,8 @@ tags:
 - new
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Difference between and_return, and_throw, and and_raise,
+  as well as link to a few sources to understand it deeper and better"
 draft: false
 ---
 
@@ -14,19 +15,29 @@ draft: false
 - [ ] , not how it does it. This principle is important for several reasons:
 - [ ] .
 
-## 📌 Summary
-Difference between and_return, and_throw, and and_raise, as well as link to a few sources to understand it deeper and better
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Difference between and_return, and_throw, and and_raise, as well as link to a few sources to understand it deeper and better
+
+---
+
+🤖 **Assistant:**
 
 The terms `and_return`, `and_throw`, `and_raise` are used in different programming contexts, each serving a distinct purpose. 
 
 1. **`and_return`**: This is typically used in the context of mocking or stubbing in unit testing. When you set up a mock or a stub for a method
 
+---
+
+🙋 **You:**
+
 Difference between Rspec and_return, and_throw, and and_raise, as well as link to a few sources to understand it deeper and better
+
+---
+
+🤖 **Assistant:**
 
 `RSpec` is a popular testing framework for Ruby, and it provides various ways to specify the behavior of doubles (test doubles are simplified objects that mimic real objects). Three of these methods are `and_return`, `and_throw`, and `and_raise`, each serving a different purpose in your test setup:
 
@@ -53,6 +64,10 @@ Difference between Rspec and_return, and_throw, and and_raise, as well as link t
 
 To understand these concepts more deeply, it's best to refer to official documentation and reputable sources. Let me find a few links for you.
 
+---
+
+🤖 **Assistant:**
+
 The RSpec framework for Ruby offers different methods for specifying the behavior of test doubles, such as `and_return`, `and_throw`, and `and_raise`. Here's a brief overview of each:
 
 1. **`and_return`**: This method is used to specify the value that should be returned when a certain message is received by the test double. You can provide one or more values, and they will be returned in the order specified for consecutive calls. If a message is received more times than the specified values, the last value is repeated for every subsequent call. You can find more details in the [RSpec Mocks documentation](https://www.rubydoc.info/github/rspec/rspec-mocks/RSpec/Mocks/MessageExpectation%3aand_return).
@@ -63,7 +78,11 @@ The RSpec framework for Ruby offers different methods for specifying the behavio
 
 For a more comprehensive understanding of these methods and their use cases, it's recommended to refer to the official RSpec documentation and explore various examples and tutorials. The [RSpec Mocks documentation](https://www.rubydoc.info/github/rspec/rspec-mocks/RSpec/Mocks/MessageExpectation%3aand_return) is a good starting point for `and_return`, and exploring broader RSpec resources will help with understanding `and_throw` and `and_raise`. Additionally, resources like Semaphore's guide on [RSpec Subject, Helpers, Hooks, and Exception Handling](https://semaphoreci.com/community/tutorials/rspec-subject-helpers-hooks-and-exception-handling) provide a broader view of RSpec's capabilities, which can be helpful in understanding the context in which these methods are used.
 
-  subject(:builder) { described_class.new(company: policy_book.company, user: user, creation_date: DateTime.current) }
+---
+
+🙋 **You:**
+
+subject(:builder) { described_class.new(company: policy_book.company, user: user, creation_date: DateTime.current) }
 
   let(:company_with_logo) { FactoryBot.create(:random_company_with_logo) }
   let(:user) { FactoryBot.create(:user, company: policy_book.company) }
@@ -102,6 +121,9 @@ So in that spec it is failing because the service object can not initialize due 
     raise
   end
 
+---
+
+🤖 **Assistant:**
 
 Your test is aiming to verify that an error is logged when a `StandardError` is encountered during the initialization of your service object. However, there's an issue in the way your test is set up, particularly with the use of `and_throw`. In Ruby, `throw` is used for control flow and not for error handling. For simulating exceptions, you should use `and_raise` instead.
 
@@ -135,9 +157,15 @@ This setup will ensure that when `builder` is initialized and `StandardError` is
 
 Remember, when writing tests, especially those involving exceptions and error handling, it's crucial to closely align the test setup with the actual behavior you expect from your code under test. This includes using the correct methods (`and_raise` for exceptions) and structuring your tests to reflect the flow of execution in your application.
 
-Is it correct to try to test that according to the test behavior, not implementation principle? 
+---
 
+🙋 **You:**
 
+Is it correct to try to test that according to the test behavior, not implementation principle?
+
+---
+
+🤖 **Assistant:**
 
 Testing behavior rather than implementation is indeed a core principle in software testing, particularly in unit testing. This approach focuses on what the code is supposed to do, not how it does it. This principle is important for several reasons:
 

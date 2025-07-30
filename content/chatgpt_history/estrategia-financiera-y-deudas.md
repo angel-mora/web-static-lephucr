@@ -4,7 +4,7 @@ tags:
 - cuentas
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  #cuentas 26 deuda mes Angela (Nu 12 + 13K BBVA)"
 draft: false
 ---
 
@@ -13,11 +13,9 @@ draft: false
 ## ✅ TODOs
 - [ ] Add.
 
-## 📌 Summary
-#cuentas 26 deuda mes Angela (Nu 12 + 13K BBVA)
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 #cuentas 26 deuda mes Angela (Nu 12 + 13K BBVA)
 #cuentas 20 deuda mes común renta
@@ -105,6 +103,10 @@ TODO: Add.
 
 Please provide feedback and tell me which strategy would be the best for me
 
+---
+
+🤖 **Assistant:**
+
 Based on the information provided, here's an overview, followed by some feedback on your financial situation:
 
 ### Overview
@@ -162,7 +164,15 @@ Based on the information provided, here's an overview, followed by some feedback
 
 Based on the given info, the best strategy would be a combination of budgeting, paying off high-interest debts first, and gradually investing once you have a stable emergency fund and your debts are under control.
 
+---
+
+🙋 **You:**
+
 Fill up your recommendations for the incomplete parts
+
+---
+
+🤖 **Assistant:**
 
 Certainly. Let's fill in the gaps for your financial strategies:
 

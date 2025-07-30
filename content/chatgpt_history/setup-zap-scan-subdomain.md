@@ -3,7 +3,7 @@ title: Setup ZAP Scan Subdomain.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to setup ZAP scan for a subdomain.localhost:3000"
 draft: false
 ---
 
@@ -12,13 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] this:
 
-## 📌 Summary
-How to setup ZAP scan for a subdomain.localhost:3000
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to setup ZAP scan for a subdomain.localhost:3000
+
+---
+
+🤖 **Assistant:**
 
 Setting up a ZAP (Zed Attack Proxy) scan for a subdomain that is mapped to `localhost:3000` involves a few steps. ZAP is an open-source web application security scanner. It's designed to find security vulnerabilities in web applications. Here’s a basic guide on how to do this:
 
@@ -73,11 +75,27 @@ After the scan completes, review the **Alerts** tab for potential vulnerabilitie
 
 Remember, scanning your own applications for vulnerabilities is legal and ethical, but scanning applications that you do not own or have explicit permission to test is not. Always ensure you have the right to scan the target application.
 
+---
+
+🙋 **You:**
+
 I am trying to debug a vuln. How can I modify action controller params in my debugging sesion? I hit hash['value
+
+---
+
+🤖 **Assistant:**
 
 Debugging issues in web applications, especially related to security vulnerabilities, often requires a deep dive into how parameters are handled and manipulated. If you're working with a Ruby on
 
+---
+
+🙋 **You:**
+
 I am trying to debug a vuln. How can I modify action controller params in my debugging sesion? I hit hash['value']['another'] = 'new value' and nothing happens
+
+---
+
+🤖 **Assistant:**
 
 When you're debugging an application and need to modify the parameters received by an action controller, it can be a bit tricky, especially if you're dealing with nested parameters within a Rails application. Based on your description, it sounds like you're trying to modify a nested hash within the parameters but are not seeing the expected outcome. Here are some steps and tips to effectively modify action controller parameters during a debugging session:
 

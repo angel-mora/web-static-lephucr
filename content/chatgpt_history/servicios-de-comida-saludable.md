@@ -3,24 +3,21 @@ title: Servicios de comida saludable
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  like factor75 but for mexico city"
 draft: false
 ---
 
 # Servicios de comida saludable
 
-## ✅ TODOs
-
-
-## 📌 Summary
-like factor75 but for mexico city
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 like factor75 but for mexico city
 
+---
 
+🤖 **Assistant:**
 
 In Mexico City, a service similar to Factor75, which focuses on healthy, pre-made meals delivered to your home, would be companies like:
 
@@ -34,10 +31,26 @@ In Mexico City, a service similar to Factor75, which focuses on healthy, pre-mad
 
 These companies are ideal for someone like you, who values easy-to-prepare, nutritious meals rich in vegetables and proteins. Let me know if you’d like more details on any of these!
 
+---
+
+🙋 **You:**
+
 Are all those available for mexico city?
+
+---
+
+🤖 **Assistant:**
 
 User is interested in meal delivery services in Mexico City similar to Factor75.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Yes, all of the services I mentioned—**Eat Right**, **Smart Fish**, **Healthy Kitchen MX**, and **Green Republic**—are available for delivery in Mexico City. These services cater specifically to residents within the city and offer options for various dietary preferences. Let me know if you need help exploring their offerings or more specific details!

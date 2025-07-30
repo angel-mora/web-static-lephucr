@@ -5,7 +5,8 @@ tags:
 - perform
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Write a test for this job following all rails best
+  practices"
 draft: false
 ---
 
@@ -14,11 +15,9 @@ draft: false
 ## ✅ TODOs
 - [ ] Update spec
 
-## 📌 Summary
-Write a test for this job following all rails best practices
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Write a test for this job following all rails best practices
 class ConvertIpToLocationJob < ApplicationJob
@@ -39,8 +38,9 @@ class ConvertIpToLocationJob < ApplicationJob
   end
 end
 
+---
 
-
+🤖 **Assistant:**
 
 RSpec.describe ConvertIpToLocationJob, type: :job do
   describe "#perform_later" do
@@ -103,6 +103,10 @@ end
 
 Note: This test assumes the use of FactoryBot for creating test objects. You can replace it with any other testing library or create test objects manually.
 
+---
+
+🙋 **You:**
+
 Write a test for this job following all rails best practices:
 
 class ConvertIpToLocationJob < ApplicationJob
@@ -123,8 +127,9 @@ class ConvertIpToLocationJob < ApplicationJob
   end
 end
 
+---
 
-
+🤖 **Assistant:**
 
 RSpec.describe ConvertIpToLocationJob, type: :job do
   describe '#perform' do

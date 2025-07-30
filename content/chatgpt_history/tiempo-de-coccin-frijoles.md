@@ -3,24 +3,21 @@ title: Tiempo de cocción frijoles.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuanto se dejan los frijoles en la olla Express?"
 draft: false
 ---
 
 # Tiempo de cocción frijoles.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cuanto se dejan los frijoles en la olla Express?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Cuanto se dejan los frijoles en la olla Express? 
+Cuanto se dejan los frijoles en la olla Express?
 
+---
 
+🤖 **Assistant:**
 
 El tiempo de cocción de los frijoles en la olla Express depende del tipo de frijoles que estés cocinando. Aquí tienes una guía general:
 

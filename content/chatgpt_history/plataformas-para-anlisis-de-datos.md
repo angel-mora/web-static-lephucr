@@ -3,7 +3,8 @@ title: Plataformas para análisis de datos
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hay algo como superhi así cool pero para business data
+  analysis?"
 draft: false
 ---
 
@@ -12,15 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] logía interactiva y aplicada, algo similar al enfoque práctico y visual que caracteriza a Superhi en el ámbito del diseño web.
 
-## 📌 Summary
-Hay algo como superhi así cool pero para business data analysis?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Hay algo como superhi así cool pero para business data analysis?
 
+---
 
+🤖 **Assistant:**
 
 Para aprender business data analysis con un enfoque similar al de **Superhi**—interactivo, visualmente atractivo y accesible—podrías considerar algunas plataformas que combinan aspectos de diseño, tecnología y análisis de datos. Aquí te dejo algunas opciones interesantes:
 
@@ -36,11 +37,27 @@ Para aprender business data analysis con un enfoque similar al de **Superhi**—
 
 Estas plataformas te permiten aprender no solo las técnicas de análisis de datos, sino también su aplicación en contextos empresariales, con una metodología interactiva y aplicada, algo similar al enfoque práctico y visual que caracteriza a Superhi en el ámbito del diseño web.
 
+---
+
+🙋 **You:**
+
 El mejor en Datacamp para una persona que estudió Fashion Business en Parsons que tuvo una tienda por cinco años (HiBye) en CDMX y que podría volver a Nueva York
+
+---
+
+🤖 **Assistant:**
 
 User studied Fashion Business at Parsons, had a store called HiBye in CDMX for five years, and might return to New York.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Para alguien con un trasfondo en **Fashion Business** y experiencia manejando una tienda como **HiBye**, te recomendaría el siguiente curso en **DataCamp**:
 
@@ -53,9 +70,15 @@ Además, podrías complementar con otros cursos como:
 
 Estos cursos te darán las herramientas para mejorar la gestión de inventarios, personalización de marketing y optimización de precios, aspectos clave en el sector de moda y retail.
 
+---
+
+🙋 **You:**
+
 Provide a url
 
+---
 
+🤖 **Assistant:**
 
 Here’s the URL to the **Marketing Analytics in Spreadsheets** course on DataCamp:
 
@@ -63,7 +86,15 @@ Here’s the URL to the **Marketing Analytics in Spreadsheets** course on DataCa
 
 You can explore this course and others related to business analytics on their platform.
 
+---
+
+🙋 **You:**
+
 Buen recurso. Que otros tienes?
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes otros recursos adicionales que podrían ser útiles para tu perfil en **business data analysis** y **fashion retail**:
 
@@ -89,7 +120,15 @@ Este curso es excelente para alguien con experiencia en retail, ya que te enseñ
 
 Estos cursos te darán un enfoque práctico y aplicado, lo que te permitirá usar datos de una manera estratégica para gestionar cualquier negocio de retail o moda, ya sea en CDMX o Nueva York.
 
-Potenciales empresas en LinkedIn para buscar trabajo de eso que te cuento 
+---
+
+🙋 **You:**
+
+Potenciales empresas en LinkedIn para buscar trabajo de eso que te cuento
+
+---
+
+🤖 **Assistant:**
 
 Para buscar trabajo en **business data analysis** dentro del sector de la moda y retail en plataformas como **LinkedIn**, te sugiero enfocar tu búsqueda en empresas que integren tecnología, datos y moda. Aquí te dejo algunas categorías de empresas y ejemplos:
 
@@ -130,7 +169,15 @@ Si te interesa el lado más sostenible de la moda, estas empresas utilizan datos
   
 En **LinkedIn**, puedes buscar empleos bajo términos como "business data analyst", "fashion business analyst", "retail data analyst", o "e-commerce data analyst". Focaliza tu búsqueda en empresas que se encuentran en la intersección de moda, tecnología y análisis, tanto en **CDMX** como en **Nueva York**.
 
+---
+
+🙋 **You:**
+
 Estrategia para buscar esas posiciones en LinkedIn
+
+---
+
+🤖 **Assistant:**
 
 Aquí te dejo una **estrategia efectiva** para buscar posiciones de **business data analysis** en el sector de moda y retail en **LinkedIn**:
 

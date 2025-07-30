@@ -3,24 +3,21 @@ title: Las cinco heridas del alma
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Platícame de las cinco heridas"
 draft: false
 ---
 
 # Las cinco heridas del alma
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Platícame de las cinco heridas
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Platícame de las cinco heridas
 
+---
 
+🤖 **Assistant:**
 
 Las *cinco heridas del alma* es un concepto popularizado por Lise Bourbeau en su libro *Las cinco heridas que impiden ser uno mismo*. Según ella, estas heridas emocionales surgen en la infancia y afectan la forma en que nos relacionamos con el mundo y con nosotros mismos. Cada herida genera una *máscara* de protección que usamos para evitar el dolor.  
 

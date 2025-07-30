@@ -3,22 +3,22 @@ title: Obsidian Navigation and Plugins
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I navigate over contents headings index in
+  obsidian? Like in an epub. Is there a plugin?"
 draft: false
 ---
 
 # Obsidian Navigation and Plugins
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I navigate over contents headings index in obsidian? Like in an epub. Is there a plugin?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I navigate over contents headings index in obsidian? Like in an epub. Is there a plugin?
+
+---
+
+🤖 **Assistant:**
 
 In Obsidian, a popular note-taking and knowledge management application, navigating content through headings and creating an index like in an ePub can be achieved through various methods and plugins. Here's how you can do it:
 

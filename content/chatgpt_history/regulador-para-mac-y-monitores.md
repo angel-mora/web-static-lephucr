@@ -3,7 +3,8 @@ title: Regulador para Mac y monitores
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Mejor regulador que puedo comprar en Amazon Mx para
+  una Mac m3 pro, un monitor de 32in y otros dos monitores"
 draft: false
 ---
 
@@ -12,15 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s tus dispositivos. En Amazon México, una opción destacada es el adaptador de pared de la marca Yostyle, que cuenta con seis salidas de corriente con capacidad de hasta 1,700 julios y protección contra sobretensiones. Además, incluye tres puertos USB de tipo A inteligentes para cargar dispositivos adicionales. Este adaptador también incorpora una luz LED que puede funcionar como luz nocturna. citeturn0search2
 
-## 📌 Summary
-Mejor regulador que puedo comprar en Amazon Mx para una Mac m3 pro, un monitor de 32in y otros dos monitores
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Mejor regulador que puedo comprar en Amazon Mx para una Mac m3 pro, un monitor de 32in y otros dos monitores
 
+---
 
+🤖 **Assistant:**
 
 Para proteger tu Mac M3 Pro, un monitor de 32 pulgadas y otros dos monitores, es recomendable utilizar un supresor de picos o un regulador de voltaje que ofrezca protección contra sobretensiones y múltiples enchufes para conectar todos tus dispositivos. En Amazon México, una opción destacada es el adaptador de pared de la marca Yostyle, que cuenta con seis salidas de corriente con capacidad de hasta 1,700 julios y protección contra sobretensiones. Además, incluye tres puertos USB de tipo A inteligentes para cargar dispositivos adicionales. Este adaptador también incorpora una luz LED que puede funcionar como luz nocturna. citeturn0search2
 

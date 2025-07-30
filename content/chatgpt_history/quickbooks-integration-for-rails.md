@@ -3,24 +3,22 @@ title: QuickBooks Integration for Rails
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Summary of quickbooks integrations for Rails. Assume
+  I know nothing about quickbooks"
 draft: false
 ---
 
 # QuickBooks Integration for Rails
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Summary of quickbooks integrations for Rails. Assume I know nothing about quickbooks
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Summary of quickbooks integrations for Rails. Assume I know nothing about quickbooks
 
+---
 
+🤖 **Assistant:**
 
 QuickBooks is a popular accounting software that helps businesses manage their finances, including invoicing, expense tracking, and payroll. Integrating QuickBooks into a Rails app allows your application to interact with QuickBooks' data (customers, invoices, payments, etc.) in a streamlined way. Here's a high-level overview of how QuickBooks integrations for Rails work:
 

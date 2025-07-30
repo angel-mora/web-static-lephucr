@@ -3,24 +3,22 @@ title: Estrategia YouTube para libro
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cómo hago una estrategia de marketing en YouTube para
+  mi libro? Me gustaría rentabilizar algo inspirado en The Daily of a CEO"
 draft: false
 ---
 
 # Estrategia YouTube para libro
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cómo hago una estrategia de marketing en YouTube para mi libro? Me gustaría rentabilizar algo inspirado en The Daily of a CEO
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cómo hago una estrategia de marketing en YouTube para mi libro? Me gustaría rentabilizar algo inspirado en The Daily of a CEO
 
+---
 
+🤖 **Assistant:**
 
 Crear una estrategia de marketing en YouTube para tu libro inspirada en **"The Diary of a CEO"** implica aprovechar el formato conversacional y narrativo para captar una audiencia fiel. Aquí tienes un plan paso a paso:
 

@@ -3,22 +3,21 @@ title: Sueño Terminal Cáncer.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Ultimo sueño del cancer en fase terminal"
 draft: false
 ---
 
 # Sueño Terminal Cáncer.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Ultimo sueño del cancer en fase terminal
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Ultimo sueño del cancer en fase terminal
+
+---
+
+🤖 **Assistant:**
 
 El término "último sueño" en el contexto del cáncer en fase terminal podría referirse a las experiencias y percepciones finales que una persona puede tener antes de fallecer debido a la enfermedad. Este "sueño" puede variar ampliamente de persona a persona y puede incluir una combinación de factores físicos, emocionales y psicológicos.
 

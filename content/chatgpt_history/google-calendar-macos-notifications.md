@@ -3,7 +3,8 @@ title: Google Calendar MacOS Notifications
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  latest macos not showing google calendar notifications
+  but only sounds"
 draft: false
 ---
 
@@ -12,15 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] the same for my iPhone, I can't manage to get gcalendar notifications
 
-## 📌 Summary
-latest macos not showing google calendar notifications but only sounds
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 latest macos not showing google calendar notifications but only sounds
 
+---
 
+🤖 **Assistant:**
 
 If your macOS is playing sound for Google Calendar notifications but not showing the actual notification banners, here are several steps to troubleshoot and fix the issue:
 
@@ -104,7 +105,15 @@ Sometimes a simple restart can resolve notification issues.
 
 Would you like more specific help with any of these steps?
 
+---
+
+🙋 **You:**
+
 Now I want to do the same for my iPhone, I can't manage to get gcalendar notifications
+
+---
+
+🤖 **Assistant:**
 
 If you're not receiving Google Calendar notifications on your iPhone, here are several steps to help troubleshoot and resolve the issue:
 

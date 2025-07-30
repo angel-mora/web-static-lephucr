@@ -3,24 +3,22 @@ title: Voluntario vs Asistente Galería
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que cosas haría como voluntario vs posible asistente
+  de galería de la feria Material"
 draft: false
 ---
 
 # Voluntario vs Asistente Galería
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Que cosas haría como voluntario vs posible asistente de galería de la feria Material
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que cosas haría como voluntario vs posible asistente de galería de la feria Material
 
+---
 
+🤖 **Assistant:**
 
 Como voluntario o asistente en la feria Material, tus responsabilidades y actividades podrían variar dependiendo del rol. Aquí hay una comparación entre ambas posiciones:
 

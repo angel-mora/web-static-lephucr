@@ -3,7 +3,9 @@ title: Superar la procrastinación creativa
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Me cuesta trabajo hacer cosas nuevas, tiendo a postergar
+  cosas donde no tengo ya una visualización de cómo hacerlas. Ejemplo, aprender a
+  usar Instagram para hacer nuevos tipos de posts."
 draft: false
 ---
 
@@ -12,15 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] del "borrador feo"**
 
-## 📌 Summary
-Me cuesta trabajo hacer cosas nuevas, tiendo a postergar cosas donde no tengo ya una visualización de cómo hacerlas. Ejemplo, aprender a usar Instagram para hacer nuevos tipos de posts.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Me cuesta trabajo hacer cosas nuevas, tiendo a postergar cosas donde no tengo ya una visualización de cómo hacerlas. Ejemplo, aprender a usar Instagram para hacer nuevos tipos de posts.
 
+---
 
+🤖 **Assistant:**
 
 Eso suena como una mezcla de *procrastinación por incertidumbre* y *parálisis por perfeccionismo*. Como ya tienes experiencia en otras áreas, es fácil avanzar en lo que ya dominas, pero cuando no tienes un mapa claro, se vuelve difícil dar el primer paso.  
 

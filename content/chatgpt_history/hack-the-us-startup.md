@@ -3,23 +3,23 @@ title: Hack the US Startup.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What other books like \"venture deals\" I need to read
+  to hack the system as a Mexican entrepreneur looking to scale up a biz in the US?"
 draft: false
 ---
 
 # Hack the US Startup.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-What other books like "venture deals" I need to read to hack the system as a Mexican entrepreneur looking to scale up a biz in the US?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What other books like "venture deals" I need to read to hack the system as a Mexican entrepreneur looking to scale up a biz in the US?
 Id love to understand if there are companies to have LLC in Delaware or Estonia and all these kind of hacks. Provide any resource you consider interesting, like books, articles, startup websites, etc
+
+---
+
+🤖 **Assistant:**
 
 As a Mexican entrepreneur aiming to scale a business in the U.S., navigating the complexities of legal structures, venture capital, and strategic business growth is crucial. The book "Venture Deals" by Brad Feld and Jason Mendelson is a great start, offering insights into venture capital deals and how entrepreneurs can effectively negotiate with VCs. To further "hack the system" and gain a deeper understanding of legal, financial, and strategic aspects of scaling in the U.S., here’s a curated list of resources:
 
@@ -45,7 +45,15 @@ As a Mexican entrepreneur aiming to scale a business in the U.S., navigating the
 
 These resources will provide a solid foundation for scaling your business in the U.S. and making informed decisions about company formation, growth strategies, and fundraising.
 
+---
+
+🙋 **You:**
+
 Search for more url for specific articles
+
+---
+
+🤖 **Assistant:**
 
 For Mexican entrepreneurs looking to scale their businesses in the U.S., a wealth of resources and insights is available to guide you through this challenging yet rewarding endeavor. Here's a summary of key findings from various sources:
 

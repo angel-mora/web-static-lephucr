@@ -3,22 +3,21 @@ title: Find Ruby Code Vulnerabilities
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to use CodeQL to find vulnerabilities in ruby code?"
 draft: false
 ---
 
 # Find Ruby Code Vulnerabilities
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How to use CodeQL to find vulnerabilities in ruby code?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to use CodeQL to find vulnerabilities in ruby code?
+
+---
+
+🤖 **Assistant:**
 
 CodeQL is a powerful tool developed by GitHub that you can use to analyze your codebase for vulnerabilities. It treats code as data, allowing it to make complex queries on your codebase. It supports various languages, including Ruby.
 

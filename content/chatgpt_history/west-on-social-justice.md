@@ -3,24 +3,21 @@ title: West on Social Justice
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Corno West, who is"
 draft: false
 ---
 
 # West on Social Justice
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Corno West, who is
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Corno West, who is
 
+---
 
+🤖 **Assistant:**
 
 Cornel West is an American philosopher, political activist, social critic, author, and public intellectual. He is known for his work on race, class, and justice in the context of American society. West has written numerous books and is a prominent figure in public discourse on issues such as civil rights, democracy, and social justice.
 

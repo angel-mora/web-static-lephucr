@@ -3,20 +3,15 @@ title: Remove quarantine attribute.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Adjust this command for the latest version of iterm"
 draft: false
 ---
 
 # Remove quarantine attribute.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Adjust this command for the latest version of iterm
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Adjust this command for the latest version of iterm
 sudo xattr -rd com.apple.quarantine /Applications/Another\ Redis\ Desktop\ Manager.app
@@ -41,6 +36,10 @@ options:
   -l: print long format (attr_name: attr_value)
   -z: compress or decompress (if compressed) attribute value in zip format
 
+---
+
+🤖 **Assistant:**
+
 It seems like the `-r` option is not recognized in the latest version of `xattr`. You can achieve the same result by using the following modified command:
 
 ```bash
@@ -49,7 +48,15 @@ sudo xattr -d com.apple.quarantine /Applications/Another\ Redis\ Desktop\ Manage
 
 This command removes the quarantine attribute (`com.apple.quarantine`) from the specified application.
 
+---
+
+🙋 **You:**
+
 How do I find redis port?
+
+---
+
+🤖 **Assistant:**
 
 To find the Redis port, you can check the Redis configuration file or use the `redis-cli` command. Here are two common methods:
 

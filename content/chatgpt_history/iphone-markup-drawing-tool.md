@@ -3,24 +3,21 @@ title: iPhone Markup Drawing Tool
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Native iPhone drawing tool"
 draft: false
 ---
 
 # iPhone Markup Drawing Tool
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Native iPhone drawing tool
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Native iPhone drawing tool
 
+---
 
+🤖 **Assistant:**
 
 The iPhone has a built-in drawing tool called **Markup**. You can use it to draw, add shapes, text, and even sign documents directly within apps like Photos, Notes, and Mail. Here’s how to use it:
 

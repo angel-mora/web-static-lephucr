@@ -3,22 +3,22 @@ title: Query Parameters in URLs
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Explain why some apis have the ? and let's say, c_id.
+  Example: /products/microsoft-teams?c_id=222"
 draft: false
 ---
 
 # Query Parameters in URLs
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Explain why some apis have the ? and let's say, c_id. Example: /products/microsoft-teams?c_id=222
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Explain why some apis have the ? and let's say, c_id. Example: /products/microsoft-teams?c_id=222
+
+---
+
+🤖 **Assistant:**
 
 Certainly! In the context of web APIs and URLs, the `?` and parameters like `c_id=222` are part of the query string used to pass data to the server in a GET request. Let's break this down:
 

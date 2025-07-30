@@ -3,26 +3,30 @@ title: ChatGPT Context Window.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How does the OpenAI chatgpt remember the context of
+  a session?"
 draft: false
 ---
 
 # ChatGPT Context Window.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How does the OpenAI chatgpt remember the context of a session?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How does the OpenAI chatgpt remember the context of a session?
+
+---
+
+🤖 **Assistant:**
 
 OpenAI's ChatGPT, like other language models based on the GPT architecture, uses a Transformer neural network to maintain context during a conversation. The model processes and encodes input text, including the user's query and any prior conversation history, into a sequence of tokens. These tokens are then passed through the layers of the Transformer network, allowing the model to capture and utilize the contextual information.
 
 In a Transformer architecture, the primary mechanism for remembering context is the self-attention mechanism. The self-attention layer
+
+---
+
+🤖 **Assistant:**
 
 As an AI language model, ChatGPT remembers the context of a session using a mechanism called "context window," which stores the recent conversation history. The context window has a certain length, typically measured in tokens, that defines the maximum number of tokens it can store. A token can be a single character or a word.
 
@@ -30,7 +34,15 @@ When processing a conversation, ChatGPT considers the context window's content a
 
 However, it is important to note that ChatGPT does not possess a long-term memory or the ability to recall information from past sessions. It relies solely on the information present in the current context window to generate its responses. If the context is lost or incomplete, the model's ability to generate coherent and contextually relevant responses will be affected.
 
+---
+
+🙋 **You:**
+
 So how that is handled in the API?
+
+---
+
+🤖 **Assistant:**
 
 When using the OpenAI API to interact with ChatGPT, the conversation context is managed through the use of the API's input parameters. Specifically, you'll provide a series of messages as input and receive a generated response as output. To maintain context, you should include the conversation history in your API calls, so the model has the necessary information to generate relevant responses.
 
@@ -46,7 +58,15 @@ Here's a general overview of how context is handled in the API:
 
 Remember that the ChatGPT model does not have built-in memory of past sessions, so it relies entirely on the information provided in the API calls to generate contextually relevant responses. Always ensure you are including the necessary conversation history for the model to generate appropriate replies.
 
+---
+
+🙋 **You:**
+
 So how can I sub train a model using gpt-4
+
+---
+
+🤖 **Assistant:**
 
 As of my knowledge cutoff in September 2021, OpenAI has not released GPT-4, and my underlying architecture is based on GPT-3. However, I can provide you with a general overview of how you could fine-tune a model like GPT-3, assuming OpenAI releases GPT-4 and follows similar protocols for fine-tuning.
 

@@ -3,24 +3,24 @@ title: Founder Removal in LLC
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  i have post incorporation setup in progress and stock
+  plan adoption pending but one of my founders dropped out. I'm doing the LLC in Clerky,
+  what can I do to remove him? Do I need to close this company? Contacting Clerky
+  support?"
 draft: false
 ---
 
 # Founder Removal in LLC
 
-## ✅ TODOs
-
-
-## 📌 Summary
-i have post incorporation setup in progress and stock plan adoption pending but one of my founders dropped out. I'm doing the LLC in Clerky, what can I do to remove him? Do I need to close this company? Contacting Clerky support?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 i have post incorporation setup in progress and stock plan adoption pending but one of my founders dropped out. I'm doing the LLC in Clerky, what can I do to remove him? Do I need to close this company? Contacting Clerky support?
 
+---
 
+🤖 **Assistant:**
 
 No, you don’t necessarily need to close the company. Removing a founder who has dropped out can be handled by amending the operating agreement and updating the cap table. Here’s a step-by-step guide on what you can do:
 

@@ -3,24 +3,21 @@ title: NvChad Image Preview Setup
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  best image preview for nvchad"
 draft: false
 ---
 
 # NvChad Image Preview Setup
 
-## ✅ TODOs
-
-
-## 📌 Summary
-best image preview for nvchad
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 best image preview for nvchad
 
+---
 
+🤖 **Assistant:**
 
 For an optimal image preview setup in **NvChad**, a popular Neovim configuration framework, you'll want to leverage plugins and settings that enhance the visual representation of images directly in your Neovim setup. Here’s a step-by-step guide to setting up image previews in NvChad:
 

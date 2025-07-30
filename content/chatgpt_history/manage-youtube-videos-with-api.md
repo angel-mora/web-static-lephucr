@@ -3,22 +3,22 @@ title: Manage YouTube Videos with API
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Can I use the youtube api to manage the videos I like?
+  Like moving from one playlist to another one"
 draft: false
 ---
 
 # Manage YouTube Videos with API
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Can I use the youtube api to manage the videos I like? Like moving from one playlist to another one
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Can I use the youtube api to manage the videos I like? Like moving from one playlist to another one
+
+---
+
+🤖 **Assistant:**
 
 Yes, you can use the YouTube API to manage videos in your playlists, including operations like adding a video to a playlist, removing a video from a playlist, or moving a video from one playlist to another. These tasks involve interacting with YouTube's Data API.
 

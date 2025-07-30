@@ -4,7 +4,7 @@ tags:
 - create_line_item_description
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  lorem ipsum mayor a 4000 caracteres"
 draft: false
 ---
 
@@ -13,15 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s los caracteres sean escapados adecuadamente.
 
-## 📌 Summary
-lorem ipsum mayor a 4000 caracteres
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 lorem ipsum mayor a 4000 caracteres
 
+---
 
+🤖 **Assistant:**
 
 Aquí tienes un bloque de "Lorem Ipsum" mayor a 4000 caracteres:
 
@@ -51,7 +51,15 @@ Sed et libero libero. Pellentesque habitant morbi tristique senectus et netus et
 
 Este texto supera los 4000 caracteres.
 
+---
+
+🙋 **You:**
+
 can ruby Faker do this in less characters?
+
+---
+
+🤖 **Assistant:**
 
 Yes, Ruby's `Faker` gem can generate large amounts of placeholder text, though typically it doesn't create continuous blocks as long as 4000 characters in one call. However, you can achieve this by concatenating multiple invocations of `Faker::Lorem` methods to generate sufficient content.
 
@@ -69,6 +77,10 @@ puts lorem_text
 ```
 
 This script appends multiple paragraphs to `lorem_text` until the length exceeds 4000 characters. You can adjust `Faker::Lorem` to use sentences, paragraphs, or words to tailor the text length more precisely.
+
+---
+
+🙋 **You:**
 
 tengo este error:
 
@@ -118,6 +130,10 @@ Stopped processing SimpleCov as a previous error not related to SimpleCov has be
 
 seguro hay una falla en la comparación de regex no?
 
+---
+
+🤖 **Assistant:**
+
 Sí, parece que el problema está relacionado con la comparación de tu regex en el `expect(subject).to match`. La comparación está fallando porque la cadena generada no coincide con el patrón exacto que has definido en tu regex.
 
 Algunos puntos a revisar:
@@ -156,15 +172,30 @@ Con esto, se elimina la variabilidad de los espacios y los saltos de línea en l
 
 Haz estas pruebas y revisa si alguna de estas opciones resuelve el error en tu prueba.
 
+---
+
+🙋 **You:**
+
 mejor hazlo para que solo matche que diga lorem ipsum al principio y Untaxed al final, así es como concate untaxed en el codigo:
 
 
           result += "\n*Untaxed" if order.sales_tax.zero?
 
+---
+
+🤖 **Assistant:**
 
 User concatenates "*Untaxed" at the end of the string if `order.sales_tax.zero?` in their code.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Para simplificar la expresión regular y asegurarte de que la cadena comience con "Lorem ipsum" y termine con "*Untaxed", puedes modificar tu regex de esta manera:
 
@@ -175,6 +206,10 @@ expect(subject).to match(/^Lorem ipsum.*\*Untaxed$/m)
 Esto verifica que el texto comience con "Lorem ipsum" y termine con "*Untaxed", sin importar el contenido en el medio.
 
 Este enfoque debería funcionar bien dado que has mencionado que siempre concatenas `"\n*Untaxed"` al final si `order.sales_tax.zero?`.
+
+---
+
+🙋 **You:**
 
 ahora obtengo este error:
 
@@ -216,7 +251,9 @@ Failed examples:
 
 rspec ./spec/services/quickbooks_engine/online/export/orders_spec.rb:55 # QuickbooksEngine::Online::Export::Orders#create_line_item_description when line item description over 4000 string starts with style description and ends with sales_tax zero
 
+---
 
+🤖 **Assistant:**
 
 El error se produce porque el texto tiene espacios en blanco al principio y en otras líneas, lo que no está considerado en tu expresión regular. En particular, hay indentación en el texto que comienza con `"Lorem ipsum"` y termina con `"\n*Untaxed"`. Esto puede hacer que la expresión regular falle si no se tiene en cuenta esta variabilidad en los espacios.
 

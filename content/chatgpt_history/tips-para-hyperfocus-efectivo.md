@@ -3,7 +3,12 @@ title: Tips para hyperfocus efectivo
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tips para hyperfocus, estoy overemployed. Quiero tener
+  sesiones de 30 minutos MUY efectivas. Normalmente mi problema es que pienso mucho
+  y me cuesta trabajo empezar a codear. También me triggerea el PMO sentir que no
+  entiendo el código y me cuesta trabajo concentrarme para leer. He estado intentando
+  lo de leer en voz alta pero en general ocupo los mejores tips de productividad para
+  estas situaciones excepcionales."
 draft: false
 ---
 
@@ -13,19 +18,27 @@ draft: false
 - [ ] inmediatamente y que con cada intento mejoras.
 - [ ] lo que necesitas para romper la inercia.
 
-## 📌 Summary
-Tips para hyperfocus, estoy overemployed. Quiero tener sesiones de 30 minutos MUY efectivas. Normalmente mi problema es que pienso mucho y me cuesta trabajo empezar a codear. También me triggerea el PMO sentir que no entiendo el código y me cuesta trabajo concentrarme para leer. He estado intentando lo de leer en voz alta pero en general ocupo los mejores tips de productividad para estas situaciones excepcionales.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tips para hyperfocus, estoy overemployed. Quiero tener sesiones de 30 minutos MUY efectivas. Normalmente mi problema es que pienso mucho y me cuesta trabajo empezar a codear. También me triggerea el PMO sentir que no entiendo el código y me cuesta trabajo concentrarme para leer. He estado intentando lo de leer en voz alta pero en general ocupo los mejores tips de productividad para estas situaciones excepcionales.
 
+---
 
+🤖 **Assistant:**
 
 User is overemployed and seeks hyperfocus strategies for highly effective 30-minute work sessions. They struggle to begin coding due to overthinking and are triggered by PMO when feeling like they don't understand the code. They have difficulty concentrating to read and have been trying reading aloud as a strategy but seek the best productivity tips for these exceptional situations.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Para sesiones de 30 minutos con enfoque extremo, aquí tienes algunas estrategias que pueden ayudarte a superar esos bloqueos mentales:
 

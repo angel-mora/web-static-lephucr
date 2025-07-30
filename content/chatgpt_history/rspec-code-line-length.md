@@ -3,7 +3,8 @@ title: Rspec Code Line Length
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Fix the line is too long rubocop linter for this rspec
+  code"
 draft: false
 ---
 
@@ -12,11 +13,9 @@ draft: false
 ## ✅ TODOs
 - [ ] this:
 
-## 📌 Summary
-Fix the line is too long rubocop linter for this rspec code
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Fix the line is too long rubocop linter for this rspec code
 
@@ -29,6 +28,10 @@ Fix the line is too long rubocop linter for this rspec code
         )
       end
     end
+
+---
+
+🤖 **Assistant:**
 
 One way to fix the line is too long RuboCop linter for this RSpec code is to split the long string into multiple lines using string concatenation, like this:
 
@@ -46,7 +49,11 @@ end
 
 This splits the string into two lines and concatenates them using the backslash (\) character. The result is the same string as before, but split into multiple lines to satisfy the RuboCop linter's requirements.
 
-  describe '.user_location_from_details_form' do
+---
+
+🙋 **You:**
+
+describe '.user_location_from_details_form' do
     let(:contact_us_detail_with_user) { FactoryBot.create(:contact_us_detail_with_user) }
     let(:contact_us_detail_without_user) { FactoryBot.create(:contact_us_detail) }
     let(:contact_us_detail_with_user_and_location) { FactoryBot.create(:contact_us_detail_with_user_and_location) }
@@ -70,6 +77,10 @@ spec/models/contact_us_detail_spec.rb:1398:7: C: RSpec/StubbedMock: Prefer allow
       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 spec/models/contact_us_detail_spec.rb:1398:59: C: RSpec/MessageSpies: Prefer have_received for setting message expectations. Setup contact_us_detail_with_user_and_location as a spy using allow or instance_spy.
       expect(contact_us_detail_with_user_and_location).to receive(:user_location_from_details_form).and_return(nil)
+
+---
+
+🤖 **Assistant:**
 
 Here's the refactored code to address the errors:
 
@@ -98,7 +109,15 @@ The first error is addressed by replacing `expect` with `allow` to configure the
 
 The second error is addressed by setting up `contact_us_detail_with_user_and_location` as a spy using `allow` and then using `have_received` to set the expectation that the method was called on the spy. The actual call to the method is then tested separately using `expect`.
 
+---
+
+🙋 **You:**
+
 What is the fastest way to solve those memoization rspec warnings without cheating?
+
+---
+
+🤖 **Assistant:**
 
 The fastest way to solve memoization RSpec warnings without cheating is to update the relevant specs to properly test for memoization. 
 

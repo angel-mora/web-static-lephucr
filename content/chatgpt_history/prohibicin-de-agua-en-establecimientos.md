@@ -3,7 +3,8 @@ title: Prohibición de agua en establecimientos
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Te pueden prohibir ingresar agua a un establecimiento
+  en la ciudad de México?"
 draft: false
 ---
 
@@ -13,15 +14,15 @@ draft: false
 - [ ] el país, incluyendo la Ciudad de México. Según el artículo 10, los proveedores no pueden negar el servicio sin causa justificada. No obstante, esta ley también permite que los proveedores establezcan políticas internas, siempre que estas no sean discriminatorias o atenten contra los derechos del consumidor.
 - [ ] s los establecimientos deban permitir la entrada de agua externa, siempre y cuando ofrezcan agua potable a los clientes en sus instalaciones.
 
-## 📌 Summary
-Te pueden prohibir ingresar agua a un establecimiento en la ciudad de México?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Te pueden prohibir ingresar agua a un establecimiento en la ciudad de México? 
+Te pueden prohibir ingresar agua a un establecimiento en la ciudad de México?
 
+---
 
+🤖 **Assistant:**
 
 En la Ciudad de México, los establecimientos comerciales tienen la facultad de establecer sus propias políticas en cuanto al ingreso de alimentos y bebidas del exterior, incluyendo agua. Sin embargo, esto puede variar dependiendo del tipo de establecimiento y sus normativas internas. 
 
@@ -29,15 +30,29 @@ En general, muchos lugares como cines, teatros, y algunos restaurantes pueden pr
 
 Si enfrentas una situación donde te niegan el ingreso con agua y consideras que es una necesidad por razones de salud o alguna otra circunstancia justificada, es recomendable comunicarte con la administración del lugar para buscar una solución adecuada.
 
-Te pueden prohibir ingresar agua a un establecimiento en la ciudad de México? 
+---
 
+🙋 **You:**
 
+Te pueden prohibir ingresar agua a un establecimiento en la ciudad de México?
+
+---
+
+🤖 **Assistant:**
 
 En la Ciudad de México, no existe una legislación específica que prohíba o permita explícitamente el ingreso de agua a un establecimiento. Sin embargo, los establecimientos privados tienen el derecho de establecer sus propias políticas de entrada y, por lo tanto, pueden decidir no permitir el ingreso de alimentos y bebidas del exterior, incluida el agua.
 
 Es común que muchos establecimientos, como cines, teatros, y algunos restaurantes, prohíban la entrada de alimentos y bebidas para incentivar el consumo de productos que ellos mismos venden. Si tienes una necesidad médica o específica para llevar tu propia agua, puede ser útil explicarlo al personal del establecimiento y, en muchos casos, pueden hacer una excepción.
 
-Eso no puede contravenir la ley de la Ciudad, dime el argumento jurídico 
+---
+
+🙋 **You:**
+
+Eso no puede contravenir la ley de la Ciudad, dime el argumento jurídico
+
+---
+
+🤖 **Assistant:**
 
 En la Ciudad de México, la legislación que podría relacionarse con la prohibición de ingresar agua a un establecimiento se encuentra en varias normativas, como la Ley de Protección al Consumidor y la Ley de Establecimientos Mercantiles.
 
@@ -54,7 +69,15 @@ En la Ciudad de México, la legislación que podría relacionarse con la prohibi
 
 En resumen, mientras un establecimiento en la Ciudad de México puede prohibir la entrada de agua externa como parte de sus políticas internas, debe asegurarse de no contravenir principios de no discriminación y garantizar el acceso a agua potable dentro del establecimiento para cumplir con las normativas locales y federales.
 
-Fundamento jurídico de que tienen que proveer agua potable los establecimientos 
+---
+
+🙋 **You:**
+
+Fundamento jurídico de que tienen que proveer agua potable los establecimientos
+
+---
+
+🤖 **Assistant:**
 
 El fundamento jurídico que obliga a los establecimientos a proveer agua potable se encuentra principalmente en normas de protección al consumidor y de salud pública. Aquí te presento algunas de las disposiciones relevantes:
 
@@ -76,7 +99,15 @@ El fundamento jurídico que obliga a los establecimientos a proveer agua potable
 
 En resumen, los establecimientos en la Ciudad de México tienen la obligación de proveer agua potable a sus clientes para cumplir con las normas sanitarias y de protección al consumidor, garantizando así condiciones de servicio dignas y adecuadas.
 
+---
+
+🙋 **You:**
+
 Cual es la pena y donde me puedo quejar
+
+---
+
+🤖 **Assistant:**
 
 Para presentar una queja por la falta de provisión de agua potable en un establecimiento y conocer las posibles sanciones, aquí tienes la información relevante:
 

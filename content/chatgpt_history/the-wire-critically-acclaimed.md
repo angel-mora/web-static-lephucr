@@ -3,24 +3,21 @@ title: 'The Wire: Critically Acclaimed.'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  The wire serie"
 draft: false
 ---
 
 # The Wire: Critically Acclaimed.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-The wire serie
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 The wire serie
 
+---
 
+🤖 **Assistant:**
 
 "The Wire" is a critically acclaimed American crime drama television series created by David Simon. The show aired on HBO for five seasons from 2002 to 2008. Known for its realistic portrayal of urban life, "The Wire" explores the multifaceted nature of the city of Baltimore, Maryland, through the perspectives of both law enforcement and residents.
 

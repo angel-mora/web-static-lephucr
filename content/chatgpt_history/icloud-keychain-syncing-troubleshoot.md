@@ -3,22 +3,24 @@ title: iCloud Keychain Syncing Troubleshoot
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I am getting an error when putting the password I had
+  in my old mac in my new mac (both are the same). It's asking me to put the old machine
+  password which is not the current mac one. That's preventing iCloud to syncing properly.
+  I have jumpcloud agent. Help"
 draft: false
 ---
 
 # iCloud Keychain Syncing Troubleshoot
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I am getting an error when putting the password I had in my old mac in my new mac (both are the same). It's asking me to put the old machine password which is not the current mac one. That's preventing iCloud to syncing properly. I have jumpcloud agent. Help
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I am getting an error when putting the password I had in my old mac in my new mac (both are the same). It's asking me to put the old machine password which is not the current mac one. That's preventing iCloud to syncing properly. I have jumpcloud agent. Help
+
+---
+
+🤖 **Assistant:**
 
 It sounds like you're encountering an issue related to iCloud Keychain and possibly some integration complexities with JumpCloud agent. When you set up a new Mac and want to use iCloud Keychain to sync your passwords, sometimes, if the security settings are strict or if there's a misconfiguration, iCloud might ask for the password of another device to authorize access. This is a security measure to ensure that only the rightful owner can access sensitive data like passwords stored in iCloud Keychain. 
 

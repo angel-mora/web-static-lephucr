@@ -3,25 +3,23 @@ title: Venture Insights and Context
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tell me about these ventures in the context of the
+  memories you have about me:"
 draft: false
 ---
 
 # Venture Insights and Context
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Tell me about these ventures in the context of the memories you have about me:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tell me about these ventures in the context of the memories you have about me:
 L Catterton Growth, Emerson Collective, Notable Capital, Bain Capital Ventures, Khosla Ventures, Baseline Ventures, Cowboy Ventures, Bedrock Capital, and PLUS Capital
 
+---
 
+🤖 **Assistant:**
 
 Let's explore these ventures in the context of your interests and past experiences:
 

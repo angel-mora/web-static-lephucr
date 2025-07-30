@@ -3,24 +3,23 @@ title: Ayuno intermitente y bulking
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Como ayuno intermitente ? Cuantas horas dejar pasar
+  entre comidas para menos insulina? Cuánto entre comidas? Estoy bulking, high protein
+  diet pero quiero quemar grasa"
 draft: false
 ---
 
 # Ayuno intermitente y bulking
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Como ayuno intermitente ? Cuantas horas dejar pasar entre comidas para menos insulina? Cuánto entre comidas? Estoy bulking, high protein diet pero quiero quemar grasa
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Como ayuno intermitente ? Cuantas horas dejar pasar entre comidas para menos insulina? Cuánto entre comidas? Estoy bulking, high protein diet pero quiero quemar grasa
 
+---
 
+🤖 **Assistant:**
 
 El ayuno intermitente (AI) puede ser una herramienta útil para controlar los niveles de insulina y fomentar la quema de grasa, incluso en una etapa de bulking, si lo haces correctamente. Aquí te doy una guía ajustada a tus objetivos:
 
@@ -81,7 +80,15 @@ El ayuno intermitente (AI) puede ser una herramienta útil para controlar los ni
 
 ¿Quieres que te adapte un plan específico con las calorías y macros que necesitas?
 
+---
+
+🙋 **You:**
+
 Cuanta grasa puedo quemar en dos semanas?
+
+---
+
+🤖 **Assistant:**
 
 La cantidad de grasa que puedes quemar en dos semanas depende de varios factores como tu porcentaje de grasa actual, tu déficit calórico y tu nivel de actividad. Aquí tienes un cálculo aproximado basado en la ciencia:  
 
@@ -108,7 +115,15 @@ Si haces **ayuno intermitente + entrenamiento de fuerza + cardio estratégico**,
 
 ¿Quieres que ajuste esto a tu peso y rutina exacta?
 
+---
+
+🙋 **You:**
+
 Tomar antibióticos afecta el ayuno?
+
+---
+
+🤖 **Assistant:**
 
 Depende del antibiótico y de cómo lo tomes. Aquí hay algunos puntos clave sobre cómo los antibióticos pueden afectar el ayuno intermitente:  
 
@@ -130,12 +145,28 @@ Depende del antibiótico y de cómo lo tomes. Aquí hay algunos puntos clave sob
 
 Si me dices qué antibiótico estás tomando, te puedo dar una recomendación más precisa.
 
-Amoxicilina, ácido clavulanico. También tengo duda sobre la creatina 
+---
+
+🙋 **You:**
+
+Amoxicilina, ácido clavulanico. También tengo duda sobre la creatina
+
+---
+
+🤖 **Assistant:**
 
 ### **¿La amoxicilina con ácido clavulánico rompe el ayuno?**  
 Sí, **rompe el ayuno** si lo tomas con comida, pero no porque tenga calorías, sino porque cualquier
 
+---
+
+🙋 **You:**
+
 Amoxicilina, ácido clavulanico. También tengo duda sobre la creatina y el metilfolato
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes la respuesta para cada uno:  
 
@@ -171,7 +202,15 @@ Aquí tienes la respuesta para cada uno:
 
 Si estás en ayuno intermitente, lo mejor es tomar la amoxicilina y el metilfolato **con la primera comida** y la creatina cuando prefieras.
 
+---
+
+🙋 **You:**
+
 Podría tomar la creativa y el metilfolato en la noche?
+
+---
+
+🤖 **Assistant:**
 
 Sí, puedes tomar tanto la **creatina** como el **metilfolato en la noche**, pero hay algunas consideraciones:  
 

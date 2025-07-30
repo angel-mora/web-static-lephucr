@@ -3,24 +3,23 @@ title: TinaCMS and Docusaurus Integration
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  can tina and docusaurus live together? Tell me the
+  best git compatible headless cms. I was thinking about Gollum in ruby but I'm open
+  to get the best from multiple languages"
 draft: false
 ---
 
 # TinaCMS and Docusaurus Integration
 
-## ✅ TODOs
-
-
-## 📌 Summary
-can tina and docusaurus live together? Tell me the best git compatible headless cms. I was thinking about Gollum in ruby but I'm open to get the best from multiple languages
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 can tina and docusaurus live together? Tell me the best git compatible headless cms. I was thinking about Gollum in ruby but I'm open to get the best from multiple languages
 
+---
 
+🤖 **Assistant:**
 
 Yes, **TinaCMS** and **Docusaurus** can live together, but their integration would require careful planning since they serve different purposes:
 
@@ -89,7 +88,15 @@ For a **Git-compatible headless CMS**:
 
 Let me know if you'd like help configuring or comparing the setup for any of these!
 
+---
+
+🙋 **You:**
+
 and how about strapi and obsidiosaurus?
+
+---
+
+🤖 **Assistant:**
 
 ### **Strapi and Obsidiosaurus Together**
 Strapi and Obsidiosaurus can coexist in a hybrid setup if you're looking to combine the strengths of both systems:
@@ -163,7 +170,15 @@ These tools serve complementary purposes, and integrating them can create a robu
 
 Combining both gives you a best-of-both-worlds approach! Let me know if you want to discuss specific architectural decisions or integration examples!
 
+---
+
+🙋 **You:**
+
 tell me the obsidiosaurus libraries I would just need to add to strapi. Also tell me how can I make the obsidian graph using a javascript library
+
+---
+
+🤖 **Assistant:**
 
 ### **Obsidiosaurus Libraries to Add to Strapi**
 To integrate **Obsidiosaurus-style** features into **Strapi**, you'll primarily need libraries that handle Markdown processing, file management, and content graph visualization. Here are the main libraries and tools:

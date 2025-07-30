@@ -3,24 +3,22 @@ title: Mejores radios para iPhone
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Best radio for iphone, preferably Mexico but also international
+  if available"
 draft: false
 ---
 
 # Mejores radios para iPhone
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Best radio for iphone, preferably Mexico but also international if available
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Best radio for iphone, preferably Mexico but also international if available
 
+---
 
+🤖 **Assistant:**
 
 Here are some of the best radio apps for iPhone that you can use to listen to both Mexican and international stations:
 
@@ -40,7 +38,15 @@ Here are some of the best radio apps for iPhone that you can use to listen to bo
 
 These apps should cover a broad range of preferences and give you access to both local and international radio content.
 
+---
+
+🙋 **You:**
+
 Rolas tan picudas como la del sonidito de Hechiceros band (mismo o similar bpm)
+
+---
+
+🤖 **Assistant:**
 
 If you enjoy "El Sonidito" by Hechizeros Band and are looking for similar tracks with a comparable BPM (around 130-140 BPM), here are some recommendations that you might find just as catchy and energetic:
 
@@ -60,7 +66,15 @@ If you enjoy "El Sonidito" by Hechizeros Band and are looking for similar tracks
 
 These songs should give you a similar high-energy feel and keep the party going!
 
+---
+
+🙋 **You:**
+
 Other energetic cumbias
+
+---
+
+🤖 **Assistant:**
 
 If you're looking for more energetic cumbias to keep the party lively, here are some great options:
 

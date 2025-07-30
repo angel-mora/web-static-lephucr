@@ -3,24 +3,22 @@ title: Puntitos rojos en glande
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Se me hacen puntitos rojos en el glande después de
+  eyacular"
 draft: false
 ---
 
 # Puntitos rojos en glande
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Se me hacen puntitos rojos en el glande después de eyacular
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Se me hacen puntitos rojos en el glande después de eyacular
 
+---
 
+🤖 **Assistant:**
 
 Los puntitos rojos en el glande después de eyacular pueden deberse a varias causas, entre ellas:  
 

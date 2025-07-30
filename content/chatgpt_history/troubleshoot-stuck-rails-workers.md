@@ -3,22 +3,23 @@ title: Troubleshoot Stuck Rails Workers
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I have some workers stuck at dispatchers table in rails.
+  Those have processing false and job id nil. I am queue_worker! for each one of them
+  but nothing changes. Provide some help"
 draft: false
 ---
 
 # Troubleshoot Stuck Rails Workers
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I have some workers stuck at dispatchers table in rails. Those have processing false and job id nil. I am queue_worker! for each one of them but nothing changes. Provide some help
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I have some workers stuck at dispatchers table in rails. Those have processing false and job id nil. I am queue_worker! for each one of them but nothing changes. Provide some help
+
+---
+
+🤖 **Assistant:**
 
 It seems you're encountering an issue with workers being stuck in a dispatcher's table in a Ruby on Rails environment. The fact that these workers have `processing` set to `false` and `job_id` to `nil` indicates that they are not actively processing any jobs, but for some reason, they are not being picked up by the queue worker.
 

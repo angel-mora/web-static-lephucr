@@ -3,22 +3,21 @@ title: Study Ruby's C Source
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Explain me the basic object from ruby in C"
 draft: false
 ---
 
 # Study Ruby's C Source
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Explain me the basic object from ruby in C
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Explain me the basic object from ruby in C
+
+---
+
+🤖 **Assistant:**
 
 Certainly! When you refer to a "basic object from Ruby," you are likely talking about the fundamental Ruby object that most things in Ruby inherit from. In C, creating an equivalent structure requires understanding that Ruby objects are more dynamic and have more features than C's static typing.
 
@@ -39,7 +38,15 @@ Here, `VALUE` would be a type that can represent any Ruby object. In actual Ruby
 
 To really replicate Ruby objects in C, you would also need to implement the Ruby virtual machine's garbage collector, method dispatch, and many other features. It's a complex task and much more involved than what's described here. If you're interested in diving into that level of detail, the Ruby source code is available to study, and there are books and resources dedicated to explaining its internal structure.
 
+---
+
+🙋 **You:**
+
 How can I study ruby from its source code in order to understand how C compiles it?
+
+---
+
+🤖 **Assistant:**
 
 Studying the source code of Ruby is a great way to understand how the language is implemented in C. Here's a step-by-step guide to help you dive into the Ruby source code:
 

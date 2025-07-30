@@ -3,7 +3,8 @@ title: Tratamiento ecológico de desechos.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Es posible tratar desechos tóxicos como agua con jabon
+  sucia de lavar trastes o excrementos de una forma ecológica?"
 draft: false
 ---
 
@@ -14,15 +15,15 @@ draft: false
 - [ ] convierte los desechos en compost que puede ser utilizado como abono.
 - [ ] s no solo ayudan a reducir la contaminación, sino que también promueven el reciclaje de recursos y la minimización del uso de agua potable.
 
-## 📌 Summary
-Es posible tratar desechos tóxicos como agua con jabon sucia de lavar trastes o excrementos de una forma ecológica?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Es posible tratar desechos tóxicos como agua con jabon sucia de lavar trastes o excrementos de una forma ecológica? 
+Es posible tratar desechos tóxicos como agua con jabon sucia de lavar trastes o excrementos de una forma ecológica?
 
+---
 
+🤖 **Assistant:**
 
 Sí, es posible tratar desechos tóxicos como agua con jabón sucia de lavar trastes o excrementos de manera ecológica. Aquí te explico algunos métodos:
 

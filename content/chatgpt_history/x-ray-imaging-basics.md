@@ -3,22 +3,22 @@ title: X-ray Imaging Basics
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How x-ray works? Don't get how it's sort of an app
+  that embeds to your app"
 draft: false
 ---
 
 # X-ray Imaging Basics
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How x-ray works? Don't get how it's sort of an app that embeds to your app
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How x-ray works? Don't get how it's sort of an app that embeds to your app
+
+---
+
+🤖 **Assistant:**
 
 It seems like there might be a misunderstanding in your question. X-rays, in the context of medical imaging or material inspection, are not related to apps or app embedding. X-rays are a form of electromagnetic radiation, and X-ray imaging is a technique used to visualize the inside of objects, such as the human body, without physically opening them.
 
@@ -36,7 +36,15 @@ Here's a brief explanation of how X-ray imaging works:
 
 Now, regarding your mention of an "app that embeds to your app," it's unclear what specific context you are referring to. If you could provide more details or clarify your question, I'd be happy to help.
 
+---
+
+🙋 **You:**
+
 How x-ray gem works? Don't get how it's sort of an app that embeds to your app
+
+---
+
+🤖 **Assistant:**
 
 It seems like there might be a misunderstanding or confusion in your question. As of my last knowledge update in January 2022, I'm not aware of a widely known concept or technology referred to as "x-ray gem" in the context you mentioned.
 
@@ -50,7 +58,15 @@ However, I can provide information about a couple of related topics that might h
 
 If by "x-ray gem" you mean a Ruby gem related to X-ray inspection or some specific technology, it would be helpful if you could provide more context or details about the technology or application you're referring to. If this is a term or technology that has emerged after my last update, I recommend checking more recent sources for the latest information.
 
+---
+
+🙋 **You:**
+
 How x-ray ruby gem works? Don't get how it's sort of an app that embeds to your app
+
+---
+
+🤖 **Assistant:**
 
 The X-Ray Ruby gem is not a standalone application but rather a library (gem in Ruby terminology) that you can integrate into your Ruby application to provide various debugging and profiling features. It doesn't embed into your app in the traditional sense; instead, it hooks into your Ruby code to gather and report information about its execution.
 

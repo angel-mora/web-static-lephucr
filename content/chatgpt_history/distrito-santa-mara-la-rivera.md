@@ -3,24 +3,21 @@ title: Distrito Santa María la Rivera
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Distrito local de Santa María la Rivera"
 draft: false
 ---
 
 # Distrito Santa María la Rivera
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Distrito local de Santa María la Rivera
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Distrito local de Santa María la Rivera
 
+---
 
+🤖 **Assistant:**
 
 Santa María la Ribera, ubicada en la alcaldía Cuauhtémoc en la Ciudad de México, es uno de los barrios históricos más emblemáticos de la ciudad. Este distrito combina su riqueza arquitectónica y cultural con un ambiente bohemio y tranquilo. Es conocido por su **Quiosco Morisco**, situado en el parque central de la colonia, el cual es un importante punto de referencia y lugar de reunión.
 
@@ -47,8 +44,15 @@ Algunas características destacadas de Santa María la Ribera:
 
 Santa María la Ribera ofrece un equilibrio entre la tranquilidad de un barrio tradicional y la modernidad que traen los nuevos negocios y residentes creativos. ¿Te interesa información específica sobre algún aspecto del distrito?
 
-Distrito local para el iecm 
+---
 
+🙋 **You:**
+
+Distrito local para el iecm
+
+---
+
+🤖 **Assistant:**
 
 tlwmDirección Distrital 09 del IECMMaple 80, Colonia Santa María Insurgentes, Cabecera Cuauhtémoc, CP 06430, Ciudad de México
 

@@ -3,7 +3,9 @@ title: Contenidos y software para suscriptores
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Based on what you know about me, what kind of contents
+  or software could I offer to my YouTube blog suscribers? I'll also share with them
+  my book in pdf"
 draft: false
 ---
 
@@ -12,15 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] n, Matrix, peer-to-peer networks).
 
-## 📌 Summary
-Based on what you know about me, what kind of contents or software could I offer to my YouTube blog suscribers? I'll also share with them my book in pdf
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Based on what you know about me, what kind of contents or software could I offer to my YouTube blog suscribers? I'll also share with them my book in pdf
 
+---
 
+🤖 **Assistant:**
 
 Your YouTube blog could leverage your expertise in political philosophy, software development, and design to attract a niche yet engaged audience. Given your background, here are some content and software ideas tailored for your subscribers:
 

@@ -3,20 +3,16 @@ title: Remove @category and @offering
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  could you please create this @category outside of this
+  render without the instance variable. same with @offering"
 draft: false
 ---
 
 # Remove @category and @offering
 
-## ✅ TODOs
-
-
-## 📌 Summary
-could you please create this @category outside of this render without the instance variable. same with @offering
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 could you please create this @category outside of this render without the instance variable. same with @offering 
 
@@ -36,6 +32,10 @@ could you please create this @category outside of this render without the instan
           )
         end
       end
+
+---
+
+🤖 **Assistant:**
 
 To remove the instance variables `@category` and `@offering` and use local variables instead, you can define the local variables within the method and use them directly without the `@` prefix. Here's how you can rewrite the `default_two_depth` method:
 

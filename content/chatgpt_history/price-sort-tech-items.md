@@ -3,20 +3,15 @@ title: Price Sort Tech Items
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Sort these by lowest to highest price"
 draft: false
 ---
 
 # Price Sort Tech Items
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Sort these by lowest to highest price
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Sort these by lowest to highest price
 3000 Old mac Angela 
@@ -29,6 +24,10 @@ Sort these by lowest to highest price
 800 HDD 2tb
 1000 Bocina Samsung
 5000 Huawei P30 Pro
+
+---
+
+🤖 **Assistant:**
 
 To sort the items by their price from lowest to highest:
 
@@ -43,6 +42,14 @@ To sort the items by their price from lowest to highest:
 9. 12000 - HP i7
 10. 25000 - Rog Flow
 
+---
+
+🙋 **You:**
+
 Sum
+
+---
+
+🤖 **Assistant:**
 
 The total sum of the prices is 53,850.

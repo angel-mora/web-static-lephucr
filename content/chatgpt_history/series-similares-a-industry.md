@@ -3,24 +3,21 @@ title: Series similares a Industry
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que serie como Industry de HBO Max puedo ver?"
 draft: false
 ---
 
 # Series similares a Industry
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Que serie como Industry de HBO Max puedo ver?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que serie como Industry de HBO Max puedo ver?
 
+---
 
+🤖 **Assistant:**
 
 Si te gustó **Industry**, te podrían interesar estas series con temáticas de alta presión, corporativismo, ambición y relaciones interpersonales complejas:
 
@@ -36,11 +33,27 @@ Si te gustó **Industry**, te podrían interesar estas series con temáticas de 
 
 Cualquiera de estas puede ofrecerte ese mismo ambiente de alta tensión y rivalidad profesional.
 
-Lo que me gustó de industry no es precisamente el tema sino la construcción de la seria, guion, arte producción 
+---
+
+🙋 **You:**
+
+Lo que me gustó de industry no es precisamente el tema sino la construcción de la seria, guion, arte producción
+
+---
+
+🤖 **Assistant:**
 
 User liked the construction, script, and art production of the series Industry, rather than its theme.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Si lo que te llamó la atención de **Industry** es la calidad del guion, la producción artística y la construcción general de la serie, podrías disfrutar de estas otras series que destacan por esos aspectos:
 
@@ -56,9 +69,15 @@ Si lo que te llamó la atención de **Industry** es la calidad del guion, la pro
 
 Estas series comparten ese enfoque en la producción de alta calidad, un guion cuidado y un arte visual que eleva la narrativa.
 
+---
+
+🙋 **You:**
+
 Son inglesas también?
 
+---
 
+🤖 **Assistant:**
 
 No todas son inglesas, pero algunas sí lo son o tienen una fuerte conexión con el Reino Unido. Aquí te detallo su procedencia:
 
@@ -70,7 +89,15 @@ No todas son inglesas, pero algunas sí lo son o tienen una fuerte conexión con
 
 De estas, **I May Destroy You** y **Normal People** son las más representativas de producciones del Reino Unido.
 
-Una que no cuente historia de pura gente blanca que tenga un buen desarrollo de personaje 
+---
+
+🙋 **You:**
+
+Una que no cuente historia de pura gente blanca que tenga un buen desarrollo de personaje
+
+---
+
+🤖 **Assistant:**
 
 Si estás buscando una serie con buen desarrollo de personajes y que no se centre exclusivamente en historias de personas blancas, aquí tienes algunas opciones que destacan por su diversidad y construcción narrativa profunda:
 

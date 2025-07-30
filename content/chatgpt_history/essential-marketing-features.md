@@ -3,24 +3,22 @@ title: Essential Marketing Features
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Essential marketing features for my rails blog with
+  paid suscriptions"
 draft: false
 ---
 
 # Essential Marketing Features
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Essential marketing features for my rails blog with paid suscriptions
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Essential marketing features for my rails blog with paid suscriptions
 
+---
 
+🤖 **Assistant:**
 
 To effectively market your Rails blog with paid subscriptions, consider incorporating the following essential features:
 
@@ -56,7 +54,15 @@ To effectively market your Rails blog with paid subscriptions, consider incorpor
 
 Incorporating these features can help you attract and retain subscribers, ultimately making your blog successful in a competitive market.
 
-What gems or third party services can I use? 
+---
+
+🙋 **You:**
+
+What gems or third party services can I use?
+
+---
+
+🤖 **Assistant:**
 
 To implement the essential marketing features for your Rails blog with paid subscriptions, you can leverage several gems and third-party services. Here’s a list categorized by feature:
 

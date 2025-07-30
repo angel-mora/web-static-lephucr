@@ -3,24 +3,25 @@ title: Teclado Español vs Inglés
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  when using spanish keyboard I can type apostrophe directly
+  so I press CMD and apostrophe and am able to swith to another window of the same
+  program. However, when I am using the english keyboard (a Keychron one) I have to
+  use option and closing brackets button to get the apostrophe but if I do CMD option
+  and apostrophe is not switching windows. I'm using mac"
 draft: false
 ---
 
 # Teclado Español vs Inglés
 
-## ✅ TODOs
-
-
-## 📌 Summary
-when using spanish keyboard I can type apostrophe directly so I press CMD and apostrophe and am able to swith to another window of the same program. However, when I am using the english keyboard (a Keychron one) I have to use option and closing brackets button to get the apostrophe but if I do CMD option and apostrophe is not switching windows. I'm using mac
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 when using spanish keyboard I can type apostrophe directly so I press CMD and apostrophe and am able to swith to another window of the same program. However, when I am using the english keyboard (a Keychron one) I have to use option and closing brackets button to get the apostrophe but if I do CMD option and apostrophe is not switching windows. I'm using mac
 
+---
 
+🤖 **Assistant:**
 
 The issue lies in how macOS interprets key bindings for different keyboard layouts. When you switch between Spanish and English layouts, the key mapping changes, affecting shortcuts like `Cmd + '`. Here's how you can address this issue:
 

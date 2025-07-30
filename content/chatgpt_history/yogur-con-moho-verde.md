@@ -3,24 +3,21 @@ title: Yogur con moho verde
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que pasa si comes yoghurt fage con hongos verdes?"
 draft: false
 ---
 
 # Yogur con moho verde
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Que pasa si comes yoghurt fage con hongos verdes?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que pasa si comes yoghurt fage con hongos verdes?
 
+---
 
+🤖 **Assistant:**
 
 Comer yogur con hongos verdes puede ser peligroso, ya que los hongos visibles en alimentos como el yogur pueden ser indicadores de contaminación por moho, que puede producir micotoxinas, sustancias tóxicas para el cuerpo humano. Estas toxinas pueden causar problemas como:
 

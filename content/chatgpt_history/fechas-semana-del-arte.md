@@ -3,24 +3,21 @@ title: Fechas Semana del Arte
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  cuando abre MACO, Material y ACME?"
 draft: false
 ---
 
 # Fechas Semana del Arte
 
-## ✅ TODOs
-
-
-## 📌 Summary
-cuando abre MACO, Material y ACME?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 cuando abre MACO, Material y ACME?
 
+---
 
+🤖 **Assistant:**
 
 La Semana del Arte en Ciudad de México 2025 se celebra del 5 al 12 de febrero, con eventos destacados como Zona Maco, Feria Material y Salón ACME. A continuación, se detallan las fechas y ubicaciones de cada evento:
 
@@ -32,9 +29,17 @@ cuando abre MACO, Material y ACME?
 
 Además, durante esta semana se llevan a cabo otras ferias y exposiciones, como la Feria Territorio en Espacio CDMX y Salón Siempre Sí en Lucerna 32. El Museo Jumex también inaugura una retrospectiva del artista Gabriel Orozco.
 
-citeturn0news12 
+citeturn0news12
+
+---
+
+🙋 **You:**
 
 que dias y a que horas?
+
+---
+
+🤖 **Assistant:**
 
 Durante la Semana del Arte en Ciudad de México 2025, los eventos Zona Maco, Feria Material y Salón ACME se llevarán a cabo en las siguientes fechas y horarios:
 

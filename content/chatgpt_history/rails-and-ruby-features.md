@@ -3,22 +3,21 @@ title: Rails and Ruby features.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  how rails uses ruby language features"
 draft: false
 ---
 
 # Rails and Ruby features.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-how rails uses ruby language features
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 how rails uses ruby language features
+
+---
+
+🤖 **Assistant:**
 
 Ruby on Rails (Rails) is a popular web application framework built on the Ruby programming language. Rails takes advantage of several Ruby language features to provide a flexible and efficient environment for web development. Some of these features include:
 
@@ -40,7 +39,15 @@ Ruby on Rails (Rails) is a popular web application framework built on the Ruby p
 
 These features make Ruby a powerful and flexible language for web development, and Rails harnesses that power to provide an efficient and enjoyable experience for developers.
 
+---
+
+🙋 **You:**
+
 Repeat each of the 8 points but now try to point a ruby code example or library where that feature can be seen and further reviewed
+
+---
+
+🤖 **Assistant:**
 
 1. Object-Oriented Programming (OOP): Rails follows the Model-View-Controller (MVC) pattern. You can find examples of OOP in Rails by looking at the classes used to define models, views, and controllers. For instance, in a typical Rails application, you might have a `User` model that inherits from `ActiveRecord::Base`:
 

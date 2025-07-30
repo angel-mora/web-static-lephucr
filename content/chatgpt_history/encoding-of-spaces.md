@@ -3,22 +3,22 @@ title: Encoding of spaces.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  why some urls have space and some others an encoding
+  like %20% to represent the space? What's that encoding usually?"
 draft: false
 ---
 
 # Encoding of spaces.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-why some urls have space and some others an encoding like %20% to represent the space? What's that encoding usually?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 why some urls have space and some others an encoding like %20% to represent the space? What's that encoding usually?
+
+---
+
+🤖 **Assistant:**
 
 URLs cannot directly include spaces due to the technical specifications of the web. When you see a space in a URL, it is often visually simplified for readability, but in the actual HTTP request, the space is encoded. The encoding of spaces (and other special characters) in URLs is part of URL encoding, or "percent encoding," where certain characters are replaced by a percent symbol (%) followed by two hexadecimal digits that represent the character's ASCII code.
 
@@ -31,7 +31,15 @@ The reasons some URLs might visually display spaces while others show the encodi
 
 In essence, whenever a URL is actually used in a web request, spaces are encoded as `%20`, even if what you see in your browser's address bar is a plain space for ease of reading.
 
+---
+
+🙋 **You:**
+
 difference between or and || in ruby
+
+---
+
+🤖 **Assistant:**
 
 In Ruby, both `or` and `||` are used to perform logical OR operations, but there are key differences in their behavior and precedence that affect how they're used in code.
 

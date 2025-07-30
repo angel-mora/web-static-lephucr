@@ -3,23 +3,22 @@ title: Dynamic SQL excluding columns.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Mysql select * except field1, field2, etc"
 draft: false
 ---
 
 # Dynamic SQL excluding columns.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Mysql select * except field1, field2, etc
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Mysql select * except field1, field2, etc
-Is that possible? 
+Is that possible?
+
+---
+
+🤖 **Assistant:**
 
 In MySQL, there isn't a direct command or syntax to select all fields except for specifying ones (like `SELECT * EXCEPT(field1, field2)`). MySQL doesn't have this `EXCEPT` functionality in its `SELECT` statement syntax. When you want to select columns from a table but exclude one or more columns, you have to explicitly list the columns you want to include in your `SELECT` statement.
 

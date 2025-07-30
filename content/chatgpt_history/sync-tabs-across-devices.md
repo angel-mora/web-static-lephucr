@@ -3,23 +3,22 @@ title: Sync Tabs Across Devices
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Best way to sync up tabs history across devices. In
+  Android and in iPhone"
 draft: false
 ---
 
 # Sync Tabs Across Devices
 
-## ✅ TODOs
-
-
-## 📌 Summary
-
-
 ## 🧠 Full Chat
 
-
+🙋 **You:**
 
 Best way to sync up tabs history across devices. In Android and in iPhone
+
+---
+
+🤖 **Assistant:**
 
 Syncing tabs and history across devices, including Android and iPhone, involves using a browser that supports cross-platform synchronization. Here are a few options and steps to achieve this:
 

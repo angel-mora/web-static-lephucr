@@ -3,22 +3,21 @@ title: Key JS Concepts for React
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Most important js concepts for React js"
 draft: false
 ---
 
 # Key JS Concepts for React
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Most important js concepts for React js
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Most important js concepts for React js
+
+---
+
+🤖 **Assistant:**
 
 When working with React JS, understanding certain JavaScript concepts is crucial to effectively build and manage React applications. Here are the most important JavaScript concepts to grasp for React development:
 
@@ -46,7 +45,15 @@ When working with React JS, understanding certain JavaScript concepts is crucial
 
 Mastering these JavaScript concepts will significantly enhance your ability to develop, debug, and optimize React applications. React also encourages the functional programming paradigm and a component-based architecture, so familiarity with these concepts will be beneficial.
 
+---
+
+🙋 **You:**
+
 Most important browser concepts for React js, like session and local storage, etc
+
+---
+
+🤖 **Assistant:**
 
 For React developers, understanding certain browser concepts is essential to effectively build and manage React applications. These concepts are not unique to React but are part of the broader web development landscape that React operates within. Here are some key browser concepts and APIs that are important for React developers:
 

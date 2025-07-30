@@ -3,24 +3,21 @@ title: Install Latest Rails Version
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  install latest rails version"
 draft: false
 ---
 
 # Install Latest Rails Version
 
-## ✅ TODOs
-
-
-## 📌 Summary
-install latest rails version
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 install latest rails version
 
+---
 
+🤖 **Assistant:**
 
 To install the latest version of Ruby on Rails, follow these steps:
 
@@ -74,7 +71,15 @@ To install the latest version of Ruby on Rails, follow these steps:
 
 Let me know if you encounter any issues!
 
+---
+
+🙋 **You:**
+
 gem install flag for latest rails version
+
+---
+
+🤖 **Assistant:**
 
 To install the latest specific version of Rails using `gem`, you can use the `--version` flag. Here’s how you can do it:
 
@@ -92,7 +97,15 @@ gem install rails
 
 This will install the latest stable release of Rails available in the RubyGems repository.
 
+---
+
+🙋 **You:**
+
 install rails 7 monolithic app with postgres, no tests and esbuild
+
+---
+
+🤖 **Assistant:**
 
 To create a new Rails 7 monolithic application with PostgreSQL, no tests, and ESBuild for JavaScript bundling, you can use the following command:
 
@@ -126,6 +139,10 @@ rails new myapp --database=postgresql --skip-test --javascript=esbuild
 
 Your new Rails 7 application should now be ready to use with PostgreSQL, no tests, and ESBuild configured!
 
+---
+
+🙋 **You:**
+
 <h1 class="text-3xl font-castoro">This is Castoro Regular</h1>
     <p class="text-xl font-castoro-italic">This is Castoro Italic</p>
     
@@ -144,6 +161,10 @@ Your new Rails 7 application should now be ready to use with PostgreSQL, no test
     <p class="text-base font-volkhov-italic">This is Volkhov Italic</p>
 
 make it more distingeable in such a way I can tell they are the same font or different font, like use the same text size
+
+---
+
+🤖 **Assistant:**
 
 To make the fonts more distinguishable while maintaining consistent text sizes, you can standardize the text sizes and use the same sentence for each font style. This approach allows you to easily compare how different fonts and their variations look at the same size.
 

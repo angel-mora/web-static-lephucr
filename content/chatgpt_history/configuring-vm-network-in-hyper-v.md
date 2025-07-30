@@ -3,22 +3,23 @@ title: Configuring VM Network in Hyper-V
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  have 3 vms under hyper-v in windows. Need to put them
+  all under the same network so those are discovered when zenmap 192.168.13.0/24,
+  where can I check that in the hyper-v manager?"
 draft: false
 ---
 
 # Configuring VM Network in Hyper-V
 
-## ✅ TODOs
-
-
-## 📌 Summary
-have 3 vms under hyper-v in windows. Need to put them all under the same network so those are discovered when zenmap 192.168.13.0/24, where can I check that in the hyper-v manager?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 have 3 vms under hyper-v in windows. Need to put them all under the same network so those are discovered when zenmap 192.168.13.0/24, where can I check that in the hyper-v manager?
+
+---
+
+🤖 **Assistant:**
 
 To put your VMs under the same network and have them discoverable by Zenmap (or any other network scanner), you'll need to ensure they're connected to the same virtual switch and that their assigned IP addresses fall within the same subnet.
 

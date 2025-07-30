@@ -3,7 +3,16 @@ title: Manejo de emociones y enseñanza
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tengo una novia y tenemos algunos problemas porque
+  yo le estoy enseñando a programar. Ella me ayuda con mi proyecto pero aunque pasó
+  por el bootcamp se equivoca demasiado. Es más grande que yo por 10 años y no viene
+  de una carrera técnica. Yo siento coraje y la necesidad constante de estarla probando
+  a ver si entiende porque se equivoca muchísimo y es muy dependientes a veces. Que
+  puedo hacer? Me duele sentirme desesperado y con ganas de probarla todo el tiempo
+  y siento que he acumulado rencores. Como puedo superar eso y ser mejor maestro de
+  ella (tener más capacidad o estrategias emocionales) y que metodologías existen
+  más allá de querer probarla con tensión y estrés para garantizar que ella aprenderá
+  de sus errores"
 draft: false
 ---
 
@@ -15,13 +24,15 @@ draft: false
 - [ ] Socrático**: En lugar de simplemente darle respuestas, hazle preguntas que la guíen a encontrar la solución por sí misma. Esto puede ayudarla a desarrollar habilidades de resolución de problemas y a comprender más profundamente el material.
 - [ ] s de aprendizaje para tu novia.
 
-## 📌 Summary
-Tengo una novia y tenemos algunos problemas porque yo le estoy enseñando a programar. Ella me ayuda con mi proyecto pero aunque pasó por el bootcamp se equivoca demasiado. Es más grande que yo por 10 años y no viene de una carrera técnica. Yo siento coraje y la necesidad constante de estarla probando a ver si entiende porque se equivoca muchísimo y es muy dependientes a veces. Que puedo hacer? Me duele sentirme desesperado y con ganas de probarla todo el tiempo y siento que he acumulado rencores. Como puedo superar eso y ser mejor maestro de ella (tener más capacidad o estrategias emocionales) y que metodologías existen más allá de querer probarla con tensión y estrés para garantizar que ella aprenderá de sus errores
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tengo una novia y tenemos algunos problemas porque yo le estoy enseñando a programar. Ella me ayuda con mi proyecto pero aunque pasó por el bootcamp se equivoca demasiado. Es más grande que yo por 10 años y no viene de una carrera técnica. Yo siento coraje y la necesidad constante de estarla probando a ver si entiende porque se equivoca muchísimo y es muy dependientes a veces. Que puedo hacer? Me duele sentirme desesperado y con ganas de probarla todo el tiempo y siento que he acumulado rencores. Como puedo superar eso y ser mejor maestro de ella (tener más capacidad o estrategias emocionales) y que metodologías existen más allá de querer probarla con tensión y estrés para garantizar que ella aprenderá de sus errores
+
+---
+
+🤖 **Assistant:**
 
 Entiendo que te sientas frustrado y desesperado, especialmente si estás invirtiendo tiempo y energía en enseñar a tu novia y sientes que no está progresando como esperabas. Aquí hay algunas estrategias y recomendaciones para abordar la situación:
 
@@ -47,7 +58,15 @@ Entiendo que te sientas frustrado y desesperado, especialmente si estás invirti
 
 Recuerda, aprender a programar puede ser un proceso difícil y desafiante, pero con el apoyo adecuado y una mentalidad abierta, ambos pueden superar los obstáculos juntos.
 
+---
+
+🙋 **You:**
+
 Como puedo controlar mi enojo y mi desesperación?
+
+---
+
+🤖 **Assistant:**
 
 Controlar el enojo y la desesperación es fundamental para mantener relaciones saludables y para tu propio bienestar emocional. Aquí hay algunas estrategias para ayudarte a manejar estos sentimientos:
 
@@ -77,7 +96,15 @@ Controlar el enojo y la desesperación es fundamental para mantener relaciones s
 
 El enojo y la desesperación son emociones naturales, pero aprender a manejarlas de manera efectiva puede mejorar tu calidad de vida y tus relaciones con los demás. Es un proceso, así que sé amable contigo mismo mientras trabajas en ello.
 
+---
+
+🙋 **You:**
+
 Por favor mas recursos sobre el punto 4 y 9
+
+---
+
+🤖 **Assistant:**
 
 Claro, los puntos 4 (Practica la autoconciencia) y 9 (Replantea la situación) son particularmente importantes porque se centran en el autoanálisis y la percepción cognitiva de las situaciones. Profundizemos en cada uno:
 
@@ -105,11 +132,23 @@ El replanteamiento implica ver una situación desde una perspectiva diferente, l
 
 - **Practica la empatía**: Intenta ponerte en el lugar de
 
- la otra persona. ¿Qué podrían estar sintiendo o pensando? Esto puede ayudarte a ver las cosas desde un punto de vista diferente.
+---
+
+🤖 **Assistant:**
+
+la otra persona. ¿Qué podrían estar sintiendo o pensando? Esto puede ayudarte a ver las cosas desde un punto de vista diferente.
 
 Ambos puntos, autoconciencia y replanteamiento, son habilidades que pueden desarrollarse con el tiempo y la práctica. La clave es estar dispuesto a reflexionar sobre ti mismo y estar abierto a ver las cosas desde diferentes perspectivas.
 
+---
+
+🙋 **You:**
+
 Me desespero mucho al enseñarle porque siento que no piensa, que no trata de entender. Como puedo hacer una evaluación racional y objetiva de la situación para ser menos mala onda? Le estoy enseñando cosas muy difíciles, de un nivel de senior y veo que ella todavía no articula las cosas, todavía no las entiende y yo me desespero y soy grosero
+
+---
+
+🤖 **Assistant:**
 
 Lidiar con la frustración al enseñar, especialmente cuando sientes que la otra persona no está "conectando" con el material, puede ser desafiante. A continuación, te ofrezco un proceso para realizar una evaluación racional y objetiva de la situación:
 

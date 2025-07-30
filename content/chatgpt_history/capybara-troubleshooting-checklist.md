@@ -3,24 +3,21 @@ title: Capybara Troubleshooting Checklist
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Rspec capybara not rendering html nor png anymore"
 draft: false
 ---
 
 # Capybara Troubleshooting Checklist
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Rspec capybara not rendering html nor png anymore
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Rspec capybara not rendering html nor png anymore
 
+---
 
+🤖 **Assistant:**
 
 When RSpec Capybara isn't rendering HTML or PNG files as expected, it can be due to a variety of reasons. Here's a checklist to troubleshoot and resolve the issue:
 

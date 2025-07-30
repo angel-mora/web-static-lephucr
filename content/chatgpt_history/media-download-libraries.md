@@ -3,7 +3,7 @@ title: Media Download Libraries
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Libraries to download media from social networks"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] wnload media from social networks
 
-## 📌 Summary
-Libraries to download media from social networks
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Libraries to download media from social networks
 
+---
 
+🤖 **Assistant:**
 
 Here are some libraries for downloading media from social networks:
 

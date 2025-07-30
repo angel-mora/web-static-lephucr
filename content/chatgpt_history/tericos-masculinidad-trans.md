@@ -3,24 +3,21 @@ title: Teóricos masculinidad trans
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Teóricos trans (transición a hombre)"
 draft: false
 ---
 
 # Teóricos masculinidad trans
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Teóricos trans (transición a hombre)
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Teóricos trans (transición a hombre)
 
+---
 
+🤖 **Assistant:**
 
 Si buscas teóricos o escritores que hayan explorado la experiencia de la transición a hombre o cuestiones relacionadas con la masculinidad trans, aquí tienes algunas referencias importantes:
 
@@ -53,7 +50,15 @@ Si buscas teóricos o escritores que hayan explorado la experiencia de la transi
 
 ¿Te interesa algún enfoque específico (psicológico, político, cultural, etc.) o un contexto particular (Latinoamérica, global, etc.)?
 
-Latinoamericana, africana y asian 
+---
+
+🙋 **You:**
+
+Latinoamericana, africana y asian
+
+---
+
+🤖 **Assistant:**
 
 Entiendo que buscas información sobre teóricos y activistas transmasculinos de América Latina, África y Asia. A continuación, te presento algunas referencias relevantes:
 

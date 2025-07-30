@@ -3,24 +3,22 @@ title: Search Table in RubyMine
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  in table plus in mac I can CMD + P and I will be able
+  to search for the table I'm looking for. How can I achieve this in Ruby Mine?? Mac"
 draft: false
 ---
 
 # Search Table in RubyMine
 
-## ✅ TODOs
-
-
-## 📌 Summary
-in table plus in mac I can CMD + P and I will be able to search for the table I'm looking for. How can I achieve this in Ruby Mine?? Mac
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 in table plus in mac I can CMD + P and I will be able to search for the table I'm looking for. How can I achieve this in Ruby Mine?? Mac
 
+---
 
+🤖 **Assistant:**
 
 In RubyMine, you can use the **"Search Everywhere"** feature to quickly search for items, including database tables, files, or symbols. Here's how to achieve a similar experience to CMD + P in TablePlus:
 

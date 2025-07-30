@@ -5,23 +5,25 @@ title: 'Rust Chrome to Pinboard
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Create code in Rust to migrate bookmarks from Chrome
+  Bookmarks API https://developer.chrome.com/docs/extensions/reference/bookmarks/
+  to Pinboard API https://pinboard.in/api, making sure to include metadata tags for
+  Pinboard."
 draft: false
 ---
 
 # Rust Chrome to Pinboard
 
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Create code in Rust to migrate bookmarks from Chrome Bookmarks API https://developer.chrome.com/docs/extensions/reference/bookmarks/ to Pinboard API https://pinboard.in/api, making sure to include metadata tags for Pinboard.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Create code in Rust to migrate bookmarks from Chrome Bookmarks API https://developer.chrome.com/docs/extensions/reference/bookmarks/ to Pinboard API https://pinboard.in/api, making sure to include metadata tags for Pinboard.
+
+---
+
+🤖 **Assistant:**
 
 Here is an example of code in Rust that migrates bookmarks from the Chrome Bookmarks API to the Pinboard API, including metadata tags for Pinboard:
 
@@ -83,8 +85,15 @@ This code uses the reqwest library for making HTTP requests and serde_json for h
 
 Note: This example is a skeleton code and might require additional modification in order to work and is not guaranteed to work as is.
 
+---
+
+🙋 **You:**
 
 Do the same but now with Ruby instead of Rust.
+
+---
+
+🤖 **Assistant:**
 
 Here is an example of code in Ruby that migrates bookmarks from the Chrome Bookmarks API to the Pinboard API, including metadata tags for Pinboard:
 
@@ -145,8 +154,15 @@ This code uses the Net::HTTP library for making HTTP requests and JSON for handl
 
 Note: This example is a skeleton code and might require additional modification in order to work and is not guaranteed to work as is.
 
+---
+
+🙋 **You:**
 
 Please do the same, adding benchmarking to both.
+
+---
+
+🤖 **Assistant:**
 
 Here is an example of Rust code that migrates bookmarks from the Chrome Bookmarks API to the Pinboard API, including metadata tags for Pinboard, and adds benchmarking to measure the time taken for the migration process:
 
@@ -229,9 +245,16 @@ time = Benchmark.measure do
   chrome_bookmarks = fetch_chrome_bookmarks
 
   # Iterate over the bookmarks and add them to Pinboard
- 
+
+---
+
+🙋 **You:**
 
 continue
+
+---
+
+🤖 **Assistant:**
 
 chrome_bookmarks["children"].each do |bookmark|
     url = bookmark["url"]
@@ -253,6 +276,10 @@ def fetch_chrome_bookmarks
 end
 
 # Adds a bookmark to Pinboard
+
+---
+
+🤖 **Assistant:**
 
 chrome_bookmarks["children"].each do |bookmark|
     url = bookmark["url"]
@@ -292,6 +319,9 @@ Both the Rust and Ruby code have been modified to include benchmarking. In the R
 
 Please note that this code is using Chrome Bookmarks API which is not a public API and might not work as expected, also the migration process may take a long time depending on the amount of bookmarks you are migrating.
 
+---
+
+🤖 **Assistant:**
 
 chrome_bookmarks["children"].each do |bookmark|
     url = bookmark["url"]
@@ -330,6 +360,9 @@ In both cases, the `Benchmark` or `Instant` library is used to measure the time 
 
 Note: This example is a skeleton code and might require additional modification in order to work and is not guaranteed to work as is.
 
+---
+
+🤖 **Assistant:**
 
 chrome_bookmarks["children"].each do |bookmark|
     url = bookmark["url"]
@@ -345,6 +378,10 @@ puts time
 # Fetches bookmarks from the Chrome Bookmarks API
 def fetch
 
+---
+
+🤖 **Assistant:**
+
 chrome_bookmarks["children"].each do |bookmark|
     url = bookmark["url"]
     title = bookmark["title"]
@@ -352,7 +389,15 @@ chrome_bookmarks["children"].each do |bookmark|
 
     # Add
 
+---
+
+🙋 **You:**
+
 Ruby code that migrates bookmarks from the Chrome Bookmarks API to the Pinboard API, including metadata tags and benchmarking for Pinboard.
+
+---
+
+🤖 **Assistant:**
 
 Sure, here is the Ruby code that migrates bookmarks from the Chrome Bookmarks API to the Pinboard API, including metadata tags for Pinboard and adds benchmarking to measure the time taken for the migration process:
 ```ruby
@@ -413,8 +458,15 @@ This code uses the Benchmark module to measure the time taken for the migration 
 
 Note: This example is a skeleton code and might require additional modification in order to work and is not guaranteed to work as is.
 
+---
+
+🙋 **You:**
 
 Rust code that migrates bookmarks from the Chrome Bookmarks API to the Pinboard API, including metadata tags and benchmarking for Pinboard.
+
+---
+
+🤖 **Assistant:**
 
 Sure, here is the Rust code that migrates bookmarks from the Chrome Bookmarks API to the Pinboard API, including metadata tags for Pinboard and adds benchmarking to measure the time taken for the migration process:
 ```rust

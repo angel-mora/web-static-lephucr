@@ -3,26 +3,22 @@ title: RSpec Ignored Columns Test
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  RSPEC model spec for this one"
 draft: false
 ---
 
 # RSpec Ignored Columns Test
 
-## ✅ TODOs
-
-
-## 📌 Summary
-RSPEC model spec for this one
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 RSPEC model spec for this one
   self.ignored_columns += [:twilio_api_sid, :twilio_api_token, :twilio_phone]
 
+---
 
-
+🤖 **Assistant:**
 
 Here’s an RSpec model spec for testing that `ignored_columns` includes `:twilio_api_sid`, `:twilio_api_token`, and `:twilio_phone`:
 

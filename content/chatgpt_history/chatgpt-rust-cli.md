@@ -3,7 +3,8 @@ title: ChatGPT Rust CLI.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Provide a tutorial to use chatgpt through a github
+  repo using flows.network, I saw one using rust"
 draft: false
 ---
 
@@ -12,13 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] wnload videos and create Markdown notes:**
 
-## 📌 Summary
-Provide a tutorial to use chatgpt through a github repo using flows.network, I saw one using rust
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Provide a tutorial to use chatgpt through a github repo using flows.network, I saw one using rust
+
+---
+
+🤖 **Assistant:**
 
 To use ChatGPT through a GitHub repository with Flows (https://flows.network/), you can create a custom Rust project that connects to OpenAI's API. Here's a step-by-step tutorial to help you get started:
 
@@ -118,7 +121,15 @@ To use ChatGPT through a GitHub repository with Flows (https://flows.network/), 
 
            if input.to_lowercase() == "quit" || input.to_lowercase() == "
 
+---
+
+🙋 **You:**
+
 continue
+
+---
+
+🤖 **Assistant:**
 
 "exit" {
                break;
@@ -173,7 +184,15 @@ continue
 
 That's it! You now have a Rust-based ChatGPT application running on Flows and connected to your GitHub repository.
 
+---
+
+🙋 **You:**
+
 How can I make an issues based chatgpt the easiest way?
+
+---
+
+🤖 **Assistant:**
 
 To create an issues-based ChatGPT, you can integrate ChatGPT with GitHub Issues using GitHub's REST API. Here's a simple Python implementation using the `openai` and `requests` libraries. This approach will fetch open issues from a GitHub repository and generate responses using ChatGPT for each issue.
 
@@ -258,7 +277,15 @@ This script will fetch open issues from the specified GitHub repository and gene
 
 Keep in mind that this example is a basic implementation. For a more advanced version, you could create a web application, use webhooks to listen for new issues, or store the responses in a database.
 
+---
+
+🙋 **You:**
+
 Make a rust script to transform to obsidian markdown note and download the video to my Downloads folder, of all videos in my YouTube account.
+
+---
+
+🤖 **Assistant:**
 
 To create a Rust script that downloads all videos from your YouTube account, converts their descriptions to Obsidian Markdown notes, and saves the videos to your Downloads folder, you will need to use the `google_youtube3`, `reqwest`, and `serde_json` libraries.
 
@@ -339,7 +366,15 @@ pub async fn download_videos_and_create_notes(channel_id: &str) -> Result<(), Bo
         let video_download_url = fetch_video_download_url(&video_url).await?;
         let video_filename = format
 
+---
+
+🙋 **You:**
+
 continue
+
+---
+
+🤖 **Assistant:**
 
 !("{}.mp4", title.replace("/", "-").replace(" ", "_"));
         let markdown_filename = format!("{}.md", title.replace("/", "-").replace(" ", "_"));

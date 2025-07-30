@@ -3,24 +3,21 @@ title: Google Maps Distance Calculation
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Calculate running google maps distance"
 draft: false
 ---
 
 # Google Maps Distance Calculation
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Calculate running google maps distance
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Calculate running google maps distance
 
+---
 
+🤖 **Assistant:**
 
 Google Maps offers a convenient "Measure Distance" feature that allows you to calculate the distance of your running route. Here's how to use it:
 

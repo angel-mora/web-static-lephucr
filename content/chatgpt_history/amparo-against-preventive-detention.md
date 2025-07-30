@@ -3,7 +3,8 @@ title: Amparo against Preventive Detention
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  dame un templete de amparo contra la medida cautelar
+  de prisión preventiva en audiencia inicial"
 draft: false
 ---
 
@@ -12,13 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] momento. Además, su situación económica no le permite abandonar el país. Por tanto, no existe riesgo de fuga.
 
-## 📌 Summary
-dame un templete de amparo contra la medida cautelar de prisión preventiva en audiencia inicial
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 dame un templete de amparo contra la medida cautelar de prisión preventiva en audiencia inicial
+
+---
+
+🤖 **Assistant:**
 
 Estimado/a [Nombre del juez/a],
 
@@ -40,7 +43,15 @@ Atentamente,
 
 [Nombre del abogado/a defensor/a]
 
+---
+
+🙋 **You:**
+
 Dame argumentos jurídicos desde la legislación mexicana
+
+---
+
+🤖 **Assistant:**
 
 Claro, a continuación te presento algunos argumentos jurídicos que puedes utilizar en tu amparo contra la medida cautelar de prisión preventiva, basados en la legislación mexicana:
 
@@ -52,7 +63,15 @@ Claro, a continuación te presento algunos argumentos jurídicos que puedes util
 
 Es importante que estos argumentos jurídicos estén fundamentados en los hechos y en la ley aplicable, y que se presenten de manera clara y ordenada en tu recurso de amparo.
 
+---
+
+🙋 **You:**
+
 Dame el mismo template previo a la audiencia de medidas cautelares sin asumir que ya se celebró la audiencia.
+
+---
+
+🤖 **Assistant:**
 
 Estimado/a [Nombre del juez/a],
 

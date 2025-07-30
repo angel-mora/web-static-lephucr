@@ -3,22 +3,23 @@ title: Libros sobre tecnología y ética
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que cualidades debe tener un socio de empresas de tecnología
+  con perspectiva tecnocrítica? Es decir, que conozca teoría crítica y crítica de
+  la tecnología, desde perspectivas analíticas como continentales y decoloniales"
 draft: false
 ---
 
 # Libros sobre tecnología y ética
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Que cualidades debe tener un socio de empresas de tecnología con perspectiva tecnocrítica? Es decir, que conozca teoría crítica y crítica de la tecnología, desde perspectivas analíticas como continentales y decoloniales
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que cualidades debe tener un socio de empresas de tecnología con perspectiva tecnocrítica? Es decir, que conozca teoría crítica y crítica de la tecnología, desde perspectivas analíticas como continentales y decoloniales
+
+---
+
+🤖 **Assistant:**
 
 Un socio de empresas de tecnología con una perspectiva tecnocrítica debería poseer varias cualidades:
 
@@ -54,7 +55,15 @@ Un socio de empresas de tecnología con una perspectiva tecnocrítica debería p
 
 Cultivar estas cualidades puede ayudar a un socio de empresas tecnológicas a abordar de manera efectiva los desafíos y oportunidades que surgen al interactuar críticamente con la tecnología.
 
+---
+
+🙋 **You:**
+
 Recomendación de libros
+
+---
+
+🤖 **Assistant:**
 
 Claro, te puedo recomendar varios libros en diferentes categorías. Aquí tienes algunas opciones:
 

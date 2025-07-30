@@ -3,20 +3,15 @@ title: Js Funktion Auflösung Titel
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  function resolveAfter10Seconds() {"
 draft: false
 ---
 
 # Js Funktion Auflösung Titel
 
-## ✅ TODOs
-
-
-## 📌 Summary
-function resolveAfter10Seconds() {
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 function resolveAfter10Seconds() {
   return new Promise(resolve => {
@@ -27,6 +22,10 @@ function resolveAfter10Seconds() {
 }
 
 what will the js code output?
+
+---
+
+🤖 **Assistant:**
 
 The JavaScript code snippet you've shared defines a function `resolveAfter10Seconds` that returns a Promise. This Promise is resolved after a 10-second delay, thanks to the `setTimeout` function. However, there's a placeholder `<FUNCTION>` within the `setTimeout` call that seems to be a placeholder for the actual function intended to be called when the timeout completes.
 
@@ -57,11 +56,19 @@ run();
 
 Remember, without attaching a `.then()` or using `await`, you will not see the output of the Promise resolution directly in the console.
 
+---
+
+🙋 **You:**
+
 for (var i = 0; i < 3; i++) {
   setTimeout(function() { alert(i); }, 1000 + i);
 }
 
 explain that to me
+
+---
+
+🤖 **Assistant:**
 
 The JavaScript code snippet you've shared uses a `for` loop and `setTimeout` to display an alert with the variable `i` three times, with each alert happening slightly later than the previous one due to the `1000 + i` milliseconds delay specified in `setTimeout`. However, there's a common pitfall here related to closures and the scope of the variable `i` within the loop.
 

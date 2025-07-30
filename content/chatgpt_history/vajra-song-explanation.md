@@ -3,25 +3,22 @@ title: Vajra Song Explanation
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  can you further explain vajra song to me?"
 draft: false
 ---
 
 # Vajra Song Explanation
 
-## ✅ TODOs
-
-
-## 📌 Summary
-can you further explain vajra song to me?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 can you further explain vajra song to me?
 https://www.lotsawahouse.org/words-of-the-buddha/ema-kiri-kiri-song-of-vajra
 
+---
 
+🤖 **Assistant:**
 
 The *Song of the Vajra* is a profound practice from the Dzogchen tradition of Tibetan Buddhism, specifically tied to the teachings on direct realization of the nature of mind. It's revered not only as a chant but as a spiritual tool that reflects the essence of Dzogchen: the union of primordial purity (*kadag*) and spontaneous presence (*lhundrup*).
 

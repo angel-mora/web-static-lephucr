@@ -3,24 +3,22 @@ title: Caminar en escritorio de pie
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Es malo caminar en el standing desk mientras trabajo
+  en la computadora?"
 draft: false
 ---
 
 # Caminar en escritorio de pie
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Es malo caminar en el standing desk mientras trabajo en la computadora?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Es malo caminar en el standing desk mientras trabajo en la computadora?
 
+---
 
+🤖 **Assistant:**
 
 Caminar en un **standing desk** mientras trabajas puede tener tanto beneficios como algunos retos. Aquí te detallo los puntos a considerar:
 

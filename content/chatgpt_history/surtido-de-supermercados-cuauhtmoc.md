@@ -3,28 +3,34 @@ title: Surtido de supermercados Cuauhtémoc
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Súper mejor surtido que La Canasta Viva por Campo Vivo
+  en la Cuauhtemoc"
 draft: false
 ---
 
 # Surtido de supermercados Cuauhtémoc
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Súper mejor surtido que La Canasta Viva por Campo Vivo en la Cuauhtemoc
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Súper mejor surtido que La Canasta Viva por Campo Vivo en la Cuauhtemoc 
+Súper mejor surtido que La Canasta Viva por Campo Vivo en la Cuauhtemoc
 
+---
 
+🤖 **Assistant:**
 
 En la delegación Cuauhtémoc, un supermercado que podría ofrecer un surtido más completo que La Canasta Viva, particularmente en productos orgánicos y saludables, es **Green Corner**. Tiene una amplia variedad de productos frescos, orgánicos y artesanales, incluyendo frutas, verduras, productos lácteos, y alimentos especializados. También podrías explorar **City Market** o el **Superama** de la colonia Roma, que suelen tener productos orgánicos y gourmet, aunque a veces a un precio más elevado.
 
-Que otros lugares bien surtidos?? Puede ser en Polanco también 
+---
+
+🙋 **You:**
+
+Que otros lugares bien surtidos?? Puede ser en Polanco también
+
+---
+
+🤖 **Assistant:**
 
 En Polanco y Cuauhtémoc, hay varios lugares bien surtidos para productos orgánicos, saludables y gourmet:
 

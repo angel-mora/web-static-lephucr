@@ -3,22 +3,21 @@ title: Picazón en las manos
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tengo picazón en las manos que puede ser"
 draft: false
 ---
 
 # Picazón en las manos
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Tengo picazón en las manos que puede ser
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tengo picazón en las manos que puede ser
+
+---
+
+🤖 **Assistant:**
 
 La picazón en las manos puede ser causada por varios factores, incluyendo:
 

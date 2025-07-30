@@ -3,24 +3,22 @@ title: Hootsuite API Pricing
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hootsuite API has a cost? Is it paid differently from
+  the software access?"
 draft: false
 ---
 
 # Hootsuite API Pricing
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Hootsuite API has a cost? Is it paid differently from the software access?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Hootsuite API has a cost? Is it paid differently from the software access?
 
+---
 
+🤖 **Assistant:**
 
 As of now, Hootsuite provides access to its APIs at no additional cost beyond the standard subscription fees for their software plans. This means that if you're subscribed to one of Hootsuite's plans, you can utilize their APIs without incurring extra charges. However, it's important to note that Hootsuite reserves the right to introduce charges for API access in the future. citeturn0search20
 

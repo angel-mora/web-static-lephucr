@@ -3,22 +3,22 @@ title: Uninstalling Exercism on Arch
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I want to delete exercism in my arch machine. Its in
+  /usr/bin/exercism. Uninstall it. Got installed with yay"
 draft: false
 ---
 
 # Uninstalling Exercism on Arch
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I want to delete exercism in my arch machine. Its in /usr/bin/exercism. Uninstall it. Got installed with yay
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I want to delete exercism in my arch machine. Its in /usr/bin/exercism. Uninstall it. Got installed with yay
+
+---
+
+🤖 **Assistant:**
 
 You can remove a package that was installed with `yay` in much the same way you would with `pacman`. Here's how you can uninstall `exercism`:
 

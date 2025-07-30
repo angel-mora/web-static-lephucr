@@ -3,24 +3,21 @@ title: TinaCMS Rails Integration
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Is there any tinacms and rails project?"
 draft: false
 ---
 
 # TinaCMS Rails Integration
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Is there any tinacms and rails project?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Is there any tinacms and rails project?
 
+---
 
+🤖 **Assistant:**
 
 There are very few public examples of **TinaCMS** being integrated with **Ruby on Rails**, as TinaCMS is primarily designed for **Next.js** and **static site generators** like Hugo. However, integrating TinaCMS with a Rails backend is possible, especially if you use Rails as an API.
 
@@ -42,7 +39,15 @@ There aren’t widely known projects combining TinaCMS and Rails, but you could 
 
 Would you like help setting up a minimal working example of Rails + TinaCMS?
 
+---
+
+🙋 **You:**
+
 TinaCMS vs CosmicCMS
+
+---
+
+🤖 **Assistant:**
 
 ### **TinaCMS vs. CosmicCMS: A Comparison**  
 

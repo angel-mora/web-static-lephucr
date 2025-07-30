@@ -3,7 +3,10 @@ title: Archiving Video in Mexico
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I am a mantainer of youtube-dl and need to write a
+  tutorial on how both video and audio should be kept in Mexico with the only purpose
+  of sharing it with victims of mexican current war for some info about people who
+  harmed them that will be use on mexican court. Keep it technical"
 draft: false
 ---
 
@@ -26,13 +29,15 @@ draft: false
 - [ ] wnload videos from a list: `yt-dlp -a batch-file.txt`, where `batch-file.txt` contains a list of URLs.
 - [ ] wnload and use the content from the internet.
 
-## 📌 Summary
-I am a mantainer of youtube-dl and need to write a tutorial on how both video and audio should be kept in Mexico with the only purpose of sharing it with victims of mexican current war for some info about people who harmed them that will be use on mexican court. Keep it technical
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I am a mantainer of youtube-dl and need to write a tutorial on how both video and audio should be kept in Mexico with the only purpose of sharing it with victims of mexican current war for some info about people who harmed them that will be use on mexican court. Keep it technical
+
+---
+
+🤖 **Assistant:**
 
 Creating a tutorial for using `youtube-dl` for the purpose of archiving video and audio in Mexico, specifically for legal purposes in court, involves several technical steps. Your tutorial should cover the following key points:
 
@@ -69,7 +74,15 @@ Creating a tutorial for using `youtube-dl` for the purpose of archiving video an
 
 Remember to keep the tutorial straightforward, focusing on the technical aspects. It's also important to regularly update the tutorial to reflect any changes in `youtube-dl` or relevant laws.
 
+---
+
+🙋 **You:**
+
 actual code
+
+---
+
+🤖 **Assistant:**
 
 Creating a tutorial with actual code for using `youtube-dl` to download both video and audio, specifically for archiving purposes in a legal context, would involve several key aspects. Here's a breakdown of what you might include:
 
@@ -173,8 +186,16 @@ youtube-dl -U
 
 Wrap up by emphasizing the importance of using these tools ethically and in compliance with local laws, especially in the context of collecting evidence for legal proceedings. Encourage users to consult legal advice if they are unsure about the legality of their actions. Also, point them to official `youtube-dl` documentation for more detailed information.
 
+---
+
+🙋 **You:**
+
 > youtube-dl --version
 /usr/local/bin/youtube-dl: 2: Syntax error: newline unexpected
+
+---
+
+🤖 **Assistant:**
 
 The error message you're encountering, `/usr/local/bin/youtube-dl: 2: Syntax error: newline unexpected`, suggests there might be an issue with the `youtube-dl` script or its installation on your system. Let's troubleshoot this step by step:
 
@@ -246,7 +267,15 @@ If none of these steps resolve the issue, consider seeking help from the `youtub
 
 Remember, it's important to provide as much detail as possible when seeking help, including the steps you've already tried and any error messages you've encountered.
 
+---
+
+🙋 **You:**
+
 is there any other library that does the same? I am getting errors downloading the page
+
+---
+
+🤖 **Assistant:**
 
 Yes, there are several alternatives to `youtube-dl` that you can use for downloading videos from websites. Some of the popular ones include:
 
@@ -276,7 +305,15 @@ Yes, there are several alternatives to `youtube-dl` that you can use for downloa
 
 When choosing an alternative, consider the specific features you need, such as the ability to download videos in different formats, extract audio, or download playlists. Also, always ensure that you use these tools in compliance with the terms of service of the website you are downloading from and the relevant laws of your country.
 
+---
+
+🙋 **You:**
+
 tutorial for yt-dlp
+
+---
+
+🤖 **Assistant:**
 
 Creating a tutorial for `yt-dlp`, a popular fork of `youtube-dl`, involves guiding users through installation, basic usage, and some advanced features. Here's a comprehensive tutorial outline:
 

@@ -3,22 +3,22 @@ title: Diff Tailwind & Bootstrap
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What are some core differences between tailwind and
+  bootstrap? Code"
 draft: false
 ---
 
 # Diff Tailwind & Bootstrap
 
-## ✅ TODOs
-
-
-## 📌 Summary
-What are some core differences between tailwind and bootstrap? Code
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What are some core differences between tailwind and bootstrap? Code
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Both Tailwind CSS and Bootstrap are popular CSS frameworks, but they have different philosophies and structures. Here are some core differences, along with code examples for clarity:
 

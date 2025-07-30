@@ -3,7 +3,7 @@ title: Best Systems Design Books
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Best systems design books for Rails dev"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] main-driven design (DDD), which can help in organizing the structure of complex Rails applications, particularly in larger, business-oriented projects.
 
-## 📌 Summary
-Best systems design books for Rails dev
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Best systems design books for Rails dev
 
+---
 
+🤖 **Assistant:**
 
 Here are some of the best systems design books that are particularly useful for a Rails developer, covering both general principles and frameworks that complement Rails' architecture:
 

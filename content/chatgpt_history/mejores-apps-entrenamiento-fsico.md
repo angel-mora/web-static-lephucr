@@ -3,24 +3,22 @@ title: Mejores apps entrenamiento físico
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Mejor app para trackear progreso levantando pesas y
+  con calistenia"
 draft: false
 ---
 
 # Mejores apps entrenamiento físico
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Mejor app para trackear progreso levantando pesas y con calistenia
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Mejor app para trackear progreso levantando pesas y con calistenia
 
+---
 
+🤖 **Assistant:**
 
 Para rastrear tu progreso en levantamiento de pesas y calistenia, hay varias aplicaciones que puedes considerar, dependiendo de tus necesidades específicas y preferencias de interfaz. Aquí tienes algunas de las mejores opciones:
 
@@ -54,7 +52,15 @@ Para rastrear tu progreso en levantamiento de pesas y calistenia, hay varias apl
 
 Cada una de estas aplicaciones tiene sus ventajas y desventajas, por lo que la mejor elección dependerá de si te enfocas más en el levantamiento de pesas, calistenia, o ambos, y qué características específicas son más importantes para ti (como la facilidad de uso, personalización, estadísticas avanzadas, etc.).
 
+---
+
+🙋 **You:**
+
 Quiero algo donde pueda poner el peso que estoy manejando en cada aparato o ejercicio, así como el número de series y repeticiones
+
+---
+
+🤖 **Assistant:**
 
 Para llevar un registro detallado del peso que manejas en cada aparato o ejercicio, así como el número de series y repeticiones, te recomendaría las siguientes aplicaciones, ya que están especialmente diseñadas para proporcionar este tipo de seguimiento detallado:
 
@@ -85,7 +91,15 @@ Para llevar un registro detallado del peso que manejas en cada aparato o ejercic
 
 Todas estas aplicaciones te permitirán ingresar el peso que estás usando en cada ejercicio, así como el número de series y repeticiones, lo que te ayudará a llevar un seguimiento detallado de tu progreso en el gimnasio. Te recomendaría probar algunas de estas opciones para ver cuál se adapta mejor a tus necesidades y preferencias.
 
+---
+
+🙋 **You:**
+
 Alguna de esas es de influencers como Jeff Nippard?
+
+---
+
+🤖 **Assistant:**
 
 Ninguna de las aplicaciones que mencioné (Strong, JEFIT, FitNotes, HeavySet, Progression) está directamente relacionada con influencers de fitness como Jeff Nippard. Sin embargo, hay algunas aplicaciones y programas diseñados por influencers de fitness que podrías considerar si buscas algo específicamente desarrollado por ellos:
 

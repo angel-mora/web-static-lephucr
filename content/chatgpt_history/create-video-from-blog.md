@@ -3,22 +3,22 @@ title: Create Video from Blog
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Script to create videos out of blog posts, ruby and
+  python, use existing libraries and Unix based tools"
 draft: false
 ---
 
 # Create Video from Blog
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Script to create videos out of blog posts, ruby and python, use existing libraries and Unix based tools
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Script to create videos out of blog posts, ruby and python, use existing libraries and Unix based tools
+
+---
+
+🤖 **Assistant:**
 
 Creating videos out of blog posts involves several steps:
 

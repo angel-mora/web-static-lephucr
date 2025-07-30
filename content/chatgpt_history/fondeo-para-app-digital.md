@@ -3,28 +3,35 @@ title: Fondeo para app digital
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Recuerda mis intereses por financiar una app de rails
+  para publicar obsidian-based digital gardens y dame una lista de convocatorias de
+  fondeo, condiciones, deadlines. Estoy en CDMX"
 draft: false
 ---
 
 # Fondeo para app digital
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Recuerda mis intereses por financiar una app de rails para publicar obsidian-based digital gardens y dame una lista de convocatorias de fondeo, condiciones, deadlines. Estoy en CDMX
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Recuerda mis intereses por financiar una app de rails para publicar obsidian-based digital gardens y dame una lista de convocatorias de fondeo, condiciones, deadlines. Estoy en CDMX
 
+---
 
+🤖 **Assistant:**
 
 User is interested in financing a Rails app to publish Obsidian-based digital gardens.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Here are several funding opportunities relevant to your Rails app project for publishing Obsidian-based digital gardens:
 

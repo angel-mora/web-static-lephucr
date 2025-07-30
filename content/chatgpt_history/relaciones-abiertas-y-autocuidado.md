@@ -3,7 +3,21 @@ title: Relaciones abiertas y autocuidado
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Me acabo de separar hace tres meses y despues de 5
+  años de relacion monogama y llevo un par saliendo con una amiga de antes. Estamos
+  en exclusividad y sin proteccion pero me gustaría también estar con otras personas.
+  Ella parece abierta pero tengo algo de miedo de que nos enamoremos y siento culpa
+  de estar poliamoroso. No sé cómo llevar eso. Toma las opiniones de Brigitte Vasallo
+  de Terror poliamoroso, de Leonor Silvestri sobre el feminismo y todos los recursos
+  contemporáneos de feministas y de hombres que buscan llevar su sexualidad de forma
+  no posesiva y responsable, los mejores recursos que puedas para ayudarme a entender
+  mi posición y cómo tratar de llevar una relación abierta de forma saludable. También
+  soy ASA en recuperación y tengo una adicción a la pornografía entonces a veces me
+  pregunto si lo que busco de eso sea más un ego lift o un consumo de cuerpos. También
+  me apena comunicar mis deseos de no sentirme presionado por una relación y con posibilidad
+  de filtrear e incluso intimar con otras personas (me siento más bi) . Mi ex me decía
+  que no se puede todo, mi vínculo de hoy me dice que no siente celos. Cómo puedo
+  lidiar con todas estos sentimientos?"
 draft: false
 ---
 
@@ -13,19 +27,27 @@ draft: false
 - [ ] s los recursos contemporáneos de feministas y de hombres que buscan llevar su sexualidad de forma no posesiva y responsable, los mejores recursos que puedas para ayudarme a entender mi posición y cómo tratar de llevar una relación abierta de forma saludable. También soy ASA en recuperación y tengo una adicción a la pornografía entonces a veces me pregunto si lo que busco de eso sea más un ego lift o un consumo de cuerpos. También me apena comunicar mis deseos de no sentirme presionado por una relación y con posibilidad de filtrear e incluso intimar con otras personas (me siento más bi) . Mi ex me decía que no se puede todo, mi vínculo de hoy me dice que no siente celos. Cómo puedo lidiar con todas estos sentimientos?
 - [ ] Byron Katie: The Work**:
 
-## 📌 Summary
-Me acabo de separar hace tres meses y despues de 5 años de relacion monogama y llevo un par saliendo con una amiga de antes. Estamos en exclusividad y sin proteccion pero me gustaría también estar con otras personas. Ella parece abierta pero tengo algo de miedo de que nos enamoremos y siento culpa de estar poliamoroso. No sé cómo llevar eso. Toma las opiniones de Brigitte Vasallo de Terror poliamoroso, de Leonor Silvestri sobre el feminismo y todos los recursos contemporáneos de feministas y de hombres que buscan llevar su sexualidad de forma no posesiva y responsable, los mejores recursos que puedas para ayudarme a entender mi posición y cómo tratar de llevar una relación abierta de forma saludable. También soy ASA en recuperación y tengo una adicción a la pornografía entonces a veces me pregunto si lo que busco de eso sea más un ego lift o un consumo de cuerpos. También me apena comunicar mis deseos de no sentirme presionado por una relación y con posibilidad de filtrear e incluso intimar con otras personas (me siento más bi) . Mi ex me decía que no se puede todo, mi vínculo de hoy me dice que no siente celos. Cómo puedo lidiar con todas estos sentimientos?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Me acabo de separar hace tres meses y despues de 5 años de relacion monogama y llevo un par saliendo con una amiga de antes. Estamos en exclusividad y sin proteccion pero me gustaría también estar con otras personas. Ella parece abierta pero tengo algo de miedo de que nos enamoremos y siento culpa de estar poliamoroso. No sé cómo llevar eso. Toma las opiniones de Brigitte Vasallo de Terror poliamoroso, de Leonor Silvestri sobre el feminismo y todos los recursos contemporáneos de feministas y de hombres que buscan llevar su sexualidad de forma no posesiva y responsable, los mejores recursos que puedas para ayudarme a entender mi posición y cómo tratar de llevar una relación abierta de forma saludable. También soy ASA en recuperación y tengo una adicción a la pornografía entonces a veces me pregunto si lo que busco de eso sea más un ego lift o un consumo de cuerpos. También me apena comunicar mis deseos de no sentirme presionado por una relación y con posibilidad de filtrear e incluso intimar con otras personas (me siento más bi) . Mi ex me decía que no se puede todo, mi vínculo de hoy me dice que no siente celos. Cómo puedo lidiar con todas estos sentimientos?
 
+---
 
+🤖 **Assistant:**
 
 User is in recovery as a sex addict (ASA) and struggles with porn addiction. They recently ended a five-year monogamous relationship and are now exclusively dating a former friend without protection. They are exploring polyamory, feel guilty about it, and fear falling in love or seeking ego validation. They are also questioning their desires, considering a broader sexual orientation (feeling more bi), and reflecting on responsible non-possessive sexuality. They are open to feminist perspectives and seek guidance for healthy open relationships.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Entender y manejar estas emociones y deseos en un contexto de relaciones abiertas o poliamorosas requiere mucha autoexploración y comunicación honesta con tus parejas. Aquí hay algunos puntos clave y recursos que te pueden ayudar a navegar tu situación:
 
@@ -61,10 +83,16 @@ Entender y manejar estas emociones y deseos en un contexto de relaciones abierta
 
 ¿Te gustaría ayuda para desarrollar un plan de comunicación o recomendaciones específicas de grupos en tu área?
 
+---
+
+🙋 **You:**
+
 Sí plan de comunicación.
 Hay algun recurso para mapear mi sistema de creencias?
 
+---
 
+🤖 **Assistant:**
 
 Aquí tienes un **plan de comunicación** y recursos para mapear tu sistema de creencias, ajustados a tus necesidades actuales.
 

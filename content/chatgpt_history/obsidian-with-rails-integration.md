@@ -3,7 +3,9 @@ title: Obsidian with Rails Integration
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Search for Obsidian on Rails in the web to see if there
+  are repositories or articles about combining Obsidian with Ruby on Rails, like the
+  following one:"
 draft: false
 ---
 
@@ -12,16 +14,16 @@ draft: false
 ## ✅ TODOs
 - [ ] ist Sync**: This plugin integrates Todoist with Obsidian, allowing for synchronization of tasks between the two platforms. You can create, update, and manage tasks in Todoist directly from Obsidian, making it a powerful tool for task management within your note-taking workflow【25†source】【26†source】.
 
-## 📌 Summary
-Search for Obsidian on Rails in the web to see if there are repositories or articles about combining Obsidian with Ruby on Rails, like the following one:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Search for Obsidian on Rails in the web to see if there are repositories or articles about combining Obsidian with Ruby on Rails, like the following one: 
 https://kuy.io/blog/posts/modern-front-end-magic-with-rails-7-a-visual-editor-for-markdown-part-1
 
+---
 
+🤖 **Assistant:**
 
 I found a couple of relevant resources about integrating Obsidian with Ruby on Rails. One GitHub repository, [Obsidian-Rails-Dev](https://github.com/ralampay/obsidian-rails-dev), provides notes and documentation for developing Rails applications using Obsidian as a note-taking tool. This repository includes setup guides and development notes tailored for Rails developers.
 
@@ -29,7 +31,15 @@ Another repository, [Obsidian-Ruby](https://github.com/aquaflamingo/obsidian-rub
 
 These resources might be useful if you're looking to combine Obsidian with your Rails projects, particularly if you want to utilize Obsidian's note-taking features in your development workflow.
 
+---
+
+🙋 **You:**
+
 Is there an obsidian sync api to connect with?
+
+---
+
+🤖 **Assistant:**
 
 There isn't a dedicated public API for Obsidian Sync that developers can directly connect to. However, there are a few workarounds and unofficial solutions that might meet your needs:
 
@@ -41,9 +51,15 @@ There isn't a dedicated public API for Obsidian Sync that developers can directl
 
 These solutions provide flexibility for advanced users and developers who need more control over their data and synchronization processes. If you are interested in any of these, you can explore their respective GitHub repositories for more detailed instructions and setup guides.
 
+---
+
+🙋 **You:**
+
 How about existing community plugins?
 
+---
 
+🤖 **Assistant:**
 
 Yes, there are several community plugins available for Obsidian that can help with synchronization, customization, and extending functionality. Here are some notable ones:
 
@@ -81,6 +97,10 @@ Yes, there are several community plugins available for Obsidian that can help wi
 
 These plugins can significantly enhance your Obsidian setup, enabling more robust synchronization and customization options. Be sure to check the installation guides and documentation provided in their respective repositories for detailed setup instructions and configuration options.
 
+---
+
+🤖 **Assistant:**
+
 There are several community plugins available for Obsidian that can help with syncing and integrating various services, although there is no official API for Obsidian Sync itself. Here are a few notable plugins:
 
 1. **Obsidian LiveSync**: This plugin allows for self-hosted synchronization using CouchDB or object storage services like S3. It's designed for users who want a high degree of control over their data and prefer not to rely on official Obsidian Sync services. It supports end-to-end encryption and is particularly useful for those needing efficient conflict resolution and customization options【17†source】.
@@ -93,9 +113,15 @@ For a comprehensive list of plugins, you can explore the Obsidian community plug
 
 These plugins can greatly enhance your experience with Obsidian by integrating it with other tools and services you use regularly.
 
-Dame la informacion para una scorecard blueprint tipo scoreapp.com que me permita generar leads para mi sitio. Lo más importante es cuál será el escenario al que llegaré con este producto. Ejemplo: Después de LEPHUCR recuperarás las ganas de hacer un cambio en el mundo. Entenderás de forma pragmática cómo se conectan las ideas (ideología) con la realidad (economía), aún en un mundo tan complejo como el internet. 
+---
 
+🙋 **You:**
 
+Dame la informacion para una scorecard blueprint tipo scoreapp.com que me permita generar leads para mi sitio. Lo más importante es cuál será el escenario al que llegaré con este producto. Ejemplo: Después de LEPHUCR recuperarás las ganas de hacer un cambio en el mundo. Entenderás de forma pragmática cómo se conectan las ideas (ideología) con la realidad (economía), aún en un mundo tan complejo como el internet.
+
+---
+
+🤖 **Assistant:**
 
 Para crear una **scorecard blueprint** tipo [scoreapp.com](https://scoreapp.com) que te permita generar leads en tu sitio web, aquí te dejo una guía paso a paso junto con un ejemplo de escenario final que puedes utilizar para atraer a tus potenciales clientes.
 
@@ -193,7 +219,15 @@ Al final de la scorecard, los usuarios recibirán un informe detallado con:
 
 Esta scorecard no solo te ayudará a generar leads cualificados sino que también posicionará tu sitio como una fuente valiosa de insights y recomendaciones personalizadas. La clave está en ofrecer valor real a través de un análisis detallado y personalizado de las respuestas de tus usuarios.
 
+---
+
+🙋 **You:**
+
 Reformula las preguntas concretas pero respondiendo a los temas de los que se habla en LEPHUCR. Considera que el libro les debería permitir responder detalladamente cuáles son las formas de poder que atraviesan su práctica y si está contribuyendo a un mundo más libre desde su trabajo o negocio.
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes una versión reformulada de las preguntas para la scorecard, enfocada en los temas de poder y libertad tratados en LEPHUCR:
 
@@ -265,7 +299,15 @@ Al final de la scorecard, los usuarios recibirán un informe detallado con:
 - Recursos adicionales (artículos, libros, cursos) para profundizar en los temas relevantes.
 - Una llamada a la acción clara, invitándolos a una consulta gratuita o a unirse a un webinar sobre estrategias de liberación social y económica.
 
+---
+
+🙋 **You:**
+
 Reformula para preguntar que tanto conoces la Teoría Crítica y si crees que puede ser útil para tu deseo de hacer un cambio
+
+---
+
+🤖 **Assistant:**
 
 Claro, aquí tienes una versión reformulada de las preguntas para la scorecard, enfocada en la comprensión y aplicación de la Teoría Crítica:
 
@@ -339,7 +381,15 @@ Al final de la scorecard, los usuarios recibirán un informe detallado con:
 
 Esta scorecard no solo te ayudará a generar leads cualificados sino que también posicionará tu sitio como una fuente valiosa de insights y recomendaciones personalizadas basadas en la Teoría Crítica.
 
+---
+
+🙋 **You:**
+
 cuales deberian ser los CTAs del libro LEPHUCR?
+
+---
+
+🤖 **Assistant:**
 
 Para el libro **LEPHUCR** (La Economía Política del Humanismo Urbano y la Crítica Radical), es importante diseñar Call to Actions (CTAs) que motiven a los lectores a involucrarse activamente con los conceptos presentados y a aplicar las ideas en su vida personal y profesional. Aquí te dejo algunas sugerencias de CTAs:
 

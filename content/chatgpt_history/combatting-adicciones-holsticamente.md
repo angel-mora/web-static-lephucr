@@ -3,7 +3,12 @@ title: Combatting Adicciones Holísticamente
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Soy developer, bastante feliz pero tengo unas adicciones
+  asociadas con mi trabajo que me hacen sentir un poco incomodo. Fumo mariguana y
+  me masturbo viendo pornografia mientras trabajo. Quiero mejorar mis habitos y no
+  se que hacer. Estoy tratando de usar obsidian checklists para tratar de hacerme
+  una rutina que me ayude a estar bien. Que me puedes recomendar para combatir las
+  adicciones desde un punto de vista holistico y compasivo"
 draft: false
 ---
 
@@ -13,13 +18,15 @@ draft: false
 - [ ] de golpe, establece metas a corto y largo plazo que sean alcanzables y específicas. Por ejemplo, puedes comenzar reduciendo la frecuencia con la que fumas marihuana y/o ves pornografía.
 - [ ] que te funcione para planificar tu día, incluyendo actividades que promuevan tu bienestar, como ejercicio físico, meditación, alimentación saludable y tiempo para hobbies o actividades recreativas.
 
-## 📌 Summary
-Soy developer, bastante feliz pero tengo unas adicciones asociadas con mi trabajo que me hacen sentir un poco incomodo. Fumo mariguana y me masturbo viendo pornografia mientras trabajo. Quiero mejorar mis habitos y no se que hacer. Estoy tratando de usar obsidian checklists para tratar de hacerme una rutina que me ayude a estar bien. Que me puedes recomendar para combatir las adicciones desde un punto de vista holistico y compasivo
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Soy developer, bastante feliz pero tengo unas adicciones asociadas con mi trabajo que me hacen sentir un poco incomodo. Fumo mariguana y me masturbo viendo pornografia mientras trabajo. Quiero mejorar mis habitos y no se que hacer. Estoy tratando de usar obsidian checklists para tratar de hacerme una rutina que me ayude a estar bien. Que me puedes recomendar para combatir las adicciones desde un punto de vista holistico y compasivo
+
+---
+
+🤖 **Assistant:**
 
 Es comprensible que quieras mejorar tus hábitos y combatir las adicciones que afectan tu vida y trabajo. Te felicito por tomar la iniciativa de buscar ayuda. Aquí te ofrezco algunas recomendaciones desde un enfoque holístico y compasivo para abordar tus adicciones:
 
@@ -45,7 +52,15 @@ Es comprensible que quieras mejorar tus hábitos y combatir las adicciones que a
 
 Recuerda que este proceso puede tomar tiempo y esfuerzo, pero con dedicación y apoyo, puedes superar tus adicciones y llevar una vida más saludable y feliz.
 
+---
+
+🙋 **You:**
+
 Siento que soy un poco infantil emocionalmente. Como puedo identificar eso y mis comportamientos compulsivos y atacarlos cuando me vengan a la cabeza
+
+---
+
+🤖 **Assistant:**
 
 Ser consciente de tus emociones y comportamientos compulsivos es fundamental para abordarlos. Aquí hay algunas sugerencias sobre cómo identificar y enfrentar comportamientos compulsivos y emociones infantiles:
 
@@ -71,7 +86,15 @@ Ser consciente de tus emociones y comportamientos compulsivos es fundamental par
 
 Recuerda que el cambio lleva tiempo y esfuerzo, pero con la práctica y el apoyo adecuado, podrás identificar y enfrentar tus emociones infantiles y comportamientos compulsivos de manera efectiva.
 
+---
+
+🙋 **You:**
+
 Necesito una lista mas concreta. Por ejemplo, si te sientes enojado o nervioso cuando estas trabajando, recuerda el punto N. Sal de tu casa, escucha x cancion, lee x frase, respira en posicion x por tiempo x contando x de inhalacion y x de exhalacion
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes una lista más concreta que puedes seguir cuando te sientas enojado o nervioso mientras trabajas:
 

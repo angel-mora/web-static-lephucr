@@ -3,24 +3,21 @@ title: Roommate Search Playlist
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cool “Search for roommate” song"
 draft: false
 ---
 
 # Roommate Search Playlist
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cool “Search for roommate” song
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cool “Search for roommate” song
 
+---
 
+🤖 **Assistant:**
 
 Here are a few fun and fitting songs for a "search for a roommate" vibe, depending on the mood you're going for:  
 
@@ -35,7 +32,15 @@ Here are a few fun and fitting songs for a "search for a roommate" vibe, dependi
 
 Do you have a specific vibe in mind?
 
+---
+
+🙋 **You:**
+
 Chill vibes
+
+---
+
+🤖 **Assistant:**
 
 For chill vibes while searching for a roommate, here are some great tracks that set a relaxed yet inviting tone:  
 

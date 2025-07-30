@@ -3,20 +3,16 @@ title: Bundler rbtree installation error
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  An error occurred while installing rbtree (0.4.6),
+  and Bundler cannot"
 draft: false
 ---
 
 # Bundler rbtree installation error
 
-## ✅ TODOs
-
-
-## 📌 Summary
-An error occurred while installing rbtree (0.4.6), and Bundler cannot
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 An error occurred while installing rbtree (0.4.6), and Bundler cannot
 continue.
@@ -25,8 +21,9 @@ In Gemfile:
   sorted_set was resolved to 1.0.3, which depends on
     rbtree
 
+---
 
-
+🤖 **Assistant:**
 
 The error you're seeing indicates that `rbtree` (a Ruby gem) failed to install, which is causing Bundler to fail as it's a dependency for `sorted_set`.
 
@@ -69,11 +66,19 @@ Here are a few steps you can take to troubleshoot and resolve the issue:
 
 If the issue persists after trying these steps, feel free to share any additional error logs, and I can help further debug.
 
+---
+
+🙋 **You:**
+
 An error occurred while installing mysql2 (0.5.6), and Bundler cannot
 continue.
 
 In Gemfile:
   mysql2
+
+---
+
+🤖 **Assistant:**
 
 The error you're encountering while trying to install the `mysql2` gem typically happens when your system is missing the necessary libraries to build the native extensions that `mysql2` depends on. Here are steps to resolve this issue based on your operating system:
 

@@ -3,7 +3,9 @@ title: Propuesta participación startup blog
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Propuesta de participación en mi startup que cumpla
+  los parámetros que me pedirían en clerky, para potenciales socios iniciales. Cuántos
+  tengo que tener? Será un blog online"
 draft: false
 ---
 
@@ -12,15 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s los fundamentos del marketing digital.
 
-## 📌 Summary
-Propuesta de participación en mi startup que cumpla los parámetros que me pedirían en clerky, para potenciales socios iniciales. Cuántos tengo que tener? Será un blog online
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Propuesta de participación en mi startup que cumpla los parámetros que me pedirían en clerky, para potenciales socios iniciales. Cuántos tengo que tener? Será un blog online
 
+---
 
+🤖 **Assistant:**
 
 Para estructurar una propuesta de participación para tu startup de un blog online usando los parámetros que Clerky podría requerir, necesitarás considerar varios factores clave. Aquí te doy un esquema general que puede servir de base para formular tu propuesta.
 
@@ -61,13 +63,27 @@ Luego, cada uno recibiría su participación de acciones en un esquema de vestin
 
 ¿Te gustaría profundizar en algún aspecto, como los términos específicos del vesting o la asignación de roles más detallada?
 
+---
+
+🙋 **You:**
+
 Cuál es la posición más estratégica?? Cómo puedo resolver ventas y marketing?  Dime cursos express para poder comerciar estratégicamente mi MVP y soluciones técnicas (gemas de rails o third parties)
 
+---
 
+🤖 **Assistant:**
 
 User is looking for express courses and technical solutions to strategically market their MVP, including Rails gems or third-party tools to handle sales and marketing.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 La posición más estratégica en una startup de tecnología suele depender de los fundadores, pero en tu caso, ya que eres el desarrollador de la plataforma, necesitas alguien que maneje estratégicamente el **marketing y ventas**. Esta persona será clave para conectar el producto con el mercado y optimizar la conversión de usuarios en clientes o suscriptores.
 
@@ -122,9 +138,15 @@ Aquí tienes algunos recursos rápidos para aprender sobre marketing digital y v
 
 Con estos cursos y herramientas, podrás comenzar a diseñar una estrategia sólida de ventas y marketing, y gestionar la implementación técnica en Rails. ¿Te gustaría enfocarte más en alguna de estas áreas o profundizar en alguna gema en particular?
 
+---
+
+🙋 **You:**
+
 URLs de los recursos
 
+---
 
+🤖 **Assistant:**
 
 For express courses to help you strategically market your MVP, **Google Digital Garage** offers the [Fundamentals of Digital Marketing](https://google-digitalgarage.vercel.app/certification) course. It covers key topics like online business strategy, search engine marketing, social media, and email marketing. This course is comprehensive and includes practical exercises to help you apply the knowledge right away. You can also find a [YouTube playlist](https://www.youtube.com/playlist?list=PLLSovFY-eK2_1isRMtrNS_me4zDrs2CuS) for learning digital marketing fundamentals quickly.
 
@@ -135,7 +157,15 @@ For Rails solutions to manage sales and marketing:
   
 These tools can help you set up efficient marketing, sales tracking, and payment handling.
 
+---
+
+🙋 **You:**
+
 Lista de negocios con un potencial impacto real para generar cambio social que pueda reclutar de estudiantes universitarios para una potencial incubadora
+
+---
+
+🤖 **Assistant:**
 
 Para una incubadora enfocada en generar cambio social, puedes atraer estudiantes universitarios para desarrollar ideas que aborden problemas sociales y medioambientales desde una perspectiva de emprendimiento. Aquí tienes algunas áreas con potencial impacto social, junto con ejemplos de negocios que podrían interesar a estudiantes:
 
@@ -183,7 +213,15 @@ Estos tipos de negocios tienen un fuerte enfoque en el impacto social y ambienta
 
 ¿Te gustaría profundizar en alguna de estas áreas o explorar más ejemplos?
 
+---
+
+🙋 **You:**
+
 Hay startups o fondos de inversión de riesgo que se hayan financiado con crowdfunding en vez de rondas o de capital intenso?
+
+---
+
+🤖 **Assistant:**
 
 Yes, several startups and even some venture funds have successfully used **crowdfunding** as an alternative to traditional venture capital funding rounds. This model often allows businesses to engage directly with their future customers and supporters, while raising capital in a more democratic and accessible way. Here are a few notable examples:
 
@@ -213,11 +251,27 @@ Yes, several startups and even some venture funds have successfully used **crowd
 
 Crowdfunding can be a viable alternative for startups, especially those looking to create a strong community around their products or services while raising the necessary capital to scale.
 
+---
+
+🙋 **You:**
+
 Can I easily implement the crowdfunding marketing campaign? Are there existing tools or rails gems?
+
+---
+
+🤖 **Assistant:**
 
 User is interested in implementing a crowdfunding marketing campaign and is exploring existing tools or Rails gems for this purpose.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Yes, you can easily implement a **crowdfunding marketing campaign** with existing tools and Rails gems. Here are some options:
 
@@ -246,9 +300,15 @@ If you're interested in building a custom platform, you could integrate these el
 
 By leveraging these tools, you can create a well-rounded crowdfunding campaign that focuses on user engagement, marketing automation, and easy payment handling.
 
+---
+
+🙋 **You:**
+
 Financial or cognitive business ideas to both make profit and make a real change. Include your definition of real change in your response
 
+---
 
+🤖 **Assistant:**
 
 ### Definition of Real Change
 In the context of business ideas, **real change** refers to a significant and lasting positive impact on society or the environment. This type of change goes beyond just profit-making, aiming to address systemic issues like inequality, climate change, education gaps, and healthcare access. The goal is to create businesses that are both profitable and mission-driven, solving real-world problems while generating returns for investors and stakeholders.
@@ -307,13 +367,27 @@ In the context of business ideas, **real change** refers to a significant and la
 ### Combining Profit with Real Impact
 These business ideas focus on **financial sustainability** while driving **social change**. The key to balancing profit and impact is creating scalable business models where growth leads to increased positive outcomes. Each of these ideas can become profitable while directly addressing key global challenges.
 
+---
+
+🙋 **You:**
+
 Considera real change cosas que incidan en los usuarios en tierra capital y trabajo principalmente. Considera también negocios de arreglar asimetrías de información o de poder en brechas interseccionales (como que permitan a los incels tener novia y ser más feministas ejerciendo su masculinidad, o que ayude a trabajadores a ser empleados y tableados fácilmente por gente)
 
+---
 
+🤖 **Assistant:**
 
 User considers real change as business models that impact users in the realms of land, capital, and labor, and that aim to address information or power asymmetries in inter-sectional gaps. They are interested in businesses that, for example, help people in marginal situations (such as incels) improve relationships and exercise healthier masculinity or assist workers in being employed and easily "tabled" (organized) by employers.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Considering your definition of **real change**, here are some business ideas that address the key areas of **land, capital, labor**, and **asymmetries of information or power**, particularly around inter-sectional gaps:
 

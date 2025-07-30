@@ -3,24 +3,21 @@ title: JS Wiki Alternatives
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  things like gollum but for javascript"
 draft: false
 ---
 
 # JS Wiki Alternatives
 
-## ✅ TODOs
-
-
-## 📌 Summary
-things like gollum but for javascript
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 things like gollum but for javascript
 
+---
 
+🤖 **Assistant:**
 
 If you're looking for **tools similar to Gollum** (a Git-based wiki written in Ruby) but built with **JavaScript**, here are some modern alternatives you can explore:
 
@@ -122,7 +119,15 @@ If you're looking for **tools similar to Gollum** (a Git-based wiki written in R
 
 If you want full **JavaScript-based customization** with **Git-backed Markdown content**, **Wiki.js** or **Docusaurus** are excellent options.
 
+---
+
+🙋 **You:**
+
 any of them have support for wikilinks and can show wikilink graphs like in obsidian?
+
+---
+
+🤖 **Assistant:**
 
 Yes, **Wiki.js** and **Docusaurus** have some degree of support for **Wikilinks** and graph visualizations, though it may require plugins or additional configurations. If you want functionality similar to **Obsidian**'s graph view and Wikilink handling, here are the top options:
 
@@ -215,7 +220,15 @@ Yes, **Wiki.js** and **Docusaurus** have some degree of support for **Wikilinks*
 
 Would you like help setting up one of these options or integrating plugins for a specific platform?
 
+---
+
+🙋 **You:**
+
 are all of those open source libraries in js ecosystem?
+
+---
+
+🤖 **Assistant:**
 
 Here is a breakdown of the tools I mentioned and their **open-source status** within the **JavaScript ecosystem**:
 
@@ -270,7 +283,15 @@ Here is a breakdown of the tools I mentioned and their **open-source status** wi
 
 If you want a highly customizable, JavaScript-native setup, I recommend **Docusaurus** or **Wiki.js** with graph libraries like **Cytoscape.js**. Let me know if you'd like help configuring these tools! 🚀
 
+---
+
+🙋 **You:**
+
 so if I want to be able to also edit through a web url my git-based cms, is gollum my best option?? Provide the best comprehensive alternatives you can
+
+---
+
+🤖 **Assistant:**
 
 If you want a **Git-based CMS** that allows you to **edit content through a web URL** (similar to Gollum), while maintaining **modern flexibility**, here’s a comprehensive list of alternatives:
 
@@ -434,7 +455,15 @@ If you want a **Git-based CMS** that allows you to **edit content through a web 
 
 Would you like setup instructions for one of these, or help configuring it to suit your needs? 🚀
 
+---
+
+🙋 **You:**
+
 So if I want my rails app to publish the website for my users from git and let them edit it over the web ui as well, should I use Docusaurus + Cytoscape/TinaCMS or go straight to Gollum? I'm creating an mvp
+
+---
+
+🤖 **Assistant:**
 
 If you're building an **MVP** where your Rails app:
 
@@ -501,7 +530,15 @@ Once your MVP gains traction, you can consider migrating to a **Docusaurus/TinaC
 
 Would you like step-by-step instructions on integrating Gollum into your Rails app? 🚀
 
+---
+
+🙋 **You:**
+
 Does Gollum handle frontmatter for configuration as Jekyll does?
+
+---
+
+🤖 **Assistant:**
 
 No, **Gollum** does not natively handle **frontmatter** (like Jekyll, which processes YAML frontmatter for configurations such as titles, tags, or layouts). Gollum primarily focuses on rendering Markdown, Textile, and other text formats as a Git-backed wiki with a web editor. It doesn’t process or parse frontmatter for configuration purposes out-of-the-box.
 

@@ -3,22 +3,21 @@ title: 'YC Meeting: Key Questions'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  what to ask to ycombinator matches in meeting?"
 draft: false
 ---
 
 # YC Meeting: Key Questions
 
-## ✅ TODOs
-
-
-## 📌 Summary
-what to ask to ycombinator matches in meeting?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 what to ask to ycombinator matches in meeting?
+
+---
+
+🤖 **Assistant:**
 
 When meeting with Y Combinator (YC) matches, it's important to ask questions that help you understand their perspective, provide valuable insights, and build a strong connection. Here are some questions you might consider asking:
 
@@ -64,7 +63,15 @@ When meeting with Y Combinator (YC) matches, it's important to ask questions tha
 
 Remember, these questions are just a starting point. Tailor them to the specific context of your meeting and be prepared to discuss your own startup, its vision, and how you believe Y Combinator can contribute to your success.
 
+---
+
+🙋 **You:**
+
 co founding matcher
+
+---
+
+🤖 **Assistant:**
 
 It sounds like you're referring to finding a co-founder, perhaps through a platform or service that matches potential co-founders based on their skills, interests, and goals. When engaging with a co-founding matcher or platform, you may want to ask specific questions to ensure a successful partnership. Here are some questions to consider:
 
@@ -109,7 +116,15 @@ It sounds like you're referring to finding a co-founder, perhaps through a platf
 
 These questions should help you assess the effectiveness and reliability of a co-founder matching platform and make informed decisions when exploring potential co-founding partnerships.
 
+---
+
+🙋 **You:**
+
 what to ask yc cofounder matching service?
+
+---
+
+🤖 **Assistant:**
 
 When engaging with a Y Combinator (YC) co-founder matching service, you'll want to ask questions that help you understand how the service operates, what to expect, and how it can support your journey in finding a co-founder. Here are some questions to consider:
 
@@ -155,7 +170,15 @@ When engaging with a Y Combinator (YC) co-founder matching service, you'll want 
 
 These questions will help you gain a comprehensive understanding of the YC co-founder matching service and determine if it aligns with your goals in finding a co-founder for your startup.
 
+---
+
+🙋 **You:**
+
 yc metrics
+
+---
+
+🤖 **Assistant:**
 
 As of my last knowledge update in January 2022, Y Combinator (YC) typically evaluates startups based on various metrics and criteria to determine their potential for success. Keep in mind that YC's evaluation criteria may evolve over time, so it's advisable to check their official website or contact them directly for the most up-to-date information. Here are some general metrics and factors that YC tends to consider:
 

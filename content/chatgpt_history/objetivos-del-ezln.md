@@ -3,7 +3,7 @@ title: Objetivos del EZLN
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Telos Histórico del ejército zapatista"
 draft: false
 ---
 
@@ -13,13 +13,15 @@ draft: false
 - [ ] s tengan acceso a la educación, la salud y una vida digna.
 - [ ] s los individuos son tratados equitativamente, sin importar su raza, género, u origen.
 
-## 📌 Summary
-Telos Histórico del ejército zapatista
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Telos Histórico del ejército zapatista
+
+---
+
+🤖 **Assistant:**
 
 El término "telos histórico" se refiere a los objetivos finales o a la finalidad última de un movimiento o grupo en el contexto histórico. En el caso del Ejército Zapatista de Liberación Nacional (EZLN), conocido comúnmente como los zapatistas, su telos histórico se ha centrado en varios objetivos clave desde su aparición en 1994 en Chiapas, México.
 
@@ -35,7 +37,15 @@ El término "telos histórico" se refiere a los objetivos finales o a la finalid
 
 El EZLN, por lo tanto, no solo lucha por los derechos específicos de las comunidades indígenas, sino también por un cambio más amplio en la sociedad mexicana y global, promoviendo valores de justicia, igualdad y respeto a la diversidad cultural.
 
-Cual es telos? Ejemplo de un principio es mandar obedeciendo 
+---
+
+🙋 **You:**
+
+Cual es telos? Ejemplo de un principio es mandar obedeciendo
+
+---
+
+🤖 **Assistant:**
 
 El término "telos" proviene del griego y se refiere al objetivo o propósito final de algo, especialmente en un contexto filosófico o ético. Es la idea de una finalidad, meta o fin hacia el cual se orienta una acción o un conjunto de acciones. En el ámbito de movimientos sociales o políticos, el telos sería la visión o meta última que se busca alcanzar.
 

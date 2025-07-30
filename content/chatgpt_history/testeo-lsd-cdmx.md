@@ -3,7 +3,8 @@ title: Testeo LSD CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Puedo testear lsd para no consumir sustancias contaminadas
+  en CDMX"
 draft: false
 ---
 
@@ -12,15 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s para análisis de sustancias.
 
-## 📌 Summary
-Puedo testear lsd para no consumir sustancias contaminadas en CDMX
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Puedo testear lsd para no consumir sustancias contaminadas en CDMX
 
+---
 
+🤖 **Assistant:**
 
 En la Ciudad de México (CDMX), puedes recurrir a servicios de análisis de sustancias para asegurarte de que lo que planeas consumir no esté contaminado. Aunque la posesión de LSD es ilegal en México, existen organizaciones que trabajan en la reducción de daños y podrían ayudarte. Algunas opciones incluyen:
 

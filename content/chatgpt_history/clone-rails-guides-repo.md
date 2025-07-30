@@ -3,22 +3,22 @@ title: Clone Rails Guides Repo
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  where can I find the rails guides website repo to clone?
+  I want to have the documentation webpage in my localhost"
 draft: false
 ---
 
 # Clone Rails Guides Repo
 
-## ✅ TODOs
-
-
-## 📌 Summary
-where can I find the rails guides website repo to clone? I want to have the documentation webpage in my localhost
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 where can I find the rails guides website repo to clone? I want to have the documentation webpage in my localhost
+
+---
+
+🤖 **Assistant:**
 
 The Rails Guides website is part of the Ruby on Rails source code repository. You can clone this repository to get access to the Rails Guides and run them locally on your machine. Here's how you can do it:
 

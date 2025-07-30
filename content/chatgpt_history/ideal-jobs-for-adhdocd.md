@@ -3,24 +3,22 @@ title: Ideal Jobs for ADHD/OCD
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cognitive problems like Adhd or Oct and their ideal
+  jobs"
 draft: false
 ---
 
 # Ideal Jobs for ADHD/OCD
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cognitive problems like Adhd or Oct and their ideal jobs
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cognitive problems like Adhd or Oct and their ideal jobs
 
+---
 
+🤖 **Assistant:**
 
 Individuals with cognitive conditions such as ADHD (Attention Deficit Hyperactivity Disorder) or OCD (Obsessive-Compulsive Disorder) may find certain types of jobs more suitable based on their unique strengths and challenges. Here are some ideal job types for each condition:
 

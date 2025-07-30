@@ -3,24 +3,22 @@ title: Dzogchen Práctica Repetitiva
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Practicas Dzogchen que sean como solo repetir la A
+  tibetana?"
 draft: false
 ---
 
 # Dzogchen Práctica Repetitiva
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Practicas Dzogchen que sean como solo repetir la A tibetana?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Practicas Dzogchen que sean como solo repetir la A tibetana?
 
+---
 
+🤖 **Assistant:**
 
 Sí, en el Dzogchen existen prácticas que se centran en la repetición de la sílaba "A," considerada una de las prácticas más fundamentales y simples. Esta sílaba está vinculada con la experiencia directa de la naturaleza de la mente, que es el objetivo último del Dzogchen.
 
@@ -28,7 +26,15 @@ Una de las prácticas más conocidas en este contexto es **"A Khrid"** o **"Semd
 
 La repetición de "A" puede ser acompañada de visualizaciones o simplemente enfocarse en el sonido y la resonancia de la sílaba, permitiendo que la mente se asiente en su estado natural sin esfuerzo. Este tipo de prácticas son sencillas en su forma externa pero profundas en su impacto, y están diseñadas para ayudar a los practicantes a conectar con la esencia no dual de la mente.
 
-Dame algún video de youtube que tenga la práctica 
+---
+
+🙋 **You:**
+
+Dame algún video de youtube que tenga la práctica
+
+---
+
+🤖 **Assistant:**
 
 If you're looking for a Dzogchen practice that focuses on repeating the Tibetan letter "A," you might find this YouTube video useful: [Teaching and Guided Dzogchen Meditation](https://www.youtube.com/watch?v=0gJMPUO7C0k). The video includes a guided meditation that aligns with the principles of Dzogchen, emphasizing simplicity and direct awareness, which are central to this practice.
 

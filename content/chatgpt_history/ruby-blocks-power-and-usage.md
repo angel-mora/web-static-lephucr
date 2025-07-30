@@ -3,22 +3,21 @@ title: 'Ruby Blocks: Power and Usage'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Why Rails models and other classes don’t use attributes?"
 draft: false
 ---
 
 # Ruby Blocks: Power and Usage
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Why Rails models and other classes don’t use attributes?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Why Rails models and other classes don’t use attributes?
+
+---
+
+🤖 **Assistant:**
 
 In Ruby on Rails, models and many other classes use methods instead of directly exposing attributes for a few reasons:
 
@@ -38,7 +37,15 @@ That said, if you do need direct access to the attributes, Rails models provide 
 
 In conclusion, while it might seem unusual to those coming from some other languages or frameworks, using methods instead of directly exposing attributes in Rails offers a great deal of power, flexibility, and safety.
 
+---
+
+🙋 **You:**
+
 What is so special about blocks and how can I leverage all its power?
+
+---
+
+🤖 **Assistant:**
 
 In Ruby, blocks are one of its most distinctive and powerful features. A block is essentially a chunk of code that you can pass to a method. Here's why they're special and how you can leverage their power:
 

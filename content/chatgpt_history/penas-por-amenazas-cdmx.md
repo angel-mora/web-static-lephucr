@@ -3,7 +3,7 @@ title: Penas por Amenazas CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Pena por amenazas en CDMX"
 draft: false
 ---
 
@@ -13,15 +13,15 @@ draft: false
 - [ ] s los casos, la gravedad de la amenaza y si fue realizada en un contexto que involucra vulnerabilidad o exposición pública de la víctima, pueden influir en la severidad de la pena【6†source】【7†source】【8†source】.
 - [ ] s los detalles del incidente. Un profesional legal puede ayudarte a entender tus derechos y las opciones legales disponibles para protegerte y proceder contra las amenazas. Además, podrías considerar realizar una denuncia formal si la amenaza ha sido lo suficientemente grave, ya que esto puede ayudar a garantizar tu seguridad y la de otras personas involucradas.
 
-## 📌 Summary
-Pena por amenazas en CDMX
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Pena por amenazas en CDMX
 
+---
 
+🤖 **Assistant:**
 
 En la Ciudad de México, las penas por el delito de amenazas varían según la gravedad y las circunstancias específicas del caso. Según el Código Penal:
 
@@ -35,7 +35,15 @@ En la Ciudad de México, las penas por el delito de amenazas varían según la g
 
 En todos los casos, la gravedad de la amenaza y si fue realizada en un contexto que involucra vulnerabilidad o exposición pública de la víctima, pueden influir en la severidad de la pena【6†source】【7†source】【8†source】.
 
-Un familiar que era mi empleado me amenazó con hacerme daño por hablar con mi hermana 
+---
+
+🙋 **You:**
+
+Un familiar que era mi empleado me amenazó con hacerme daño por hablar con mi hermana
+
+---
+
+🤖 **Assistant:**
 
 Si un familiar que también era tu empleado te amenazó con hacerte daño por hablar con tu hermana, podrías estar ante un caso de amenazas que puede ser penalmente relevante. Dado que el incidente involucra a un familiar y ocurrió en un contexto laboral, esto podría influir en cómo se evalúa y se maneja el caso legalmente.
 
@@ -43,7 +51,15 @@ En términos generales, las amenazas que implican daño físico se consideran se
 
 Es recomendable que consultes con un abogado que pueda ofrecerte asesoramiento específico basado en todos los detalles del incidente. Un profesional legal puede ayudarte a entender tus derechos y las opciones legales disponibles para protegerte y proceder contra las amenazas. Además, podrías considerar realizar una denuncia formal si la amenaza ha sido lo suficientemente grave, ya que esto puede ayudar a garantizar tu seguridad y la de otras personas involucradas.
 
-Fundamento jurídico 
+---
+
+🙋 **You:**
+
+Fundamento jurídico
+
+---
+
+🤖 **Assistant:**
 
 El fundamento jurídico para el delito de amenazas en México está establecido en el Artículo 282 del Código Penal Federal. Este artículo especifica que se aplicarán sanciones a aquellos que amenacen a otro con causar un mal en su persona, bienes, honor, o derechos, así como a los que intenten impedir que alguien ejecute algo que tiene derecho a hacer. Si la amenaza se dirige contra un familiar o alguien con quien se conviva, las penas pueden aumentarse hasta en una tercera parte de su mínimo y máximo【16†source】【17†source】.
 

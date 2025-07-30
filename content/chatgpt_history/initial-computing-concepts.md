@@ -3,22 +3,24 @@ title: Initial Computing Concepts
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What are the most useful initial computing concepts
+  that a newcomer who knows zero about programming should know? Like versión control,
+  processes, sorting,  or background tasks. All should be practical or intuitive concepts
+  that together make the computer as powerful and useful as it is."
 draft: false
 ---
 
 # Initial Computing Concepts
 
-## ✅ TODOs
-
-
-## 📌 Summary
-What are the most useful initial computing concepts that a newcomer who knows zero about programming should know? Like versión control, processes, sorting,  or background tasks. All should be practical or intuitive concepts that together make the computer as powerful and useful as it is.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What are the most useful initial computing concepts that a newcomer who knows zero about programming should know? Like versión control, processes, sorting,  or background tasks. All should be practical or intuitive concepts that together make the computer as powerful and useful as it is.
+
+---
+
+🤖 **Assistant:**
 
 For a newcomer with zero programming knowledge, here are some useful initial computing concepts to understand:
 

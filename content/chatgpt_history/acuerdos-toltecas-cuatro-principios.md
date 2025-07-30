@@ -3,22 +3,21 @@ title: 'Acuerdos Toltecas: Cuatro Principios'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuales son los 4 acuerdos toltecas del Dr Miguel Ruiz?"
 draft: false
 ---
 
 # Acuerdos Toltecas: Cuatro Principios
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cuales son los 4 acuerdos toltecas del Dr Miguel Ruiz?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Cuales son los 4 acuerdos toltecas del Dr Miguel Ruiz? 
+Cuales son los 4 acuerdos toltecas del Dr Miguel Ruiz?
+
+---
+
+🤖 **Assistant:**
 
 Los Cuatro Acuerdos toltecas, propuestos por el Dr. Miguel Ruiz, son:
 

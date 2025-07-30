@@ -3,28 +3,34 @@ title: Awesome Web Design Resources
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Provide books or online resources to learn awesome
+  web design like the superhi.com website"
 draft: false
 ---
 
 # Awesome Web Design Resources
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Provide books or online resources to learn awesome web design like the superhi.com website
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Provide books or online resources to learn awesome web design like the superhi.com website
 
+---
 
+🤖 **Assistant:**
 
 User is interested in learning web design and is seeking resources to achieve a level of expertise similar to that of superhi.com.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 To learn web design and achieve a level of expertise similar to that of superhi.com, consider the following books and online resources:
 
@@ -81,13 +87,27 @@ To learn web design and achieve a level of expertise similar to that of superhi.
 
 By combining the knowledge from these books and online resources with hands-on practice, you'll be well on your way to mastering web design at a professional level.
 
+---
+
+🙋 **You:**
+
 don't provide generic recommendations since I'm already good at web development. Provide advise so I can learn to make delightful web design
 
+---
 
+🤖 **Assistant:**
 
 User is already skilled in web development and seeks advice to learn delightful web design specifically.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Given your proficiency in web development, focusing on the nuances of delightful web design requires diving into advanced and specialized resources. Here are some targeted suggestions to enhance your design skills:
 

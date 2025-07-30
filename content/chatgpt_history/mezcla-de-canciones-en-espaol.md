@@ -3,24 +3,22 @@ title: Mezcla de canciones en español
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  una rola que mezcle entre https://open.spotify.com/track/1gUKeGrLdVT4LCt77oRkJT?si=7b315bb9392d459f
+  y https://open.spotify.com/track/63DbSt9yX4TPiCenkvvn0a?si=f73320cc318d47b1"
 draft: false
 ---
 
 # Mezcla de canciones en español
 
-## ✅ TODOs
-
-
-## 📌 Summary
-una rola que mezcle entre https://open.spotify.com/track/1gUKeGrLdVT4LCt77oRkJT?si=7b315bb9392d459f y https://open.spotify.com/track/63DbSt9yX4TPiCenkvvn0a?si=f73320cc318d47b1
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-una rola que mezcle entre https://open.spotify.com/track/1gUKeGrLdVT4LCt77oRkJT?si=7b315bb9392d459f y https://open.spotify.com/track/63DbSt9yX4TPiCenkvvn0a?si=f73320cc318d47b1 
+una rola que mezcle entre https://open.spotify.com/track/1gUKeGrLdVT4LCt77oRkJT?si=7b315bb9392d459f y https://open.spotify.com/track/63DbSt9yX4TPiCenkvvn0a?si=f73320cc318d47b1
 
+---
 
+🤖 **Assistant:**
 
 Si buscas algo que capture el mood melancólico y la vibra introspectiva de *Dormir Soñando* de Jumbo y *Me Haces Tanto Bien* de Amantes del Eco, podrías disfrutar de *La Edad de Oro* de La Habitación Roja. Esta canción combina tonos nostálgicos y un ritmo que evoca cierta melancolía, con letras que profundizan en emociones intensas. 
 
@@ -32,13 +30,29 @@ Otras opciones que podrías disfrutar:
 
 Estas rolas también reflejan la mezcla entre rock alternativo y letras profundas y melódicas que te pueden gustar.
 
+---
+
+🙋 **You:**
+
 los links que te pase referencia Sweet Lullaby de Deep Forest y Mara pass Mara Beat de Dj kalipha
+
+---
+
+🤖 **Assistant:**
 
 Entiendo que buscas una canción que combine elementos de "Sweet Lullaby" de Deep Forest y "Mara Pass Mara Beat" de DJ Khalipha. Ambas piezas fusionan ritmos electrónicos con influencias étnicas y vocales hipnóticas. Una recomendación que podría interesarte es "Return to Innocence" de Enigma. Esta canción integra cantos étnicos con una base electrónica envolvente, creando una atmósfera similar a las que mencionaste.
 
-Otra opción es "Adiemus" de Karl Jenkins, que presenta vocalizaciones étnicas sobre una producción electrónica suave. Estas canciones ofrecen una fusión de sonidos electrónicos y tradicionales que podrían resonar con tus preferencias. 
+Otra opción es "Adiemus" de Karl Jenkins, que presenta vocalizaciones étnicas sobre una producción electrónica suave. Estas canciones ofrecen una fusión de sonidos electrónicos y tradicionales que podrían resonar con tus preferencias.
+
+---
+
+🙋 **You:**
 
 me gusta Adiemus, dame una playlist
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes una selección de canciones que mezclan influencias étnicas, electrónica suave y un toque de misticismo similar a *Adiemus* de Karl Jenkins:
 

@@ -3,7 +3,9 @@ title: Relación sana y recuperación
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cómo puedo cuidar que mi relación se desarrolle de
+  manera sana si soy adicto a la mota y al sexo? Estoy en un grupo de ASA. Hace seis
+  meses terminé una relación codependiente de seis años"
 draft: false
 ---
 
@@ -15,15 +17,15 @@ draft: false
 - [ ] de las “3 tareas clave”**
 - [ ] lo demás es extra. Así evitas la sensación de que *nunca es suficiente*.
 
-## 📌 Summary
-Cómo puedo cuidar que mi relación se desarrolle de manera sana si soy adicto a la mota y al sexo? Estoy en un grupo de ASA. Hace seis meses terminé una relación codependiente de seis años
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cómo puedo cuidar que mi relación se desarrolle de manera sana si soy adicto a la mota y al sexo? Estoy en un grupo de ASA. Hace seis meses terminé una relación codependiente de seis años
 
+---
 
+🤖 **Assistant:**
 
 Estás en una muy buena posición para construir una relación sana, porque ya tienes conciencia de tus patrones y estás en un grupo de ASA, lo cual es un paso enorme. Aquí hay algunas cosas que pueden ayudarte a cuidar tu nueva relación:  
 
@@ -47,9 +49,15 @@ Dale tiempo a la relación para que se desarrolle de forma natural. Si sientes q
 
 Si sigues en ASA, ya tienes una base sólida para cambiar patrones. ¿Sientes que hay alguna parte específica en la que más te cuesta mantenerte en la línea de lo sano?
 
+---
+
+🙋 **You:**
+
 Y cómo puedo relacionarme de una mejor manera con mi trabajo para sentir agradecimiento en vez de frustracion si no me sale algo? Normalmente me aíslo en vez de buscar ayuda con algún compañero. Recuerda soy Rails dev. No quiero solo tener que escapar y trabajar fuera sino también poder disfrutar mi trabajo. La frustracion y trabajar solo estan en mi circulo medio de ASA pero tambien quisiera que mi trabajo emocional me permita cambiar mi actitud frente a mi programmer job
 
+---
 
+🤖 **Assistant:**
 
 Parece que estás buscando transformar tu relación con el trabajo de la misma manera que trabajas en ASA: pasando de patrones de aislamiento y frustración a una postura más abierta y agradecida. Aquí hay algunas estrategias que pueden ayudarte:  
 
@@ -91,7 +99,15 @@ En ASA seguramente trabajas con principios como la humildad, el pedir ayuda y la
 
 Parece que quieres que tu trabajo sea algo más que una fuente de frustración o un escape. Si pudieras elegir, ¿cómo te gustaría sentirte en tu día a día como Rails dev?
 
+---
+
+🙋 **You:**
+
 Siento lo mismo con mi lista de tareas de Google Tasks. Me hace sentir ganas de consumir para sentirme bien porque siento que es monumental el trabajo de deshacerme de las tareas
+
+---
+
+🤖 **Assistant:**
 
 Parece que tu lista de tareas se ha convertido en una fuente de ansiedad en lugar de una herramienta útil. Eso es súper común cuando las tareas se acumulan y se sienten como una montaña imposible de escalar. Aquí hay algunas ideas para que puedas transformar esa relación y evitar que te lleve a querer consumir:  
 
@@ -122,7 +138,15 @@ Si la lista de tareas te empuja a consumir para sentir alivio, reemplázalo con 
 
 Básicamente, se trata de que la lista de tareas trabaje para ti, no que tú seas su esclavo. Si mañana tuvieras una relación *ideal* con tu lista, ¿cómo te gustaría que se sintiera?
 
+---
+
+🙋 **You:**
+
 Ayúdame a entender cómo opera en mí la obsesión compulsión en mis dos adicciones?
+
+---
+
+🤖 **Assistant:**
 
 En la adicción, la **obsesión-compulsión** es el ciclo en el que un pensamiento intrusivo (obsesión) te empuja a una acción repetitiva (compulsión) con la ilusión de obtener alivio, pero que en realidad refuerza el problema.  
 

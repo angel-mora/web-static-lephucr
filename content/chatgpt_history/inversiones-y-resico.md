@@ -3,7 +3,7 @@ title: Inversiones y RESICO
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Resico no puede invertir en GBM?"
 draft: false
 ---
 
@@ -13,21 +13,29 @@ draft: false
 - [ ] s los instrumentos en los que si puedo invertir de GBM y su rendimiento promedio
 - [ ] México, y puedes invertir en proyectos inmobiliarios ubicados en la CDMX.
 
-## 📌 Summary
-Resico no puede invertir en GBM?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Resico no puede invertir en GBM?
 
+---
 
+🤖 **Assistant:**
 
 Correcto, las personas físicas bajo el Régimen Simplificado de Confianza (RESICO) en México tienen ciertas restricciones fiscales, una de las cuales es la participación en actividades empresariales que impliquen inversiones o la obtención de ingresos de capital, como la compra de acciones o participación en mercados bursátiles. Esto significa que las personas en el régimen RESICO no pueden invertir en GBM o en otros instrumentos financieros que involucren capital de riesgo o participación accionaria, ya que ese tipo de ingresos no está permitido bajo las reglas de este régimen fiscal.
 
 Si deseas realizar inversiones, sería más adecuado explorar opciones para cambiar a un régimen fiscal diferente, como el Régimen de Incorporación Fiscal (RIF) o incluso considerar la creación de una entidad legal como una Sociedad por Acciones Simplificada (SAS), que te permitiría participar en actividades de inversión sin las restricciones de RESICO.
 
+---
+
+🙋 **You:**
+
 Cuánto aumentan los impuestos en esos regímenes? Dime cuánto tendría que tener de utilidad para que me convenga
+
+---
+
+🤖 **Assistant:**
 
 La diferencia en impuestos entre el Régimen Simplificado de Confianza (RESICO) y otros regímenes como el Régimen de Incorporación Fiscal (RIF) o una Sociedad por Acciones Simplificada (SAS) puede ser considerable dependiendo de tus ingresos.
 
@@ -69,7 +77,15 @@ Para que te convenga salir de RESICO y formar una SAS, tendrías que ganar lo su
 
 Si tus inversiones en GBM o el mercado bursátil generan ganancias significativas, puede valer la pena formar una SAS. Sin embargo, si tus inversiones no generan retornos tan altos, el RESICO sigue siendo más favorable debido a su baja tasa impositiva.
 
+---
+
+🙋 **You:**
+
 Cuál es la inversión con el mejor retorno que puedo hacer como RESICO? Browse the web. Conozco la de Nu, que al día de hoy te ofrece 13%
+
+---
+
+🤖 **Assistant:**
 
 Como contribuyente bajo el régimen RESICO, puedes considerar varias opciones de inversión seguras y rentables en México que se alinean con tus necesidades.
 
@@ -79,7 +95,15 @@ Otra opción son los **fondos de inversión**. En 2024, fondos como el **BBVANDQ
 
 Cada opción tiene sus ventajas dependiendo de tu perfil de riesgo. Las SOFIPOS son muy atractivas por su alta tasa y beneficio fiscal, mientras que los fondos de inversión te permiten diversificar y obtener potencialmente mayores rendimientos.
 
+---
+
+🙋 **You:**
+
 Esos fondos de inversión que me dices no se contraponen a mi régimen de Resico??
+
+---
+
+🤖 **Assistant:**
 
 Como contribuyente bajo el régimen RESICO, puedes invertir en ciertos instrumentos financieros, pero debes tener en cuenta algunas limitaciones en cuanto a actividades que impliquen inversiones empresariales o de capital. 
 
@@ -89,7 +113,15 @@ Si bien el **RESICO** tiene algunas restricciones para personas físicas en cuan
 
 Te sugiero revisar con un asesor fiscal para confirmar cómo tus inversiones específicas pueden interactuar con las disposiciones del RESICO y evitar complicaciones futuras.
 
+---
+
+🙋 **You:**
+
 Como invierto en esos fondos de inversión que me comentaste?
+
+---
+
+🤖 **Assistant:**
 
 Para invertir en los fondos de inversión que mencioné, como **BBVANDQGB**, **STERNDQ B1**, o en **SOFIPOS** como Klar, debes seguir algunos pasos básicos:
 
@@ -103,7 +135,15 @@ Para invertir en los fondos de inversión que mencioné, como **BBVANDQGB**, **S
 
 Si te decides por SOFIPOS, verifica los requisitos de cada una en su sitio web oficial, ya que también puedes abrir una cuenta directamente con ellas.
 
+---
+
+🙋 **You:**
+
 Pero no que como Resico no puedo invertir en GBM?
+
+---
+
+🤖 **Assistant:**
 
 Como contribuyente bajo el régimen **RESICO**, no puedes participar directamente en la compra de acciones ni invertir en sociedades mercantiles, lo que incluye algunas opciones dentro de GBM+, como acciones o ciertos fondos de inversión vinculados a renta variable. Esto es debido a las restricciones del régimen que limitan actividades empresariales o de capital que generan ingresos adicionales a los permitidos por este esquema fiscal.
 
@@ -111,7 +151,15 @@ Sin embargo, aún puedes invertir en otros instrumentos permitidos para personas
 
 Si quieres invertir en instrumentos sin comprometer tu régimen RESICO, te recomiendo consultar directamente con un asesor fiscal para verificar los fondos específicos que se ajusten a las normas.
 
+---
+
+🙋 **You:**
+
 Lista de todos los instrumentos en los que si puedo invertir de GBM y su rendimiento promedio
+
+---
+
+🤖 **Assistant:**
 
 Como contribuyente RESICO, puedes invertir en instrumentos de deuda dentro de **GBM** que no implican participación accionaria, lo cual es permitido en tu régimen. A continuación, te indico algunos de los fondos de deuda en los que puedes invertir:
 
@@ -123,7 +171,15 @@ Como contribuyente RESICO, puedes invertir en instrumentos de deuda dentro de **
 
 Para comenzar a invertir, solo necesitas abrir una cuenta en **GBM+**, acceder a su sección de fondos de inversión, y elegir los que mejor se alineen con tu perfil de riesgo.
 
+---
+
+🙋 **You:**
+
 Dame los instrumentos, fondos, etc en los que si puedo invertir como Resico en GBM que tengan los mayores rendimientos posibles
+
+---
+
+🤖 **Assistant:**
 
 Como contribuyente bajo el régimen **RESICO**, puedes invertir en instrumentos de deuda y fondos que no impliquen participación accionaria. A continuación te detallo algunos de los instrumentos disponibles en **GBM** con altos rendimientos que son compatibles con tu régimen:
 
@@ -141,15 +197,29 @@ Como contribuyente bajo el régimen **RESICO**, puedes invertir en instrumentos 
 
 Estos instrumentos de deuda son seguros y ofrecen buenos rendimientos sin violar las restricciones de tu régimen fiscal. Puedes acceder a ellos abriendo una cuenta en **GBM+** y seleccionando los fondos en la sección de inversiones en renta fija.
 
+---
+
+🙋 **You:**
+
 Me dijiste BBVANDQGB y el STERNDQ B1 han mostrado rendimientos superiores al 24% anual antes
+
+---
+
+🤖 **Assistant:**
 
 Es correcto, mencioné que los fondos **BBVANDQGB** y **STERNDQ B1** han mostrado rendimientos superiores al **24% anual**, pero estos son fondos de **renta variable** que invierten en acciones y, por lo tanto, implican participación en capital. Esto los excluye de las opciones que puedes utilizar bajo el régimen **RESICO**, ya que no puedes invertir en acciones o fondos relacionados con capital【12†source】【13†source】.
 
 Para tu situación como contribuyente **RESICO**, debes limitarte a fondos de **deuda** o **instrumentos gubernamentales**, como los que te mencioné anteriormente, que ofrecen altos rendimientos sin infringir las regulaciones fiscales de tu régimen.
 
+---
+
+🙋 **You:**
+
 Generando buenos ingresos a través del RESICO de qué otra forma podría generar intereses altos anuales? Dime ejemplos que funcionen para la CDMX
 
+---
 
+🤖 **Assistant:**
 
 Si ya estás generando buenos ingresos a través del **RESICO** y deseas obtener altos intereses anuales sin comprometer las restricciones fiscales de este régimen, hay varias opciones disponibles en la Ciudad de México que pueden ofrecerte rendimientos atractivos. Aquí algunos ejemplos:
 

@@ -3,24 +3,21 @@ title: Respetar comida gato bebé
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  como hacer que gato adulto respete croquetas bebe"
 draft: false
 ---
 
 # Respetar comida gato bebé
 
-## ✅ TODOs
-
-
-## 📌 Summary
-como hacer que gato adulto respete croquetas bebe
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 como hacer que gato adulto respete croquetas bebe
 
+---
 
+🤖 **Assistant:**
 
 Para que un gato adulto respete las croquetas de un gato bebé, puedes seguir estos consejos:  
 

@@ -3,24 +3,22 @@ title: Horario de trabajo Japón
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cómo seria mi horario de trabajo viviendo en Japón
+  si en CDMX empiezo 10:30am"
 draft: false
 ---
 
 # Horario de trabajo Japón
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cómo seria mi horario de trabajo viviendo en Japón si en CDMX empiezo 10:30am
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cómo seria mi horario de trabajo viviendo en Japón si en CDMX empiezo 10:30am
 
+---
 
+🤖 **Assistant:**
 
 Si comienzas tu horario de trabajo a las 10:30 a.m. en Ciudad de México (CDMX) y te mudas a Japón, tendrás que considerar la diferencia de zonas horarias entre ambos lugares.
 
@@ -42,7 +40,15 @@ En este caso, tu jornada laboral se ajustaría a un estilo de vida nocturno en J
 
 ¿Te gustaría ajustar este horario, o preferirías mantenerlo igual?
 
+---
+
+🙋 **You:**
+
 si lo pudiera ajustar para empezar a trabajar, no sé, 5am?
+
+---
+
+🤖 **Assistant:**
 
 Si ajustas tu horario para comenzar a trabajar a las **5:00 a.m. en Japón**, aquí está cómo se traduciría el horario a la hora de CDMX:
 

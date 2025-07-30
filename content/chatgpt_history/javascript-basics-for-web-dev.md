@@ -3,20 +3,15 @@ title: JavaScript Basics for Web Dev
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Temas que estaria chido saber antes de iniciar"
 draft: false
 ---
 
 # JavaScript Basics for Web Dev
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Temas que estaria chido saber antes de iniciar
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Temas que estaria chido saber antes de iniciar 
 
@@ -33,6 +28,10 @@ Temas que estaria chido saber antes de iniciar
 10. Async - Await
 
 Explain each topic. All in English. One topic per response and I'll say continue
+
+---
+
+🤖 **Assistant:**
 
 Absolutely! Let's start with the first topic:
 
@@ -53,7 +52,15 @@ This language is foundational for web developers, as it allows for the creation 
 
 Let's move on to the next topic when you're ready!
 
+---
+
+🙋 **You:**
+
 Continue
+
+---
+
+🤖 **Assistant:**
 
 ### 2. Constants and Variables (`let`)
 
@@ -79,7 +86,15 @@ Using `let` and `const` helps manage variable scope and reduces errors, such as 
 
 Next, we'll discuss Template Strings. Let me know when you're ready to proceed!
 
+---
+
+🙋 **You:**
+
 Continue
+
+---
+
+🤖 **Assistant:**
 
 ### 3. Template Strings
 
@@ -106,7 +121,15 @@ Template Strings are particularly useful when you need to construct strings dyna
 
 Next, we'll delve into Object Literals. Just let me know when you're ready!
 
+---
+
+🙋 **You:**
+
 Continue
+
+---
+
+🤖 **Assistant:**
 
 ### 4. Object Literals
 

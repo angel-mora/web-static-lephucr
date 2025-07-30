@@ -3,7 +3,7 @@ title: 4 paso ASA significado
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  4 paso asa"
 draft: false
 ---
 
@@ -12,19 +12,27 @@ draft: false
 ## ✅ TODOs
 - [ ] logía, una norma técnica, o algo más?
 
-## 📌 Summary
-4 paso asa
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-4 paso asa 
+4 paso asa
 
+---
 
+🤖 **Assistant:**
 
 Parece que quieres saber algo sobre un "4 paso ASA", pero no está claro a qué te refieres. ¿Podrías darme más contexto? ¿Se trata de un proceso, una metodología, una norma técnica, o algo más?
 
+---
+
+🙋 **You:**
+
 Adictos sexuales anonimos
+
+---
+
+🤖 **Assistant:**
 
 En **Adictos Sexuales Anónimos (ASA)**, el **Cuarto Paso** es parte del programa de recuperación basado en los Doce Pasos de Alcohólicos Anónimos. Este paso dice:  
 

@@ -3,22 +3,22 @@ title: Use AASM State Methods
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  direct assignment of AASM column has been disabled
+  (see AASM configuration for this class) (AASM::NoDirectAssignmentError)"
 draft: false
 ---
 
 # Use AASM State Methods
 
-## ✅ TODOs
-
-
-## 📌 Summary
-direct assignment of AASM column has been disabled (see AASM configuration for this class) (AASM::NoDirectAssignmentError)
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 direct assignment of AASM column has been disabled (see AASM configuration for this class) (AASM::NoDirectAssignmentError)
+
+---
+
+🤖 **Assistant:**
 
 The error message you're encountering, `direct assignment of AASM column has been disabled (see AASM configuration for this class) (AASM::NoDirectAssignmentError)`, is related to the AASM (Acts As State Machine) gem in Ruby. AASM is a library designed to add state machines to Ruby classes. It's commonly used in Rails applications to manage the states of objects.
 

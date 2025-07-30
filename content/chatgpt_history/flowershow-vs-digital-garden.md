@@ -3,24 +3,21 @@ title: Flowershow vs Digital Garden
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  flowershow vs https://github.com/maximevaillancourt/digital-garden-jekyll-template"
 draft: false
 ---
 
 # Flowershow vs Digital Garden
 
-## ✅ TODOs
-
-
-## 📌 Summary
-flowershow vs https://github.com/maximevaillancourt/digital-garden-jekyll-template
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 flowershow vs https://github.com/maximevaillancourt/digital-garden-jekyll-template
 
+---
 
+🤖 **Assistant:**
 
 ​Both Flowershow and the Digital Garden Jekyll Template by Maxime Vaillancourt are tools designed to help you publish digital gardens—personal online spaces for interconnected notes and ideas. Here's a comparison to help you choose the one that best fits your needs:
 

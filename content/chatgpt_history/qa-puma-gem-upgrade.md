@@ -3,22 +3,22 @@ title: QA Puma Gem Upgrade
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to qa a puma gem upgrade? It it enough if the server
+  runs with invoker (as it is doing it now)?"
 draft: false
 ---
 
 # QA Puma Gem Upgrade
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How to qa a puma gem upgrade? It it enough if the server runs with invoker (as it is doing it now)?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to qa a puma gem upgrade? It it enough if the server runs with invoker (as it is doing it now)?
+
+---
+
+🤖 **Assistant:**
 
 Upgrading the Puma gem (or any gem for that matter) in a Ruby application requires careful quality assurance (QA) to ensure that the upgrade doesn't introduce regressions or other issues. Puma is a popular web server for Ruby applications, and changes to it can affect the performance, stability, and behavior of your application.
 
@@ -58,7 +58,15 @@ Here's a step-by-step guide to QA a Puma gem upgrade:
 
 Remember, the key to a successful upgrade is thorough testing and monitoring. Even if everything seems fine in development, always be prepared for potential issues in production.
 
+---
+
+🙋 **You:**
+
 Give me ideas to automate security auditing in a rails app
+
+---
+
+🤖 **Assistant:**
 
 Automating security auditing in a Rails application is crucial to ensure that the application is free from vulnerabilities and follows best security practices. Here are some ideas and tools to help you automate security auditing in a Rails app:
 
@@ -105,7 +113,15 @@ Automating security auditing in a Rails application is crucial to ensure that th
 
 Remember, while automation can significantly help in maintaining the security posture of your Rails application, it's not a replacement for manual reviews, regular penetration testing, and staying updated with the latest security best practices and threats.
 
+---
+
+🙋 **You:**
+
 Provide chunks of code with require 'gem' so I can get a clearer idea for each case
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Let's go through some of the tools and gems mentioned earlier, and I'll provide a basic code snippet for each to give you an idea of how they might be used in a Rails application:
 

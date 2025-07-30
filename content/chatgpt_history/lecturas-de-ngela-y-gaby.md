@@ -3,7 +3,7 @@ title: Lecturas de Ángela y Gaby
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que libros leen Ángela Cuahutle y Gaby Cepeda?"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] mientras explora la dinámica de una comunidad aislada y la identidad femenina.
 
-## 📌 Summary
-Que libros leen Ángela Cuahutle y Gaby Cepeda?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que libros leen Ángela Cuahutle y Gaby Cepeda?
 
+---
 
+🤖 **Assistant:**
 
 Ángela Cuahutle y Gaby Cepeda son conocidas en el ámbito de las artes y la cultura, por lo que su lectura suele estar relacionada con temas de arte contemporáneo, teoría crítica, feminismo, y estudios culturales. Aunque no tengo información específica sobre sus lecturas actuales, puedo sugerir algunos autores y títulos que probablemente sean de su interés:
 
@@ -36,7 +36,15 @@ Que libros leen Ángela Cuahutle y Gaby Cepeda?
 
 Estos títulos reflejan intereses en el campo del arte y la teoría crítica que podrían alinearse con sus trabajos y perspectivas en la curaduría y crítica de arte.
 
+---
+
+🙋 **You:**
+
 En que te basas?
+
+---
+
+🤖 **Assistant:**
 
 Mi respuesta se basa en el conocimiento general de los campos en los que Ángela Cuahutle y Gaby Cepeda están activas, es decir, la curaduría, la crítica de arte, y la teoría cultural. Este tipo de profesionales suelen leer y estar interesados en obras de teoría crítica, estética, feminismo, y estudios culturales, que son fundamentales para su trabajo en el arte contemporáneo.
 
@@ -46,11 +54,27 @@ Mi respuesta se basa en el conocimiento general de los campos en los que Ángela
 
 Sin embargo, si tienes información más específica sobre sus intereses literarios o proyectos recientes, podría ajustar las recomendaciones para ser más precisas.
 
+---
+
+🙋 **You:**
+
 Me interesa más que novelas leen a la teoria
+
+---
+
+🤖 **Assistant:**
 
 User is interested in what novels Ángela Cuahutle and Gaby Cepeda read rather than their theoretical readings.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Cuando se trata de novelas, considerando los intereses y perfiles de Ángela Cuahutle y Gaby Cepeda, es probable que lean obras que exploren temas relacionados con la identidad, el feminismo, la tecnología, y la crítica social. Algunas novelas que podrían alinearse con sus gustos incluyen:
 
@@ -66,19 +90,39 @@ Cuando se trata de novelas, considerando los intereses y perfiles de Ángela Cua
 
 Estas novelas abordan temas profundos y están escritas por autoras que podrían resonar con sus intereses culturales y políticos.
 
+---
+
+🙋 **You:**
+
 Mercury Retrogade, Exquisite Mariposa, poesía de Simone White, etc
 
+---
 
+🤖 **Assistant:**
 
 User is interested in novels like "Mercury Retrograde," "Exquisite Mariposa," and poetry by Simone White.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 ¡Gracias por la actualización! Dado que te interesan novelas como *"Mercury Retrograde"* de Emily Segal, *"Exquisite Mariposa"* de Fiona Alison Duncan, y la poesía de Simone White, es probable que Ángela Cuahutle y Gaby Cepeda también lean obras contemporáneas que exploren temas de la vida moderna, la identidad, la cultura digital, y la introspección. Estas lecturas suelen resonar con aquellos que están involucrados en el arte y la crítica cultural, conectando experiencias personales con un contexto más amplio de crítica social y cultural.
 
-Dime otras lecturas que ellas podrían leer alrededor de las últimas que te compartí 
+---
 
+🙋 **You:**
 
+Dime otras lecturas que ellas podrían leer alrededor de las últimas que te compartí
+
+---
+
+🤖 **Assistant:**
 
 Si te gustan *"Mercury Retrograde"*, *"Exquisite Mariposa"*, y la poesía de Simone White, aquí tienes algunas otras lecturas que podrían resonar con ese mismo estilo y enfoque:
 
@@ -98,7 +142,15 @@ Si te gustan *"Mercury Retrograde"*, *"Exquisite Mariposa"*, y la poesía de Sim
 
 Estas lecturas tienen un enfoque contemporáneo y a menudo experimental, con un fuerte énfasis en la experiencia personal y la cultura actual, lo que las haría atractivas para lectores interesados en los mismos temas que *"Mercury Retrograde"* y *"Exquisite Mariposa"*.
 
-Lo mismo pero con año de publicación 
+---
+
+🙋 **You:**
+
+Lo mismo pero con año de publicación
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes las lecturas que mencioné, esta vez con sus años de publicación:
 

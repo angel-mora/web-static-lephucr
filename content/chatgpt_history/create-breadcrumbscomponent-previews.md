@@ -7,7 +7,8 @@ tags:
 - end
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  how can I create view components preview file where
+  I have two options one, has 2 depth and the second has only one in header menu"
 draft: false
 ---
 
@@ -16,11 +17,9 @@ draft: false
 ## ✅ TODOs
 - [ ] so. Please provide some advice
 
-## 📌 Summary
-how can I create view components preview file where I have two options one, has 2 depth and the second has only one in header menu
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 how can I create view components preview file where I have two options one, has 2 depth and the second has only one in header menu
 Here is my file 
@@ -62,6 +61,9 @@ module SoftwareReviewsShared
   end
 end
 
+---
+
+🤖 **Assistant:**
 
 It looks like you're trying to set up previews for a `BreadcrumbsComponent` using the `ViewComponent::Preview` class. The provided code has a few issues:
 
@@ -111,7 +113,15 @@ A few things to note:
 
 Lastly, ensure that your FactoryBot factories (`:offering_category` and `:category`) are correctly set up and can create the necessary records for the preview.
 
- method should be called 'default'
+---
+
+🙋 **You:**
+
+method should be called 'default'
+
+---
+
+🤖 **Assistant:**
 
 Alright, if you want one of the preview methods to be the default, you can rename it to `default`. Here's the refactored code with the `product` method renamed to `default`:
 
@@ -149,7 +159,15 @@ end
 
 With this setup, when you navigate to the previews index for the `BreadcrumbsComponent`, the `default` method will be the first one shown.
 
+---
+
+🙋 **You:**
+
 category method too, how can I solve ti?
+
+---
+
+🤖 **Assistant:**
 
 If you want both methods to be named `default`, you can't do that directly since method names must be unique. However, you can use a naming convention that indicates the difference between the two defaults. 
 
@@ -189,7 +207,15 @@ end
 
 This way, you clearly indicate the difference between the two default previews while adhering to the naming constraints.
 
+---
+
+🙋 **You:**
+
 this component has a renders_many association with another one called breadcrumbsItem. I tried to preview the component but haven't been able to do so. Please provide some advice
+
+---
+
+🤖 **Assistant:**
 
 If your `BreadcrumbsComponent` has a `renders_many` association with another component called `BreadcrumbsItemComponent`, it means that the `BreadcrumbsComponent` can render multiple instances of `BreadcrumbsItemComponent`.
 

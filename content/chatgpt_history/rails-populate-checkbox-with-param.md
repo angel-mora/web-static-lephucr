@@ -3,27 +3,25 @@ title: 'Rails: Populate Checkbox with Param'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I paste a param in the browser so it populates
+  the audience_ids 2 checkbox?"
 draft: false
 ---
 
 # Rails: Populate Checkbox with Param
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I paste a param in the browser so it populates the audience_ids 2 checkbox?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I paste a param in the browser so it populates the audience_ids 2 checkbox?
 Tried like this but didn't work.
 http://localhost:3000/training/learning-content-library?filter_change=audience_ids[2]
 We are using hotwire and turbo, recall the way how rails processes query params to help me reformulate. filter_change is an action controller
 
+---
 
+🤖 **Assistant:**
 
 To correctly populate the `audience_ids[2]` checkbox using query parameters in a Rails application with Hotwire and Turbo, you'll need to ensure that the parameter format is correctly interpreted by Rails. The query parameter should reflect how Rails expects array parameters in the URL.
 

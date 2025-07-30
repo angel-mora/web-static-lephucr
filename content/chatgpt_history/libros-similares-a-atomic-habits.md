@@ -3,22 +3,22 @@ title: Libros similares a "Atomic Habits"
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Recomendame libros como el de Atomic Habits que pueda
+  comprar en el péndulo cdmx"
 draft: false
 ---
 
 # Libros similares a "Atomic Habits"
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Recomendame libros como el de Atomic Habits que pueda comprar en el péndulo cdmx
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Recomendame libros como el de Atomic Habits que pueda comprar en el péndulo cdmx
+
+---
+
+🤖 **Assistant:**
 
 Si te gustó "Atomic Habits" de James Clear, aquí tienes algunas recomendaciones de libros con temáticas similares que podrían interesarte y que podrías encontrar en El Péndulo en Ciudad de México:
 

@@ -3,24 +3,22 @@ title: Creatina disponible en CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Creatina fda y eu approved Que puedo comprar en Amazon
+  México o en la CDMX"
 draft: false
 ---
 
 # Creatina disponible en CDMX
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Creatina fda y eu approved Que puedo comprar en Amazon México o en la CDMX
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Creatina fda y eu approved Que puedo comprar en Amazon México o en la CDMX
 
+---
 
+🤖 **Assistant:**
 
 La creatina es un suplemento popular entre deportistas y personas activas, y su uso está generalmente reconocido como seguro (GRAS) por la Administración de Alimentos y Medicamentos de EE. UU. (FDA). En la Unión Europea, la creatina también es ampliamente utilizada y aceptada en la nutrición deportiva. Sin embargo, es importante destacar que la FDA no aprueba suplementos dietéticos de la misma manera que lo hace con los medicamentos; en cambio, regula su comercialización y seguridad.
 

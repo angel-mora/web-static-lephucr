@@ -3,24 +3,22 @@ title: Add Google Fonts Tailwind
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  add google fonts to rails 7 with tailwind. Follow best
+  practices"
 draft: false
 ---
 
 # Add Google Fonts Tailwind
 
-## ✅ TODOs
-
-
-## 📌 Summary
-add google fonts to rails 7 with tailwind. Follow best practices
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 add google fonts to rails 7 with tailwind. Follow best practices
 
+---
 
+🤖 **Assistant:**
 
 To add Google Fonts to a Rails 7 application using Tailwind CSS, you can follow these steps:
 
@@ -92,7 +90,15 @@ To add Google Fonts to a Rails 7 application using Tailwind CSS, you can follow 
 
 Following these steps will help you integrate Google Fonts with Tailwind CSS in your Rails 7 application, adhering to best practices for maintainability and performance.
 
+---
+
+🙋 **You:**
+
 Can I use @fontsource library instead?
+
+---
+
+🤖 **Assistant:**
 
 Yes, you can use the `@fontsource` library as an alternative to directly importing Google Fonts. The `@fontsource` library allows you to install fonts as npm packages, giving you more control over the font loading process and potentially reducing the reliance on external requests.
 

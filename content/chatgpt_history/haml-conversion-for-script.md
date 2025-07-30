@@ -3,20 +3,15 @@ title: HAML Conversion for Script
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  All this to HAML:"
 draft: false
 ---
 
 # HAML Conversion for Script
 
-## ✅ TODOs
-
-
-## 📌 Summary
-All this to HAML:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 All this to HAML:
 <script>
@@ -63,7 +58,9 @@ All this to HAML:
     }
   </style>
 
+---
 
+🤖 **Assistant:**
 
 Here's the HAML version of your code:
 
@@ -114,6 +111,10 @@ Here's the HAML version of your code:
 
 This maintains the JavaScript and CSS within HAML's `:javascript` and `:css` filters while converting Ruby embedded code into the proper HAML format.
 
+---
+
+🙋 **You:**
+
 <% if user_signed_in? && controller_path == "quickbook" && action_name == "index" %>
   <script type="text/javascript" src="https://appcenter.intuit.com/Content/IA/intuit.ipp.anywhere.js"></script>
 
@@ -162,6 +163,9 @@ This maintains the JavaScript and CSS within HAML's `:javascript` and `:css` fil
   </style>
 <% end %>
 
+---
+
+🤖 **Assistant:**
 
 Here's the HAML equivalent of your code:
 
@@ -215,9 +219,15 @@ Here's the HAML equivalent of your code:
 
 This version keeps the conditional logic intact and translates the JavaScript and CSS into HAML, preserving the Ruby interpolation.
 
+---
+
+🙋 **You:**
+
 how can I call a trait inside rspec? factorybot
 
+---
 
+🤖 **Assistant:**
 
 In RSpec, you can use a trait defined in a FactoryBot factory by calling it when you create an instance of the model. Here's how you can do it:
 
@@ -280,7 +290,15 @@ end
 
 Let me know if you need further clarification!
 
+---
+
+🙋 **You:**
+
 How to compare code coverage for two folders using simplecov?
+
+---
+
+🤖 **Assistant:**
 
 To compare code coverage for two different folders using SimpleCov, you'll need to configure the tool to include and analyze the directories you want to compare. Here's a step-by-step guide to achieve this.
 

@@ -3,26 +3,28 @@ title: HR Pub Counting Method
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  HR Publications - Counts only_Jan 30 2024.xlsx  -  Counts
+  only: # of publications based on full taxonomy, so you’ll see some oddities because
+  the publication is in multiple categories, e.g. Culture/Diversity, Equity & Inclusion
+  | Culture/Culture has 1 and it wouldn’t be counted in either on its own."
 draft: false
 ---
 
 # HR Pub Counting Method
 
-## ✅ TODOs
-
-
-## 📌 Summary
-HR Publications - Counts only_Jan 30 2024.xlsx  -  Counts only: # of publications based on full taxonomy, so you’ll see some oddities because the publication is in multiple categories, e.g. Culture/Diversity, Equity & Inclusion | Culture/Culture has 1 and it wouldn’t be counted in either on its own.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 HR Publications - Counts only_Jan 30 2024.xlsx  -  Counts only: # of publications based on full taxonomy, so you’ll see some oddities because the publication is in multiple categories, e.g. Culture/Diversity, Equity & Inclusion | Culture/Culture has 1 and it wouldn’t be counted in either on its own.
 
 
 
 About the quote above, didn't get what you mean with counter in either on its own
+
+---
+
+🤖 **Assistant:**
 
 The quote you've shared seems to describe a situation involving the categorization and counting of publications within a structured taxonomy, specifically within the context of Human Resources (HR). The taxonomy appears to include multiple categories, some of which may overlap. For example, a publication could fall into both "Culture/Diversity, Equity & Inclusion" and "Culture/Culture" categories.
 

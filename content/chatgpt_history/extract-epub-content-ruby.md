@@ -3,22 +3,22 @@ title: Extract EPUB Content Ruby
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  ruby script to get all headers tree with words bold,
+  cursives and special paragraphs within epub file"
 draft: false
 ---
 
 # Extract EPUB Content Ruby
 
-## ✅ TODOs
-
-
-## 📌 Summary
-ruby script to get all headers tree with words bold, cursives and special paragraphs within epub file
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 ruby script to get all headers tree with words bold, cursives and special paragraphs within epub file
+
+---
+
+🤖 **Assistant:**
 
 Extracting content from an EPUB file and processing it requires a few steps. EPUB is essentially a zipped collection of HTML files, stylesheets, and metadata. To extract content from an EPUB file in Ruby, you can use the `gepub` gem. Once you have the content, you can use Nokogiri to parse the HTML and extract the desired elements.
 
@@ -69,10 +69,18 @@ This script will print all headers, bold texts, italic texts, and special paragr
 
 Remember, EPUBs can have varying structures, so this script might not work perfectly for all EPUBs. Adjustments might be necessary depending on the specific structure and styling of the EPUB file you're working with.
 
+---
+
+🙋 **You:**
+
 I am expecting to have something as
 # HEADING
   ## SUBHEADING 1
     ### SUBHEADING 2
+
+---
+
+🤖 **Assistant:**
 
 To generate a tree-like structure for headers from an EPUB file, you can modify the script to keep track of the hierarchy of headers. Here's a modified version of the script:
 
@@ -124,13 +132,29 @@ This script will print the headers in a tree-like structure, similar to what you
 
 Again, keep in mind that EPUBs can have varying structures, so this script might need adjustments depending on the specific structure and styling of the EPUB file you're working with.
 
+---
+
+🙋 **You:**
+
 Is this something easier done with epub?
+
+---
+
+🤖 **Assistant:**
 
 Working with EPUB files can be a bit tricky because they are essentially zipped collections of HTML files, stylesheets, and metadata. The structure and styling can vary significantly between different EPUB files, depending on how they were created.
 
 If your goal is to extract a tree-like structure of headers
 
+---
+
+🙋 **You:**
+
 Is this something easier done with bash/pandoc?
+
+---
+
+🤖 **Assistant:**
 
 Yes, using `pandoc` can simplify this task, especially if you're looking to convert the EPUB content into a markdown format. `pandoc` is a powerful document converter that can handle a variety of formats, including EPUB and Markdown.
 

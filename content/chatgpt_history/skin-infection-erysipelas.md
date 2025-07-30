@@ -3,24 +3,21 @@ title: 'Skin Infection: Erysipelas'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Edisipela"
 draft: false
 ---
 
 # Skin Infection: Erysipelas
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Edisipela
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Edisipela
 
+---
 
+🤖 **Assistant:**
 
 Erysipelas is a bacterial infection that affects the upper layers of the skin. It is most commonly caused by Streptococcus bacteria, particularly Streptococcus pyogenes. Here are some key points about erysipelas:
 

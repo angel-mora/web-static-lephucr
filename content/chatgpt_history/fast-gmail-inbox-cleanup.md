@@ -3,22 +3,22 @@ title: Fast Gmail Inbox Cleanup.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Give me a bunch of queries in gmail to cleanup my inbox
+  the fastest"
 draft: false
 ---
 
 # Fast Gmail Inbox Cleanup.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Give me a bunch of queries in gmail to cleanup my inbox the fastest
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Give me a bunch of queries in gmail to cleanup my inbox the fastest
+
+---
+
+🤖 **Assistant:**
 
 To quickly clean up your Gmail inbox, you can use the following search queries to find and manage specific types of emails. Remember to replace any placeholders (e.g., "example.com") with the relevant information for your specific needs.
 
@@ -43,7 +43,15 @@ After entering your desired query in the search bar, select all the emails you w
 
 For a massive cleanup, you can select all emails in the search results by clicking the checkbox in the top left corner, then click "Select all conversations that match this search" to apply an action to all emails matching your query.
 
+---
+
+🙋 **You:**
+
 Explain to me the most useful operators for advance queries in gmail search bar. Also tell me the query language for that search bar
+
+---
+
+🤖 **Assistant:**
 
 Gmail's search bar uses a query language that allows you to combine various operators to create advanced search queries. Here are some of the most useful operators:
 
@@ -81,7 +89,15 @@ Gmail's search bar uses a query language that allows you to combine various oper
 
 These operators can be combined to create more complex queries for precise filtering and organization of your Gmail inbox.
 
+---
+
+🙋 **You:**
+
 Give me a query to gell all the emails not read that came in from the email that has sent emails the most
+
+---
+
+🤖 **Assistant:**
 
 To find all the unread emails from the sender who has sent you the most emails, you'll need to perform a two-step process, as Gmail's search bar doesn't support a single query for this specific task.
 

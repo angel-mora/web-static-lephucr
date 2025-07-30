@@ -3,24 +3,23 @@ title: Problema teclado Keychron Mac
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  CMD fn1 backtick in a keychron A language keyboard
+  does not switch between different windows of same applications but using regular
+  LA keyboard does."
 draft: false
 ---
 
 # Problema teclado Keychron Mac
 
-## ✅ TODOs
-
-
-## 📌 Summary
-CMD fn1 backtick in a keychron A language keyboard does not switch between different windows of same applications but using regular LA keyboard does.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-CMD fn1 backtick in a keychron A language keyboard does not switch between different windows of same applications but using regular LA keyboard does. 
+CMD fn1 backtick in a keychron A language keyboard does not switch between different windows of same applications but using regular LA keyboard does.
 
+---
 
+🤖 **Assistant:**
 
 It sounds like you're facing an issue with the Keychron keyboard's key mapping or functionality on a Mac with the Spanish layout (LA). The combination of `Cmd` + `Fn1` (or backtick) should switch between different windows of the same application, but it's not working as expected with the Keychron keyboard.
 

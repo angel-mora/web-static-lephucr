@@ -3,24 +3,22 @@ title: Lugares atardecer CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Mejor lugar ver atardecer cerca Santa María la Ribera,
+  Ferrocarril de Cuernavaca o Paseo Viaducto cerca de Roma Sur"
 draft: false
 ---
 
 # Lugares atardecer CDMX
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Mejor lugar ver atardecer cerca Santa María la Ribera, Ferrocarril de Cuernavaca o Paseo Viaducto cerca de Roma Sur
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Mejor lugar ver atardecer cerca Santa María la Ribera, Ferrocarril de Cuernavaca o Paseo Viaducto cerca de Roma Sur
 
+---
 
+🤖 **Assistant:**
 
 Para disfrutar de un hermoso atardecer cerca de las zonas que mencionas en la Ciudad de México, te recomiendo los siguientes lugares:
 

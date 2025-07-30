@@ -3,24 +3,21 @@ title: Esbuild Rails Stylesheet Issue
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Capybara failed to load stylesheet in rails using esbuild"
 draft: false
 ---
 
 # Esbuild Rails Stylesheet Issue
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Capybara failed to load stylesheet in rails using esbuild
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Capybara failed to load stylesheet in rails using esbuild
 
+---
 
+🤖 **Assistant:**
 
 When you're using esbuild in a Rails application and you encounter an issue with loading stylesheets, there are several potential causes. Here are some steps to troubleshoot and resolve the problem:
 
@@ -127,5 +124,9 @@ To further help you, can you provide:
 4. Any relevant configuration files like `config/webpacker.yml` or `config/initializers/assets.rb`.
 
 By following these steps and providing more details, you should be able to identify and fix the issue with loading stylesheets in your Rails application using esbuild.
+
+---
+
+🙋 **You:**
 
 Test in capybara that a button scrolls to the top of the page

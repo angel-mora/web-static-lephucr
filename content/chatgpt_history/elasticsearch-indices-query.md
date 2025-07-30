@@ -3,22 +3,21 @@ title: Elasticsearch Indices Query
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  elasticsearch rest query to match pattern in indices"
 draft: false
 ---
 
 # Elasticsearch Indices Query
 
-## ✅ TODOs
-
-
-## 📌 Summary
-elasticsearch rest query to match pattern in indices
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 elasticsearch rest query to match pattern in indices
+
+---
+
+🤖 **Assistant:**
 
 In Elasticsearch, you can use the `_cat/indices` endpoint along with a wildcard pattern to match indices based on a pattern. The `_cat/indices` endpoint provides a simple way to retrieve information about indices in a human-readable format.
 

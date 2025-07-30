@@ -3,28 +3,35 @@ title: Desayunos saludables rápidos ayurvédicos
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  que cosas puedo desayunar que no me causen glucose
+  spike y que pueda comer preparar super rapido. Que sea bueno para mi desde un punto
+  de vista del ayurveda"
 draft: false
 ---
 
 # Desayunos saludables rápidos ayurvédicos
 
-## ✅ TODOs
-
-
-## 📌 Summary
-que cosas puedo desayunar que no me causen glucose spike y que pueda comer preparar super rapido. Que sea bueno para mi desde un punto de vista del ayurveda
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 que cosas puedo desayunar que no me causen glucose spike y que pueda comer preparar super rapido. Que sea bueno para mi desde un punto de vista del ayurveda
 
+---
 
+🤖 **Assistant:**
 
 User is looking for quick, healthy breakfast options that don't cause glucose spikes and are beneficial from an Ayurvedic perspective.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Para un desayuno rápido que no cause picos de glucosa y que sea beneficioso desde la perspectiva del Ayurveda, aquí algunas ideas:
 
@@ -40,9 +47,15 @@ Para un desayuno rápido que no cause picos de glucosa y que sea beneficioso des
 
 Estos desayunos son rápidos de preparar y te ayudarán a mantener niveles de energía estables sin picos de glucosa, alineándose con principios ayurvédicos para una digestión suave y equilibrada.
 
-	Para mi siguiente colacion 10am que opciones me das?
+---
 
+🙋 **You:**
 
+Para mi siguiente colacion 10am que opciones me das?
+
+---
+
+🤖 **Assistant:**
 
 Para tu colación de las 10 a.m., aquí tienes algunas opciones rápidas, saludables, que no causarán picos de glucosa y están alineadas con principios ayurvédicos:
 

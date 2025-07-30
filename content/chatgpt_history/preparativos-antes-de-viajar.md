@@ -3,7 +3,8 @@ title: Preparativos antes de viajar
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cosas que hacer antes de salir de mi casa por dos semanas.
+  Vivo solo y tengo una gatita"
 draft: false
 ---
 
@@ -13,15 +14,15 @@ draft: false
 - [ ] quede en orden y que tu gatita esté bien cuidada:
 - [ ] del cordón:** Usa un cordón o tela como mecha para transportar agua de un recipiente a la maceta. Esto mantiene la tierra húmeda de manera constante.
 
-## 📌 Summary
-Cosas que hacer antes de salir de mi casa por dos semanas. Vivo solo y tengo una gatita
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Cosas que hacer antes de salir de mi casa por dos semanas. Vivo solo y tengo una gatita 
+Cosas que hacer antes de salir de mi casa por dos semanas. Vivo solo y tengo una gatita
 
+---
 
+🤖 **Assistant:**
 
 Aquí tienes una lista organizada de cosas que hacer antes de salir de tu casa por dos semanas para asegurar que todo quede en orden y que tu gatita esté bien cuidada:
 
@@ -84,7 +85,15 @@ Aquí tienes una lista organizada de cosas que hacer antes de salir de tu casa p
 
 Con estos pasos, puedes salir tranquilo sabiendo que tu casa y tu gatita estarán en buenas condiciones durante tu ausencia.
 
+---
+
+🙋 **You:**
+
 Tengo plantitas también, que más?
+
+---
+
+🤖 **Assistant:**
 
 Si tienes plantitas, aquí te dejo pasos adicionales para asegurarte de que también estén bien cuidadas durante tu ausencia de dos semanas:
 

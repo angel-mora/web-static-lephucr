@@ -3,28 +3,34 @@ title: Managing Python Versions
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I install python like rbenv with ruby. I want
+  it to help me manage versions and be super reliable"
 draft: false
 ---
 
 # Managing Python Versions
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I install python like rbenv with ruby. I want it to help me manage versions and be super reliable
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I install python like rbenv with ruby. I want it to help me manage versions and be super reliable
 
+---
 
+🤖 **Assistant:**
 
 User wants to install Python in a way that helps them manage versions reliably, similar to how rbenv works with Ruby.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 To manage Python versions similarly to how you manage Ruby with rbenv, you can use `pyenv`. It’s a simple, reliable tool that lets you switch between multiple versions of Python on your system. Here's how you can install and use it:
 
@@ -118,9 +124,15 @@ pyenv deactivate
 
 This setup should give you a robust and flexible environment for managing Python versions, similar to how you might already manage Ruby with `rbenv`.
 
+---
+
+🙋 **You:**
+
 can i just install the latest python?
 
+---
 
+🤖 **Assistant:**
 
 Yes, you can easily install the latest version of Python using `pyenv`. Here's how:
 
@@ -158,6 +170,10 @@ pyenv global 3.11.5  # Use the actual latest version number.
 
 This ensures that the latest Python version will be used by default across your entire system.
 
+---
+
+🙋 **You:**
+
 ➜  lolo.international git:(main) pyenv install 3.12.3
 python-build: use openssl@3 from homebrew
 python-build: use readline from homebrew
@@ -173,6 +189,10 @@ Traceback (most recent call last):
 ModuleNotFoundError: No module named '_lzma'
 WARNING: The Python lzma extension was not compiled. Missing the lzma lib?
 Installed Python-3.12.3 to /Users/spectech/.pyenv/versions/3.12.3
+
+---
+
+🤖 **Assistant:**
 
 The error you're encountering indicates that the `lzma` module, which is part of the Python standard library, was not compiled during installation. This typically happens when the required `lzma` library is not installed on your system.
 
@@ -213,7 +233,15 @@ pyenv versions
 
 This will confirm that Python 3.12.3 is installed and working properly.
 
+---
+
+🙋 **You:**
+
 how can i install jupyter notebooks from there?
+
+---
+
+🤖 **Assistant:**
 
 You can easily install Jupyter Notebooks within the Python version you've set up using `pyenv`. Here's how:
 
@@ -283,7 +311,15 @@ jupyter lab
 
 This setup will allow you to work seamlessly with Jupyter Notebooks within your `pyenv` Python environment.
 
+---
+
+🙋 **You:**
+
 zsh: command not found: pip
+
+---
+
+🤖 **Assistant:**
 
 The error `zsh: command not found: pip` suggests that `pip` is not installed or not correctly linked to the Python version managed by `pyenv`. Here’s how to resolve it:
 

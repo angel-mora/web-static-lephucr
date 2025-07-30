@@ -3,7 +3,9 @@ title: Mobile Dev on Commute
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  what things i can do from my phone as a developer?
+  Looking to do stuff I regularly do in my computer that I could easily do in my phone
+  when commuting"
 draft: false
 ---
 
@@ -12,13 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] stuff I regularly do in my computer that I could easily do in my phone when commuting
 
-## 📌 Summary
-what things i can do from my phone as a developer? Looking to do stuff I regularly do in my computer that I could easily do in my phone when commuting
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 what things i can do from my phone as a developer? Looking to do stuff I regularly do in my computer that I could easily do in my phone when commuting
+
+---
+
+🤖 **Assistant:**
 
 As a developer, there are several tasks you can do from your phone while commuting:
 

@@ -3,22 +3,22 @@ title: Upgrade Puma Gem QA
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I upgraded puma gem to fix security alert. How should
+  the qa team qa it?"
 draft: false
 ---
 
 # Upgrade Puma Gem QA
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I upgraded puma gem to fix security alert. How should the qa team qa it?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I upgraded puma gem to fix security alert. How should the qa team qa it?
+
+---
+
+🤖 **Assistant:**
 
 Upgrading the Puma gem (or any other gem) to fix a security alert means that there's a chance certain functionalities might have changed or been affected. To ensure everything still works as expected, the QA team should follow a systematic approach:
 

@@ -3,24 +3,21 @@ title: Entender a mi gata
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cómo puedo entender mejor a mi gata?? Hay alguna app?"
 draft: false
 ---
 
 # Entender a mi gata
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cómo puedo entender mejor a mi gata?? Hay alguna app?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cómo puedo entender mejor a mi gata?? Hay alguna app?
 
+---
 
+🤖 **Assistant:**
 
 Sí, hay varias maneras de entender mejor a tu gata, y algunas aplicaciones pueden ayudarte a interpretar su comportamiento o comunicación. Aquí tienes algunas sugerencias:
 

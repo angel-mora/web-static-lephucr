@@ -3,24 +3,23 @@ title: Compassive Actions for Triggers
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tell me compassive alternative action to wpmo (pmo
+  high) when I'm triggered. Also a compassive action when I'm super angry with my
+  girlfriend and start to feel abused."
 draft: false
 ---
 
 # Compassive Actions for Triggers
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Tell me compassive alternative action to wpmo (pmo high) when I'm triggered. Also a compassive action when I'm super angry with my girlfriend and start to feel abused.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tell me compassive alternative action to wpmo (pmo high) when I'm triggered. Also a compassive action when I'm super angry with my girlfriend and start to feel abused.
 
+---
 
+🤖 **Assistant:**
 
 When feeling triggered and experiencing a high level of PMO (Pornography, Masturbation, and Orgasm) urge, consider these compassionate alternative actions:
 
@@ -42,11 +41,27 @@ When you are super angry with your girlfriend and start to feel abused, here are
 
 These actions focus on self-care, understanding, and communication, helping you manage your emotions compassionately and constructively.
 
+---
+
+🙋 **You:**
+
 add reminders of bad things about being a bad person when angry, like regret feelings. Or that porn regularly alienates both parties and is an industry that exploit fear and lack
+
+---
+
+🤖 **Assistant:**
 
 User seeks reminders of the negative consequences of being a bad person when angry, such as feelings of regret, and the harmful effects of regular porn consumption, including alienation and the exploitation inherent in the industry.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 When feeling triggered and experiencing high PMO urges, consider these reminders and compassionate alternative actions:
 
@@ -82,9 +97,15 @@ When super angry with your girlfriend and feeling abused, consider these reminde
 
 These reminders and actions focus on self-awareness, understanding, and constructive communication, helping you manage your emotions compassionately and constructively.
 
+---
+
+🙋 **You:**
+
 como recuperar el vinculo emocional con mi pareja despues de que nos vimos forzados a que hubiera relacion de poder al ser su maestro de ruby on rails?
 
+---
 
+🤖 **Assistant:**
 
 Recuperar el vínculo emocional con tu pareja después de una situación en la que hubo una relación de poder, como ser su maestro de Ruby on Rails, requiere tiempo, comunicación y esfuerzos conscientes. Aquí hay algunos pasos que pueden ayudarte en este proceso:
 

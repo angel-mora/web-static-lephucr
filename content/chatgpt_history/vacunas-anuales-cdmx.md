@@ -3,7 +3,7 @@ title: Vacunas anuales CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que vacunas tengo que hacerme anualmente en CDMX?"
 draft: false
 ---
 
@@ -12,15 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s los adultos, especialmente aquellos mayores de 60 años, personas embarazadas, personal de salud y personas con comorbilidades como diabetes, obesidad o enfermedades respiratorias. citeturn0search1
 
-## 📌 Summary
-Que vacunas tengo que hacerme anualmente en CDMX?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que vacunas tengo que hacerme anualmente en CDMX?
 
+---
 
+🤖 **Assistant:**
 
 En la Ciudad de México, las vacunas recomendadas anualmente para adultos incluyen:
 

@@ -3,7 +3,7 @@ title: Fix PostgreSQL GPG Error
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Fix this ubuntu error:"
 draft: false
 ---
 
@@ -12,17 +12,19 @@ draft: false
 ## ✅ TODOs
 - [ ] wnload and add the key.
 
-## 📌 Summary
-Fix this ubuntu error:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Fix this ubuntu error:
 W: GPG error: http://apt.postgresql.org/pub/repos/apt jammy-pgdg InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 7FCC7D46ACCC4CF8
 E: The repository 'http://apt.postgresql.org/pub/repos/apt jammy-pgdg InRelease' is not signed.
 N: Updating from such a repository can't be done securely, and is therefore disabled by default.
 N: See apt-secure(8) manpage for repository creation and user configuration details.
+
+---
+
+🤖 **Assistant:**
 
 The error message you're encountering indicates that APT (the package management system used by Ubuntu and other Debian-based Linux distributions) cannot authenticate the PostgreSQL repository because the public key used for signing the repository is not available on your system. This makes it impossible for APT to verify that the packages downloaded from the repository are safe to install, leading to the update process being halted for security reasons.
 
@@ -52,9 +54,17 @@ If you're using a version of Ubuntu that has deprecated `apt-key`, you might nee
 
 Keep in mind that managing repository keys securely is important to maintain the security of your system. Always ensure that you're adding keys from trusted sources.
 
+---
+
+🙋 **You:**
+
 > sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 7FCC7D46ACCC4CF8
 
 Warning: apt-key is deprecated. Manage keyring files in trusted.gpg.d instead (see apt-key(8)).
+
+---
+
+🤖 **Assistant:**
 
 Given the deprecation warning for `apt-key`, the recommended approach to resolve your issue now involves manually adding the key to the `trusted.gpg.d` directory, which is the newer method preferred by Ubuntu for managing repository keys securely. This involves downloading the key with `gpg` and then adding it to the `trusted.gpg.d` directory.
 

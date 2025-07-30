@@ -3,24 +3,22 @@ title: Maestrías en cambio social
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuáles son las mejores maestrías para hacer social
+  change con capital de riesgo"
 draft: false
 ---
 
 # Maestrías en cambio social
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cuáles son las mejores maestrías para hacer social change con capital de riesgo
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Cuáles son las mejores maestrías para hacer social change con capital de riesgo 
+Cuáles son las mejores maestrías para hacer social change con capital de riesgo
 
+---
 
+🤖 **Assistant:**
 
 Si quieres usar el capital de riesgo para impulsar el cambio social, hay varias maestrías que combinan emprendimiento, inversión de impacto y políticas públicas. Aquí te dejo algunas de las mejores opciones:  
 

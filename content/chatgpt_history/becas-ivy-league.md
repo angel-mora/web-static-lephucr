@@ -3,22 +3,24 @@ title: Becas Ivy League
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I am a mexican web developer with cybersecurity certification
+  and leadership skills. I am starting up a business. Tell me about Ivy League scholarships,
+  grants, summer camps or other kind of programs I could benefit from or apply being
+  from Mexico. (Like Fullbright scholarship or this kind of things)."
 draft: false
 ---
 
 # Becas Ivy League
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I am a mexican web developer with cybersecurity certification and leadership skills. I am starting up a business. Tell me about Ivy League scholarships, grants, summer camps or other kind of programs I could benefit from or apply being from Mexico. (Like Fullbright scholarship or this kind of things).
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I am a mexican web developer with cybersecurity certification and leadership skills. I am starting up a business. Tell me about Ivy League scholarships, grants, summer camps or other kind of programs I could benefit from or apply being from Mexico. (Like Fullbright scholarship or this kind of things).
+
+---
+
+🤖 **Assistant:**
 
 As a Mexican web developer with cybersecurity certification and leadership skills, there are many scholarships, grants, and programs for which you may be eligible. Ivy League schools and other organizations offer a wide range of programs designed to support individuals from diverse backgrounds, including international students and entrepreneurs. Here are a few opportunities that could be relevant to you:
 

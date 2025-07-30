@@ -3,24 +3,22 @@ title: Apple Watch 10 vs HUAWEI Band
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que feature tiene el Apple Watch series 10 vs el HUAWEI
+  band?"
 draft: false
 ---
 
 # Apple Watch 10 vs HUAWEI Band
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Que feature tiene el Apple Watch series 10 vs el HUAWEI band?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Que feature tiene el Apple Watch series 10 vs el HUAWEI band?
 
+---
 
+🤖 **Assistant:**
 
 El Apple Watch Series 10 ofrece varias características avanzadas que lo diferencian de las bandas de actividad de HUAWEI, como la HUAWEI Band 9. A continuación, se destacan algunas de las funcionalidades más notables del Apple Watch Series 10:
 

@@ -3,24 +3,23 @@ title: Resignation letter assistance
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Provide a resignation letter that mentions I haven't
+  felt very well the past months, that I'm greatful with the company and I'll take
+  a pause to rest."
 draft: false
 ---
 
 # Resignation letter assistance
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Provide a resignation letter that mentions I haven't felt very well the past months, that I'm greatful with the company and I'll take a pause to rest.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Provide a resignation letter that mentions I haven't felt very well the past months, that I'm greatful with the company and I'll take a pause to rest.
 
+---
 
+🤖 **Assistant:**
 
 Here’s a professional and heartfelt resignation letter based on your request:
 

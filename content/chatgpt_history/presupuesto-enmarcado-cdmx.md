@@ -3,34 +3,40 @@ title: Presupuesto enmarcado CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  qué opinas de este presupuesto para enmarcar en CDMX?
+  Qué lugares me recomiendas que sean baratos y profesionales"
 draft: false
 ---
 
 # Presupuesto enmarcado CDMX
 
-## ✅ TODOs
-
-
-## 📌 Summary
-qué opinas de este presupuesto para enmarcar en CDMX? Qué lugares me recomiendas que sean baratos y profesionales
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 qué opinas de este presupuesto para enmarcar en CDMX? Qué lugares me recomiendas que sean baratos y profesionales
 
+---
 
+🤖 **Assistant:**
 
 En la Ciudad de México, existen diversas opciones para enmarcar tus obras de arte o fotografías de manera profesional y a precios accesibles. A continuación, te
 
+---
+
+🙋 **You:**
+
 qué opinas de este presupuesto para enmarcar en CDMX? Qué lugares me recomiendas que sean baratos y profesionales
 
+---
 
-
-
+**Tool:**
 
 All the files uploaded by the user have been fully loaded. Searching won't provide additional information.
+
+---
+
+🤖 **Assistant:**
 
 Los dos presupuestos que subiste ofrecen opciones distintas:
 
@@ -50,7 +56,15 @@ En la CDMX, puedes encontrar buenos talleres de enmarcado económicos y profesio
 
 Si quieres más opciones actualizadas, puedo buscar algunos talleres con buenas reseñas en la zona que prefieras. ¿Te gustaría?
 
+---
+
+🙋 **You:**
+
 si por favor, en la delegación Cuauhtémoc
+
+---
+
+🤖 **Assistant:**
 
 Por supuesto, aquí te presento algunas opciones de talleres de enmarcado en la Delegación Cuauhtémoc que ofrecen servicios profesionales y a precios competitivos:
 

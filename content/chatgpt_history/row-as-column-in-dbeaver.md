@@ -3,24 +3,22 @@ title: Row as Column in DBeaver
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I see a row like in tableplus as a column but
+  in dbeaver?"
 draft: false
 ---
 
 # Row as Column in DBeaver
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I see a row like in tableplus as a column but in dbeaver?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I see a row like in tableplus as a column but in dbeaver?
 
+---
 
+🤖 **Assistant:**
 
 In **DBeaver**, you can view a row as a column-like structure (similar to TablePlus) by using the **Record view** feature. Here's how you can do it:
 

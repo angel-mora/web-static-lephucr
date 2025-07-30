@@ -3,7 +3,8 @@ title: Jira Markdown Comment Tips
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I make a markdown comment show properly in
+  a jira description?"
 draft: false
 ---
 
@@ -13,15 +14,15 @@ draft: false
 - [ ] what they were able to do before
 - [ ] Ask @adam_bilyea for it.
 
-## 📌 Summary
-How can I make a markdown comment show properly in a jira description?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I make a markdown comment show properly in a jira description?
 
+---
 
+🤖 **Assistant:**
 
 To make a markdown comment show properly in a Jira description, you can use Jira’s native markup syntax, as Jira doesn’t fully support standard Markdown. For adding comments (which are usually hidden or meant to be ignored in Markdown), Jira allows you to hide text or add formatting in specific ways.
 
@@ -50,6 +51,10 @@ Here’s how you can make a comment-like text in Jira:
    ```
 
 However, Jira's exact rendering of markdown can vary based on configuration, so these approaches might behave slightly differently depending on how your Jira instance is set up.
+
+---
+
+🙋 **You:**
 
 Do that for this markdown:
 ## Summary
@@ -113,6 +118,9 @@ The fact that IT and HR memberships are differenciate it makes it simpler.
 ## Worth having a look at
 - [CPQ Entities diagram]() TODO: Ask @adam_bilyea for it.
 
+---
+
+🤖 **Assistant:**
 
 Here’s how you can format the provided markdown using Jira's markup:
 
@@ -181,7 +189,15 @@ h2. Worth having a look at
 
 This will display your markdown correctly within a Jira issue description.
 
+---
+
+🙋 **You:**
+
 That didn't work. Is that valid for 2024?
+
+---
+
+🤖 **Assistant:**
 
 You're right. Jira has been updating how it handles formatting over time, and the syntax I provided was based on earlier versions of Jira. For 2024, Jira now supports more **Markdown**-like syntax but with limitations. Since Jira doesn’t fully support standard Markdown or comments as you would expect in markdown, here's an updated approach:
 

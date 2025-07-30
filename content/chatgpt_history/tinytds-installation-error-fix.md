@@ -3,20 +3,16 @@ title: TinyTDS installation error fix
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  An error occurred while installing tiny_tds (2.1.7),
+  and Bundler cannot"
 draft: false
 ---
 
 # TinyTDS installation error fix
 
-## ✅ TODOs
-
-
-## 📌 Summary
-An error occurred while installing tiny_tds (2.1.7), and Bundler cannot
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 An error occurred while installing tiny_tds (2.1.7), and Bundler cannot
 continue.
@@ -26,7 +22,9 @@ In Gemfile:
     tiny_tds
 I am in Ubuntu within aws workspace
 
+---
 
+🤖 **Assistant:**
 
 The error indicates an issue installing the `tiny_tds` gem, which is a dependency of the `activerecord-sqlserver-adapter`. This usually happens due to missing system libraries or misconfiguration.
 

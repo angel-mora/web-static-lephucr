@@ -3,24 +3,21 @@ title: Fork bomb explanation
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  what this does? :() { :|:& };:"
 draft: false
 ---
 
 # Fork bomb explanation
 
-## ✅ TODOs
-
-
-## 📌 Summary
-what this does? :() { :|:& };:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 what this does? :() { :|:& };:
 
+---
 
+🤖 **Assistant:**
 
 That is a **fork bomb**, a type of denial-of-service (DoS) attack on a system. It is a Bash function that recursively spawns copies of itself until the system runs out of resources (processes, memory, CPU). Here's how it works:
 
@@ -49,7 +46,15 @@ That is a **fork bomb**, a type of denial-of-service (DoS) attack on a system. I
 
 ⚠️ **Warning**: Running this on your system **will likely crash it**.
 
+---
+
+🙋 **You:**
+
 what other cool stuff like this should I know?
+
+---
+
+🤖 **Assistant:**
 
 If you’re into quirky, dangerous, or just plain interesting Bash tricks, here are some you might like:
 

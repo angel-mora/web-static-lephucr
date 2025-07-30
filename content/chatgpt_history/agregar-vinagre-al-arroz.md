@@ -3,24 +3,22 @@ title: Agregar vinagre al arroz
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  que tal ponerle vinagre al arroz nishiki? En qué momento
+  se lo pondría?"
 draft: false
 ---
 
 # Agregar vinagre al arroz
 
-## ✅ TODOs
-
-
-## 📌 Summary
-que tal ponerle vinagre al arroz nishiki? En qué momento se lo pondría?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 que tal ponerle vinagre al arroz nishiki? En qué momento se lo pondría?
 
+---
 
+🤖 **Assistant:**
 
 Ponerle vinagre al arroz Nishiki es una excelente idea si quieres preparar arroz estilo sushi o darle un toque más sabroso.  
 

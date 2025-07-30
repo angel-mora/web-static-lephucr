@@ -3,20 +3,15 @@ title: Elasticsearch config for M1
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  docker pull docker.elastic.co/elasticsearch/elasticsearch:7.10.2"
 draft: false
 ---
 
 # Elasticsearch config for M1
 
-## ✅ TODOs
-
-
-## 📌 Summary
-docker pull docker.elastic.co/elasticsearch/elasticsearch:7.10.2
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 docker pull docker.elastic.co/elasticsearch/elasticsearch:7.10.2
 
@@ -31,7 +26,9 @@ I have a m3 mac, should I do something so I can run this image? It's not working
 2024-02-23 00:01:01 {"type": "server", "timestamp": "2024-02-23T06:01:01,294Z", "level": "INFO", "component": "o.e.n.Node", "cluster.name": "docker-cluster", "node.name": "5c8e80081242", "message": "closed" }
 2024-02-23 00:01:01 {"type": "server", "timestamp": "2024-02-23T06:01:01,295Z", "level": "INFO", "component": "o.e.x.m.p.NativeController", "cluster.name": "docker-cluster", "node.name": "5c8e80081242", "message": "Native controller process has stopped - no new native processes can be started" }
 
+---
 
+🤖 **Assistant:**
 
 The error you're encountering when trying to run Elasticsearch 7.10.2 on your M3 Mac via Docker is not directly related to your Mac's architecture but rather to Elasticsearch's configuration for a production environment. The log indicates that Elasticsearch has failed its bootstrap checks due to unsuitable default discovery settings for production use. Specifically, it's requiring you to configure at least one of the following settings: `discovery.seed_hosts`, `discovery.seed_providers`, or `cluster.initial_master_nodes`.
 
@@ -44,6 +41,10 @@ docker run -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elast
 This command runs the Elasticsearch Docker container with the `discovery.type` environment variable set to `single-node`, which tells Elasticsearch to bypass the bootstrap checks that are failing. This setup is not recommended for production because it disables some of the production checks that ensure your cluster is configured safely. However, it's perfectly fine for development or testing purposes.
 
 Additionally, ensure that your Docker Desktop application is configured to run ARM64 containers natively, as the M3 chip is based on the ARM architecture. Recent versions of Docker Desktop for Mac support Apple Silicon natively, but you might want to check your Docker Desktop's settings or update it to the latest version to ensure optimal performance and compatibility.
+
+---
+
+🙋 **You:**
 
 This is some of the logs but I still can't curl port 9200
 {"type": "server", "timestamp": "2024-02-23T06:06:21,819Z", "level": "INFO", "component": "o.e.c.m.MetadataIndexTemplateService", "cluster.name": "docker-cluster", "node.name": "58b59321b264", "message": "adding template [.monitoring-es] for index patterns [.monitoring-es-7-*]", "cluster.uuid": "pcqDkRLYSW22mQUTGZQ0oA", "node.id": "2d037MoXT7eBLtacWSVIyg"  }
@@ -62,6 +63,10 @@ This is some of the logs but I still can't curl port 9200
 {"type": "server", "timestamp": "2024-02-23T06:06:22,002Z", "level": "INFO", "component": "o.e.x.i.a.TransportPutLifecycleAction", "cluster.name": "docker-cluster", "node.name": "58b59321b264", "message": "adding index lifecycle policy [slm-history-ilm-policy]", "cluster.uuid": "pcqDkRLYSW22mQUTGZQ0oA", "node.id": "2d037MoXT7eBLtacWSVIyg"  }
 {"type": "server", "timestamp": "2024-02-23T06:06:22,046Z", "level": "INFO", "component": "o.e.l.LicenseService", "cluster.name": "docker-cluster", "node.name": "58b59321b264", "message": "license [fb8c998e-1743-4500-88db-90a515982ad3] mode [basic] - valid", "cluster.uuid": "pcqDkRLYSW22mQUTGZQ0oA", "node.id": "2d037MoXT7eBLtacWSVIyg"  }
 {"type": "server", "timestamp": "2024-02-23T06:06:22,047Z", "level": "INFO", "component": "o.e.x.s.s.SecurityStatusChangeListener", "cluster.name": "docker-cluster", "node.name": "58b59321b264", "message": "Active license is now [BASIC]; Security is disabled", "cluster.uuid": "pcqDkRLYSW22mQUTGZQ0oA", "node.id": "2d037MoXT7eBLtacWSVIyg"  }
+
+---
+
+🤖 **Assistant:**
 
 If you're unable to access Elasticsearch on port 9200 after starting it with Docker, there are a few potential reasons and solutions you might want to consider:
 

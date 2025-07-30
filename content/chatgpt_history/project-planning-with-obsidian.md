@@ -3,7 +3,8 @@ title: Project Planning with Obsidian
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  easiest way to plan a project in markdown (including
+  obsidian kanban plugin) and use it to create a jira project?"
 draft: false
 ---
 
@@ -15,15 +16,15 @@ draft: false
 - [ ] - [ ] **Task 1** - [Task Title]
 - [ ] - [ ] **Task 1** - Redesign Homepage
 
-## 📌 Summary
-easiest way to plan a project in markdown (including obsidian kanban plugin) and use it to create a jira project?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 easiest way to plan a project in markdown (including obsidian kanban plugin) and use it to create a jira project?
 
+---
 
+🤖 **Assistant:**
 
 To plan a project in Markdown using Obsidian (including the Kanban plugin) and then create a Jira project based on that plan, you can follow these steps:
 
@@ -104,7 +105,15 @@ For a more automated workflow, you could set up a Git repository to manage Obsid
 
 Let me know if you'd like further details on any of these steps!
 
+---
+
+🙋 **You:**
+
 Markdown template for my jira project
+
+---
+
+🤖 **Assistant:**
 
 Here's a simple and structured Markdown template you can use in Obsidian for planning a Jira project. This template organizes tasks, priorities, and other key details in a format that can be easily transferred to Jira. It's designed to work well with the Kanban plugin as well.
 
@@ -176,9 +185,15 @@ Here's a simple and structured Markdown template you can use in Obsidian for pla
 
 ---
 
+---
 
+🙋 **You:**
 
 Markdown template for my jira project
+
+---
+
+🤖 **Assistant:**
 
 Here's a refined Markdown template for planning a Jira project, tailored to easily track and later transfer project elements to Jira. You can use this in Obsidian or any Markdown editor:
 

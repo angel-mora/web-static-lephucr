@@ -3,7 +3,7 @@ title: Interpretación de neutrófilos
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Interpreta este diagnóstico médico . Que son neutrofilos??​​​​​​​​​​​​​​​​"
 draft: false
 ---
 
@@ -12,16 +12,15 @@ draft: false
 ## ✅ TODOs
 - [ ] s los ejemplos que puedas de FODMAPS
 
-## 📌 Summary
-Interpreta este diagnóstico médico . Que son neutrofilos??​​​​​​​​​​​​​​​​
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Interpreta este diagnóstico médico . Que son neutrofilos??​​​​​​​​​​​​​​​​
 
+---
 
-
+🤖 **Assistant:**
 
 ### Interpretación del Diagnóstico Médico
 
@@ -60,7 +59,15 @@ Los neutrófilos son un tipo de leucocito (glóbulo blanco) que constituye una p
 
 La presencia de neutrófilos en el análisis puede indicar una respuesta a una infección o inflamación en el cuerpo. En este caso, los valores de neutrófilos (10-16) sugieren que hay una respuesta inflamatoria o infecciosa en el tracto intestinal.
 
+---
+
+🙋 **You:**
+
 Cómo puedo combatir blastocito con dieta?
+
+---
+
+🤖 **Assistant:**
 
 Combatir una infección por **Blastocystis hominis** con dieta puede complementar el tratamiento médico, aunque no debe sustituir las recomendaciones de un profesional de la salud. Aquí hay algunas estrategias dietéticas que pueden ayudar:
 
@@ -113,7 +120,15 @@ Combatir una infección por **Blastocystis hominis** con dieta puede complementa
 
 Recuerda que es esencial consultar con un profesional de la salud antes de hacer cambios significativos en la dieta, especialmente en el contexto de una infección o condición médica específica.
 
+---
+
+🙋 **You:**
+
 Dame todos los ejemplos que puedas de FODMAPS
+
+---
+
+🤖 **Assistant:**
 
 ### Ejemplos de Alimentos Altos en FODMAPs
 

@@ -3,7 +3,7 @@ title: Remove Emojis Using Regex
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  regex to remove emojis?"
 draft: false
 ---
 
@@ -16,15 +16,15 @@ draft: false
 - [ ] mi corazón 💖 la realización de su forma de vida a las madres que buscan a sus desaparecidos 💔, así como a quienes en lo molecular somos parte del entramado sádico de relaciones de poder 💥 que dan forma a la sociedad 🌐. Todavía sigo creyendo que hay muchas personas que nos faltan 🙏, sin embargo hoy no me siento capaz de enunciar los cánticos tradicionales del activismo 📢. No sufro de sus mismos dolores 💢, ni es mi dolor necesitado para nadie 🚫. No es mi forma particular de habitar el espectáculo 🎭. Sin embargo, todex somos seres sufrientes 😢 pero trascender esa condición escapa a la teoría 📚.
 - [ ] s los aspectos de la vida pública y privada.
 
-## 📌 Summary
-regex to remove emojis?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 regex to remove emojis?
 
+---
 
+🤖 **Assistant:**
 
 To remove emojis from a string using regex in Python, you can use the following pattern. This regex pattern matches most common emojis and can be used with the `re` module to substitute them with an empty string.
 
@@ -60,7 +60,15 @@ print(clean_text)
 
 This function will remove emojis from the input text string. You can adjust the emoji ranges in the pattern if needed, but the provided ranges cover a wide array of common emojis.
 
+---
+
+🙋 **You:**
+
 with ruby or within vscode find and replace?
+
+---
+
+🤖 **Assistant:**
 
 To remove emojis using Ruby or within Visual Studio Code's Find and Replace feature, you can use the following methods:
 
@@ -99,6 +107,10 @@ To remove emojis using Visual Studio Code's Find and Replace feature, you can us
 5. Click "Replace All" to remove all emojis from your text.
 
 These methods will help you remove emojis from text in Ruby or using Visual Studio Code's Find and Replace feature.
+
+---
+
+🙋 **You:**
 
 Pattern for this text
 No vivimos por sino a pesar del capitalismo 🏭, toda relación social está mediada por las mercancías 🛍️. Y el capitalismo ganó hace mucho 💰.
@@ -154,8 +166,9 @@ En Plantar Cara 🌱👊 hago referencia a las luchas sociales en México 🇲�
 
 Muchas gracias 🙏 a Pelzomling y a les instructores que me han enseñado tanto 🎓. Gracias al maestro Chogyal Namkhai Norbu 🙇‍♂️. Debo mucha práctica 🧘‍♂️.
 
+---
 
-
+🤖 **Assistant:**
 
 ### In Ruby:
 
@@ -199,7 +212,15 @@ Volviendo a las referencias, quisiera añadir que sería imposible ahondar con s
 
 🏭 Con la caída del modelo de producción fordista y la pulverización de la fábrica, nos encontramos no solo frente a un momento de crisis en el modelo de trabajo del hombre-masa 🚶‍♂️, sino también frente a la acelerada pauperización de las resistencias y disidencias políticas 💥.
 
+---
+
+🙋 **You:**
+
 quisiera tambien anotaciones importantes, como qué es wikipolítica y otros conceptos que puedan no ser tan familiares para personas medianamente woke
+
+---
+
+🤖 **Assistant:**
 
 Claro, aquí te proporciono un análisis del texto original con anotaciones importantes que pueden ser útiles para comprender mejor ciertos conceptos:
 
@@ -269,7 +290,11 @@ Después de repasar estos textos para editarlos en conjunto 📖✂️, me di cu
 **Anotación:**
 - **Tiqqun:** Grupo de intelectuales franceses que
 
- publicó textos críticos sobre la sociedad contemporánea y la política.
+---
+
+🤖 **Assistant:**
+
+publicó textos críticos sobre la sociedad contemporánea y la política.
 - **Comité Invisible:** Colectivo anónimo de escritores y activistas franceses, conocidos por sus escritos subversivos y críticas al capitalismo y al Estado.
 
 Tengo que confesar que pasé del tecnosolucionismo 🤖 a la misma conclusión de antes: se necesita una formación colectiva capaz de observar los agenciamientos de captura 🕵️‍♀️ y de accionar en esos contextos. Se necesitar disponer-se. Las conspiraciones se construyen de la astucia constante de sus agentes 🦊. De lo incansable de sus esfuerzos 💪. Y esos esfuerzos son también escritura ✍️, instrucciones, sistemas.
@@ -317,7 +342,11 @@ En medio del fracaso de Wikipolítica 😔 (cuyo capital social fue absorbido po
 Por mi parte, me obsesioné con una pregunta de Tiqqun: ¿Cómo hacer? ❓
 ¿Cómo puedo
 
- reconocer las formas de poder que habito/me atraviesan/de las que participo? 💪 ¿Cómo deseo? 💘 Así, esas interrogantes participan constantemente en este texto 📝, buscando hacer efectivas sus corazonadas en improvisaciones 🎶. En gestos precisos, prácticas de visibilización del agenciamiento, táctica social 🗣️.
+---
+
+🤖 **Assistant:**
+
+reconocer las formas de poder que habito/me atraviesan/de las que participo? 💪 ¿Cómo deseo? 💘 Así, esas interrogantes participan constantemente en este texto 📝, buscando hacer efectivas sus corazonadas en improvisaciones 🎶. En gestos precisos, prácticas de visibilización del agenciamiento, táctica social 🗣️.
 Al menos de eso va este intento 🎯.
 
 La acción crítica se inscribe en lo que yo llamo tecnocrítica 💻🔍, análisis y develamiento de las condiciones tecnomateriales de posibilidad de las formas hablantes 🗨️, de formas de opresión como el género 👩‍🦰, la raza 👩🏽‍🦱 o la clase 💼. Solo así es posible entender los problemas económicos 💲 que hacen necesario al Estado 🏛️ y a sus agentes como soporte de información del capitalismo 💹. Con la intención de encontrar una alternativa universalista 🌍, analizo diversos manifiestos y posiciones políticas contemporáneas alrededor del Partido y la hegemonía 🎴. Concluyo desarrollando algunas notas rumbo a la construcción del manifiesto para un Partido destituyente 🚧✍️.

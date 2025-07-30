@@ -3,7 +3,9 @@ title: Acuerdos Co-Fundadores LLC
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Que cosas tengo que hablar con mis cofounders, que
+  bases y acuerdos de comunicación tenemos que tener todos en la mente para ya firmar
+  el contrato de la llc"
 draft: false
 ---
 
@@ -21,15 +23,15 @@ draft: false
 - [ ] el trabajo realizado por los socios será propiedad exclusiva de la LLC.
 - [ ] s los puntos esenciales para proteger tus intereses y los de la LLC. ¿Te gustaría personalizar algún aspecto o agregar detalles específicos?
 
-## 📌 Summary
-Que cosas tengo que hablar con mis cofounders, que bases y acuerdos de comunicación tenemos que tener todos en la mente para ya firmar el contrato de la llc
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Que cosas tengo que hablar con mis cofounders, que bases y acuerdos de comunicación tenemos que tener todos en la mente para ya firmar el contrato de la llc 
+Que cosas tengo que hablar con mis cofounders, que bases y acuerdos de comunicación tenemos que tener todos en la mente para ya firmar el contrato de la llc
 
+---
 
+🤖 **Assistant:**
 
 Firmar un contrato para establecer una LLC con tus cofundadores requiere que se discutan y aclaren ciertos puntos clave. Aquí hay una lista de temas y bases de comunicación que deberías tener en mente:
 
@@ -107,6 +109,10 @@ Mantener todo por escrito, acordar respuestas rápidas en herramientas como Slac
 
 Cuando todos estén alineados en estos puntos, estarán listos para firmar el contrato con confianza. ¿Te ayudo a detallar algún tema?
 
+---
+
+🙋 **You:**
+
 Responde todo en favor de la LLC: 
 A qué mediadores te refieres para cuando hay conflicto entre fundadores?
 Cómo determino un precio justo para la venta de acciones?
@@ -118,6 +124,10 @@ Que pasa si un socio tiene un accidente que le impida cumplir sus funciones?
 Que porcentaje de reinversión es común?
 Dame los defaults de toma de decisiones en las startups más exitosas de YC
 Dime un esquema de decisiones clave donde considere a mis socios pero sea yo como founder quien decida sobre la LLC de manera que mi patrimonio no pueda verse afectado
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes respuestas claras y enfocadas en favorecer a la LLC y proteger tus intereses como founder:
 
@@ -237,13 +247,29 @@ Para proteger tu patrimonio y mantener control:
 
 Con esta estructura, estarás preparado para proteger tus intereses y los de la LLC. ¿Te ayudo a crear un Operating Agreement con estos puntos?
 
-Si gracias 
+---
+
+🙋 **You:**
+
+Si gracias
+
+---
+
+🤖 **Assistant:**
 
 ¡Perfecto! Puedo ayudarte a estructurar un **Operating Agreement** o lista de cláusulas clave basada en los puntos anteriores. Lo dividiré en secciones claras que puedes compartir con tus cofundadores o incluir en documentos legales.
 
 ¿Prefieres que inicie con un **borrador completo del Operating Agreement** o con una **lista resumida de cláusulas clave**?
 
-Resumen y luego completo 
+---
+
+🙋 **You:**
+
+Resumen y luego completo
+
+---
+
+🤖 **Assistant:**
 
 ### **Resumen de Cláusulas Clave para el Operating Agreement**
 
@@ -305,7 +331,15 @@ Resumen y luego completo
 ### Siguiente paso:
 Si este esquema te parece adecuado, desarrollo el borrador completo del **Operating Agreement** con los términos detallados. ¡Avísame!
 
+---
+
+🙋 **You:**
+
 Si
+
+---
+
+🤖 **Assistant:**
 
 ### **Borrador Completo del Operating Agreement**
 

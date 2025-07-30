@@ -3,24 +3,21 @@ title: 'Bridgetown vs Rails: Differences'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  bridgetownrb vs rails. Core practical differences"
 draft: false
 ---
 
 # Bridgetown vs Rails: Differences
 
-## ✅ TODOs
-
-
-## 📌 Summary
-bridgetownrb vs rails. Core practical differences
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 bridgetownrb vs rails. Core practical differences
 
+---
 
+🤖 **Assistant:**
 
 ### Core Practical Differences Between Bridgetown and Rails
 

@@ -3,22 +3,22 @@ title: Docker LaTeX Setup
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Markdown Tutorial on how to use a docker container
+  in latex project locally and github actions setup"
 draft: false
 ---
 
 # Docker LaTeX Setup
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Markdown Tutorial on how to use a docker container in latex project locally and github actions setup
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Markdown Tutorial on how to use a docker container in latex project locally and github actions setup
+
+---
+
+🤖 **Assistant:**
 
 Sure! Here's a Markdown tutorial on how to use a Docker container in a LaTeX project locally and set up GitHub Actions to automate the build process:
 
@@ -111,7 +111,15 @@ The workflow consists of a single job called `build` that runs on the `ubuntu-la
 
 Commit
 
+---
+
+🙋 **You:**
+
 continue
+
+---
+
+🤖 **Assistant:**
 
 and push the workflow file to your repository. GitHub Actions will automatically detect the new file and start building your LaTeX project whenever code is pushed to the `main` branch.
 

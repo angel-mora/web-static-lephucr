@@ -3,24 +3,22 @@ title: Ducha escocesa post-bici
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Es bueno ducha escocesa después de andar en bici con
+  mucho frío?"
 draft: false
 ---
 
 # Ducha escocesa post-bici
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Es bueno ducha escocesa después de andar en bici con mucho frío?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Es bueno ducha escocesa después de andar en bici con mucho frío?
 
+---
 
+🤖 **Assistant:**
 
 Sí, una **ducha escocesa** (alternar agua fría y caliente) después de andar en bici con mucho frío puede tener beneficios, pero hay que tomar ciertas precauciones.  
 

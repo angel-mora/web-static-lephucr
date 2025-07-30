@@ -3,20 +3,16 @@ title: Job refactor for performance.
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Tell me N+1 and other potential deficiencies in this
+  job, as well as a refactor to fix them:"
 draft: false
 ---
 
 # Job refactor for performance.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Tell me N+1 and other potential deficiencies in this job, as well as a refactor to fix them:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Tell me N+1 and other potential deficiencies in this job, as well as a refactor to fix them:
 
@@ -70,6 +66,9 @@ class LargeCategoryCreationJob < ApplicationJob
   end
 end
 
+---
+
+🤖 **Assistant:**
 
 N+1 and other potential deficiencies in this job:
 
@@ -142,7 +141,15 @@ The refactored code above moves the `attach_parent_data` method into a private m
 
 By refactoring the code, we have improved the readability, maintainability, and performance of the LargeCategoryCreationJob class.
 
+---
+
+🙋 **You:**
+
 Is it possible to use find_each or find_in_batches to improve the query a little better or you'd rather me inputting the other methods that you pointed before that are calling the category? (attach_parents...)
+
+---
+
+🤖 **Assistant:**
 
 Yes, it's possible to use `find_each` or `find_in_batches` to process the records in batches and avoid loading all records into memory at once. 
 
@@ -164,7 +171,11 @@ end
 
 Using `find_each` or `find_in_batches` can help to avoid performance issues caused by loading large numbers of records into memory at once. However, it's still important to make sure that the operations being performed on each record are efficient and optimized.
 
- These are the controller actions:
+---
+
+🙋 **You:**
+
+These are the controller actions:
 
   def attach_parent_offerings(feature_ids:, parent_id:)
     return if feature_ids.blank? || parent_id.blank?
@@ -192,6 +203,10 @@ Using `find_each` or `find_in_batches` can help to avoid performance issues caus
       duplicate_parent_scores_by_review(rev)
     end
   end
+
+---
+
+🤖 **Assistant:**
 
 Thanks for providing the controller actions. Here are some potential issues and possible refactorings for these methods:
 
@@ -242,7 +257,15 @@ def attach_parent_reviews(parent_id:)
   parent_offering_ids = parent.offerings.pluck(:id)
   reviews_to_process =
 
+---
+
+🙋 **You:**
+
 What is the most optimal batch size for rails find_each method?
+
+---
+
+🤖 **Assistant:**
 
 The optimal batch size for `find_each` method in Rails depends on a number of factors, including the amount of data you are working with, the performance of your database server, and the complexity of your application. 
 
@@ -250,7 +273,15 @@ As a general rule of thumb, a batch size of 1000 is a good starting point, but y
 
 On the other hand, if you find that your application is processing data too slowly, you may need to increase the batch size to improve performance. You can experiment with different batch sizes to find the optimal value for your specific use case.
 
+---
+
+🙋 **You:**
+
 Getting back to the attach_parent_offerings, why you use joins and the pluck?
+
+---
+
+🤖 **Assistant:**
 
 In the `attach_parent_offerings` method, the `joins` method is used to generate a SQL query that joins the `OfferingCategoryFeatures` and `CategoryFeatures` tables, filtering the results to only include `OfferingCategoryFeatures` that belong to the current `offering` and have a corresponding `CategoryFeature` with a given `feature_id` and `category_id` (which is the parent_id argument).
 
@@ -258,7 +289,15 @@ The `pluck` method is then used to select only the `feature_id` values from the 
 
 By using `joins` and `pluck`, we can generate a single SQL query that efficiently selects only the necessary data from the database, reducing the number of queries and improving performance. This is particularly important when dealing with large datasets, where executing multiple queries can significantly slow down the application.
 
+---
+
+🙋 **You:**
+
 But what the key and value represents?
+
+---
+
+🤖 **Assistant:**
 
 In the `where` clause of the `joins` method, the `key` represents the table name (or alias) and the column name being used to join the tables, and the `value` represents the table name (or alias) and column name being joined on. 
 
@@ -266,9 +305,16 @@ So in this specific case, the `key` is `offering_category_features.category_feat
 
 This join clause ensures that only the `CategoryFeatures` that have a corresponding `OfferingCategoryFeature` record for the current `offering` are selected.
 
+---
+
+🙋 **You:**
+
 And then why in this line you are comparing two different kind of ids?
         if parent_offering_category_features[offering_category_feature.category_feature_id] == offering_category_feature.offering_id
 
+---
+
+🤖 **Assistant:**
 
 In this line:
 ```
@@ -285,7 +331,15 @@ The `if` statement is checking whether the `category_feature_id` of the current 
 
 Essentially, this check is ensuring that the `OfferingCategoryFeature` being processed belongs to a parent `CategoryFeature` that also belongs to the parent `Category`. If the check passes, the current `OfferingCategoryFeature` is added to the `offerings` collection for the current `Category`.
 
+---
+
+🙋 **You:**
+
 But why comparing an offering_id agains a category_feature one? Please explain that
+
+---
+
+🤖 **Assistant:**
 
 I apologize for my mistake in my previous response. You are correct that the comparison in the if statement is between an `offering_id` and a `category_feature_id`, which is incorrect. I'll try to explain it again with more clarity:
 
@@ -299,12 +353,27 @@ This is done by looking up the `category_feature_id` of the current `OfferingCat
 
 I hope this clears up the confusion.
 
+---
+
+🙋 **You:**
+
 It did, thanks!
+
+---
+
+🤖 **Assistant:**
 
 You're welcome! Let me know if you have any other questions or concerns.
 
+---
+
+🙋 **You:**
+
 Please provide the optimized version of attached_parent_reviews
 
+---
+
+🤖 **Assistant:**
 
 Here's an optimized version of `attach_parent_reviews` that uses a single database query to fetch all the reviews for the parent category's offerings:
 
@@ -328,6 +397,10 @@ end
 In this version, we first fetch the IDs of the parent category's offerings using `pluck`. Then, we fetch all the reviews that belong to these offerings using a single query with `where` and `includes`. Finally, we use `find_each` to iterate over the reviews and attach them to the category if their corresponding offering is already attached.
 
 By fetching all the relevant reviews in a single query, we avoid the N+1 query problem that existed in the original implementation. This should result in significant performance improvements for categories with many offerings and reviews.
+
+---
+
+🙋 **You:**
 
 How about this method you requested before?
 Can we optimize it?
@@ -368,6 +441,10 @@ Can we optimize it?
       new_score.destroy! if offering_category_feature.nil?
     end
   end
+
+---
+
+🤖 **Assistant:**
 
 Here's an optimized version of `duplicate_parent_scores_by_review`:
 
@@ -415,7 +492,15 @@ In this version, we pre-fetch the `review_scores` association and eager-load the
 
 We then loop through the `review_scores` and filter for only those that belong to the parent category's features. For each of these scores, we check if the corresponding category feature exists in the `category_features` hash map and also check if the corresponding offering category feature exists. If it does not exist, we check if the review has an `approved_review` and create an `approved_review_fields` record for the score. If it does exist, we update the score if it already exists, or create a new one if it doesn't. We also create an `approved_review_fields` record if the review has an `approved_review`.
 
+---
+
+🙋 **You:**
+
 Provide a version of the attach_parent_reviews reviews considering what you know about the duplicated_reviews method
+
+---
+
+🤖 **Assistant:**
 
 Here's a version of `attach_parent_reviews` that makes use of the optimized `duplicate_parent_scores_by_review` method:
 

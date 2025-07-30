@@ -3,24 +3,21 @@ title: Cruzar chocohongo y Wellbutrin
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  cruzar chocohongo con wellbutrin"
 draft: false
 ---
 
 # Cruzar chocohongo y Wellbutrin
 
-## ✅ TODOs
-
-
-## 📌 Summary
-cruzar chocohongo con wellbutrin
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 cruzar chocohongo con wellbutrin
 
+---
 
+🤖 **Assistant:**
 
 Combining "chocohongo" (which I assume refers to a psychedelic mushroom or a product containing psilocybin) with Wellbutrin (bupropion), a prescription medication typically used for depression and smoking cessation, could have unpredictable effects. While there's limited research specifically on this combination, it's essential to consider the following:
 

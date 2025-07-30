@@ -3,7 +3,8 @@ title: Teóricas Feministas Anglo destacadas
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hay alguna teórica tan cabrona como Leonor Silvestri
+  en el mundo anglo?"
 draft: false
 ---
 
@@ -12,15 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] el Sur Global. Sus escritos sobre descolonización y el papel de la lengua en la opresión cultural son cruciales. Su libro "Decolonising the Mind" es esencial en los estudios decoloniales.
 
-## 📌 Summary
-Hay alguna teórica tan cabrona como Leonor Silvestri en el mundo anglo?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Hay alguna teórica tan cabrona como Leonor Silvestri en el mundo anglo? 
+Hay alguna teórica tan cabrona como Leonor Silvestri en el mundo anglo?
 
+---
 
+🤖 **Assistant:**
 
 Leonor Silvestri es una figura única con un estilo y perspectivas muy particulares. En el mundo angloparlante, podrías encontrar teóricas que comparten algunas características en cuanto a su radicalismo y enfoque crítico. Aquí algunas teóricas que podrían interesarte:
 
@@ -36,7 +37,15 @@ Leonor Silvestri es una figura única con un estilo y perspectivas muy particula
 
 Cada una de estas teóricas tiene un enfoque y estilo distintos, pero todas han hecho contribuciones significativas a sus campos y podrían ofrecer perspectivas interesantes comparables a las de Leonor Silvestri.
 
-Son de una edad aproximada a la de Leo Silvestri?? 
+---
+
+🙋 **You:**
+
+Son de una edad aproximada a la de Leo Silvestri??
+
+---
+
+🤖 **Assistant:**
 
 Leonor Silvestri nació en 1976, por lo que teóricas contemporáneas de una edad similar serían de generaciones más jóvenes en comparación con figuras como Judith Butler, Donna Haraway o Angela Davis. Aquí algunas teóricas y escritoras angloparlantes que están más cerca en edad a Silvestri:
 
@@ -52,7 +61,15 @@ Leonor Silvestri nació en 1976, por lo que teóricas contemporáneas de una eda
 
 Estas autoras están más cerca en edad a Leonor Silvestri y ofrecen perspectivas frescas y críticas en sus respectivos campos, con estilos y enfoques que pueden resonar con quienes aprecian el trabajo de Silvestri.
 
-Que tal Paul Preciado? 
+---
+
+🙋 **You:**
+
+Que tal Paul Preciado?
+
+---
+
+🤖 **Assistant:**
 
 Paul B. Preciado (nacido en 1970) es una figura relevante y contemporánea cuyo trabajo puede ser comparado al de Leonor Silvestri en términos de radicalismo y enfoque crítico. Preciado es un filósofo y escritor español conocido por sus contribuciones a la teoría queer, estudios de género y sexualidad. 
 
@@ -66,7 +83,15 @@ Algunas de sus obras más influyentes incluyen:
 
 Preciado es conocido por su estilo provocador y su capacidad para entrelazar teoría crítica con experiencias personales, algo que también caracteriza el trabajo de Silvestri. Su enfoque interdisciplinario y su disposición a desafiar las normas sociales y académicas hacen que su obra sea relevante y comparable en muchos aspectos.
 
-Teóricos/teóricas trans con un pensamiento crítico radical parecido al de Leo Silvestri o Paul Preciado? Pueden ser angloparlantes, de preferencia no del 'Norte Global' 
+---
+
+🙋 **You:**
+
+Teóricos/teóricas trans con un pensamiento crítico radical parecido al de Leo Silvestri o Paul Preciado? Pueden ser angloparlantes, de preferencia no del 'Norte Global'
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes algunos teóricos y teóricas trans contemporáneos cuyo pensamiento crítico y radical podría resonar con el de Leonor Silvestri o Paul B. Preciado. Aunque muchos de ellos provienen del 'Norte Global', se esfuerzan por abordar cuestiones globales y desafiar las normativas dominantes:
 
@@ -84,7 +109,15 @@ Aquí tienes algunos teóricos y teóricas trans contemporáneos cuyo pensamient
 
 Aunque encontrar teóricos trans radicales fuera del Norte Global es un desafío, estas voces representan un esfuerzo global por abordar las complejidades de la vida trans desde perspectivas críticas y desafiantes.
 
-Teóricxs con una perspectiva crítica que provengan del mundo árabe, africano, tibetano, south east Asia, con perspectivas críticas que también tengan relación intelectual con estudios decoloniales u operaistas, de preferencia contemporaneos. Trans o no. 
+---
+
+🙋 **You:**
+
+Teóricxs con una perspectiva crítica que provengan del mundo árabe, africano, tibetano, south east Asia, con perspectivas críticas que también tengan relación intelectual con estudios decoloniales u operaistas, de preferencia contemporaneos. Trans o no.
+
+---
+
+🤖 **Assistant:**
 
 Aquí tienes una lista de teóricos y teóricas contemporáneos del mundo árabe, África, Tíbet y el sudeste asiático, cuyas perspectivas críticas se relacionan con estudios decoloniales u operaistas:
 

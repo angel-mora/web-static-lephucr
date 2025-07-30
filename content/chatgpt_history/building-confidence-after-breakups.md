@@ -3,24 +3,22 @@ title: Building Confidence After Breakups
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Improve confidence and self steem of someone so they
+  have tools to deal with breakups or open relationships"
 draft: false
 ---
 
 # Building Confidence After Breakups
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Improve confidence and self steem of someone so they have tools to deal with breakups or open relationships
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Improve confidence and self steem of someone so they have tools to deal with breakups or open relationships 
+Improve confidence and self steem of someone so they have tools to deal with breakups or open relationships
 
+---
 
+🤖 **Assistant:**
 
 Building confidence and self-esteem to navigate breakups or open relationships requires both internal work and practical strategies. Here are some key areas to focus on:  
 

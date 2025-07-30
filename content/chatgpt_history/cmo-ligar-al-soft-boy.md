@@ -3,24 +3,22 @@ title: Cómo ligar al soft boy
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Como me ligo a un soft boy en esta boda del ITAM? Soy
+  chiava"
 draft: false
 ---
 
 # Cómo ligar al soft boy
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Como me ligo a un soft boy en esta boda del ITAM? Soy chiava
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Como me ligo a un soft boy en esta boda del ITAM? Soy chiava 
+Como me ligo a un soft boy en esta boda del ITAM? Soy chiava
 
+---
 
+🤖 **Assistant:**
 
 Un **soft boy** del ITAM en una boda... Vas a querer jugar bien tus cartas. Aquí unas estrategias:  
 

@@ -3,7 +3,8 @@ title: Comprar arte contemporáneo CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Dónde puedo comprar cuadros de arte contemporáneo en
+  línea y recibirlo en la CDMX?"
 draft: false
 ---
 
@@ -12,15 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] el mundo. Puedes comprar obras de arte contemporáneo y recibirlas en CDMX.
 
-## 📌 Summary
-Dónde puedo comprar cuadros de arte contemporáneo en línea y recibirlo en la CDMX?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Dónde puedo comprar cuadros de arte contemporáneo en línea y recibirlo en la CDMX?
 
+---
 
+🤖 **Assistant:**
 
 En la CDMX, hay varias opciones para comprar arte contemporáneo en línea con entrega a domicilio. Aquí te menciono algunas plataformas recomendadas:
 
@@ -50,11 +51,27 @@ En la CDMX, hay varias opciones para comprar arte contemporáneo en línea con e
 
 Cada una de estas plataformas te ofrece opciones diversas, desde arte accesible hasta obras de gran renombre. Asegúrate de verificar las condiciones de envío y tiempos de entrega.
 
+---
+
+🙋 **You:**
+
 Quizá réplicas de obras existentes, solo es para adornar mi depa, no para invertir
+
+---
+
+🤖 **Assistant:**
 
 User is looking for replicas of existing artworks to decorate their apartment, not for investment purposes.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Si estás buscando réplicas de obras de arte para decorar tu departamento, aquí tienes algunas opciones donde puedes comprar versiones más accesibles de obras famosas o arte decorativo:
 

@@ -3,24 +3,22 @@ title: Ultimate Ruby on Rails Course
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  The ultimate course to teach someone Ruby on Rails
+  and also programming at the same time"
 draft: false
 ---
 
 # Ultimate Ruby on Rails Course
 
-## ✅ TODOs
-
-
-## 📌 Summary
-The ultimate course to teach someone Ruby on Rails and also programming at the same time
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 The ultimate course to teach someone Ruby on Rails and also programming at the same time
 
+---
 
+🤖 **Assistant:**
 
 For someone looking to learn Ruby on Rails and programming simultaneously, a comprehensive course should cover both foundational programming concepts and Rails-specific practices. Here’s a breakdown of a course that would work as an "ultimate" learning path:
 
@@ -89,7 +87,15 @@ For someone looking to learn Ruby on Rails and programming simultaneously, a com
 
 By progressing through this structured learning path, learners will not only grasp Ruby on Rails but also develop solid programming skills along the way. Combining resources like *The Odin Project*, *Michael Hartl's tutorial*, and *GoRails* will provide comprehensive guidance at every level.
 
+---
+
+🙋 **You:**
+
 I mean a url pointing to a complete course
+
+---
+
+🤖 **Assistant:**
 
 A complete course that teaches both Ruby on Rails and programming fundamentals is available through *The Odin Project*. It provides a full curriculum, starting with the basics of programming (using Ruby) and moving all the way to building complex Rails applications.
 
@@ -98,7 +104,15 @@ Here's the URL:
 
 This course is free, comprehensive, and includes hands-on projects to build your skills step by step.
 
+---
+
+🙋 **You:**
+
 Can’t open the url
+
+---
+
+🤖 **Assistant:**
 
 If you're unable to open the link directly, you can search for "The Odin Project Full Stack Ruby on Rails" using a search engine. The course is hosted on *The Odin Project's* official site under their Full Stack Ruby on Rails learning path.
 

@@ -3,24 +3,21 @@ title: Wellbutrin y consumo de alcohol
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Wellbutrin y alcohol"
 draft: false
 ---
 
 # Wellbutrin y consumo de alcohol
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Wellbutrin y alcohol
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Wellbutrin y alcohol
 
+---
 
+🤖 **Assistant:**
 
 Combining Wellbutrin (bupropion) with alcohol can be risky due to potential side effects and interactions. Wellbutrin is often prescribed for depression, and alcohol can counteract its therapeutic effects. Additionally, consuming alcohol while taking Wellbutrin can increase the risk of side effects such as:
 
@@ -30,7 +27,15 @@ Combining Wellbutrin (bupropion) with alcohol can be risky due to potential side
 
 It's important to consult with a healthcare provider before drinking alcohol while on Wellbutrin to understand the potential risks based on individual health factors.
 
+---
+
+🙋 **You:**
+
 But no damage in liver?
+
+---
+
+🤖 **Assistant:**
 
 Wellbutrin (bupropion) is not typically associated with liver damage in the way some other medications are, and liver toxicity is not a common side effect of the drug. However, alcohol can have harmful effects on the liver, especially with long-term or excessive consumption.
 

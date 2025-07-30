@@ -5,20 +5,16 @@ tags:
 - follow
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  prerrequisitos laboratorios medicos el chopo en mexico
+  para los siguientes estudios:"
 draft: false
 ---
 
 # Estudios y prerrequisitos laboratorio.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-prerrequisitos laboratorios medicos el chopo en mexico para los siguientes estudios:
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 prerrequisitos laboratorios medicos el chopo en mexico para los siguientes estudios:
 - [ ] #health #follow-up Dr Rodrigo Lemus
@@ -33,7 +29,9 @@ prerrequisitos laboratorios medicos el chopo en mexico para los siguientes estud
     - [ ] Coproparasitoscópico 3 muestras
 - [ ] #health #follow-up Psiquiatra Dr Edgar Casillas: USG de hígado/vías biliares por bilirrubina directa un poco elevada: Descartar piedras o Litos biliares
 
+---
 
+🤖 **Assistant:**
 
 Para realizar los estudios en el Laboratorio Médico El Chopo en México, aquí están los prerrequisitos específicos para cada uno de ellos:
 

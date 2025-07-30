@@ -8,7 +8,8 @@ tags:
 - ff6f61
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  easiest and coolest way to put a table of contents
+  in my obsidian publish page"
 draft: false
 ---
 
@@ -17,15 +18,15 @@ draft: false
 ## ✅ TODOs
 - [ ] it:
 
-## 📌 Summary
-easiest and coolest way to put a table of contents in my obsidian publish page
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 easiest and coolest way to put a table of contents in my obsidian publish page
 
+---
 
+🤖 **Assistant:**
 
 Adding a **table of contents (TOC)** to your Obsidian Publish page can make navigation easier for your readers. Here are a few of the coolest and easiest ways to do it:
 

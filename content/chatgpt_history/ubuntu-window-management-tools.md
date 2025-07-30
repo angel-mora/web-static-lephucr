@@ -3,24 +3,21 @@ title: Ubuntu Window Management Tools
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Equivalent of Rectangle panes admin but for Ubuntu"
 draft: false
 ---
 
 # Ubuntu Window Management Tools
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Equivalent of Rectangle panes admin but for Ubuntu
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Equivalent of Rectangle panes admin but for Ubuntu
 
+---
 
+🤖 **Assistant:**
 
 For Ubuntu, the equivalent of **Rectangle** (a popular window manager for macOS that allows you to organize and snap windows) is a tiling window manager or a similar window management tool. Some options include:
 
@@ -54,11 +51,27 @@ For Ubuntu, the equivalent of **Rectangle** (a popular window manager for macOS 
 
 These tools will provide different levels of window management, depending on your preferences for customization and ease of use.
 
+---
+
+🙋 **You:**
+
 If I am using a Ubuntu instance inside a Mac through AWS Workspace, what is the most suitable option? Don't want conflicts between Mac and Ubuntu
+
+---
+
+🤖 **Assistant:**
 
 User is using an Ubuntu instance inside a Mac through AWS Workspace.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 In your case, since you're running Ubuntu within AWS Workspace on a Mac, you want to avoid conflicts between the Mac's native window management and Ubuntu's window manager. The best option would be a tool that doesn't interfere with macOS and remains isolated within your Ubuntu session. Here are two suggestions:
 

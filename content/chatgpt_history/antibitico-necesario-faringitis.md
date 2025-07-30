@@ -3,24 +3,22 @@ title: Antibiótico necesario faringitis
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Me recetó amoxicilina con ácido clavulanico el doctor,
+  tengo faringitis y caseum. Es realmente necesario? No puedo sanar solo?"
 draft: false
 ---
 
 # Antibiótico necesario faringitis
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Me recetó amoxicilina con ácido clavulanico el doctor, tengo faringitis y caseum. Es realmente necesario? No puedo sanar solo?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Me recetó amoxicilina con ácido clavulanico el doctor, tengo faringitis y caseum. Es realmente necesario? No puedo sanar solo?
 
+---
 
+🤖 **Assistant:**
 
 La combinación de **amoxicilina con ácido clavulánico** es un antibiótico de amplio espectro que se usa para tratar infecciones bacterianas. Sin embargo, su necesidad depende de si tu faringitis es de origen **bacteriano** o **viral**.  
 
@@ -50,7 +48,15 @@ Si no tienes fiebre alta ni signos claros de infección bacteriana, podrías esp
 
 Si tienes dudas, puedes pedirle a tu médico una prueba rápida de estreptococo para confirmar si realmente necesitas el antibiótico.
 
+---
+
+🙋 **You:**
+
 Que pasa si me toca la medicina a la 1pm y la tomo 6pm?
+
+---
+
+🤖 **Assistant:**
 
 Si te tocaba la **amoxicilina con ácido clavulánico** a la **1 PM** y la tomaste a las **6 PM**, hubo un retraso de 5 horas. Esto puede afectar levemente la eficacia del tratamiento, pero no es grave si solo ocurre una vez.  
 

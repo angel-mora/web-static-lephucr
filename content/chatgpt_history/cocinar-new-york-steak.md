@@ -3,24 +3,21 @@ title: Cocinar New York Steak
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Temperatura New York 5cm grosor horno"
 draft: false
 ---
 
 # Cocinar New York Steak
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Temperatura New York 5cm grosor horno
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Temperatura New York 5cm grosor horno
 
+---
 
+🤖 **Assistant:**
 
 Para cocinar un corte New York de 5 cm de grosor en el horno y obtener una cocción uniforme y jugosa, sigue estos pasos:
 
@@ -42,9 +39,17 @@ Para cocinar un corte New York de 5 cm de grosor en el horno y obtener una cocci
 
 Para una guía visual detallada sobre cómo preparar un New York Steak al sartén, te recomiendo el siguiente video:
 
-videoCorte de Carne en Sartén | New York Steak | La Capitalturn0search3 
+videoCorte de Carne en Sartén | New York Steak | La Capitalturn0search3
 
-Solo horno temperatura 
+---
+
+🙋 **You:**
+
+Solo horno temperatura
+
+---
+
+🤖 **Assistant:**
 
 Para cocinar un New York de **5 cm de grosor** solo en el horno:  
 

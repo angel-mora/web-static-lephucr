@@ -3,22 +3,19 @@ title: Install Racc Gem Error
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  ~/InfoTech/www.infotech.com  on MCWEB-1772-m..r-page-specs
+  ------------------------------------------------------------------------------------------------------------
+  took 8s  3.0.6 rb  at 03:08:31 PM"
 draft: false
 ---
 
 # Install Racc Gem Error
 
-## ✅ TODOs
-
-
-## 📌 Summary
-~/InfoTech/www.infotech.com  on MCWEB-1772-m..r-page-specs ------------------------------------------------------------------------------------------------------------ took 8s  3.0.6 rb  at 03:08:31 PM
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
- ~/InfoTech/www.infotech.com  on MCWEB-1772-m..r-page-specs ------------------------------------------------------------------------------------------------------------ took 8s  3.0.6 rb  at 03:08:31 PM 
+~/InfoTech/www.infotech.com  on MCWEB-1772-m..r-page-specs ------------------------------------------------------------------------------------------------------------ took 8s  3.0.6 rb  at 03:08:31 PM 
 > gem install racc -v '1.8.0'               
 Building native extensions. This could take a while...
 ERROR:  Error installing racc:
@@ -37,8 +34,9 @@ make failedNo such file or directory - make
 Gem files will remain installed in /home/amora/.rbenv/versions/3.0.6/lib/ruby/gems/3.0.0/gems/racc-1.8.0 for inspection.
 Results logged to /home/amora/.rbenv/versions/3.0.6/lib/ruby/gems/3.0.0/extensions/x86_64-linux/3.0.0/racc-1.8.0/gem_make.out
 
+---
 
-
+🤖 **Assistant:**
 
 The error you're encountering suggests that the `make` command is not found or not properly installed on your system. This command is essential for building native extensions for some Ruby gems. Here's how you can resolve this issue:
 

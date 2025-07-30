@@ -3,22 +3,25 @@ title: Resource URLs for Sobriety
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Checklist for my daily log to stay sober from weed
+  and pmo. Also reflective questions for end of day. Base on latest reseach, you are
+  playing the role of a mix between Tiago Forte and the smartest addiction therapists.
+  Preferably share a dzogchen approach if possible (like James Low). Provide the checks,
+  the questions and references for your recommendation."
 draft: false
 ---
 
 # Resource URLs for Sobriety
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Checklist for my daily log to stay sober from weed and pmo. Also reflective questions for end of day. Base on latest reseach, you are playing the role of a mix between Tiago Forte and the smartest addiction therapists. Preferably share a dzogchen approach if possible (like James Low). Provide the checks, the questions and references for your recommendation.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Checklist for my daily log to stay sober from weed and pmo. Also reflective questions for end of day. Base on latest reseach, you are playing the role of a mix between Tiago Forte and the smartest addiction therapists. Preferably share a dzogchen approach if possible (like James Low). Provide the checks, the questions and references for your recommendation.
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Combining elements from addiction therapy, Tiago Forte's productivity principles, and the Dzogchen approach offers a comprehensive and holistic way to maintain sobriety and encourage reflection. Here's a daily log checklist for staying sober from weed and PMO (Pornography, Masturbation, Orgasm), along with reflective questions for the end of the day:
 
@@ -66,7 +69,15 @@ Certainly! Combining elements from addiction therapy, Tiago Forte's productivity
 
 By blending these methodologies, you can create a daily structure that not only supports sobriety but also encourages self-awareness, presence, and personal growth.
 
+---
+
+🙋 **You:**
+
 Share urls or DOIs for your references
+
+---
+
+🤖 **Assistant:**
 
 I apologize for the oversight. As of my last update in January 2022, I cannot browse the internet in real-time or provide current URLs or DOIs. However, I can guide you on where and how to look for these references based on the information available up to that date.
 
@@ -81,7 +92,15 @@ I apologize for the oversight. As of my last update in January 2022, I cannot br
 
 If you need specific DOIs or URLs, you might consider visiting academic databases like Google Scholar, PubMed, or relevant organizational websites and conducting searches based on the topic.
 
+---
+
+🙋 **You:**
+
 Recommend the urls available to you from your memory
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Based on my last training data up to January 2022, here are some foundational URLs related to the mentioned subjects:
 
@@ -99,7 +118,15 @@ Certainly! Based on my last training data up to January 2022, here are some foun
 
 These URLs can serve as starting points. To dive deeper into specific topics or find more recent information, consider exploring these sites further or searching for related terms on academic databases or search engines.
 
+---
+
+🙋 **You:**
+
 Reference papers intertwinging these three approaches together. I want urls from your memory
+
+---
+
+🤖 **Assistant:**
 
 I understand your request. However, as of my last training cut-off in January 2022, there weren't any widely recognized papers or publications that specifically intertwined Tiago Forte's productivity principles, addiction therapy, and the Dzogchen approach by James Low or general Dzogchen teachings. 
 
@@ -109,7 +136,15 @@ However, if you're interested in exploring these areas independently, I've alrea
 
 For academic investigations, Google Scholar ([https://scholar.google.com/](https://scholar.google.com/)) can be a useful resource. By inputting key terms and concepts from each approach, you may find papers or researchers who touch upon intersections of these topics, even if not in the exact combination you're envisioning.
 
+---
+
+🙋 **You:**
+
 Share the closest to what I asked for in the previous request, even if are isolated papers for any of the three topics
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Here are some seminal papers or resources on each of the three topics, which you can explore:
 
@@ -129,7 +164,15 @@ Certainly! Here are some seminal papers or resources on each of the three topics
 
 You can access these papers directly through the provided links or search for them on platforms like Google Scholar for more details and related works. Remember, while these papers touch upon the individual topics you mentioned, the synthesis of these approaches would be a unique endeavor.
 
+---
+
+🙋 **You:**
+
 at least 10 urls
+
+---
+
+🤖 **Assistant:**
 
 I understand you're looking for a broader set of resources. Let me provide a list of URLs that delve into the realms of productivity, addiction therapy, and Dzogchen or related mindfulness practices. Here are the URLs based on my last training data up to January 2022:
 

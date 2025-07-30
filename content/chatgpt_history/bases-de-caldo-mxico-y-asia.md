@@ -3,22 +3,23 @@ title: 'Bases de caldo: México y Asia.'
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Como hacer la Base para un caldo? Dime según la tradición
+  mexicana y un caldo asiático (escoge la preparación más sencilla, no importa si
+  es japonesa, coreana, Thai, vietnamita, etc)"
 draft: false
 ---
 
 # Bases de caldo: México y Asia.
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Como hacer la Base para un caldo? Dime según la tradición mexicana y un caldo asiático (escoge la preparación más sencilla, no importa si es japonesa, coreana, Thai, vietnamita, etc)
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Como hacer la Base para un caldo? Dime según la tradición mexicana y un caldo asiático (escoge la preparación más sencilla, no importa si es japonesa, coreana, Thai, vietnamita, etc) 
+Como hacer la Base para un caldo? Dime según la tradición mexicana y un caldo asiático (escoge la preparación más sencilla, no importa si es japonesa, coreana, Thai, vietnamita, etc)
+
+---
+
+🤖 **Assistant:**
 
 Para una base de caldo al estilo mexicano, puedes empezar con una combinación de cebolla, ajo, zanahorias y apio. Saltea estos ingredientes en un poco de aceite hasta que estén dorados, luego agrega agua, hierbas como laurel y cilantro, y huesos de pollo o res. Cocina a fuego lento durante varias horas para extraer los sabores.
 

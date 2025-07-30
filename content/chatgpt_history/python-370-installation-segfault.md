@@ -3,20 +3,15 @@ title: Python 3.7.0 Installation Segfault
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  > pyenv install 3.7.0"
 draft: false
 ---
 
 # Python 3.7.0 Installation Segfault
 
-## ✅ TODOs
-
-
-## 📌 Summary
-> pyenv install 3.7.0
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 > pyenv install 3.7.0
 Downloading Python-3.7.0.tar.xz...
@@ -40,6 +35,10 @@ fi
 Segmentation fault
 make: *** [Makefile:1122: install] Error 139
 when trying to install in windows 11 wsl
+
+---
+
+🤖 **Assistant:**
 
 It seems like you are trying to install Python 3.7.0 using pyenv in Windows 11 WSL (Windows Subsystem for Linux) on Ubuntu 22.04, but the build fails with a segmentation fault error.
 
@@ -75,6 +74,10 @@ Segmentation faults during build processes can be somewhat challenging to troubl
 
 Remember to replace any commands, paths, or version numbers as necessary based on your specific environment and requirements.
 
+---
+
+🙋 **You:**
+
 when trying to install nvim in wsl:
 
 
@@ -97,6 +100,10 @@ when trying to install nvim in wsl:
 
 ## Python virtualenv
   - OK: no $VIRTUAL_ENV
+
+---
+
+🤖 **Assistant:**
 
 The error message indicates that the Python 2 provider for Neovim is not properly configured because the `neovim` Python module is not found in any of the available Python 2 executables. Also, Python 3 provider is disabled.
 
@@ -142,6 +149,10 @@ This will suppress warnings and errors related to the Python 2 provider. Restart
 
 Remember to replace version numbers and paths as necessary based on your specific environment and requirements.
 
+---
+
+🙋 **You:**
+
 Error detected while processing /home/user/.config/nvim/init.lua:
 E5113: Error while calling lua chunk: /home/user/.config/nvim/lua/core/init.lua:67: attempt to call local 'autocmd' (a n
 il value)
@@ -150,6 +161,10 @@ stack traceback:
         [C]: in function 'require'
         /home/user/.config/nvim/init.lua:1: in main chunk
 Press ENTER or type command to continue
+
+---
+
+🤖 **Assistant:**
 
 The error message indicates that in your Neovim configuration, specifically in the file `/home/user/.config/nvim/lua/core/init.lua` at line 67, there is an attempt to call a local variable `autocmd`, which is `nil` (not initialized or defined).
 

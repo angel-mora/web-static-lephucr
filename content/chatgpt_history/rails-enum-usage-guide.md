@@ -3,23 +3,22 @@ title: Rails Enum Usage Guide
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How  to call an enum value from rails model."
 draft: false
 ---
 
 # Rails Enum Usage Guide
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How  to call an enum value from rails model.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How  to call an enum value from rails model.
 enum context: { service: 'service', software: 'software' }.freeze
+
+---
+
+🤖 **Assistant:**
 
 In Rails, when you define an enum attribute in a model, it automatically adds several methods related to the values defined in the enum. For your example, with an enum defined as `context: { service: 'service', software: 'software' }`, you can interact with the `context` attribute using these auto-generated methods.
 
@@ -63,7 +62,15 @@ Here's how you can work with the `context` enum in different scenarios:
 
 Remember, when you define an enum, Rails expects the underlying database field to be an integer (by default) or a string if you explicitly map the values like in your example. Ensure that your database schema matches your enum definition.
 
+---
+
+🙋 **You:**
+
 I want to merge it in another scope through joins but if I say Category.service it will return service context but I want all that are not service context
+
+---
+
+🤖 **Assistant:**
 
 In Rails, when you want to create a scope that selects records which do not match a specific enum value, you'll need to use a condition that excludes that value. Since you've defined `context` as an enum in your model and you want to exclude records with the `service` context, you can write a custom scope to achieve this.
 

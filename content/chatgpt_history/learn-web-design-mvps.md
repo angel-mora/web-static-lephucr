@@ -3,28 +3,34 @@ title: Learn Web Design MVPs
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Best resources to learn web design for mvps, like superhi,
+  awwwards, etc. I want to learn font marriage, basic color theory and layouts"
 draft: false
 ---
 
 # Learn Web Design MVPs
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Best resources to learn web design for mvps, like superhi, awwwards, etc. I want to learn font marriage, basic color theory and layouts
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Best resources to learn web design for mvps, like superhi, awwwards, etc. I want to learn font marriage, basic color theory and layouts 
+Best resources to learn web design for mvps, like superhi, awwwards, etc. I want to learn font marriage, basic color theory and layouts
 
+---
 
+🤖 **Assistant:**
 
 User wants to learn web design for MVPs, including font marriage, basic color theory, and layouts.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 To learn web design for MVPs, focusing on font marriage, basic color theory, and layouts, here are some excellent resources:
 
@@ -87,13 +93,27 @@ To learn web design for MVPs, focusing on font marriage, basic color theory, and
 
 By combining these resources, you'll gain a solid foundation in web design principles, helping you create visually appealing and functional MVPs.
 
+---
+
+🙋 **You:**
+
 I already know js, css, html. Have 6 years of experience. Just not very good at mvp development
 
+---
 
+🤖 **Assistant:**
 
 User has 6 years of experience with JavaScript, CSS, and HTML but seeks to improve their skills in MVP development.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 Given your extensive experience with JavaScript, CSS, and HTML, here are some advanced resources and strategies to refine your MVP development skills, specifically in font marriage, color theory, and layout design:
 

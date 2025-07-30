@@ -3,25 +3,24 @@ title: Challenges & Routing in Rails
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Ruby on Rails hardest"
 draft: false
 ---
 
 # Challenges & Routing in Rails
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Ruby on Rails hardest
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Ruby on Rails hardest
 
 what are the hardest parts of rails?
 good hacks to understand routing in rails
+
+---
+
+🤖 **Assistant:**
 
 Ruby on Rails (often just called "Rails") is known for its convention over configuration philosophy, which makes it easier for developers to get started and build applications quickly. However, like any framework, it has its complexities and areas that some developers find challenging. Here are some of the commonly cited "hard" parts of Rails:
 

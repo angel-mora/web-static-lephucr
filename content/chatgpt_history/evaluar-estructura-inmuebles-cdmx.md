@@ -3,24 +3,21 @@ title: Evaluar estructura inmuebles CDMX
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Como evaluar estructura de inmuebles en cdmx"
 draft: false
 ---
 
 # Evaluar estructura inmuebles CDMX
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Como evaluar estructura de inmuebles en cdmx
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Como evaluar estructura de inmuebles en cdmx
 
+---
 
+🤖 **Assistant:**
 
 Evaluar la estructura de un inmueble en la Ciudad de México (CDMX) es crucial debido a la actividad sísmica de la región. Aquí hay una guía sobre cómo hacerlo:
 

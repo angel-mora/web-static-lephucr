@@ -3,24 +3,22 @@ title: Heroku stack upgrade issues
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  what kind of things can go wrong when upgrading stack
+  from Heroku 20 to 24 without 22. Rails app"
 draft: false
 ---
 
 # Heroku stack upgrade issues
 
-## ✅ TODOs
-
-
-## 📌 Summary
-what kind of things can go wrong when upgrading stack from Heroku 20 to 24 without 22. Rails app
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 what kind of things can go wrong when upgrading stack from Heroku 20 to 24 without 22. Rails app
 
+---
 
+🤖 **Assistant:**
 
 Upgrading your Rails app from **Heroku-20** to **Heroku-24** while skipping **Heroku-22** can introduce several potential issues due to major system changes. Here are some key areas to watch out for:
 

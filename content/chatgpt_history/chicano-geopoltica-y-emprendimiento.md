@@ -3,24 +3,24 @@ title: Chicano Geopolítica y Emprendimiento
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  personas en retiro que hayan hecho excelentes contribuciones
+  en el campo de la geopolitica en Mexico y Estados Unidos (buscando union y entendimiento)
+  y en el mundo del Emprendimiento Social. Ambos con un enfoque chicano o de cooperacion
+  entre los dos países"
 draft: false
 ---
 
 # Chicano Geopolítica y Emprendimiento
 
-## ✅ TODOs
-
-
-## 📌 Summary
-personas en retiro que hayan hecho excelentes contribuciones en el campo de la geopolitica en Mexico y Estados Unidos (buscando union y entendimiento) y en el mundo del Emprendimiento Social. Ambos con un enfoque chicano o de cooperacion entre los dos países
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 personas en retiro que hayan hecho excelentes contribuciones en el campo de la geopolitica en Mexico y Estados Unidos (buscando union y entendimiento) y en el mundo del Emprendimiento Social. Ambos con un enfoque chicano o de cooperacion entre los dos países
 
+---
 
+🤖 **Assistant:**
 
 Two individuals who have made significant contributions to geopolitics and social entrepreneurship with a focus on U.S.-Mexico cooperation and a Chicano or bilateral perspective include:
 
@@ -30,7 +30,15 @@ Two individuals who have made significant contributions to geopolitics and socia
 
 These individuals exemplify the commitment to fostering a cooperative and understanding relationship between Mexico and the United States, both during their official tenures and in their retirement through various social and economic initiatives.
 
+---
+
+🙋 **You:**
+
 only activists or academics but no politicians with polemic opinions
+
+---
+
+🤖 **Assistant:**
 
 Here are two individuals who have made significant contributions to geopolitics and social entrepreneurship from an academic or activist perspective, focusing on U.S.-Mexico cooperation:
 

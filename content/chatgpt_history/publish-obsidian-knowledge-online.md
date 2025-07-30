@@ -3,24 +3,23 @@ title: Publish Obsidian Knowledge Online
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Browse for a JavaScript / React library to publish
+  my obsidian knowledge base in a website. It would be awesome if supports bibtex
+  and wikilinks​​​​​​​​​​​​​​​​"
 draft: false
 ---
 
 # Publish Obsidian Knowledge Online
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Browse for a JavaScript / React library to publish my obsidian knowledge base in a website. It would be awesome if supports bibtex and wikilinks​​​​​​​​​​​​​​​​
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Browse for a JavaScript / React library to publish my obsidian knowledge base in a website. It would be awesome if supports bibtex and wikilinks​​​​​​​​​​​​​​​​
 
+---
 
+🤖 **Assistant:**
 
 To publish your Obsidian knowledge base on a website with support for BibTeX and wikilinks, you have a few robust options:
 
@@ -35,7 +34,15 @@ To publish your Obsidian knowledge base on a website with support for BibTeX and
 
 These options should help you effectively publish your Obsidian knowledge base online with the desired features.
 
+---
+
+🙋 **You:**
+
 How about obsidiosaurus???
+
+---
+
+🤖 **Assistant:**
 
 The library **Obsidiosaurus** is a notable option for publishing your Obsidian knowledge base using React. It provides a structured and efficient way to convert your Obsidian markdown files into a fully functional website. Some key features of Obsidiosaurus include:
 
@@ -54,7 +61,15 @@ You can find more detailed information and setup guides on their respective GitH
 
 These tools should help you effectively publish your knowledge base online with the features you need.
 
+---
+
+🙋 **You:**
+
 Compare those against Jekyll digital garden
+
+---
+
+🤖 **Assistant:**
 
 Here is a comparison between **Obsidiosaurus**, **Flowershow**, **Gatsby Starter Obsidian Garden**, and **Jekyll Digital Garden**:
 
@@ -98,7 +113,15 @@ Here is a comparison between **Obsidiosaurus**, **Flowershow**, **Gatsby Starter
 
 Each of these tools has its strengths, so the best choice depends on your specific needs and technical comfort level.
 
+---
+
+🙋 **You:**
+
 Your Jekyll reference is this one? https://github.com/maximevaillancourt/digital-garden-jekyll-template
+
+---
+
+🤖 **Assistant:**
 
 Yes, the Jekyll reference is the [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt. This template is designed to help you create a digital garden with Jekyll, featuring support for Obsidian-style notes and markdown rendering.
 
@@ -143,7 +166,15 @@ Here's a detailed comparison of **Obsidiosaurus**, **Flowershow**, **Gatsby Star
 
 Each of these tools has its strengths, so the best choice depends on your specific needs and technical comfort level. The Jekyll template offers a robust, customizable approach but requires more setup and familiarity with Jekyll.
 
+---
+
+🙋 **You:**
+
 Can I also use obsidian publish and lock access to my website under my nextjs app?
+
+---
+
+🤖 **Assistant:**
 
 Yes, you can use Obsidian Publish and lock access to your website under your Next.js app. Here’s how you can integrate Obsidian Publish with a Next.js app and add authentication to control access:
 
@@ -259,9 +290,21 @@ Yes, you can use Obsidian Publish and lock access to your website under your Nex
 
 This setup allows you to integrate your Obsidian Publish site within a Next.js app and restrict access to authenticated users.
 
+---
+
+🙋 **You:**
+
 Will that make the url still available publicly?
 
+---
+
+🤖 **Assistant:**
+
 Yes, using the method
+
+---
+
+🤖 **Assistant:**
 
 Using the proxy method described above will still leave the original Obsidian Publish URL publicly accessible, as it doesn't inherently protect the source URL itself. To fully protect your content and ensure it's not publicly accessible, you need to implement additional access control measures directly on the Obsidian Publish side or through a more secure setup. Here are a couple of alternative approaches:
 
@@ -363,9 +406,15 @@ Instead of using Obsidian Publish, you can host your Obsidian vault on your serv
 
 Both methods ensure that your content is only accessible to authenticated users and not publicly available.
 
+---
+
+🙋 **You:**
+
 how can I use floralshow locally to preview my notes?
 
+---
 
+🤖 **Assistant:**
 
 To use Flowershow locally to preview your Obsidian notes, follow these steps:
 
@@ -431,6 +480,10 @@ By following these steps, you can set up Flowershow locally to preview your Obsi
 
 For more detailed information and advanced configurations, refer to the Flowershow [documentation](https://github.com/flowershow/flowershow).
 
+---
+
+🙋 **You:**
+
   ~/Documents/LEPHUCR-half-letter on   main wip ⇡1 !1 ?27 ❯ npm run dev                                                             took  1m 5s at  00:04:27
 
 
@@ -457,6 +510,9 @@ For more detailed information and advanced configurations, refer to the Flowersh
 [1] Node.js v18.17.1
 [1] npm run generate && cross-env NODE_ENV=development next-remote-watch content exited with code 1
 
+---
+
+🤖 **Assistant:**
 
 The error you are encountering indicates that there is an issue with the SQLite database already having a table named `tags`. This can be resolved by modifying the script to check if the table exists before attempting to create it, or by deleting the existing database file to reset it.
 

@@ -5,7 +5,7 @@ tags:
 - fetch
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How do I fix this?"
 draft: false
 ---
 
@@ -15,19 +15,25 @@ draft: false
 - [ ] wnload and install a specific version of Ruby. It fetches the specified version of Ruby from the Ruby repository and stores it locally on your machine.
 - [ ] wnload and install Ruby 2.7.4:
 
-## 📌 Summary
-How do I fix this?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How do I fix this?
 spec/features/users/forgot_password_spec.rb:7:3: C: RSpec/MultipleExpectations: Example has too many expectations [2/1].
   it 'signs in user' do
 
+---
+
+🤖 **Assistant:**
+
 The warning message indicates that the example defined in `spec/features/users/forgot_password_spec.rb` has too many expectations, specifically two expectations where only one is recommended.
 
 To fix this warning message, you can refactor the test case by splitting it into
+
+---
+
+🙋 **You:**
 
 How do I fix this?
 spec/features/users/forgot_password_spec.rb:7:3: C: RSpec/MultipleExpectations: Example has too many expectations [2/1].
@@ -44,6 +50,10 @@ spec/features/users/forgot_password_spec.rb:7:3: C: RSpec/MultipleExpectations: 
       'You will receive an email with instructions on how to reset your password in a few minutes.'
     )
   end
+
+---
+
+🤖 **Assistant:**
 
 The issue with the code is that the RSpec test has more than one expectation in the example, violating the Single Responsibility Principle (SRP) of tests. Each test should have a single expectation to test a specific behavior of the code.
 
@@ -70,6 +80,10 @@ end
 ```
 
 In the updated code, the first test checks if the password reset page is displayed correctly. The second test sends the reset password instructions to the user and verifies if the success message is displayed on the page. Each test has a single expectation to test a specific behavior, making it easier to read, understand, and maintain the code.
+
+---
+
+🙋 **You:**
 
 Fix this one too:
   it 'signs in user' do # rubocop:disable RSpec/ExampleLength RSpec/MultipleExpectations
@@ -100,6 +114,9 @@ describe 'Users: Sign In' do
   end
 end
 
+---
+
+🤖 **Assistant:**
 
 The code appears to be correct. The `before` block sets up the test environment by creating a user with email and password. The `it` block tests if the user can successfully sign in with the provided credentials.
 
@@ -130,7 +147,15 @@ end
 
 In the updated code, the first test checks if the login page is displayed correctly. The second test fills in the email and password fields, submits the form, and verifies if the user is successfully signed in. By splitting the original test into two smaller tests, the code is more readable, maintainable, and adheres to the SRP of tests.
 
+---
+
+🙋 **You:**
+
 How can I inline disable rubocop in it blocks?
+
+---
+
+🤖 **Assistant:**
 
 You can disable Rubocop in a single line by using the `rubocop:disable` comment within the `it` block. Here's an example:
 
@@ -153,7 +178,15 @@ In this example, the `:disable_rubocop` tag is added to the `it` block, and the 
 
 It's generally recommended to avoid disabling Rubocop checks unless absolutely necessary, as it can lead to lower code quality and consistency. If possible, try to address any issues flagged by Rubocop in a way that adheres to the style guide and best practices.
 
+---
+
+🙋 **You:**
+
 Doing it that way rspec will comply that are redundant cops
+
+---
+
+🤖 **Assistant:**
 
 Yes, you're correct. Rubocop may flag the `rubocop:disable` comments as redundant, because they are only disabling the cops for that specific block of code.
 
@@ -181,7 +214,15 @@ AllCops:
 
 With this configuration file in place, you can remove the `rubocop:disable` comments from your code, and Rubocop will still ignore those cops for your specs. If you need to enable the cops again for a specific block of code, you can use `rubocop:enable` comments.
 
+---
+
+🙋 **You:**
+
 I want to disable for specific it blocks
+
+---
+
+🤖 **Assistant:**
 
 If you want to disable specific cops for only certain `it` blocks, you can use `rubocop:disable` comments inline in the block, like this:
 
@@ -204,9 +245,17 @@ In this example, the `:disable_rubocop` tag is added to the `it` block, and the 
 
 Keep in mind that using `rubocop:disable` comments should be done sparingly and only when necessary, as it can lead to lower code quality and consistency. It's generally better to address any issues flagged by Rubocop in a way that adheres to the style guide and best practices.
 
+---
+
+🙋 **You:**
+
 [Correctable] Lint/RedundantCopDisableDirective: Unnecessary disabling of RSpec/MultipleExpectations.                       ─╯
     # rubocop:disable RSpec/ExampleLength, RSpec/MultipleExpectations
 This happened after added comments wrapping the it block
+
+---
+
+🤖 **Assistant:**
 
 If Rubocop is still flagging the `rubocop:disable` comments as unnecessary, you can try moving the comments outside of the `it` block and wrapping the block with the comments instead. Here's an example:
 
@@ -233,7 +282,15 @@ In this example, the `rubocop:disable` comments are placed before and after the 
 
 Keep in mind that disabling Rubocop checks should be done sparingly and only when necessary, as it can lead to lower code quality and consistency. It's generally better to address any issues flagged by Rubocop in a way that adheres to the style guide and best practices.
 
+---
+
+🙋 **You:**
+
 rbenv fetch
+
+---
+
+🤖 **Assistant:**
 
 The `rbenv fetch` command is used to download and install a specific version of Ruby. It fetches the specified version of Ruby from the Ruby repository and stores it locally on your machine.
 
@@ -247,9 +304,17 @@ After running this command, rbenv will download the source code for Ruby 2.7.4 a
 
 Keep in mind that you may need to install additional dependencies or libraries on your system in order to compile and install Ruby. The exact steps will depend on your operating system and environment.
 
+---
+
+🙋 **You:**
+
 worker_timeout 3600 if ENV.fetch('RAILS_ENV', 'development') == 'development'
 
 config/puma.rb:16 Hash#fetch with second argument is slower than Hash#fetch with block.
+
+---
+
+🤖 **Assistant:**
 
 The warning message you're seeing in your `config/puma.rb` file is suggesting that using a block with `Hash#fetch` is faster than using the second argument form. 
 
@@ -262,6 +327,10 @@ worker_timeout(ENV.fetch('RAILS_ENV', 'development') { 'development' } == 'devel
 In this example, the block syntax is used with `fetch` to provide a default value of `'development'` if the key is not found in the environment variables. The rest of the expression after the `fetch` method is the same as before, using a ternary operator to set the `worker_timeout` value to `3600` if the environment is `'development'`, and `60` otherwise.
 
 Using a block instead of the second argument with `fetch` can improve performance, because it avoids the creation of an additional temporary object. However, keep in mind that this is a micro-optimization and the performance gain may not be significant for your application. The main advantage of using a block with `fetch` is that it allows you to provide more complex default values or fallback logic.
+
+---
+
+🤖 **Assistant:**
 
 The warning message you received suggests that using a block instead of a second argument with the `fetch` method may improve performance.
 

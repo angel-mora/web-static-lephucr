@@ -3,7 +3,7 @@ title: Proyección costos campaña marketing
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  proyección costos campaña marketing"
 draft: false
 ---
 
@@ -13,15 +13,15 @@ draft: false
 - [ ] s los elementos clave que podrían impactar el presupuesto. Aquí tienes un desglose que podrías utilizar:
 - [ ] s los costos: **$[Total estimado]**
 
-## 📌 Summary
-proyección costos campaña marketing
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 proyección costos campaña marketing
 
+---
 
+🤖 **Assistant:**
 
 Para realizar una proyección de costos para una campaña de marketing, es importante dividir el análisis en categorías y considerar todos los elementos clave que podrían impactar el presupuesto. Aquí tienes un desglose que podrías utilizar:
 

@@ -3,22 +3,21 @@ title: IT Support Levels Overview
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  levels of support in IT"
 draft: false
 ---
 
 # IT Support Levels Overview
 
-## ✅ TODOs
-
-
-## 📌 Summary
-levels of support in IT
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 levels of support in IT
+
+---
+
+🤖 **Assistant:**
 
 In the field of Information Technology (IT), support is typically organized into different levels or tiers. This structure is designed to efficiently handle issues or problems by escalating them through progressively more skilled and specialized levels of technical support personnel. Here's an overview of the common levels of support in IT:
 

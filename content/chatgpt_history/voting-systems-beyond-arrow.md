@@ -3,24 +3,23 @@ title: Voting Systems Beyond Arrow
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  what are the best voting systems? They should be able
+  to overcome the Arrow's impossibility theorem. Provide only the most useful and
+  recent research."
 draft: false
 ---
 
 # Voting Systems Beyond Arrow
 
-## ✅ TODOs
-
-
-## 📌 Summary
-what are the best voting systems? They should be able to overcome the Arrow's impossibility theorem. Provide only the most useful and recent research.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 what are the best voting systems? They should be able to overcome the Arrow's impossibility theorem. Provide only the most useful and recent research.
 
+---
 
+🤖 **Assistant:**
 
 Overcoming Arrow's Impossibility Theorem, which states that no rank-order voting system can convert individual preferences into a collective decision without violating some fairness criteria, remains challenging. However, there are some alternative voting systems that, while not fully bypassing Arrow’s theorem, aim to mitigate its impact and provide more practical solutions:
 
@@ -32,11 +31,27 @@ Overcoming Arrow's Impossibility Theorem, which states that no rank-order voting
 
 While none of these systems fully resolve the limitations posed by Arrow's theorem, they represent more practical alternatives that aim to produce fairer and more representative outcomes.
 
+---
+
+🙋 **You:**
+
 So how could implement that for something like a political organization. I want to be able to code the voting system in something like Rails. I'd like also to be able to get the best leaders in all positions. E.g. Instead of having a president elected who will decide who will be their members, they are forced to colaborate with the most popular other candidates who didn't win. Also provide some other potential social organization structures that could help the organization to attain its core goals
+
+---
+
+🤖 **Assistant:**
 
 User is looking to implement a voting system in Rails for a political organization where leaders collaborate with other popular candidates who didn't win, rather than electing a president who appoints their members. User is also interested in exploring other social organization structures to help the organization achieve its core goals.
 
+---
+
+**Tool:**
+
 Model set context updated.
+
+---
+
+🤖 **Assistant:**
 
 To implement a voting system for a political organization in Rails that encourages collaboration between leaders and popular candidates, you can combine several voting methods and organizational strategies. Here's an approach:
 

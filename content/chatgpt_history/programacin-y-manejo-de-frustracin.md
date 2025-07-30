@@ -3,24 +3,23 @@ title: Programación y manejo de frustración
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Hay algun otro programa de 12 pasos que me ayude a
+  poder trabajar en la computadora como programador siendo capaz de lidiar mejor con
+  la frustracion"
 draft: false
 ---
 
 # Programación y manejo de frustración
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Hay algun otro programa de 12 pasos que me ayude a poder trabajar en la computadora como programador siendo capaz de lidiar mejor con la frustracion
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Hay algun otro programa de 12 pasos que me ayude a poder trabajar en la computadora como programador siendo capaz de lidiar mejor con la frustracion
 
+---
 
+🤖 **Assistant:**
 
 Sí, además de programas tradicionales como los de Alcohólicos Anónimos o Narcóticos Anónimos, hay enfoques similares que podrían ayudarte con la frustración y la regulación emocional como programador. Aquí tienes algunas opciones y enfoques que podrían ser útiles:
 

@@ -3,22 +3,24 @@ title: Create Obsidian Blog Videos
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Script to create videos out of my obsidian blog posts
+  (in markdown and obsidian config in front matter), ruby and python, one first I
+  say continue and the second script. use existing libraries and Unix based tools
+  whenever possible"
 draft: false
 ---
 
 # Create Obsidian Blog Videos
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Script to create videos out of my obsidian blog posts (in markdown and obsidian config in front matter), ruby and python, one first I say continue and the second script. use existing libraries and Unix based tools whenever possible
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Script to create videos out of my obsidian blog posts (in markdown and obsidian config in front matter), ruby and python, one first I say continue and the second script. use existing libraries and Unix based tools whenever possible
+
+---
+
+🤖 **Assistant:**
 
 Creating videos from Obsidian blog posts involves multiple steps:
 

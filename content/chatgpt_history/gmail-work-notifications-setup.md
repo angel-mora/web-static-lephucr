@@ -3,24 +3,22 @@ title: Gmail Work Notifications Setup
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  equivalent of outlook rules but for gmail. I want to
+  make sure I always have notifications for my work at my gmail"
 draft: false
 ---
 
 # Gmail Work Notifications Setup
 
-## ✅ TODOs
-
-
-## 📌 Summary
-equivalent of outlook rules but for gmail. I want to make sure I always have notifications for my work at my gmail
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-equivalent of outlook rules but for gmail. I want to make sure I always have notifications for my work at my gmail 
+equivalent of outlook rules but for gmail. I want to make sure I always have notifications for my work at my gmail
 
+---
 
+🤖 **Assistant:**
 
 In Gmail, you can use **filters** and **labels** combined with **notifications** to replicate the functionality of Outlook rules. Here's how you can set it up:
 

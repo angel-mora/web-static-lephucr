@@ -3,22 +3,22 @@ title: RSpec Tests Detect Bad Design
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How rspec testing helps understanding coupled or bad
+  designed ruby?"
 draft: false
 ---
 
 # RSpec Tests Detect Bad Design
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How rspec testing helps understanding coupled or bad designed ruby?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-How rspec testing helps understanding coupled or bad designed ruby? 
+How rspec testing helps understanding coupled or bad designed ruby?
+
+---
+
+🤖 **Assistant:**
 
 Rspec testing, particularly in the Ruby ecosystem, can be a powerful tool for understanding and identifying coupled or poorly designed code. Here's how it helps:
 

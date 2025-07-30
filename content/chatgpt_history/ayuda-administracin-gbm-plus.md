@@ -3,24 +3,22 @@ title: Ayuda Administración GBM Plus
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuanto le pagaría a alguien que me ayude a administrar
+  GBM plus en México?"
 draft: false
 ---
 
 # Ayuda Administración GBM Plus
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cuanto le pagaría a alguien que me ayude a administrar GBM plus en México?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
-Cuanto le pagaría a alguien que me ayude a administrar GBM plus en México? 
+Cuanto le pagaría a alguien que me ayude a administrar GBM plus en México?
 
+---
 
+🤖 **Assistant:**
 
 El salario para alguien que ayude a administrar una cuenta en GBM Plus en México puede variar dependiendo de varios factores, como el nivel de experiencia, las responsabilidades específicas del trabajo y la ubicación. Aquí hay una estimación general basada en diferentes niveles de experiencia:
 

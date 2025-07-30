@@ -3,22 +3,22 @@ title: Neon Inconsolata Cover Tutorial
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  LEPHUCR: how to make half letter orange neon book cover
+  with inconsolata font in inDesign or in LaTeX"
 draft: false
 ---
 
 # Neon Inconsolata Cover Tutorial
 
-## ✅ TODOs
-
-
-## 📌 Summary
-LEPHUCR: how to make half letter orange neon book cover with inconsolata font in inDesign or in LaTeX
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 LEPHUCR: how to make half letter orange neon book cover with inconsolata font in inDesign or in LaTeX
+
+---
+
+🤖 **Assistant:**
 
 Creating a book cover with a specific design element, like making half of a letter in orange neon, and using a specific font, such as Inconsolata, can be a creative yet technical process. Both Adobe InDesign and LaTeX offer the capabilities to create detailed and professional designs, but their approaches and ease of use for this specific task can vary significantly. Here's a brief guide on how you might approach this in each software.
 

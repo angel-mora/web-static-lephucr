@@ -3,7 +3,8 @@ title: Cardio or Weights First
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  what is better? To do mma before heavylifting or the
+  other way around? I mean, cardio before weights or what is better?"
 draft: false
 ---
 
@@ -12,15 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] mma before heavylifting or the other way around? I mean, cardio before weights or what is better?
 
-## 📌 Summary
-what is better? To do mma before heavylifting or the other way around? I mean, cardio before weights or what is better?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 what is better? To do mma before heavylifting or the other way around? I mean, cardio before weights or what is better?
 
+---
 
+🤖 **Assistant:**
 
 The order in which you perform MMA (or cardio) and weightlifting depends on your fitness goals. Here are some considerations:
 

@@ -3,24 +3,22 @@ title: Highest Ruby on Rails Salaries
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Websites to find highest salaries for ruby on rails
+  jobs"
 draft: false
 ---
 
 # Highest Ruby on Rails Salaries
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Websites to find highest salaries for ruby on rails jobs
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Websites to find highest salaries for ruby on rails jobs
 
+---
 
+🤖 **Assistant:**
 
 To find websites listing the highest salaries for Ruby on Rails jobs, consider checking out the following platforms:
 
@@ -47,7 +45,15 @@ To find websites listing the highest salaries for Ruby on Rails jobs, consider c
 
 These websites can help you get a comprehensive view of the salary landscape for Ruby on Rails jobs.
 
+---
+
+🙋 **You:**
+
 Are you 100% sure? Those are remote jobs available in Mexico? Make the best browsing query you can
+
+---
+
+🤖 **Assistant:**
 
 To find high-paying remote Ruby on Rails jobs available in Mexico, here are some platforms that specialize in remote opportunities and have listings specifically for Ruby on Rails developers:
 

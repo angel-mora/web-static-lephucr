@@ -3,7 +3,9 @@ title: Vim VSCode Shortcuts Guide
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  common commands in vim to replace vscode (to replace
+  things in vscode like shift option i, cmd shift l, cmd option to select multiple
+  lines, etc). I want to get the shortcuts to work as smooth as possible"
 draft: false
 ---
 
@@ -12,13 +14,15 @@ draft: false
 ## ✅ TODOs
 - [ ] it:
 
-## 📌 Summary
-common commands in vim to replace vscode (to replace things in vscode like shift option i, cmd shift l, cmd option to select multiple lines, etc). I want to get the shortcuts to work as smooth as possible
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 common commands in vim to replace vscode (to replace things in vscode like shift option i, cmd shift l, cmd option to select multiple lines, etc). I want to get the shortcuts to work as smooth as possible
+
+---
+
+🤖 **Assistant:**
 
 Certainly! Vim is a powerful text editor with a steep learning curve, but once you get the hang of it, you can be incredibly efficient. Here's a list of Vim commands and shortcuts that can help you achieve similar functionality to some of the common VSCode shortcuts:
 
@@ -72,7 +76,15 @@ Certainly! Vim is a powerful text editor with a steep learning curve, but once y
 
 Remember, Vim's power comes from its modal nature and the ability to combine commands. It might take some time to get used to, but once you do, you'll find it to be a very efficient way to navigate and edit text. If you're looking to replicate the exact feel and functionality of VSCode, you might also consider using the Vim extension in VSCode, which allows you to use Vim keybindings within the VSCode environment.
 
+---
+
+🙋 **You:**
+
 How to add an enter? Do i need to insert mode?
+
+---
+
+🤖 **Assistant:**
 
 In Vim, to insert a newline (or "enter"), you typically enter insert mode. Here's how you can do it:
 
@@ -89,7 +101,15 @@ In Vim, to insert a newline (or "enter"), you typically enter insert mode. Here'
 
 After you've added your newline(s), you can press `Esc` to return to normal mode.
 
+---
+
+🙋 **You:**
+
 how can I add indentation to a block of code?
+
+---
+
+🤖 **Assistant:**
 
 In Vim, you can easily add indentation to a block of code using the following steps:
 
@@ -122,7 +142,15 @@ In Vim, you can easily add indentation to a block of code using the following st
 
 Remember, Vim is highly customizable, and there are many plugins and configurations available to enhance and modify its behavior. Adjust the settings to fit your coding style and preferences.
 
+---
+
+🙋 **You:**
+
 :s%/{ name/BreadcrumbsItemComponent.new(name/g does not work
+
+---
+
+🤖 **Assistant:**
 
 It seems you have a typo in your Vim substitution command. The correct syntax for a substitution command in Vim is:
 
@@ -146,7 +174,15 @@ Here's a breakdown:
 
 If you execute the above command, it should work as expected.
 
+---
+
+🙋 **You:**
+
 I select a /pattern, then how can I indent all matches
+
+---
+
+🤖 **Assistant:**
 
 If you want to indent lines that match a specific pattern in Vim, you can use the `:global` command combined with the `>` command for indentation. Here's how you can do it:
 
@@ -171,7 +207,15 @@ If you want to indent lines that match a specific pattern in Vim, you can use th
 
 Remember to ensure your `shiftwidth` setting in Vim is set to your desired level of indentation (e.g., `:set shiftwidth=4` for 4 spaces).
 
+---
+
+🙋 **You:**
+
 select multiple lines and then go to the last char in the line (I am attempting to add a final } to those lines matching the pattern title: ANY_STRING followed by ) so ends up like title: ANY_STRING})
+
+---
+
+🤖 **Assistant:**
 
 If you want to select multiple lines matching a pattern and then append a character (or characters) to the end of each of those lines, you can use the `:global` command combined with the `:normal` command in Vim.
 
@@ -189,7 +233,15 @@ Here's how you can achieve your specific requirement:
 
 After executing the above command, every line in your file that matches the pattern `title: ANY_STRING)` will have a `}` appended to its end, resulting in `title: ANY_STRING})`.
 
+---
+
+🙋 **You:**
+
 what you suggested will give )}
+
+---
+
+🤖 **Assistant:**
 
 I apologize for the oversight. You're right.
 
@@ -206,9 +258,15 @@ Explanation:
 
 Executing this command will replace the trailing `)` with `})` on every line that matches the pattern.
 
+---
+
+🙋 **You:**
+
 Do you know nvchad?
 
+---
 
+🤖 **Assistant:**
 
 Yes, as of my last update in January 2022, NvChad is a Neovim configuration that aims to make Neovim feel like a full-fledged IDE while still being minimal. It's built on top of the Lua language for configuration and uses various plugins to enhance the Neovim experience. NvChad provides a set of defaults and configurations that make it easier for users to get started with a powerful Neovim setup without having to configure everything from scratch.
 
@@ -221,7 +279,15 @@ NvChad typically includes features like:
 
 If you have specific questions about NvChad or need help with its configuration, feel free to ask!
 
+---
+
+🙋 **You:**
+
 How can I install typescript features in nvchad?
+
+---
+
+🤖 **Assistant:**
 
 To add TypeScript support to NvChad, you'll primarily need to set up the built-in LSP (Language Server Protocol) for TypeScript. Here's a step-by-step guide to get TypeScript features in NvChad:
 
@@ -268,9 +334,15 @@ To add TypeScript support to NvChad, you'll primarily need to set up the built-i
 
 Remember, NvChad's configurations and structure might evolve over time, so it's a good idea to refer to the official NvChad documentation or repository for any recent changes or recommendations related to setting up language servers or other features.
 
+---
+
+🙋 **You:**
+
 yank multiple lines (6,8) at once in vim
 
+---
 
+🤖 **Assistant:**
 
 In Vim, to yank (copy) multiple lines, you can use a range with the `y` command. Here's how you can yank lines 6 through 8:
 
@@ -287,7 +359,15 @@ In Vim, to yank (copy) multiple lines, you can use a range with the `y` command.
 
 After yanking, you can paste the lines with the `p` command to put them below the cursor or `P` to put them above the cursor.
 
+---
+
+🙋 **You:**
+
 not a range, only 6 and 8
+
+---
+
+🤖 **Assistant:**
 
 Ah, I see. If you want to yank non-consecutive lines, like only lines 6 and 8, you'll need to use a slightly different approach. Here's one way to do it:
 

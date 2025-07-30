@@ -3,22 +3,22 @@ title: Difference Between aria-expanded and Content
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  what is the difference between \"content expanded\"
+  and aria-group-expanded and \"content collapsed\""
 draft: false
 ---
 
 # Difference Between aria-expanded and Content
 
-## ✅ TODOs
-
-
-## 📌 Summary
-what is the difference between "content expanded" and aria-group-expanded and "content collapsed"
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 what is the difference between "content expanded" and aria-group-expanded and "content collapsed"
+
+---
+
+🤖 **Assistant:**
 
 The terms you're referring to seem to be a mix of general descriptive terms ("content expanded" and "content collapsed") and an attribute used in web accessibility ("aria-expanded"). Here's a breakdown of each:
 
@@ -51,8 +51,11 @@ Here’s an example that shows both `aria-expanded` and `aria-controls` in use:
 
 In this example, when the button is clicked, a JavaScript function would typically toggle the `hidden` attribute of the `div` and update the `aria-expanded` attribute on the button accordingly, to maintain accessibility.
 
-{"content_type"=>"image_asset_pointer", "asset_pointer"=>"file-service://file-jhO9nSt71S9kyOqm4ySyT5Zz", "size_bytes"=>79057, "width"=>838, "height"=>594, "fovea"=>nil, "metadata"=>nil}
+---
 
+🙋 **You:**
+
+{"content_type"=>"image_asset_pointer", "asset_pointer"=>"file-service://file-jhO9nSt71S9kyOqm4ySyT5Zz", "size_bytes"=>79057, "width"=>838, "height"=>594, "fovea"=>nil, "metadata"=>nil}
 how can I implement a toggle that has a button to show 'more' or 'less' when clicking, I have this controller and this show file in ruby 
 
 import { Controller } from '@hotwired/stimulus';
@@ -107,7 +110,11 @@ and this is the view for toggle
       <%= render(SoftwareReviewsShared::UI::IconComponent.new(icon: 'plus', classes: 'group-aria-expanded:hidden ml-1')) %>
       <%= tag.span I18n.t('software_reviews.show.intro.less'), class: 'hidden group-aria-expanded:block underline' %>
       <%= render(SoftwareReviewsShared::UI::IconComponent.new(icon: 'minus', classes: 'hidden group-aria-expanded:block ml-1')) %>
-    <% end %>  
+    <% end %>
+
+---
+
+🤖 **Assistant:**
 
 Based on the code you’ve provided, you already have the foundation for a toggle functionality implemented using the Stimulus JavaScript framework. The JavaScript controller you have handles the toggling of visibility of an element and updating the `aria-expanded` attribute.
 
@@ -139,7 +146,15 @@ export default class extends Controller {
     this.lessTextTargets.forEach(el => el.classList.toggle('hidden'));
     this.moreIconTargets.forEach(el
 
+---
+
+🤖 **Assistant:**
+
 => el.classList.toggle('hidden'));
     this.less
+
+---
+
+🤖 **Assistant:**
 
 You have already implemented most parts of the toggle functionality. However, you might be missing the correct CSS and Javascript functionality to handle the visual toggle of

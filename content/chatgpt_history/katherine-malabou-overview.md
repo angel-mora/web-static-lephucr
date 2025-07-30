@@ -3,24 +3,21 @@ title: Katherine Malabou Overview
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Quién es Katherine Malabou?"
 draft: false
 ---
 
 # Katherine Malabou Overview
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Quién es Katherine Malabou?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Quién es Katherine Malabou?
 
+---
 
+🤖 **Assistant:**
 
 Katherine Malabou es una filósofa francesa conocida por sus trabajos en filosofía continental, particularmente en el campo de la deconstrucción y la filosofía contemporánea. Nació en 1959 y estudió en la École Normale Supérieure de Fontenay-Saint-Cloud y en la Universidad de París-Sorbona. Malabou es reconocida por sus contribuciones en el pensamiento sobre la plasticidad, un concepto que explora la capacidad de los seres humanos y las estructuras para cambiar y adaptarse.
 

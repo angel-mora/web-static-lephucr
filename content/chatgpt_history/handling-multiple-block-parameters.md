@@ -3,7 +3,8 @@ title: Handling Multiple Block Parameters
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to know which enumerables Can handle multiple args
+  under the pipes in the block. E.g. |key,value,else|"
 draft: false
 ---
 
@@ -12,13 +13,15 @@ draft: false
 ## ✅ TODOs
 - [ ] this is with the `each_with_index` method.
 
-## 📌 Summary
-How to know which enumerables Can handle multiple args under the pipes in the block. E.g. |key,value,else|
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to know which enumerables Can handle multiple args under the pipes in the block. E.g. |key,value,else|
+
+---
+
+🤖 **Assistant:**
 
 In Ruby, some enumerables can handle multiple block parameters (i.e., multiple variables between pipes `| |`). Whether an enumerable can handle multiple arguments depends on the structure of the elements being enumerated.
 
@@ -66,7 +69,15 @@ end
 
 In this example, `num` would capture the integer, `char` the character, and `symbol` the symbol.
 
+---
+
+🙋 **You:**
+
 Can I represent the index as an argument in the pipe?
+
+---
+
+🤖 **Assistant:**
 
 Yes, many enumerable methods in Ruby provide the option to also access the index of the current element during iteration. The most direct way to do this is with the `each_with_index` method.
 

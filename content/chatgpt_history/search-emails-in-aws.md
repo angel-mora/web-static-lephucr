@@ -3,22 +3,22 @@ title: Search Emails in AWS
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to search emails in aws in rails? Can I do it over
+  the rails console?"
 draft: false
 ---
 
 # Search Emails in AWS
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How to search emails in aws in rails? Can I do it over the rails console?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to search emails in aws in rails? Can I do it over the rails console?
+
+---
+
+🤖 **Assistant:**
 
 Searching emails in an AWS (Amazon Web Services) environment from a Rails application typically involves interacting with the AWS SDK for Ruby to communicate with AWS services like Amazon Simple Email Service (SES) or databases where emails might be stored (e.g., Amazon DynamoDB, RDS). However, AWS SES itself is primarily used for sending and receiving emails and doesn't provide a built-in feature for searching through emails like a traditional email client or database would.
 

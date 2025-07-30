@@ -3,24 +3,23 @@ title: Obsidian Social Network Integration
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How can I make a social network within Obsidian?"
 draft: false
 ---
 
 # Obsidian Social Network Integration
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How can I make a social network within Obsidian?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How can I make a social network within Obsidian?
 Make explicit all the facts that I shoud recall as a rails developer (also some js knowledge). Like, Obsidian is a Chromium browser so these X, Y and Z are the things we can do with it. These sort of facts that can make my life simpler. Like, Obsidian could provide SSR and send HTML directly to a web rails application if the could communicate over an Obsidian plugin or something.
 Also, provide all the Obsidian plugins I should be aware about and could use as inspiration (or integration). The point of it would be you open the tab of the Social Network as an Obsidian plugin and you have the ability to send over comments/writings from your knowledge base to the web app but still read it over your local obsidian. It then, would also be able to instruct your local Obsidian app to create all calendars and kanban (only frontmatter + obsidian) in your local computer so you don't have to configure anything
+
+---
+
+🤖 **Assistant:**
 
 Obsidian is a powerful note-taking and personal knowledge management application. While it's not inherently a platform for developing social networks, you can creatively leverage its features, plugins, and API to integrate with web applications, including those built with Rails.
 
@@ -72,9 +71,15 @@ Obsidian is a powerful note-taking and personal knowledge management application
 
 Remember that Obsidian isn't designed as a platform for building social networks, so there might be limitations to what can be achieved. Nonetheless, with creativity and the right set of tools, you can create a system that leverages Obsidian for an enhanced knowledge-sharing experience.
 
+---
+
+🙋 **You:**
+
 How could my social network incorporate activity pub protocol? Would it make sense to integrate with the rails api?
 
+---
 
+🤖 **Assistant:**
 
 Incorporating the ActivityPub protocol into your social network can be a good idea, as it's a decentralized social networking protocol that enhances the interoperability between different services and systems. It enables users on your social network to communicate and interact with users on other platforms that support ActivityPub, thereby expanding the reach and functionality of your application.
 
@@ -122,7 +127,15 @@ Incorporating the ActivityPub protocol into your social network can be a good id
 
 In conclusion, integrating ActivityPub with your Rails API for the social network could make sense if you aim to create an open, decentralized, and interoperable platform. It can add significant value, but it’s important to weigh the benefits against the added complexity and development effort.
 
+---
+
+🙋 **You:**
+
 Tell me all relevant obsidian plug-ins and the services I could compete against by centralizing them in Obsidian. E.g.: Notion/Trello replaced by boards plugin , GitBook replaced by publish plugin, Google calendar, etc.
+
+---
+
+🤖 **Assistant:**
 
 Obsidian offers a variety of plugins that enable users to centralize different functionalities, potentially replacing several standalone services. Here’s a list of relevant Obsidian plugins and the services they could potentially compete against:
 

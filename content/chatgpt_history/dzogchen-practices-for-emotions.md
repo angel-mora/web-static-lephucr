@@ -3,23 +3,22 @@ title: Dzogchen Practices for Emotions
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  dzogchen practice (like Tara, Rushen, or any other
+  practice that teachers would recommend) to deal with angerness and anxiety"
 draft: false
 ---
 
 # Dzogchen Practices for Emotions
 
-## ✅ TODOs
-
-
-## 📌 Summary
-dzogchen practice (like Tara, Rushen, or any other practice that teachers would recommend) to deal with angerness and anxiety
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 dzogchen practice (like Tara, Rushen, or any other practice that teachers would recommend) to deal with angerness and anxiety
 
+---
+
+🤖 **Assistant:**
 
 Dzogchen, a tradition of teachings in Tibetan Buddhism, offers various practices that can be helpful in dealing with emotions such as anger and anxiety. While I can provide a general overview of some practices, it's important to note that these should ideally be learned under the guidance of a qualified teacher. Here are a few practices that are often recommended:
 

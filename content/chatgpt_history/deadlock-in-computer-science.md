@@ -3,22 +3,21 @@ title: Deadlock in Computer Science
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What is deadlock in computer science"
 draft: false
 ---
 
 # Deadlock in Computer Science
 
-## ✅ TODOs
-
-
-## 📌 Summary
-What is deadlock in computer science
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What is deadlock in computer science
+
+---
+
+🤖 **Assistant:**
 
 In computer science, a deadlock is a specific condition that occurs in a system when two or more tasks (which could be threads, processes, or users) are each waiting for the other to release a resource, causing all of them to be stuck indefinitely. Deadlocks are a fundamental problem in concurrent computing and systems, such as operating systems, database management systems, or distributed systems.
 
@@ -38,8 +37,15 @@ Deadlocks typically have four conditions, all of which must hold simultaneously 
 
 Deadlock prevention and avoidance are important aspects of system design, as they can lead to system inefficiency or failure.
 
-What is a design pattern? Do you know any examples?  
+---
 
+🙋 **You:**
+
+What is a design pattern? Do you know any examples?
+
+---
+
+🤖 **Assistant:**
 
 A design pattern in software engineering is a general, reusable solution to a commonly occurring problem within a given context in software design. Design patterns aren't a finished design that can be transformed directly into code. They're descriptions or templates for how to solve a problem that can be used in many different situations.
 
@@ -64,9 +70,16 @@ There are many types of design patterns, but they are generally grouped into thr
 
 It's important to note that these patterns are guidelines and not strict rules, and they are not universally beneficial. The need for a particular design pattern depends heavily on the context and specific requirements of the project.
 
+---
+
+🙋 **You:**
 
 in ruby and r
 ails what patterns are
+
+---
+
+🤖 **Assistant:**
 
 In Ruby and Rails, many of the classic design patterns are not typically used in the same way as in some other languages like Java or C++, due to Ruby's flexibility and features. However, there are still many patterns and idioms that are commonly used in Ruby and Rails code. Here are a few examples:
 
@@ -90,6 +103,9 @@ In Ruby and Rails, many of the classic design patterns are not typically used in
 
 These are just a few examples of the many patterns you might see in Ruby and Rails code.
 
+---
+
+🙋 **You:**
 
 What is a primary key in database?
 
@@ -98,6 +114,10 @@ What is indexing in database?
 Can you name a few sorting algorithms? 
 
 Can you name a few searching algorithms?
+
+---
+
+🤖 **Assistant:**
 
 1. **Primary Key in a Database**: A primary key is a field or set of fields used to uniquely identify a row in a database table. Each table in a database has a column or set of columns that serve as the primary key. It must contain a unique value for each row of data and cannot contain null values.
 

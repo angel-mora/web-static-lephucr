@@ -3,24 +3,21 @@ title: 500 Startups One-Pager Guide
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  How to build a one pager for a 500 startups project?"
 draft: false
 ---
 
 # 500 Startups One-Pager Guide
 
-## ✅ TODOs
-
-
-## 📌 Summary
-How to build a one pager for a 500 startups project?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 How to build a one pager for a 500 startups project?
 
+---
 
+🤖 **Assistant:**
 
 A one-pager for a 500 Startups project should clearly and concisely communicate your business’s value, vision, and traction. Here’s a breakdown of what to include:
 

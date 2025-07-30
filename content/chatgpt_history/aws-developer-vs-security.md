@@ -3,22 +3,22 @@ title: AWS Developer vs Security+
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  What certification is harder, AWS Developer or CompTIA
+  Security+?"
 draft: false
 ---
 
 # AWS Developer vs Security+
 
-## ✅ TODOs
-
-
-## 📌 Summary
-What certification is harder, AWS Developer or CompTIA Security+?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 What certification is harder, AWS Developer or CompTIA Security+?
+
+---
+
+🤖 **Assistant:**
 
 Determining whether the AWS Developer certification or the CompTIA Security+ certification is "harder" is somewhat subjective, as difficulty can be influenced by an individual's background, experience, and preparation efforts. However, I can provide some insights into each to help you get a sense of their relative complexities:
 
@@ -42,7 +42,15 @@ In summary, the perceived difficulty of these certifications can vary based on y
 
 It's also worth noting that while both certifications are valuable, they serve different purposes and target different roles within the IT industry. Before pursuing either, ensure that the certification aligns with your career goals and the specific roles you're targeting.
 
+---
+
+🙋 **You:**
+
 What certification is harder, AWS Developer or CompTIA Security+? I am a ruby on rails fullstack dev (also know some js) and have prepared for the Security+ and want to know how hard AWS Developer prep would be to me.
+
+---
+
+🤖 **Assistant:**
 
 Whether the AWS Developer certification is "harder" than CompTIA Security+ is somewhat subjective, as it depends on one's background, interests, and familiarity with the respective subjects. Both certifications serve different purposes, so let's break them down:
 
@@ -62,7 +70,15 @@ Given your background as a Ruby on Rails fullstack developer:
 
 In conclusion, while there's no definitive answer to which certification is "harder", given your developer background, you might find the AWS Developer certification more directly aligned with your current skills and possibly more intuitive to study for. Still, it largely depends on your previous exposure to AWS and cloud concepts. If you're entirely new to AWS, expect a steeper learning curve.
 
+---
+
+🙋 **You:**
+
 So how long would it take to prepare for the exam assuming I can spend 9 hours a week. Provide some study guidelines
+
+---
+
+🤖 **Assistant:**
 
 The preparation time for the AWS Certified Developer – Associate exam varies depending on the individual's prior experience with AWS services. If you're relatively new to AWS, a common guideline suggests anywhere from 2 to 4 months of consistent study. Given your available study time of 9 hours per week, this timeframe should be reasonable. 
 
@@ -120,7 +136,15 @@ Here's a rough study guideline:
 
 Remember, the guideline provided is a general roadmap. You can adjust based on your comfort and familiarity with AWS concepts. Good luck with your preparation!
 
+---
+
+🙋 **You:**
+
 Is using wireshark legal? Do people have tools to detect when someone is reading traffic through wireshark? Can I use that to protect my network from being scanned? Can the scan protection apply for my rails application deployed in aws as well?
+
+---
+
+🤖 **Assistant:**
 
 **Is using Wireshark legal?**
 

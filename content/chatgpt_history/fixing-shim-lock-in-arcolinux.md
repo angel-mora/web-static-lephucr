@@ -3,7 +3,8 @@ title: Fixing "Shim Lock" in Arcolinux
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  symbol grub is shim lock enabled not found in arcolinux,
+  how to fix?"
 draft: false
 ---
 
@@ -15,13 +16,15 @@ draft: false
 - [ ] this:
 - [ ] this. You'll need to give a name for the decrypted device (you can use `luks` for simplicity):
 
-## 📌 Summary
-symbol grub is shim lock enabled not found in arcolinux, how to fix?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 symbol grub is shim lock enabled not found in arcolinux, how to fix?
+
+---
+
+🤖 **Assistant:**
 
 The error you are seeing might be related to the secure boot configuration and how GRUB (the bootloader) is interacting with it. The "shim lock" is a mechanism used in Secure Boot which ensures that only trusted code is run by the UEFI firmware. When the "shim" is correctly installed and Secure Boot is enabled, this allows Linux to boot.
 
@@ -71,7 +74,15 @@ Here are some general steps you could follow to resolve this issue:
 
 Remember that those steps can vary depending on your specific configuration, and they are provided assuming you have some experience working with Linux, bootloaders, and terminal commands. Always make sure to have a backup of your important data before proceeding.
 
+---
+
+🙋 **You:**
+
 I only have the c option to open a bash-like terminal
+
+---
+
+🤖 **Assistant:**
 
 If you're seeing the GRUB rescue prompt (something like `grub rescue> _`), it typically means that GRUB can't find the `grub.cfg` file from which to load its configuration. This might happen due to incorrect boot partition, disk errors, or a messed up GRUB installation.
 
@@ -121,8 +132,15 @@ Once you've booted into your system, you should reinstall and update GRUB, to fi
 
 Please note: if you cannot find the `grub.cfg` file, it's likely that there is an issue with the GRUB installation or the boot partition, and you might need to boot from a Live USB to repair it.
 
+---
+
+🙋 **You:**
 
 I have the os under an encrypted hdd, does it change things?
+
+---
+
+🤖 **Assistant:**
 
 Yes, that does change things. If you're using an encrypted hard drive, you won't be able to see the contents of your partitions from the GRUB command line. You'll need to unlock the encrypted partition first before you can access your system.
 
@@ -197,7 +215,15 @@ After following these steps, your system should boot normally, and GRUB should p
 
 Please note that these steps assume some familiarity with the Linux command line and system administration. Be careful, and make sure you have a backup of your important data before proceeding.
 
+---
+
+🙋 **You:**
+
 So I did unlock my hdd and had access to ArcoLinux grub screen, it's just not allowing me to boot the os. My (crypto0) does have /boot/grub
+
+---
+
+🤖 **Assistant:**
 
 Given your situation, it seems like your boot process cannot find or access the necessary files to continue booting up. There are a few things you could try to solve this issue.
 

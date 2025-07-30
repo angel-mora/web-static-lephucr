@@ -3,22 +3,21 @@ title: Coworking Pricing Questions
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  doubts to ask in a coworking about pricing"
 draft: false
 ---
 
 # Coworking Pricing Questions
 
-## ✅ TODOs
-
-
-## 📌 Summary
-doubts to ask in a coworking about pricing
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 doubts to ask in a coworking about pricing
+
+---
+
+🤖 **Assistant:**
 
 When inquiring about pricing at a coworking space, it's important to gather comprehensive information to understand what you're getting for your money and how it aligns with your needs. Here are several key questions you might consider asking:
 

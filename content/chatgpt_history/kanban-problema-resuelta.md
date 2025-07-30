@@ -3,22 +3,21 @@ title: Kanban Problema Resuelta
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  obsidian things theme in kanban shows duplicated tags"
 draft: false
 ---
 
 # Kanban Problema Resuelta
 
-## ✅ TODOs
-
-
-## 📌 Summary
-obsidian things theme in kanban shows duplicated tags
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 obsidian things theme in kanban shows duplicated tags
+
+---
+
+🤖 **Assistant:**
 
 The issue of duplicated tags in Kanban cards when using the Obsidian Things theme or similar setups appears to be related to settings within the Kanban plugin itself rather than a specific bug with the theme. One solution offered by users is to enable the option to "hide tags in card titles" within the Kanban plugin's settings. Activating this setting can hide the first (uncolored) tag, potentially resolving the duplication issue by only displaying the colored tag or the intended single instance of a tag【5†source】.
 

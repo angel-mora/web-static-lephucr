@@ -3,22 +3,23 @@ title: Solving Linear Equations with 3 Variables
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  algebraic ecuation resolution. Provide a good example
+  with 3 variables. I haven't see this since 8 years ago so please be pedagogic. You
+  can use latex notation"
 draft: false
 ---
 
 # Solving Linear Equations with 3 Variables
 
-## ✅ TODOs
-
-
-## 📌 Summary
-algebraic ecuation resolution. Provide a good example with 3 variables. I haven't see this since 8 years ago so please be pedagogic. You can use latex notation
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 algebraic ecuation resolution. Provide a good example with 3 variables. I haven't see this since 8 years ago so please be pedagogic. You can use latex notation
+
+---
+
+🤖 **Assistant:**
 
 Sure, I'll provide an example of solving a system of linear equations with three variables. This is a common type of algebraic equation in mathematics. We often represent these equations in the form \( ax + by + cz = d \), where \( a, b, c, \) and \( d \) are constants, and \( x, y, \) and \( z \) are the variables we need to solve for.
 

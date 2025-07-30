@@ -4,22 +4,22 @@ tags:
 - pages
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  I want a markdown list of the pages under chrome://inspect/#pages,
+  give me js to input to devtools"
 draft: false
 ---
 
 # Chrome pages Markdown list
 
-## ✅ TODOs
-
-
-## 📌 Summary
-I want a markdown list of the pages under chrome://inspect/#pages, give me js to input to devtools
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 I want a markdown list of the pages under chrome://inspect/#pages, give me js to input to devtools
+
+---
+
+🤖 **Assistant:**
 
 Sure! Here's a JavaScript code snippet you can input into the DevTools console to generate a Markdown list of the pages under `chrome://inspect/#pages`:
 
@@ -41,7 +41,15 @@ This code will extract the list of inspected pages from the DOM, generate a Mark
 
 Note: This code assumes that you have already navigated to `chrome://inspect/#pages` in your Chrome browser.
 
+---
+
+🙋 **You:**
+
 unexpected token
+
+---
+
+🤖 **Assistant:**
 
 If you're getting an "unexpected token" error message when running a JavaScript code snippet in the DevTools console, it usually means that there is a syntax error in your code.
 
@@ -56,7 +64,15 @@ To fix the error, carefully review your code and check for any of these issues. 
 
 If you're still having trouble, feel free to share your code snippet and the error message you're seeing, and I can help you debug it.
 
+---
+
+🙋 **You:**
+
 Gave it the code you shared
+
+---
+
+🤖 **Assistant:**
 
 I apologize for the confusion. Here's the corrected JavaScript code that should work:
 
@@ -76,7 +92,15 @@ console.log(markdown);
 
 Please copy this code and try running it again in the DevTools console. If you still encounter any issues, please let me know the error message you see and I'll help you debug it.
 
+---
+
+🙋 **You:**
+
 How can I access the json version of this? chrome://inspect/#pages
+
+---
+
+🤖 **Assistant:**
 
 You can access the JSON version of the `chrome://inspect/#pages` list by sending a request to the Chrome DevTools Protocol using the `chrome.runtime.sendMessage` method in a content script.
 
@@ -116,7 +140,15 @@ This background script uses the `chrome.devtools.inspectedWindow.eval` method to
 
 Once you have both of these scripts set up, you can load your extension and run the first code snippet in the DevTools console to get the JSON list of inspected pages. The output should be a JSON string that you can parse and use in your application.
 
+---
+
+🙋 **You:**
+
 I want to select the pages from the dom and return a markdown list of them. Same chrome page, the actual url is within the properties-box class
+
+---
+
+🤖 **Assistant:**
 
 Sure! Here's an updated code snippet that will extract the list of pages from the DOM and return a Markdown list of the page URLs:
 
@@ -143,7 +175,15 @@ Finally, the code generates a Markdown list item with the URL as both the link t
 
 When you run this code in the DevTools console, it will log a Markdown list of the inspected page URLs to the console. You can copy and paste this output into a Markdown file or editor.
 
+---
+
+🙋 **You:**
+
 querySelectorAll for the pages-list id and properties-box class
+
+---
+
+🤖 **Assistant:**
 
 Sure! Here's the updated code that selects the inspected pages using the `#pages-list` ID and extracts the URL from the `.properties-box` class:
 
@@ -170,8 +210,16 @@ Finally, the code generates a Markdown list item with the URL as both the link t
 
 When you run this code in the DevTools console, it will log a Markdown list of the inspected page URLs to the console. You can copy and paste this output into a Markdown file or editor.
 
+---
+
+🙋 **You:**
+
 How do I get all the strings from this nodes? They are under innerHTML
 const urls = document.querySelectorAll('#pages-list .properties-box .subrow-box div.url')
+
+---
+
+🤖 **Assistant:**
 
 You can use the `innerText` property to get the text content of an element, which includes the text content of all of its descendants, but excludes any HTML markup. 
 
@@ -196,11 +244,18 @@ Finally, the code logs the array of text contents to the console.
 
 You can modify this code to format the text content into a Markdown list, as shown in the previous examples.
 
+---
+
+🙋 **You:**
+
 This one gave me what I wanted but it also took some others that were not under properties-box and yes under row. That is adding useless rows for doubleclick and other ads sites which I don't care. How would I fix it?
 
 const urls = Array.from(document.querySelectorAll('#pages-list .properties-box .subrow-box div.url')).map(url => url.innerText);
 console.log(urls);
 
+---
+
+🤖 **Assistant:**
 
 If you only want to extract the URLs that are within the `.properties-box` elements, you can modify the selector to exclude the `.row` elements:
 
@@ -213,8 +268,16 @@ This code uses the `:not()` pseudo-class to exclude elements with the `.row` cla
 
 With this updated code, only the URLs that are within `.properties-box` elements will be extracted and logged to the console.
 
+---
+
+🙋 **You:**
+
 I just want to keep the first direct row  to pages list that has the properties-box:
 pages-list > properties-box
+
+---
+
+🤖 **Assistant:**
 
 Sure! You can use the `>` child selector to select only the direct children of the `#pages-list` element that have the `.properties-box` class:
 
@@ -227,9 +290,17 @@ This code selects all `.subrow-box` elements that are children of `.properties-b
 
 With this updated code, only the URLs that are within the first direct child row of `#pages-list` that has a `.properties-box` element will be extracted and logged to the console.
 
+---
+
+🙋 **You:**
+
 So this is the good hierarchy, now give me the markdown list out of that array
 const urls = Array.from(document.querySelectorAll('#pages-list > .row > .properties-box .subrow-box:not(.row) div.url')).map(url => url.innerText);
 console.log(urls);
+
+---
+
+🤖 **Assistant:**
 
 Sure! Here's an example code snippet that generates a Markdown list out of the array of URLs:
 
@@ -252,7 +323,15 @@ Finally, the code logs the Markdown list to the console.
 
 You can copy and paste the output of this code into a Markdown file or editor.
 
+---
+
+🙋 **You:**
+
 Uglify and remove breaks since devtools is saying unexpected token
+
+---
+
+🤖 **Assistant:**
 
 Sure! Here's an updated version of the code that generates a Markdown list without line breaks:
 

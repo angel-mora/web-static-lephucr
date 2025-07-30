@@ -3,22 +3,23 @@ title: Learn Web Design Aesthetics
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Give me good resources to learn good taste web design.
+  I don’t want to learn how to use html/css/js. I want to learn color theory, UI/UX,
+  fonts curating, and more designer-like stuff."
 draft: false
 ---
 
 # Learn Web Design Aesthetics
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Give me good resources to learn good taste web design. I don’t want to learn how to use html/css/js. I want to learn color theory, UI/UX, fonts curating, and more designer-like stuff.
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Give me good resources to learn good taste web design. I don’t want to learn how to use html/css/js. I want to learn color theory, UI/UX, fonts curating, and more designer-like stuff.
+
+---
+
+🤖 **Assistant:**
 
 Sure, here are some great resources for learning more about web design principles and aesthetics:
 
@@ -40,8 +41,15 @@ Sure, here are some great resources for learning more about web design principle
 
 Remember, developing a good design sense takes time and practice. So, don't worry if it doesn't come naturally at first. Just keep learning and experimenting.
 
+---
+
+🙋 **You:**
 
 How about some websites?
+
+---
+
+🤖 **Assistant:**
 
 Certainly, here are some websites that are considered excellent resources for learning more about web design:
 

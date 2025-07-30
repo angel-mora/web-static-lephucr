@@ -3,24 +3,21 @@ title: Proteína en 4 huevos
 tags: []
 created: '2025-07-19'
 updated: '2025-07-19'
-summary:
+summary: "\U0001F64B **You:**  Cuanta proteína tienen 4 huevos?"
 draft: false
 ---
 
 # Proteína en 4 huevos
 
-## ✅ TODOs
-
-
-## 📌 Summary
-Cuanta proteína tienen 4 huevos?
-
 ## 🧠 Full Chat
 
+🙋 **You:**
 
 Cuanta proteína tienen 4 huevos?
 
+---
 
+🤖 **Assistant:**
 
 La cantidad de proteína en un huevo depende de su tamaño, pero en promedio:  
 
@@ -28,7 +25,15 @@ La cantidad de proteína en un huevo depende de su tamaño, pero en promedio:
 
 Por lo tanto, **4 huevos grandes** contienen alrededor de **25.2 g de proteína**.
 
+---
+
+🙋 **You:**
+
 180g de sardinas y 70g de atún? (Porciones ya drenadas)
+
+---
+
+🤖 **Assistant:**
 
 La cantidad de proteína en sardinas y atún puede variar según la marca y el tipo de conservación, pero en promedio:  
 
